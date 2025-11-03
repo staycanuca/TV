@@ -56871,5 +56871,85 @@
       18
     ],
     "cached_at": "2025-11-01T06:25:05.436865"
+  },
+  "90937": {
+    "id": 90937,
+    "name": "BEASTARS",
+    "original_name": "BEASTARS",
+    "first_air_date": "2019-10-10",
+    "vote_average": 8.434,
+    "poster_path": "/irNe8LzxboVWUZPnR3PgZjDZtSf.jpg",
+    "genre_ids": [
+      16,
+      18,
+      9648
+    ],
+    "cached_at": "2025-11-03T01:05:31.824476"
+  },
+  "301498": {
+    "id": 301498,
+    "name": "Mob War: Philadelphia vs. the Mafia",
+    "original_name": "Mob War: Philadelphia vs. the Mafia",
+    "first_air_date": "2025-10-22",
+    "vote_average": 6.5,
+    "poster_path": "/kBKVnDdY5oBapK24XMRZNMU1DGS.jpg",
+    "genre_ids": [
+      99,
+      80
+    ],
+    "cached_at": "2025-11-03T01:05:31.837574"
+  },
+  "286170": {
+    "id": 286170,
+    "name": "Wylde Pak",
+    "original_name": "Wylde Pak",
+    "first_air_date": "2025-06-06",
+    "vote_average": 9.0,
+    "poster_path": "/jnrR6NqTxyNHARpth1glmA37vAo.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10751
+    ],
+    "cached_at": "2025-11-03T01:05:31.849846"
+  },
+  "95102": {
+    "id": 95102,
+    "name": "满满喜欢你",
+    "original_name": "满满喜欢你",
+    "first_air_date": "2019-10-10",
+    "vote_average": 7.3,
+    "poster_path": "/1UTTv5kNpdqb2hLGZPZIIZxpQIR.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "cached_at": "2025-11-03T01:05:31.857388"
+  },
+  "272418": {
+    "id": 272418,
+    "name": "Robin Hood",
+    "original_name": "Robin Hood",
+    "first_air_date": "2025-11-02",
+    "vote_average": 0.0,
+    "poster_path": "/bb69I9np1EYqLHfRUkmoFKSdfTY.jpg",
+    "genre_ids": [
+      18,
+      10759
+    ],
+    "cached_at": "2025-11-03T01:05:31.885495"
+  },
+  "262920": {
+    "id": 262920,
+    "name": "Legenden - L'infiltrata",
+    "original_name": "Legenden",
+    "first_air_date": "2025-10-27",
+    "vote_average": 7.577,
+    "poster_path": "/A1LJCL0IGV8xGdJ7iSlPOFZj2sP.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "cached_at": "2025-11-03T01:05:31.895279"
   }
 }
