@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieASassuolovsGenoa">
-    <display-name>Italy - Serie A : Sassuolo vs Genoa</display-name>
-  </channel>
-  <programme start="20251103000000 +0200" stop="20251103193000 +0200" channel="ItalySerieASassuolovsGenoa">
-    <title lang="it">Inizia alle 19:30.</title>
-    <desc lang="it">Italy - Serie A : Sassuolo vs Genoa.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251103193000 +0200" stop="20251103213000 +0200" channel="ItalySerieASassuolovsGenoa">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Sassuolo vs Genoa</desc>
-    <category lang="it">Soccer</category>
-  </programme>
   <channel id="ItalySerieCAlcionevsProPatria">
     <display-name>Italy - Serie C : Alcione vs Pro Patria</display-name>
   </channel>
@@ -110,19 +97,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">England - Premier League : Sunderland vs Everton</desc>
     <category lang="it">Soccer</category>
-  </programme>
-  <channel id="ISUGrandPrixofFigureSkatingSkateCanadaInternational">
-    <display-name>ISU Grand Prix of Figure Skating Skate Canada International</display-name>
-  </channel>
-  <programme start="20251103000000 +0200" stop="20251103190000 +0200" channel="ISUGrandPrixofFigureSkatingSkateCanadaInternational">
-    <title lang="it">Inizia alle 19:00.</title>
-    <desc lang="it">ISU Grand Prix of Figure Skating Skate Canada International.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251103190000 +0200" stop="20251103210000 +0200" channel="ISUGrandPrixofFigureSkatingSkateCanadaInternational">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ISU Grand Prix of Figure Skating Skate Canada International</desc>
-    <category lang="it">Ice Skating</category>
   </programme>
   <channel id="GrandPrixCanadaIceDanceFreeRoutineMixed">
     <display-name>Grand Prix | Canada Ice Dance | Free Routine | Mixed</display-name>
