@@ -13,8 +13,6 @@ https://vavoo.to/vavoo-iptv/play/68845853044f9c95e43e
 https://vavoo.to/vavoo-iptv/play/190887752614ef25f5e1fd
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.omceo.bg.it/images/loghi/antenna-2.png" group-title="Altro",ANTENNA 2
 https://vavoo.to/vavoo-iptv/play/30140012609b4bf5e8d3b7
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",ANTENNA SICILIA
-https://vavoo.to/vavoo-iptv/play/3309975829c0cd274e96f4
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.antennasud.com/media/2022/08/cropped-LOGO_ANTENNA_SUD_ROSSO_FORATO.png" group-title="Altro",ANTENNA SUD
 https://vavoo.to/vavoo-iptv/play/4084059868fd82d62442e9
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.arte.tv/sites/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png" group-title="Documentari",ARTE NETWORK
@@ -299,6 +297,8 @@ https://vavoo.to/vavoo-iptv/play/2251241999722578d55332
 https://vavoo.to/vavoo-iptv/play/216554978929adb39fe170
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/rei-tv-it.png?raw=true" group-title="Altro",REI TV
 https://vavoo.to/vavoo-iptv/play/3075118500c67364486aa6
+#EXTINF:-1 tvg-id="rete.4.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rete4-it.png" group-title="Mediaset",RETE 4
+https://vavoo.to/vavoo-iptv/play/22357320045f329c720096
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkE5wuUMIVAtANMfpSL4T5bIO73owXBhpvEg&s" group-title="Altro",RETE ORO
 https://vavoo.to/vavoo-iptv/play/3351863213ae83540f4e1e
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",RETE SOLE
@@ -644,16 +644,16 @@ https://dlhd.dad/watch.php?id=462
 #EXTINF:-1 tvg-id="wtafinalsroundrobinathensatpampmetzatpearlyrounds" tvg-name="Tennis | WTA Finals Round Robin; Athens-ATP &amp; Metz-ATP Early Rounds (14:00)" tvg-logo="https://dazngroup.com/wp-content/uploads/2024/01/WTA_Novo.png" group-title="Eventi Live DLHD",Tennis | WTA Finals Round Robin; Athens-ATP &amp; Metz-ATP Early Rounds (14:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="internationalchampionshipround1session5" tvg-name="Snooker | International Championship | Round 1 | Session 5 (08:30)" tvg-logo="https://assets.quizlet.com/static/i/share/share-set.1f4740293bbc750.png" group-title="Eventi Live DLHD",Snooker | International Championship | Round 1 | Session 5 (08:30)
+#EXTINF:-1 tvg-id="internationalchampionshipround1session5" tvg-name="Snooker | International Championship | Round 1 | Session 5 (08:30)" tvg-logo="https://www.kcl.ac.uk/newimages/sspp/faculty-top-level/main/international-relations-image-780-440.x881f33e9.png?f=webp" group-title="Eventi Live DLHD",Snooker | International Championship | Round 1 | Session 5 (08:30)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="internationalchampionshipround1session6" tvg-name="Snooker | International Championship | Round 1 | Session 6 (13:30)" tvg-logo="https://assets.quizlet.com/static/i/share/share-set.1f4740293bbc750.png" group-title="Eventi Live DLHD",Snooker | International Championship | Round 1 | Session 6 (13:30)
+#EXTINF:-1 tvg-id="internationalchampionshipround1session6" tvg-name="Snooker | International Championship | Round 1 | Session 6 (13:30)" tvg-logo="https://www.kcl.ac.uk/newimages/sspp/faculty-top-level/main/international-relations-image-780-440.x881f33e9.png?f=webp" group-title="Eventi Live DLHD",Snooker | International Championship | Round 1 | Session 6 (13:30)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="isugrandprixoffigureskatingskatecanadainternational" tvg-name="Ice Skating | ISU Grand Prix of Figure Skating Skate Canada International (19:00)" tvg-logo="https://storage.allsportdb.com/flags/flag-ca.png" group-title="Eventi Live DLHD",Ice Skating | ISU Grand Prix of Figure Skating Skate Canada International (19:00)
+#EXTINF:-1 tvg-id="isugrandprixoffigureskatingskatecanadainternational" tvg-name="Ice Skating | ISU Grand Prix of Figure Skating Skate Canada International (19:00)" tvg-logo="https://guidesblitz.files.wordpress.com/2022/10/isu130.png" group-title="Eventi Live DLHD",Ice Skating | ISU Grand Prix of Figure Skating Skate Canada International (19:00)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="grandprixcanadaicedancefreeroutinemixed" tvg-name="Ice Skating | Grand Prix | Canada Ice Dance | Free Routine | Mixed (20:30)" tvg-logo="http://static1.squarespace.com/static/5bfc15a1ee1759eea4540678/t/66f49b8761ed436842482a56/1727306631498/GrandRnd_2024logo_86thsm.png?format=1500w" group-title="Eventi Live DLHD",Ice Skating | Grand Prix | Canada Ice Dance | Free Routine | Mixed (20:30)
+#EXTINF:-1 tvg-id="grandprixcanadaicedancefreeroutinemixed" tvg-name="Ice Skating | Grand Prix | Canada Ice Dance | Free Routine | Mixed (20:30)" tvg-logo="https://ct101.commons.gc.cuny.edu/wp-content/blogs.dir/13027/files/2021/05/tenor-1.gif" group-title="Eventi Live DLHD",Ice Skating | Grand Prix | Canada Ice Dance | Free Routine | Mixed (20:30)
 https://dlhd.dad/watch.php?id=879
 
 #EXTINF:-1 tvg-id="footballsassuolovsgenoaitalyseriea" tvg-name="Football | Football : Sassuolo vs Genoa - Italy Serie A (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sassuolo_vs_Genoa - Italy Serie A.png" group-title="Eventi Live DLHD",Football | Football : Sassuolo vs Genoa - Italy Serie A (19:30)

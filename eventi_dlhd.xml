@@ -137,19 +137,6 @@
     <desc lang="it">WTA Finals Round Robin; Athens-ATP &amp; Metz-ATP Early Rounds</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="InternationalChampionshipRound1Session5">
-    <display-name>International Championship | Round 1 | Session 5</display-name>
-  </channel>
-  <programme start="20251103000000 +0200" stop="20251103083000 +0200" channel="InternationalChampionshipRound1Session5">
-    <title lang="it">Inizia alle 08:30.</title>
-    <desc lang="it">International Championship | Round 1 | Session 5.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251103083000 +0200" stop="20251103103000 +0200" channel="InternationalChampionshipRound1Session5">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">International Championship | Round 1 | Session 5</desc>
-    <category lang="it">Snooker</category>
-  </programme>
   <channel id="InternationalChampionshipRound1Session6">
     <display-name>International Championship | Round 1 | Session 6</display-name>
   </channel>
