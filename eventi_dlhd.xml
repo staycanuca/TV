@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <channel id="FIFAU17WorldCupQatarU17vsItalyU17">
+    <display-name>FIFA U-17 World Cup : Qatar U17 vs Italy U17</display-name>
+  </channel>
+  <programme start="20251103000000 +0200" stop="20251103174500 +0200" channel="FIFAU17WorldCupQatarU17vsItalyU17">
+    <title lang="it">Inizia alle 17:45.</title>
+    <desc lang="it">FIFA U-17 World Cup : Qatar U17 vs Italy U17.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251103174500 +0200" stop="20251103194500 +0200" channel="FIFAU17WorldCupQatarU17vsItalyU17">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">FIFA U-17 World Cup : Qatar U17 vs Italy U17</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieASassuolovsGenoa">
+    <display-name>Italy - Serie A : Sassuolo vs Genoa</display-name>
+  </channel>
+  <programme start="20251103000000 +0200" stop="20251103193000 +0200" channel="ItalySerieASassuolovsGenoa">
+    <title lang="it">Inizia alle 19:30.</title>
+    <desc lang="it">Italy - Serie A : Sassuolo vs Genoa.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251103193000 +0200" stop="20251103213000 +0200" channel="ItalySerieASassuolovsGenoa">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie A : Sassuolo vs Genoa</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieCAlcionevsProPatria">
+    <display-name>Italy - Serie C : Alcione vs Pro Patria</display-name>
+  </channel>
+  <programme start="20251103000000 +0200" stop="20251103213000 +0200" channel="ItalySerieCAlcionevsProPatria">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Italy - Serie C : Alcione vs Pro Patria.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251103213000 +0200" stop="20251103233000 +0200" channel="ItalySerieCAlcionevsProPatria">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Alcione vs Pro Patria</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieCOspitalettovsDolomitiBellunesi">
+    <display-name>Italy - Serie C : Ospitaletto vs Dolomiti Bellunesi</display-name>
+  </channel>
+  <programme start="20251103000000 +0200" stop="20251103213000 +0200" channel="ItalySerieCOspitalettovsDolomitiBellunesi">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Italy - Serie C : Ospitaletto vs Dolomiti Bellunesi.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251103213000 +0200" stop="20251103233000 +0200" channel="ItalySerieCOspitalettovsDolomitiBellunesi">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Ospitaletto vs Dolomiti Bellunesi</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieCVisPesarovsJuventusII">
+    <display-name>Italy - Serie C : Vis Pesaro vs Juventus II</display-name>
+  </channel>
+  <programme start="20251103000000 +0200" stop="20251103213000 +0200" channel="ItalySerieCVisPesarovsJuventusII">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Italy - Serie C : Vis Pesaro vs Juventus II.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251103213000 +0200" stop="20251103233000 +0200" channel="ItalySerieCVisPesarovsJuventusII">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Vis Pesaro vs Juventus II</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20251103000000 +0200" stop="20251103213000 +0200" channel="ItalySerieCVisPesarovsJuventusII">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Italy - Serie C : Vis Pesaro vs Juventus II.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251103213000 +0200" stop="20251103233000 +0200" channel="ItalySerieCVisPesarovsJuventusII">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Vis Pesaro vs Juventus II</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieCAlbinoLeffevsInterII">
+    <display-name>Italy - Serie C : AlbinoLeffe vs Inter II</display-name>
+  </channel>
+  <programme start="20251103000000 +0200" stop="20251103213000 +0200" channel="ItalySerieCAlbinoLeffevsInterII">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Italy - Serie C : AlbinoLeffe vs Inter II.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251103213000 +0200" stop="20251103233000 +0200" channel="ItalySerieCAlbinoLeffevsInterII">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : AlbinoLeffe vs Inter II</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieALaziovsCagliari">
+    <display-name>Italy - Serie A : Lazio vs Cagliari</display-name>
+  </channel>
+  <programme start="20251103000000 +0200" stop="20251103214500 +0200" channel="ItalySerieALaziovsCagliari">
+    <title lang="it">Inizia alle 21:45.</title>
+    <desc lang="it">Italy - Serie A : Lazio vs Cagliari.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251103214500 +0200" stop="20251103234500 +0200" channel="ItalySerieALaziovsCagliari">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie A : Lazio vs Cagliari</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20251103000000 +0200" stop="20251103214500 +0200" channel="ItalySerieALaziovsCagliari">
+    <title lang="it">Inizia alle 21:45.</title>
+    <desc lang="it">Italy - Serie A : Lazio vs Cagliari.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251103214500 +0200" stop="20251103234500 +0200" channel="ItalySerieALaziovsCagliari">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie A : Lazio vs Cagliari</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="EnglandPremierLeagueSunderlandvsEverton">
+    <display-name>England - Premier League : Sunderland vs Everton</display-name>
+  </channel>
+  <programme start="20251103000000 +0200" stop="20251103220000 +0200" channel="EnglandPremierLeagueSunderlandvsEverton">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">England - Premier League : Sunderland vs Everton.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251103220000 +0200" stop="20251104000000 +0200" channel="EnglandPremierLeagueSunderlandvsEverton">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">England - Premier League : Sunderland vs Everton</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="WTAFinalsRoundRobinAthensATPampMetzATPEarlyRounds">
+    <display-name>WTA Finals Round Robin; Athens-ATP &amp; Metz-ATP Early Rounds</display-name>
+  </channel>
+  <programme start="20251103000000 +0200" stop="20251103140000 +0200" channel="WTAFinalsRoundRobinAthensATPampMetzATPEarlyRounds">
+    <title lang="it">Inizia alle 14:00.</title>
+    <desc lang="it">WTA Finals Round Robin; Athens-ATP &amp; Metz-ATP Early Rounds.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251103140000 +0200" stop="20251103160000 +0200" channel="WTAFinalsRoundRobinAthensATPampMetzATPEarlyRounds">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">WTA Finals Round Robin; Athens-ATP &amp; Metz-ATP Early Rounds</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <channel id="InternationalChampionshipRound1Session5">
+    <display-name>International Championship | Round 1 | Session 5</display-name>
+  </channel>
+  <programme start="20251103000000 +0200" stop="20251103083000 +0200" channel="InternationalChampionshipRound1Session5">
+    <title lang="it">Inizia alle 08:30.</title>
+    <desc lang="it">International Championship | Round 1 | Session 5.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251103083000 +0200" stop="20251103103000 +0200" channel="InternationalChampionshipRound1Session5">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">International Championship | Round 1 | Session 5</desc>
+    <category lang="it">Snooker</category>
+  </programme>
+  <channel id="InternationalChampionshipRound1Session6">
+    <display-name>International Championship | Round 1 | Session 6</display-name>
+  </channel>
+  <programme start="20251103000000 +0200" stop="20251103133000 +0200" channel="InternationalChampionshipRound1Session6">
+    <title lang="it">Inizia alle 13:30.</title>
+    <desc lang="it">International Championship | Round 1 | Session 6.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251103133000 +0200" stop="20251103153000 +0200" channel="InternationalChampionshipRound1Session6">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">International Championship | Round 1 | Session 6</desc>
+    <category lang="it">Snooker</category>
+  </programme>
+  <channel id="ISUGrandPrixofFigureSkatingSkateCanadaInternational">
+    <display-name>ISU Grand Prix of Figure Skating Skate Canada International</display-name>
+  </channel>
+  <programme start="20251103000000 +0200" stop="20251103190000 +0200" channel="ISUGrandPrixofFigureSkatingSkateCanadaInternational">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">ISU Grand Prix of Figure Skating Skate Canada International.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251103190000 +0200" stop="20251103210000 +0200" channel="ISUGrandPrixofFigureSkatingSkateCanadaInternational">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">ISU Grand Prix of Figure Skating Skate Canada International</desc>
+    <category lang="it">Ice Skating</category>
+  </programme>
+  <channel id="GrandPrixCanadaIceDanceFreeRoutineMixed">
+    <display-name>Grand Prix | Canada Ice Dance | Free Routine | Mixed</display-name>
+  </channel>
+  <programme start="20251103000000 +0200" stop="20251103203000 +0200" channel="GrandPrixCanadaIceDanceFreeRoutineMixed">
+    <title lang="it">Inizia alle 20:30.</title>
+    <desc lang="it">Grand Prix | Canada Ice Dance | Free Routine | Mixed.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251103203000 +0200" stop="20251103223000 +0200" channel="GrandPrixCanadaIceDanceFreeRoutineMixed">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Grand Prix | Canada Ice Dance | Free Routine | Mixed</desc>
+    <category lang="it">Ice Skating</category>
+  </programme>
+</tv>
