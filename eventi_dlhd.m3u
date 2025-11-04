@@ -2,9 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="europeuefayouthleagueliverpoolu19vsrealmadridu19" tvg-name="All Soccer Events | Europe - UEFA Youth League : Liverpool U19 vs Real Madrid U19 (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Liverpool U19_vs_Real Madrid U19.png" group-title="Eventi Live DLHD",All Soccer Events | Europe - UEFA Youth League : Liverpool U19 vs Real Madrid U19 (17:00)
-https://dlhd.dad/watch.php?id=870
-
 #EXTINF:-1 tvg-id="uefachampionsleagueslaviaprahavsarsenal" tvg-name="All Soccer Events | UEFA Champions League : Slavia Praha vs Arsenal (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Slavia Praha_vs_Arsenal.png" group-title="Eventi Live DLHD",All Soccer Events | UEFA Champions League : Slavia Praha vs Arsenal (19:45)
 https://dlhd.dad/watch.php?id=8
 
@@ -49,28 +46,4 @@ https://dlhd.dad/watch.php?id=882
 
 #EXTINF:-1 tvg-id="mensseriea1posillipovscanottierinapoli" tvg-name="Water polo | Men's Serie A1 : Posillipo vs Canottieri Napoli (19:10)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Posillipo_vs_Canottieri Napoli.png" group-title="Eventi Live DLHD",Water polo | Men's Serie A1 : Posillipo vs Canottieri Napoli (19:10)
 https://dlhd.dad/watch.php?id=882
-
-#EXTINF:-1 tvg-id="footballtottenhamhotspurvskøbenhavneuropeuefachampionsleague" tvg-name="Football | Football : Tottenham Hotspur vs København - Europe UEFA Champions League (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Tottenham Hotspur_vs_København - Europe UEFA Champions League.png" group-title="Eventi Live DLHD",Football | Football : Tottenham Hotspur vs København - Europe UEFA Champions League (22:00)
-https://dlhd.dad/watch.php?id=690a3c0296e360fbc2c34242%7C45
-
-#EXTINF:-1 tvg-id="footballnapolivseintrachtfrankfurteuropeuefachampionsleague" tvg-name="Football | Football : Napoli vs Eintracht Frankfurt - Europe UEFA Champions League (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Napoli_vs_Eintracht Frankfurt - Europe UEFA Champions League.png" group-title="Eventi Live DLHD",Football | Football : Napoli vs Eintracht Frankfurt - Europe UEFA Champions League (19:45)
-https://dlhd.dad/watch.php?id=690a3c0296e360fbc2c34243%7C47
-
-#EXTINF:-1 tvg-id="footballpsgvsbayernmuncheneuropeuefachampionsleague" tvg-name="Football | Football : PSG vs Bayern Munchen - Europe UEFA Champions League (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/PSG_vs_Bayern Munchen - Europe UEFA Champions League.png" group-title="Eventi Live DLHD",Football | Football : PSG vs Bayern Munchen - Europe UEFA Champions League (22:00)
-https://dlhd.dad/watch.php?id=690a3c0296e360fbc2c34244%7C44
-
-#EXTINF:-1 tvg-id="footballliverpoolvsrealmadrideuropeuefachampionsleague" tvg-name="Football | Football : Liverpool vs Real Madrid - Europe UEFA Champions League (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Liverpool_vs_Real Madrid - Europe UEFA Champions League.png" group-title="Eventi Live DLHD",Football | Football : Liverpool vs Real Madrid - Europe UEFA Champions League (22:00)
-https://dlhd.dad/watch.php?id=690a3c0296e360fbc2c34245%7C43
-
-#EXTINF:-1 tvg-id="footballjuventusvssportingcpeuropeuefachampionsleague" tvg-name="Football | Football : Juventus vs Sporting CP - Europe UEFA Champions League (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Juventus_vs_Sporting CP - Europe UEFA Champions League.png" group-title="Eventi Live DLHD",Football | Football : Juventus vs Sporting CP - Europe UEFA Champions League (22:00)
-https://dlhd.dad/watch.php?id=690a3c0296e360fbc2c34246%7C47
-
-#EXTINF:-1 tvg-id="footballatleticomadridvsunionsaintgilloiseeuropeuefachampionsleague" tvg-name="Football | Football : Atletico Madrid vs Union Saint-Gilloise - Europe UEFA Champions League (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Atletico Madrid_vs_Union Saint-Gilloise - Europe UEFA Champions League.png" group-title="Eventi Live DLHD",Football | Football : Atletico Madrid vs Union Saint-Gilloise - Europe UEFA Champions League (22:00)
-https://dlhd.dad/watch.php?id=690a3c0296e360fbc2c34247%7C46
-
-#EXTINF:-1 tvg-id="footballolympiakospiraeusvspsveuropeuefachampionsleague" tvg-name="Football | Football : Olympiakos Piraeus vs PSV - Europe UEFA Champions League (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Olympiakos Piraeus_vs_PSV - Europe UEFA Champions League.png" group-title="Eventi Live DLHD",Football | Football : Olympiakos Piraeus vs PSV - Europe UEFA Champions League (22:00)
-https://dlhd.dad/watch.php?id=690a3c0296e360fbc2c34248%7C49
-
-#EXTINF:-1 tvg-id="footballbodøglimtvsmonacoeuropeuefachampionsleague" tvg-name="Football | Football : Bodø / Glimt vs Monaco - Europe UEFA Champions League (22:00)" tvg-logo="https://glimt-i05.mycdn.no/mysimgprod/glimt_mystore_no/images/5AXVc_Glimt-pin_1.png/w799h800.png" group-title="Eventi Live DLHD",Football | Football : Bodø / Glimt vs Monaco - Europe UEFA Champions League (22:00)
-https://dlhd.dad/watch.php?id=690a3c0296e360fbc2c34249%7C48
 
