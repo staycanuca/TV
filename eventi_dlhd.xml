@@ -170,32 +170,6 @@
     <desc lang="it">UEFA Champions League : Juventus vs Sporting CP</desc>
     <category lang="it">All Soccer Events</category>
   </programme>
-  <channel id="WTAFinalsRoundRobinAthensATPampMetzATPEarlyRounds">
-    <display-name>WTA Finals Round Robin; Athens-ATP &amp; Metz-ATP Early Rounds</display-name>
-  </channel>
-  <programme start="20251104000000 +0200" stop="20251104140000 +0200" channel="WTAFinalsRoundRobinAthensATPampMetzATPEarlyRounds">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">WTA Finals Round Robin; Athens-ATP &amp; Metz-ATP Early Rounds.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251104140000 +0200" stop="20251104160000 +0200" channel="WTAFinalsRoundRobinAthensATPampMetzATPEarlyRounds">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA Finals Round Robin; Athens-ATP &amp; Metz-ATP Early Rounds</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <channel id="InternationalChampionshipRound2">
-    <display-name>International Championship | Round 2</display-name>
-  </channel>
-  <programme start="20251104000000 +0200" stop="20251104133000 +0200" channel="InternationalChampionshipRound2">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">International Championship | Round 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251104133000 +0200" stop="20251104153000 +0200" channel="InternationalChampionshipRound2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">International Championship | Round 2</desc>
-    <category lang="it">Snooker</category>
-  </programme>
   <channel id="EuroleagueWomenVeneziaWvsZaragozaW">
     <display-name>Euroleague Women : Venezia W vs Zaragoza W</display-name>
   </channel>
