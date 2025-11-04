@@ -1,51 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="UEFAChampionsLeagueSlaviaPrahavsArsenal">
-    <display-name>UEFA Champions League : Slavia Praha vs Arsenal</display-name>
-  </channel>
-  <programme start="20251104000000 +0200" stop="20251104194500 +0200" channel="UEFAChampionsLeagueSlaviaPrahavsArsenal">
-    <title lang="it">Inizia alle 19:45.</title>
-    <desc lang="it">UEFA Champions League : Slavia Praha vs Arsenal.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251104194500 +0200" stop="20251104214500 +0200" channel="UEFAChampionsLeagueSlaviaPrahavsArsenal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UEFA Champions League : Slavia Praha vs Arsenal</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20251104000000 +0200" stop="20251104194500 +0200" channel="UEFAChampionsLeagueSlaviaPrahavsArsenal">
-    <title lang="it">Inizia alle 19:45.</title>
-    <desc lang="it">UEFA Champions League : Slavia Praha vs Arsenal.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251104194500 +0200" stop="20251104214500 +0200" channel="UEFAChampionsLeagueSlaviaPrahavsArsenal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UEFA Champions League : Slavia Praha vs Arsenal</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="UEFAChampionsLeagueNapolivsEintrachtFrankfurt">
-    <display-name>UEFA Champions League : Napoli vs Eintracht Frankfurt</display-name>
-  </channel>
-  <programme start="20251104000000 +0200" stop="20251104194500 +0200" channel="UEFAChampionsLeagueNapolivsEintrachtFrankfurt">
-    <title lang="it">Inizia alle 19:45.</title>
-    <desc lang="it">UEFA Champions League : Napoli vs Eintracht Frankfurt.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251104194500 +0200" stop="20251104214500 +0200" channel="UEFAChampionsLeagueNapolivsEintrachtFrankfurt">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UEFA Champions League : Napoli vs Eintracht Frankfurt</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20251104000000 +0200" stop="20251104194500 +0200" channel="UEFAChampionsLeagueNapolivsEintrachtFrankfurt">
-    <title lang="it">Inizia alle 19:45.</title>
-    <desc lang="it">UEFA Champions League : Napoli vs Eintracht Frankfurt.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251104194500 +0200" stop="20251104214500 +0200" channel="UEFAChampionsLeagueNapolivsEintrachtFrankfurt">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UEFA Champions League : Napoli vs Eintracht Frankfurt</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="UEFAChampionsLeagueOlympiakosPiraeusvsPSV">
     <display-name>UEFA Champions League : Olympiakos Piraeus vs PSV</display-name>
   </channel>
@@ -169,18 +123,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Euroleague Women : Venezia W vs Zaragoza W</desc>
     <category lang="it">Basketball</category>
-  </programme>
-  <channel id="MensSerieA1PosillipovsCanottieriNapoli">
-    <display-name>Men's Serie A1 : Posillipo vs Canottieri Napoli</display-name>
-  </channel>
-  <programme start="20251104000000 +0200" stop="20251104191000 +0200" channel="MensSerieA1PosillipovsCanottieriNapoli">
-    <title lang="it">Inizia alle 19:10.</title>
-    <desc lang="it">Men's Serie A1 : Posillipo vs Canottieri Napoli.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251104191000 +0200" stop="20251104211000 +0200" channel="MensSerieA1PosillipovsCanottieriNapoli">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Men's Serie A1 : Posillipo vs Canottieri Napoli</desc>
-    <category lang="it">Water polo</category>
   </programme>
 </tv>
