@@ -27,8 +27,6 @@ https://vavoo.to/vavoo-iptv/play/1506307932300e27c2fd43
 https://vavoo.to/vavoo-iptv/play/226572794257a18add58e4
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Logo_Ufficiale_Radio_Bellla_%26_Monella.png" group-title="Altro",BELLLA & MONELLA TV
 https://vavoo.to/vavoo-iptv/play/1611446752ef81feae9ae
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="Altro",BLOOMBERG TV
-https://vavoo.to/vavoo-iptv/play/116299718d713a2de061f
 #EXTINF:-1 tvg-id="boing.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/boing-it.png" group-title="Bambini",BOING
 https://vavoo.to/vavoo-iptv/play/3022771961a341b55db1c5
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaMdUB8WEdsRVi_WZLxoi79pqlRef4s9Zehg&s" group-title="Altro",BYOBLU
@@ -211,9 +209,7 @@ https://vavoo.to/vavoo-iptv/play/1087345241c8751e395263
 https://vavoo.to/vavoo-iptv/play/312451299385241b4e7078
 #EXTINF:-1 tvg-id="premiumcrime.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/premium-crime-it.png" group-title="Film - Serie TV",PREMIUM CRIME
 https://vavoo.to/vavoo-iptv/play/444768053e397c96fc6df
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Prima_TV_Logo_2022.svg/800px-Prima_TV_Logo_2022.svg.png" group-title="Altro",PRIMA TV (1)
-https://vavoo.to/vavoo-iptv/play/530658045774685c88ed8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Prima_TV_Logo_2022.svg/800px-Prima_TV_Logo_2022.svg.png" group-title="Altro",PRIMA TV (2)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Prima_TV_Logo_2022.svg/800px-Prima_TV_Logo_2022.svg.png" group-title="Altro",PRIMA TV
 https://vavoo.to/vavoo-iptv/play/91764224e4ebfa90eace
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/primocanale-it.png?raw=true" group-title="Altro",PRIMO CANALE
 https://vavoo.to/vavoo-iptv/play/3497884599a7fdd17618d9
@@ -421,6 +417,8 @@ https://dlhd.dad/watch.php?id=872
 https://dlhd.dad/watch.php?id=873
 #EXTINF:-1 tvg-id="sky.sport..254.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/2560px-Sky_Sport_-_Logo_2020.svg.png" group-title="Sport",SKY SPORT 254 (D)
 https://dlhd.dad/watch.php?id=874
+#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
+https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (D)
 https://dlhd.dad/watch.php?id=462
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",SKY SPORT BASKET (D)
@@ -655,17 +653,14 @@ https://dlhd.dad/watch.php?id=30
 #EXTINF:-1 tvg-id="uefachampionsleaguejuventusvssportingcp" tvg-name="All Soccer Events | UEFA Champions League : Juventus vs Sporting CP (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Juventus_vs_Sporting CP.png" group-title="Eventi Live DLHD",All Soccer Events | UEFA Champions League : Juventus vs Sporting CP (22:00)
 https://dlhd.dad/watch.php?id=461
 
-#EXTINF:-1 tvg-id="wtafinalsroundrobinathensatpampmetzatpearlyrounds" tvg-name="Tennis | WTA Finals Round Robin; Athens-ATP &amp; Metz-ATP Early Rounds (14:00)" tvg-logo="http://assets.stickpng.com/images/6266992c2c88722059d58710.png" group-title="Eventi Live DLHD",Tennis | WTA Finals Round Robin; Athens-ATP &amp; Metz-ATP Early Rounds (14:00)
+#EXTINF:-1 tvg-id="wtafinalsroundrobinathensatpampmetzatpearlyrounds" tvg-name="Tennis | WTA Finals Round Robin; Athens-ATP &amp; Metz-ATP Early Rounds (14:00)" tvg-logo="https://assets.stickpng.com/images/6266992c2c88722059d58710.png" group-title="Eventi Live DLHD",Tennis | WTA Finals Round Robin; Athens-ATP &amp; Metz-ATP Early Rounds (14:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="internationalchampionshipround2" tvg-name="Snooker | International Championship | Round 2 (08:30)" tvg-logo="https://www.kcl.ac.uk/newimages/sspp/faculty-top-level/main/international-relations-image-780-440.x881f33e9.png?f=webp" group-title="Eventi Live DLHD",Snooker | International Championship | Round 2 (08:30)
+#EXTINF:-1 tvg-id="internationalchampionshipround2" tvg-name="Snooker | International Championship | Round 2 (08:30)" tvg-logo="https://cdn.pixabay.com/photo/2016/10/18/20/18/international-1751293_960_720.png" group-title="Eventi Live DLHD",Snooker | International Championship | Round 2 (08:30)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="internationalchampionshipround2" tvg-name="Snooker | International Championship | Round 2 (13:30)" tvg-logo="https://www.kcl.ac.uk/newimages/sspp/faculty-top-level/main/international-relations-image-780-440.x881f33e9.png?f=webp" group-title="Eventi Live DLHD",Snooker | International Championship | Round 2 (13:30)
+#EXTINF:-1 tvg-id="internationalchampionshipround2" tvg-name="Snooker | International Championship | Round 2 (13:30)" tvg-logo="https://cdn.pixabay.com/photo/2016/10/18/20/18/international-1751293_960_720.png" group-title="Eventi Live DLHD",Snooker | International Championship | Round 2 (13:30)
 https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="romehalfmarathon105min" tvg-name="Athletics | Rome Half Marathon | 105 min (05:00)" tvg-logo="https://fthmb.tqn.com/zrONHS-4SIm0ySkio8PsrtKkl-E=/5710x3799/filters:fill(auto,1)/the-roman-coliseum-during-a-warm-spring-sunset-542105331-58f15ac63df78cd3fc763275.jpg" group-title="Eventi Live DLHD",Athletics | Rome Half Marathon | 105 min (05:00)
-https://dlhd.dad/watch.php?id=460
 
 #EXTINF:-1 tvg-id="euroleaguewomenveneziawvszaragozaw" tvg-name="Basketball | Euroleague Women : Venezia W vs Zaragoza W (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Venezia W_vs_Zaragoza W.png" group-title="Eventi Live DLHD",Basketball | Euroleague Women : Venezia W vs Zaragoza W (20:30)
 https://dlhd.dad/watch.php?id=882
