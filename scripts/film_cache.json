@@ -129456,5 +129456,456 @@
       35
     ],
     "cached_at": "2025-11-03T06:23:10.526051"
+  },
+  "517909": {
+    "id": 517909,
+    "title": "Panama Papers",
+    "release_date": "2019-09-27",
+    "vote_average": 6.004,
+    "poster_path": "/6f3rr6dAKL7cmUS2fpCfN7Om6qr.jpg",
+    "genre_ids": [
+      80,
+      18,
+      35
+    ],
+    "cached_at": "2025-11-04T06:22:45.914592"
+  },
+  "419706": {
+    "id": 419706,
+    "title": "Mary",
+    "release_date": "2019-09-19",
+    "vote_average": 4.984,
+    "poster_path": "/cdcyHzqqBrzPGJFVH29ONnzsV6I.jpg",
+    "genre_ids": [
+      27,
+      9648
+    ],
+    "cached_at": "2025-11-04T06:22:46.150336"
+  },
+  "624932": {
+    "id": 624932,
+    "title": "Dave Chappelle: Sticks & Stones",
+    "release_date": "2019-08-26",
+    "vote_average": 7.627,
+    "poster_path": "/hsyPTPoFDhUw5aGcj7dxAx3i1Qp.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-11-04T06:22:46.792983"
+  },
+  "623627": {
+    "id": 623627,
+    "title": "Diciassette",
+    "release_date": "2019-09-21",
+    "vote_average": 7.317,
+    "poster_path": "/lxtK0OemfcOH6DfusR5ZT4C7Afd.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "cached_at": "2025-11-04T06:22:46.851159"
+  },
+  "95959": {
+    "id": 95959,
+    "title": "Le toccabili",
+    "release_date": "1968-11-16",
+    "vote_average": 3.0,
+    "poster_path": "/jcVXp3OqMFfAqhChxlRpwnwjrJh.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "cached_at": "2025-11-04T06:22:47.157958"
+  },
+  "92647": {
+    "id": 92647,
+    "title": "Snabba cash II",
+    "release_date": "2012-08-16",
+    "vote_average": 6.288,
+    "poster_path": "/qaSbwnvZrtGng1w3kIZZfhH62UZ.jpg",
+    "genre_ids": [
+      80,
+      18,
+      28
+    ],
+    "cached_at": "2025-11-04T06:22:47.283865"
+  },
+  "791906": {
+    "id": 791906,
+    "title": "Entity Project",
+    "release_date": "2019-08-25",
+    "vote_average": 3.0,
+    "poster_path": "/9bVSavoojrIoLayVZ4VescGXDht.jpg",
+    "genre_ids": [
+      27
+    ],
+    "cached_at": "2025-11-04T06:22:47.564297"
+  },
+  "486832": {
+    "id": 486832,
+    "title": "La prova del serpente",
+    "release_date": "2019-08-02",
+    "vote_average": 4.965,
+    "poster_path": "/muWpv9l2SKqiyQzDayRir3a9B2D.jpg",
+    "genre_ids": [
+      53
+    ],
+    "cached_at": "2025-11-04T06:22:48.005252"
+  },
+  "673595": {
+    "id": 673595,
+    "title": "Maggie Simpson in \"Playdate with Destiny\"",
+    "release_date": "2020-02-29",
+    "vote_average": 7.382,
+    "poster_path": "/k6fgOq7wPKujibXGWYlcIBgkcwQ.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10751,
+      10749
+    ],
+    "cached_at": "2025-11-04T06:22:48.076056"
+  },
+  "592798": {
+    "id": 592798,
+    "title": "Perdrix",
+    "release_date": "2019-08-14",
+    "vote_average": 5.964,
+    "poster_path": "/hcjJmAITjMjNxZWfXfgAOWrYIwM.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2025-11-04T06:22:49.338746"
+  },
+  "446159": {
+    "id": 446159,
+    "title": "Bacurau",
+    "release_date": "2019-08-29",
+    "vote_average": 7.67,
+    "poster_path": "/4m0eiEUGPG5s3r2Vir3EQXn1iOX.jpg",
+    "genre_ids": [
+      9648,
+      37,
+      53
+    ],
+    "cached_at": "2025-11-04T06:22:49.506662"
+  },
+  "285770": {
+    "id": 285770,
+    "title": "Amor ti vieta",
+    "release_date": "1910-01-02",
+    "vote_average": 0.0,
+    "poster_path": null,
+    "genre_ids": [
+      10402
+    ],
+    "cached_at": "2025-11-04T06:22:50.051550"
+  },
+  "653735": {
+    "id": 653735,
+    "title": "Mucho mucho amor: la leggenda di Walter Mercado",
+    "release_date": "2020-01-24",
+    "vote_average": 7.3,
+    "poster_path": "/lKwNuRdEWqZ94VXMbXjZHAANbvO.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-11-04T06:22:50.621280"
+  },
+  "743785": {
+    "id": 743785,
+    "title": "Your Turn",
+    "release_date": "2019-05-24",
+    "vote_average": 0.0,
+    "poster_path": "/tW2BfQuWwkghjut4OINn3jK7qT1.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-11-04T06:22:51.506959"
+  },
+  "261902": {
+    "id": 261902,
+    "title": "Bomben auf Monte Carlo",
+    "release_date": "1960-03-11",
+    "vote_average": 5.5,
+    "poster_path": "/t1r6FN5yrQy4a3gyNg5xvSIPMAb.jpg",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "cached_at": "2025-11-04T06:22:52.435931"
+  },
+  "565716": {
+    "id": 565716,
+    "title": "Made in USA - Una fabbrica in Ohio",
+    "release_date": "2019-08-21",
+    "vote_average": 7.181,
+    "poster_path": "/wz8PcZQPSSrGrXVUtn9CdU9Sw7w.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-11-04T06:22:53.010030"
+  },
+  "614205": {
+    "id": 614205,
+    "title": "Dark Light",
+    "release_date": "2019-08-25",
+    "vote_average": 6.1,
+    "poster_path": "/468foMrROMKsaF8HWmQaZ5nhDrR.jpg",
+    "genre_ids": [
+      27,
+      878,
+      53
+    ],
+    "cached_at": "2025-11-04T06:22:53.437255"
+  },
+  "584962": {
+    "id": 584962,
+    "title": "Between Two Ferns: Il film",
+    "release_date": "2019-09-20",
+    "vote_average": 5.935,
+    "poster_path": "/cHxc8v1GkzdjjhF2qnpG6wdXrOT.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-11-04T06:22:53.731064"
+  },
+  "597102": {
+    "id": 597102,
+    "title": "굿바이 썸머",
+    "release_date": "2019-07-25",
+    "vote_average": 6.636,
+    "poster_path": "/e9dYgtFHHgoCGk0ffhpmvijVf8b.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "cached_at": "2025-11-04T06:22:53.775663"
+  },
+  "545556": {
+    "id": 545556,
+    "title": "Evelyn",
+    "release_date": "2019-09-10",
+    "vote_average": 7.3,
+    "poster_path": "/b6DOsIQZQqXjpvdufdEztBTrP4f.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-11-04T06:22:53.780859"
+  },
+  "400090": {
+    "id": 400090,
+    "title": "The Nightingale",
+    "release_date": "2018-09-23",
+    "vote_average": 7.054,
+    "poster_path": "/xhXPk5IXehXAXnK5YhhfUSyued7.jpg",
+    "genre_ids": [
+      18,
+      53,
+      37
+    ],
+    "cached_at": "2025-11-04T06:22:54.473201"
+  },
+  "622963": {
+    "id": 622963,
+    "title": "American Son",
+    "release_date": "2019-09-12",
+    "vote_average": 6.134,
+    "poster_path": "/lEIlxhIyFsia7yCqbfD4UH8iIkN.jpg",
+    "genre_ids": [
+      18,
+      10770
+    ],
+    "cached_at": "2025-11-04T06:22:54.498940"
+  },
+  "93581": {
+    "id": 93581,
+    "title": "Housewives of Amber Lane 2",
+    "release_date": "2008-12-25",
+    "vote_average": 0.0,
+    "poster_path": "/nV7f5DqO1p0xN3sKSjuR63BtQ4a.jpg",
+    "genre_ids": [],
+    "cached_at": "2025-11-04T06:22:54.719900"
+  },
+  "624989": {
+    "id": 624989,
+    "title": "Sturgill Simpson presenta Sound & Fury",
+    "release_date": "2019-09-27",
+    "vote_average": 6.1,
+    "poster_path": "/a3EwM8LiN8w3dGXEqrMgOBXjRip.jpg",
+    "genre_ids": [
+      16,
+      10402
+    ],
+    "cached_at": "2025-11-04T06:22:54.928986"
+  },
+  "623973": {
+    "id": 623973,
+    "title": "Super Monsters Back to School",
+    "release_date": "2019-08-16",
+    "vote_average": 5.0,
+    "poster_path": "/hS65C4CdcIYBgO5rhWs564PByol.jpg",
+    "genre_ids": [
+      16
+    ],
+    "cached_at": "2025-11-04T06:22:55.473931"
+  },
+  "449684": {
+    "id": 449684,
+    "title": "Girls with Balls",
+    "release_date": "2019-07-26",
+    "vote_average": 4.2,
+    "poster_path": "/cxusiFpBgcbDCc9Y84PeKO0dM8l.jpg",
+    "genre_ids": [
+      27,
+      35
+    ],
+    "cached_at": "2025-11-04T06:22:55.580724"
+  },
+  "634754": {
+    "id": 634754,
+    "title": "Inferno a Paradise",
+    "release_date": "2019-09-01",
+    "vote_average": 6.8,
+    "poster_path": "/eD5CL8cZvOK0IDzscRNBVVKRjtK.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-11-04T06:22:56.075906"
+  },
+  "90755": {
+    "id": 90755,
+    "title": "Breaking the Code",
+    "release_date": "1996-09-17",
+    "vote_average": 5.125,
+    "poster_path": "/qOmQ19Kzw4U3rmqW9lBmfdAMFqe.jpg",
+    "genre_ids": [
+      36,
+      18,
+      10770
+    ],
+    "cached_at": "2025-11-04T06:22:56.151634"
+  },
+  "465003": {
+    "id": 465003,
+    "title": "Red Sea Diving",
+    "release_date": "2019-07-28",
+    "vote_average": 6.826,
+    "poster_path": "/3yNows86dKpgBMMcg5gI5eanTZF.jpg",
+    "genre_ids": [
+      18,
+      53,
+      36
+    ],
+    "cached_at": "2025-11-04T06:22:56.568952"
+  },
+  "1497036": {
+    "id": 1497036,
+    "title": "Dr. Seuss's The Sneetches",
+    "release_date": "2025-11-03",
+    "vote_average": 5.0,
+    "poster_path": "/5jqpfOY6q8ltnCFEfUPY3c0bpR5.jpg",
+    "genre_ids": [
+      16,
+      10751
+    ],
+    "cached_at": "2025-11-04T06:22:56.721415"
+  },
+  "528888": {
+    "id": 528888,
+    "title": "Dolemite Is My Name",
+    "release_date": "2019-10-04",
+    "vote_average": 7.0,
+    "poster_path": "/lIffBhUbhLTtAtTdb5oHHzRy3Da.jpg",
+    "genre_ids": [
+      18,
+      35,
+      36
+    ],
+    "cached_at": "2025-11-04T06:22:57.069052"
+  },
+  "90955": {
+    "id": 90955,
+    "title": "Il drago volante",
+    "release_date": "1949-04-27",
+    "vote_average": 7.7,
+    "poster_path": "/9q4e9uiCzCyiSkPFNARv9eNSV3Y.jpg",
+    "genre_ids": [
+      12,
+      35,
+      80
+    ],
+    "cached_at": "2025-11-04T06:22:57.648413"
+  },
+  "531509": {
+    "id": 531509,
+    "title": "La vita dopo i figli",
+    "release_date": "2019-08-13",
+    "vote_average": 6.164,
+    "poster_path": "/nHXvT7lhDllICPKOsObDPWGyvht.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-11-04T06:22:57.836967"
+  },
+  "543768": {
+    "id": 543768,
+    "title": "Gwen",
+    "release_date": "2018-07-12",
+    "vote_average": 5.4,
+    "poster_path": "/3VeWyKSyWjZ3fMh2VX1UX2dviQw.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      27,
+      36
+    ],
+    "cached_at": "2025-11-04T06:22:58.078241"
+  },
+  "623618": {
+    "id": 623618,
+    "title": "โปรเม อัจฉริยะ/ต้อง/สร้าง",
+    "release_date": "2019-08-15",
+    "vote_average": 4.9,
+    "poster_path": "/ib34FBDdtp24fEftphT8y7TGarT.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-11-04T06:22:58.148896"
+  },
+  "559957": {
+    "id": 559957,
+    "title": "Shanghai Fortress",
+    "release_date": "2019-08-09",
+    "vote_average": 5.542,
+    "poster_path": "/cODqUZ3XzDz4lkhxw0OnaUSfz8R.jpg",
+    "genre_ids": [
+      878,
+      10752
+    ],
+    "cached_at": "2025-11-04T06:22:58.275691"
+  },
+  "823211": {
+    "id": 823211,
+    "title": "DataLand",
+    "release_date": "2019-07-26",
+    "vote_average": 7.0,
+    "poster_path": "/r8DlVk0t0FI9SPc2jI3hr0nYmJj.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-11-04T06:22:58.498373"
+  },
+  "527776": {
+    "id": 527776,
+    "title": "Correre per ricominciare",
+    "release_date": "2019-08-22",
+    "vote_average": 7.7,
+    "poster_path": "/xCQEARJeKB67JYohLyLGMk86rfa.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-11-04T06:22:58.926158"
   }
 }
