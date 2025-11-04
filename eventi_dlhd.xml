@@ -206,19 +206,6 @@
     <desc lang="it">International Championship | Round 2</desc>
     <category lang="it">Snooker</category>
   </programme>
-  <channel id="RomeHalfMarathon105min">
-    <display-name>Rome Half Marathon | 105 min</display-name>
-  </channel>
-  <programme start="20251104000000 +0200" stop="20251104050000 +0200" channel="RomeHalfMarathon105min">
-    <title lang="it">Inizia alle 05:00.</title>
-    <desc lang="it">Rome Half Marathon | 105 min.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251104050000 +0200" stop="20251104070000 +0200" channel="RomeHalfMarathon105min">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Rome Half Marathon | 105 min</desc>
-    <category lang="it">Athletics</category>
-  </programme>
   <channel id="EuroleagueWomenVeneziaWvsZaragozaW">
     <display-name>Euroleague Women : Venezia W vs Zaragoza W</display-name>
   </channel>
