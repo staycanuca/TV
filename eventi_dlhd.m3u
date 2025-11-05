@@ -2,10 +2,10 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="uefachampionsleagueqarabavschelsea" tvg-name="All Soccer Events | UEFA Champions League : Qarabağ vs Chelsea (19:45)" tvg-logo="https://logos-world.net/wp-content/uploads/2020/05/Chelsea-Logo.png" group-title="Eventi Live DLHD",All Soccer Events | UEFA Champions League : Qarabağ vs Chelsea (19:45)
+#EXTINF:-1 tvg-id="uefachampionsleagueqarabavschelsea" tvg-name="All Soccer Events | UEFA Champions League : Qarabağ vs Chelsea (19:45)" tvg-logo="https://logolook.net/wp-content/uploads/2021/11/Chelsea-Logo-history.png" group-title="Eventi Live DLHD",All Soccer Events | UEFA Champions League : Qarabağ vs Chelsea (19:45)
 https://dlhd.dad/watch.php?id=7
 
-#EXTINF:-1 tvg-id="uefachampionsleagueqarabavschelsea" tvg-name="All Soccer Events | UEFA Champions League : Qarabağ vs Chelsea (19:45)" tvg-logo="https://logos-world.net/wp-content/uploads/2020/05/Chelsea-Logo.png" group-title="Eventi Live DLHD",All Soccer Events | UEFA Champions League : Qarabağ vs Chelsea (19:45)
+#EXTINF:-1 tvg-id="uefachampionsleagueqarabavschelsea" tvg-name="All Soccer Events | UEFA Champions League : Qarabağ vs Chelsea (19:45)" tvg-logo="https://logolook.net/wp-content/uploads/2021/11/Chelsea-Logo-history.png" group-title="Eventi Live DLHD",All Soccer Events | UEFA Champions League : Qarabağ vs Chelsea (19:45)
 https://dlhd.dad/watch.php?id=870
 
 #EXTINF:-1 tvg-id="uefachampionsleaguepaphosvsvillarreal" tvg-name="All Soccer Events | UEFA Champions League : Paphos vs Villarreal (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Paphos_vs_Villarreal.png" group-title="Eventi Live DLHD",All Soccer Events | UEFA Champions League : Paphos vs Villarreal (19:45)
@@ -44,10 +44,10 @@ https://dlhd.dad/watch.php?id=462
 #EXTINF:-1 tvg-id="wtatourfinalsriyadh" tvg-name="Tennis | WTA Tour Finals Riyadh (14:00)" tvg-logo="https://static.flashscore.com/res/image/data/OlRjh4kD-EVoZMSig.png" group-title="Eventi Live DLHD",Tennis | WTA Tour Finals Riyadh (14:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="internationalchampionshipround3" tvg-name="Snooker | International Championship | Round 3 (08:30)" tvg-logo="https://www.kcl.ac.uk/newimages/sspp/faculty-top-level/main/international-relations-image-780-440.x881f33e9.png?f=webp" group-title="Eventi Live DLHD",Snooker | International Championship | Round 3 (08:30)
+#EXTINF:-1 tvg-id="internationalchampionshipround3" tvg-name="Snooker | International Championship | Round 3 (08:30)" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/0/04/International_UFO_Museum_and_Research_Center_Roswell_New_Mexico.jpg" group-title="Eventi Live DLHD",Snooker | International Championship | Round 3 (08:30)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="internationalchampionshipround3" tvg-name="Snooker | International Championship | Round 3 (13:30)" tvg-logo="https://www.kcl.ac.uk/newimages/sspp/faculty-top-level/main/international-relations-image-780-440.x881f33e9.png?f=webp" group-title="Eventi Live DLHD",Snooker | International Championship | Round 3 (13:30)
+#EXTINF:-1 tvg-id="internationalchampionshipround3" tvg-name="Snooker | International Championship | Round 3 (13:30)" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/0/04/International_UFO_Museum_and_Research_Center_Roswell_New_Mexico.jpg" group-title="Eventi Live DLHD",Snooker | International Championship | Round 3 (13:30)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="eurocupveneziavshamburg" tvg-name="Basketball | Eurocup : Venezia vs Hamburg (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Venezia_vs_Hamburg.png" group-title="Eventi Live DLHD",Basketball | Eurocup : Venezia vs Hamburg (21:00)
