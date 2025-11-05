@@ -153,6 +153,8 @@ https://dlhd.dad/watch.php?id=854
 https://vavoo.to/vavoo-iptv/play/1565298794daace40d1b60
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3 (2)
 https://vavoo.to/vavoo-iptv/play/1200985239ceccd12c8a54
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.upmagazinearezzo.it/atladv/wp-content/uploads/2017/07/atlantide-adv-logo-italian-fishing-tv.jpg" group-title="Altro",ITALIAN FISHING TV
+https://vavoo.to/vavoo-iptv/play/477083716dc642d622f68
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Iunior_tv.png" group-title="Altro",IUNIOR TV
 https://vavoo.to/vavoo-iptv/play/803540254d5a6317673b3
 #EXTINF:-1 tvg-id="k2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini",K2
@@ -645,12 +647,6 @@ https://dlhd.dad/watch.php?id=7
 
 #EXTINF:-1 tvg-id="uefachampionsleaguemanchestercityvsborussiadortmund" tvg-name="All Soccer Events | UEFA Champions League : Manchester City vs Borussia Dortmund (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Manchester City_vs_Borussia Dortmund.png" group-title="Eventi Live DLHD",All Soccer Events | UEFA Champions League : Manchester City vs Borussia Dortmund (22:00)
 https://dlhd.dad/watch.php?id=462
-
-#EXTINF:-1 tvg-id="wtatourfinalsriyadh" tvg-name="Tennis | WTA Tour Finals Riyadh (14:00)" tvg-logo="https://static.flashscore.com/res/image/data/OlRjh4kD-EVoZMSig.png" group-title="Eventi Live DLHD",Tennis | WTA Tour Finals Riyadh (14:00)
-https://dlhd.dad/watch.php?id=576
-
-#EXTINF:-1 tvg-id="internationalchampionshipround3" tvg-name="Snooker | International Championship | Round 3 (13:30)" tvg-logo="https://www.kcl.ac.uk/newimages/sspp/faculty-top-level/main/international-relations-image-780-440.x881f33e9.png?f=webp" group-title="Eventi Live DLHD",Snooker | International Championship | Round 3 (13:30)
-https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="eurocupveneziavshamburg" tvg-name="Basketball | Eurocup : Venezia vs Hamburg (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Venezia_vs_Hamburg.png" group-title="Eventi Live DLHD",Basketball | Eurocup : Venezia vs Hamburg (21:00)
 https://dlhd.dad/watch.php?id=181
