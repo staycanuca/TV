@@ -1,77 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="UEFAEuropaLeagueUtrechtvsPorto">
-    <display-name>UEFA Europa League : Utrecht vs Porto</display-name>
-  </channel>
-  <programme start="20251106000000 +0200" stop="20251106194500 +0200" channel="UEFAEuropaLeagueUtrechtvsPorto">
-    <title lang="it">Inizia alle 19:45.</title>
-    <desc lang="it">UEFA Europa League : Utrecht vs Porto.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251106194500 +0200" stop="20251106214500 +0200" channel="UEFAEuropaLeagueUtrechtvsPorto">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UEFA Europa League : Utrecht vs Porto</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <channel id="UEFAEuropaLeagueNicevsFreiburg">
-    <display-name>UEFA Europa League : Nice vs Freiburg</display-name>
-  </channel>
-  <programme start="20251106000000 +0200" stop="20251106194500 +0200" channel="UEFAEuropaLeagueNicevsFreiburg">
-    <title lang="it">Inizia alle 19:45.</title>
-    <desc lang="it">UEFA Europa League : Nice vs Freiburg.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251106194500 +0200" stop="20251106214500 +0200" channel="UEFAEuropaLeagueNicevsFreiburg">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UEFA Europa League : Nice vs Freiburg</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <channel id="UEFAEuropaLeagueSturmGrazvsNottinghamForest">
-    <display-name>UEFA Europa League : Sturm Graz vs Nottingham Forest</display-name>
-  </channel>
-  <programme start="20251106000000 +0200" stop="20251106194500 +0200" channel="UEFAEuropaLeagueSturmGrazvsNottinghamForest">
-    <title lang="it">Inizia alle 19:45.</title>
-    <desc lang="it">UEFA Europa League : Sturm Graz vs Nottingham Forest.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251106194500 +0200" stop="20251106214500 +0200" channel="UEFAEuropaLeagueSturmGrazvsNottinghamForest">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UEFA Europa League : Sturm Graz vs Nottingham Forest</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20251106000000 +0200" stop="20251106194500 +0200" channel="UEFAEuropaLeagueSturmGrazvsNottinghamForest">
-    <title lang="it">Inizia alle 19:45.</title>
-    <desc lang="it">UEFA Europa League : Sturm Graz vs Nottingham Forest.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251106194500 +0200" stop="20251106214500 +0200" channel="UEFAEuropaLeagueSturmGrazvsNottinghamForest">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UEFA Europa League : Sturm Graz vs Nottingham Forest</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <channel id="UEFAConferenceLeagueMainz05vsFiorentina">
-    <display-name>UEFA Conference League : Mainz 05 vs Fiorentina</display-name>
-  </channel>
-  <programme start="20251106000000 +0200" stop="20251106194500 +0200" channel="UEFAConferenceLeagueMainz05vsFiorentina">
-    <title lang="it">Inizia alle 19:45.</title>
-    <desc lang="it">UEFA Conference League : Mainz 05 vs Fiorentina.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251106194500 +0200" stop="20251106214500 +0200" channel="UEFAConferenceLeagueMainz05vsFiorentina">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UEFA Conference League : Mainz 05 vs Fiorentina</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20251106000000 +0200" stop="20251106194500 +0200" channel="UEFAConferenceLeagueMainz05vsFiorentina">
-    <title lang="it">Inizia alle 19:45.</title>
-    <desc lang="it">UEFA Conference League : Mainz 05 vs Fiorentina.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251106194500 +0200" stop="20251106214500 +0200" channel="UEFAConferenceLeagueMainz05vsFiorentina">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UEFA Conference League : Mainz 05 vs Fiorentina</desc>
-    <category lang="it">Soccer</category>
-  </programme>
   <channel id="UEFAEuropaLeagueRangersvsRoma">
     <display-name>UEFA Europa League : Rangers vs Roma</display-name>
   </channel>
@@ -179,18 +107,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">WTA Finals Round Robin; Athens-ATP &amp; Metz-ATP Early Rounds</desc>
     <category lang="it">Tennis</category>
-  </programme>
-  <channel id="EuroleagueDubaiBasketballvsHapoelTelAviv">
-    <display-name>Euroleague : Dubai Basketball vs Hapoel Tel Aviv</display-name>
-  </channel>
-  <programme start="20251106000000 +0200" stop="20251106200000 +0200" channel="EuroleagueDubaiBasketballvsHapoelTelAviv">
-    <title lang="it">Inizia alle 20:00.</title>
-    <desc lang="it">Euroleague : Dubai Basketball vs Hapoel Tel Aviv.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251106200000 +0200" stop="20251106220000 +0200" channel="EuroleagueDubaiBasketballvsHapoelTelAviv">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Euroleague : Dubai Basketball vs Hapoel Tel Aviv</desc>
-    <category lang="it">Basketball</category>
   </programme>
 </tv>
