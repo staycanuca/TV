@@ -57526,5 +57526,107 @@
       10768
     ],
     "cached_at": "2025-11-05T06:22:41.318426"
+  },
+  "89055": {
+    "id": 89055,
+    "name": "We are now",
+    "original_name": "Wir sind jetzt",
+    "first_air_date": "2019-04-27",
+    "vote_average": 7.6,
+    "poster_path": "/A19xPAMbuejNSoJwgM5ovSGdgAh.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-11-06T06:22:52.564598"
+  },
+  "302723": {
+    "id": 302723,
+    "name": "Semplicemente Alicia",
+    "original_name": "Simplemente Alicia",
+    "first_air_date": "2025-11-05",
+    "vote_average": 8.0,
+    "poster_path": "/xV0dzVfaYgqWBnKVNWWyZk2YdrE.jpg",
+    "genre_ids": [
+      18,
+      35,
+      10766
+    ],
+    "cached_at": "2025-11-06T06:22:52.625912"
+  },
+  "89008": {
+    "id": 89008,
+    "name": "Historia de un crimen: Colmenares",
+    "original_name": "Historia de un crimen: Colmenares",
+    "first_air_date": "2019-05-03",
+    "vote_average": 7.3,
+    "poster_path": "/4Dq9Jd3AREUUOWKUrw5o8QbQowj.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "cached_at": "2025-11-06T06:22:52.631143"
+  },
+  "128985": {
+    "id": 128985,
+    "name": "The Lost Tomb 2: Explore with The Note",
+    "original_name": "云顶天宫",
+    "first_air_date": "2021-07-11",
+    "vote_average": 6.143,
+    "poster_path": "/aI0sYFIRt3Ba4EEJiVzRMMi7mlr.jpg",
+    "genre_ids": [
+      10759,
+      9648,
+      10765
+    ],
+    "cached_at": "2025-11-06T06:22:52.644676"
+  },
+  "90129": {
+    "id": 90129,
+    "name": "Le ragazze dell'hockey",
+    "original_name": "Les de l'hoquei",
+    "first_air_date": "2019-04-29",
+    "vote_average": 6.6,
+    "poster_path": "/4pNAbk6yQmiDzhvf4bYOq0GOcSj.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-11-06T06:22:52.705186"
+  },
+  "217528": {
+    "id": 217528,
+    "name": "Il disastro dell'Heweliusz",
+    "original_name": "Heweliusz",
+    "first_air_date": "2025-11-05",
+    "vote_average": 5.7,
+    "poster_path": "/uz8xeDph9jD5JD3kGiktOcRwAI3.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-11-06T06:22:52.706139"
+  },
+  "79356": {
+    "id": 79356,
+    "name": "Tuca & Bertie",
+    "original_name": "Tuca & Bertie",
+    "first_air_date": "2019-05-03",
+    "vote_average": 6.901,
+    "poster_path": "/vZIJVEZn9RnimJjKL370dy1bEBu.jpg",
+    "genre_ids": [
+      35,
+      16
+    ],
+    "cached_at": "2025-11-06T06:22:52.756596"
+  },
+  "88728": {
+    "id": 88728,
+    "name": "I Think You Should Leave with Tim Robinson",
+    "original_name": "I Think You Should Leave with Tim Robinson",
+    "first_air_date": "2019-04-23",
+    "vote_average": 6.885,
+    "poster_path": "/26fMaTPRczCrTUOQ5svA1Db7l4h.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-11-06T06:22:52.827389"
   }
 }

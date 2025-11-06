@@ -130319,5 +130319,250 @@
       9648
     ],
     "cached_at": "2025-11-05T06:22:35.168527"
+  },
+  "597594": {
+    "id": 597594,
+    "title": "Circus of Books",
+    "release_date": "2019-04-26",
+    "vote_average": 6.874,
+    "poster_path": "/y19U39IccjFpn70UmYIET9B3dBV.jpg",
+    "genre_ids": [
+      99,
+      36
+    ],
+    "cached_at": "2025-11-06T06:22:36.511433"
+  },
+  "574374": {
+    "id": 574374,
+    "title": "Yodel e flamenco",
+    "release_date": "2019-04-26",
+    "vote_average": 4.7,
+    "poster_path": "/w37GAm0ElpCkmI9AYfYQkAUFvy1.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-11-06T06:22:37.178517"
+  },
+  "596247": {
+    "id": 596247,
+    "title": "Jailbreak - Patto di fuga",
+    "release_date": "2020-01-23",
+    "vote_average": 7.5,
+    "poster_path": "/tQbaEnIMZeFBPmRTQ1Xw1LuU59n.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "cached_at": "2025-11-06T06:22:37.751447"
+  },
+  "79356": {
+    "id": 79356,
+    "title": "வல்லினம்",
+    "release_date": "2014-02-28",
+    "vote_average": 6.6,
+    "poster_path": "/fUCiJpNTLMjQ8RyrJhi5Cz209lV.jpg",
+    "genre_ids": [
+      28,
+      18
+    ],
+    "cached_at": "2025-11-06T06:22:40.368939"
+  },
+  "10592": {
+    "id": 10592,
+    "title": "Sotto corte marziale",
+    "release_date": "2002-02-15",
+    "vote_average": 6.383,
+    "poster_path": "/3SLK5FXKFEMArmvHzFSTTOr5rjJ.jpg",
+    "genre_ids": [
+      18,
+      10752
+    ],
+    "cached_at": "2025-11-06T06:22:40.537126"
+  },
+  "9582": {
+    "id": 9582,
+    "title": "Cose da maschi",
+    "release_date": "2003-01-17",
+    "vote_average": 5.887,
+    "poster_path": "/8cLs5aWcwVygx3Mx9rx1HqnSNLY.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2025-11-06T06:22:40.867857"
+  },
+  "600700": {
+    "id": 600700,
+    "title": "Dopo Maria",
+    "release_date": "2019-04-28",
+    "vote_average": 5.5,
+    "poster_path": "/5KVPsQue77aCd8Eu9OGZeLk5rm1.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-11-06T06:22:41.074584"
+  },
+  "11033": {
+    "id": 11033,
+    "title": "Vestito per uccidere",
+    "release_date": "1980-07-25",
+    "vote_average": 7.0,
+    "poster_path": "/nAWoy7nfzJWZUFOCVBMrOY4Ap6R.jpg",
+    "genre_ids": [
+      53,
+      9648,
+      27
+    ],
+    "cached_at": "2025-11-06T06:22:41.368085"
+  },
+  "631344": {
+    "id": 631344,
+    "title": "A Love Song for Latasha",
+    "release_date": "2019-04-28",
+    "vote_average": 7.1,
+    "poster_path": "/pZ3PHUoqfxJYyNgprIrQJs3HgWP.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-11-06T06:22:42.366763"
+  },
+  "816688": {
+    "id": 816688,
+    "title": "La leggenda di Frozen",
+    "release_date": "2021-02-26",
+    "vote_average": 6.9,
+    "poster_path": "/nGT1WvzCQdHLOaWd126m7z5Izq0.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      14
+    ],
+    "cached_at": "2025-11-06T06:22:42.576100"
+  },
+  "89055": {
+    "id": 89055,
+    "title": "Zombi New Millennium",
+    "release_date": "2000-02-18",
+    "vote_average": 6.0,
+    "poster_path": "/xU1H7tIVtjeOfh7ETA5TXLqrFKd.jpg",
+    "genre_ids": [
+      27
+    ],
+    "cached_at": "2025-11-06T06:22:42.762164"
+  },
+  "636709": {
+    "id": 636709,
+    "title": "It Takes a Lunatic - La vita e l'opera di Wynn Handman",
+    "release_date": "2019-05-03",
+    "vote_average": 5.3,
+    "poster_path": "/wRL66pQbrD9gLISylv8YqCXzUUH.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-11-06T06:22:42.939346"
+  },
+  "645402": {
+    "id": 645402,
+    "title": "Souvenir",
+    "release_date": "2019-10-10",
+    "vote_average": 0.0,
+    "poster_path": "/maxfBaARf8gWgOhsGcMAzCLdlS1.jpg",
+    "genre_ids": [],
+    "cached_at": "2025-11-06T06:22:44.912326"
+  },
+  "1252382": {
+    "id": 1252382,
+    "title": "Alla ricerca di Joy",
+    "release_date": "2025-11-05",
+    "vote_average": 6.0,
+    "poster_path": "/sUMdbrjHhMFDY327B31ctpF9MuY.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-11-06T06:22:45.228717"
+  },
+  "1136867": {
+    "id": 1136867,
+    "title": "Material Love",
+    "release_date": "2025-06-12",
+    "vote_average": 6.519,
+    "poster_path": "/ieCB4VjEyEAyWNYC3IBg1f0MPdr.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "cached_at": "2025-11-06T06:22:46.300883"
+  },
+  "639414": {
+    "id": 639414,
+    "title": "Dolly, Kitty and Those Twinkling Stars",
+    "release_date": "2020-09-18",
+    "vote_average": 5.0,
+    "poster_path": "/u2zXyprTj1Z09WOB8pqGlyMTeLx.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2025-11-06T06:22:46.371781"
+  },
+  "303": {
+    "id": 303,
+    "title": "Notorious - L'amante perduta",
+    "release_date": "1946-08-21",
+    "vote_average": 7.746,
+    "poster_path": "/yMX2ldoFyOk5E2ULGpP9zCGl97T.jpg",
+    "genre_ids": [
+      53,
+      10749,
+      9648
+    ],
+    "cached_at": "2025-11-06T06:22:46.443140"
+  },
+  "252838": {
+    "id": 252838,
+    "title": "Un testimone in affitto",
+    "release_date": "2015-01-16",
+    "vote_average": 6.459,
+    "poster_path": "/mtJRQkUBMwmPI198P4hWC7Mp9P6.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-11-06T06:22:47.366592"
+  },
+  "1567489": {
+    "id": 1567489,
+    "title": "Leanne Morgan: Unspeakable Things",
+    "release_date": "2025-11-03",
+    "vote_average": 0.0,
+    "poster_path": "/7NG3ZCYztpKp1eP9g8qOqtiuMgq.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-11-06T06:22:47.944003"
+  },
+  "601801": {
+    "id": 601801,
+    "title": "Chopsticks",
+    "release_date": "2019-05-31",
+    "vote_average": 6.08,
+    "poster_path": "/ejFfjFbK7t3kGFJJiANUQBWxITk.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2025-11-06T06:22:48.081348"
+  },
+  "576040": {
+    "id": 576040,
+    "title": "Malibu Rescue",
+    "release_date": "2019-05-13",
+    "vote_average": 6.182,
+    "poster_path": "/7pWOciZg6BsZytgV63oReKoHbWs.jpg",
+    "genre_ids": [
+      28,
+      35,
+      10751
+    ],
+    "cached_at": "2025-11-06T06:22:48.290630"
   }
 }
