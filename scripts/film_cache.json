@@ -130564,5 +130564,299 @@
       10751
     ],
     "cached_at": "2025-11-06T06:22:48.290630"
+  },
+  "591121": {
+    "id": 591121,
+    "title": "Maria",
+    "release_date": "2019-03-07",
+    "vote_average": 6.041,
+    "poster_path": "/d7KJjttE1IQECkKNmtunQTmmp6m.jpg",
+    "genre_ids": [
+      28,
+      80
+    ],
+    "cached_at": "2025-11-07T06:22:21.545599"
+  },
+  "537059": {
+    "id": 537059,
+    "title": "Justice League vs. the Fatal Five",
+    "release_date": "2019-03-29",
+    "vote_average": 6.8,
+    "poster_path": "/xXC0HrmyQDXlYTiHP7Tq6nzurDI.jpg",
+    "genre_ids": [
+      16,
+      28,
+      878,
+      14
+    ],
+    "cached_at": "2025-11-07T06:22:21.647534"
+  },
+  "532620": {
+    "id": 532620,
+    "title": "Let's Dance",
+    "release_date": "2019-03-27",
+    "vote_average": 6.493,
+    "poster_path": "/x38vQCzCpWZWlWJhSVPFWhmTadu.jpg",
+    "genre_ids": [
+      10402,
+      35,
+      18
+    ],
+    "cached_at": "2025-11-07T06:22:22.184482"
+  },
+  "570973": {
+    "id": 570973,
+    "title": "Last Breath",
+    "release_date": "2019-04-05",
+    "vote_average": 7.522,
+    "poster_path": "/zfTNsILhmDiChJJ7Zxxl8IUvkUM.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-11-07T06:22:22.646637"
+  },
+  "586583": {
+    "id": 586583,
+    "title": "JUNGLE",
+    "release_date": "2019-04-06",
+    "vote_average": 0.0,
+    "poster_path": "/42dnmHK4LNceXWgA7upJcdc0BGv.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-11-07T06:22:22.914330"
+  },
+  "412157": {
+    "id": 412157,
+    "title": "A Dark Place",
+    "release_date": "2018-10-07",
+    "vote_average": 6.014,
+    "poster_path": "/7QqFn9UzuSnh1uOPeSfYL1MFjkB.jpg",
+    "genre_ids": [
+      53,
+      9648
+    ],
+    "cached_at": "2025-11-07T06:22:23.042310"
+  },
+  "591789": {
+    "id": 591789,
+    "title": "Boi",
+    "release_date": "2019-03-29",
+    "vote_average": 5.1,
+    "poster_path": "/9MR7YBrBCZFtX3uAnKQIEWPM9f.jpg",
+    "genre_ids": [
+      53
+    ],
+    "cached_at": "2025-11-07T06:22:23.290488"
+  },
+  "637293": {
+    "id": 637293,
+    "title": "Free Spirit",
+    "release_date": "2019-11-05",
+    "vote_average": 0.0,
+    "poster_path": "/jLJ6gTMt0vesZpSQWVjZGhxIreO.jpg",
+    "genre_ids": [],
+    "cached_at": "2025-11-07T06:22:24.215781"
+  },
+  "87811": {
+    "id": 87811,
+    "title": "Janis Joplin : Piece Of My Heart - Live Woodstock",
+    "release_date": "2009-01-01",
+    "vote_average": 8.8,
+    "poster_path": "/6DRjTUHV7H1gs47iAqQlzGnmxk2.jpg",
+    "genre_ids": [
+      10402
+    ],
+    "cached_at": "2025-11-07T06:22:24.400408"
+  },
+  "680985": {
+    "id": 680985,
+    "title": "Soul Reaper",
+    "release_date": "2019-04-17",
+    "vote_average": 2.7,
+    "poster_path": "/i4uieFzwd4Wz0HfNmByu0W6cldj.jpg",
+    "genre_ids": [
+      27
+    ],
+    "cached_at": "2025-11-07T06:22:25.024159"
+  },
+  "519465": {
+    "id": 519465,
+    "title": "Dronningen",
+    "release_date": "2019-03-27",
+    "vote_average": 6.906,
+    "poster_path": "/bf6ap8hR9L2NUpnrxryxEfXFr4C.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-11-07T06:22:25.470002"
+  },
+  "595558": {
+    "id": 595558,
+    "title": "Эпидемия. Вонгозеро",
+    "release_date": "2019-04-21",
+    "vote_average": 7.0,
+    "poster_path": "/bb93SLlV7dqorqZXPMZsRzjHFK4.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-11-07T06:22:26.276423"
+  },
+  "564898": {
+    "id": 564898,
+    "title": "Mine 9",
+    "release_date": "2019-04-12",
+    "vote_average": 5.566,
+    "poster_path": "/7hxM3HmO3vS8ZxPyFlXgI0tqXug.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "cached_at": "2025-11-07T06:22:26.718180"
+  },
+  "519121": {
+    "id": 519121,
+    "title": "Los silencios",
+    "release_date": "2019-04-03",
+    "vote_average": 7.155,
+    "poster_path": "/4TP4XmM0w3lUnzn65lM4jkNS1li.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-11-07T06:22:26.952144"
+  },
+  "87712": {
+    "id": 87712,
+    "title": "Scream Greats, Vol.1: Tom Savini, Master of Horror Effects",
+    "release_date": "1986-01-01",
+    "vote_average": 8.1,
+    "poster_path": "/oqL29D25S4gitOLR3qPAKfT0k8b.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-11-07T06:22:27.021170"
+  },
+  "505914": {
+    "id": 505914,
+    "title": "A.I. Rising - Il futuro è adesso",
+    "release_date": "2018-02-25",
+    "vote_average": 4.967,
+    "poster_path": "/vD8K5AwrRi4e540AR5w1MM80ioZ.jpg",
+    "genre_ids": [
+      878,
+      18,
+      10749
+    ],
+    "cached_at": "2025-11-07T06:22:27.504079"
+  },
+  "553141": {
+    "id": 553141,
+    "title": "The Head Hunter",
+    "release_date": "2019-04-05",
+    "vote_average": 5.444,
+    "poster_path": "/ol0DSLOIN8Rq1BcWDTsk6NNwas6.jpg",
+    "genre_ids": [
+      27,
+      14
+    ],
+    "cached_at": "2025-11-07T06:22:27.759549"
+  },
+  "621561": {
+    "id": 621561,
+    "title": "Il nostro pianeta - Dietro le quinte",
+    "release_date": "2019-04-05",
+    "vote_average": 7.6,
+    "poster_path": "/rLQWByPlwOyLfQAoDA1t9pQaEKV.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-11-07T06:22:30.308729"
+  },
+  "593691": {
+    "id": 593691,
+    "title": "HOMECOMING: A film by Beyoncé",
+    "release_date": "2019-04-16",
+    "vote_average": 8.089,
+    "poster_path": "/nKdP4K3Bj3qnjtDCq9lTg7UOHVy.jpg",
+    "genre_ids": [
+      99,
+      10402
+    ],
+    "cached_at": "2025-11-07T06:22:30.501155"
+  },
+  "590872": {
+    "id": 590872,
+    "title": "Nate Bargatze: The Tennessee Kid",
+    "release_date": "2019-03-26",
+    "vote_average": 7.363,
+    "poster_path": "/cGGBMp1VD2LhfKsoQbFAoz4hFmv.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-11-07T06:22:31.100342"
+  },
+  "543343": {
+    "id": 543343,
+    "title": "Guava Island",
+    "release_date": "2019-04-13",
+    "vote_average": 6.686,
+    "poster_path": "/oQ5OnvNNGUYOPh3iTjmqx6GPsdc.jpg",
+    "genre_ids": [
+      35,
+      53,
+      10402
+    ],
+    "cached_at": "2025-11-07T06:22:31.380109"
+  },
+  "593035": {
+    "id": 593035,
+    "title": "Alien Warfare",
+    "release_date": "2019-04-05",
+    "vote_average": 4.087,
+    "poster_path": "/rJOj0T5DyChfECevDg0xpEGznsl.jpg",
+    "genre_ids": [
+      28,
+      878,
+      53
+    ],
+    "cached_at": "2025-11-07T06:22:31.955275"
+  },
+  "87799": {
+    "id": 87799,
+    "title": "Цирк",
+    "release_date": "1936-05-25",
+    "vote_average": 6.205,
+    "poster_path": "/aUQpKgrfeeNSzL1OdpjzXxU2aoQ.jpg",
+    "genre_ids": [
+      10402,
+      35
+    ],
+    "cached_at": "2025-11-07T06:22:33.466076"
+  },
+  "593060": {
+    "id": 593060,
+    "title": "La spia che cadde sulla Terra",
+    "release_date": "2019-04-01",
+    "vote_average": 6.708,
+    "poster_path": "/nIc9a0vCG00TmCObDazpmYtiDAs.jpg",
+    "genre_ids": [
+      99,
+      36,
+      9648
+    ],
+    "cached_at": "2025-11-07T06:22:33.977091"
+  },
+  "501989": {
+    "id": 501989,
+    "title": "Inno alla gioia",
+    "release_date": "2019-09-08",
+    "vote_average": 6.208,
+    "poster_path": "/4GESAiREXBTp0EDBDhBbds7oZsG.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "cached_at": "2025-11-07T06:22:34.310933"
   }
 }

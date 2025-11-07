@@ -57628,5 +57628,157 @@
       35
     ],
     "cached_at": "2025-11-06T06:22:52.827389"
+  },
+  "87692": {
+    "id": 87692,
+    "name": "Amazing Stranger",
+    "original_name": "超可動ガール1/6",
+    "first_air_date": "2019-04-06",
+    "vote_average": 6.7,
+    "poster_path": "/pPxakEs1TP6JhclPceGxHBoE8Ey.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10765
+    ],
+    "cached_at": "2025-11-07T06:22:40.407029"
+  },
+  "86129": {
+    "id": 86129,
+    "name": "Bless This Mess",
+    "original_name": "Bless This Mess",
+    "first_air_date": "2019-04-16",
+    "vote_average": 6.1,
+    "poster_path": "/ibUyKwysja93kq4qC9Z8lqFHFjE.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-11-07T06:22:40.465625"
+  },
+  "89113": {
+    "id": 89113,
+    "name": "कोटा फ़ैक्ट्री",
+    "original_name": "कोटा फ़ैक्ट्री",
+    "first_air_date": "2019-04-16",
+    "vote_average": 8.062,
+    "poster_path": "/7Pi6b2gFgwKtxniTqFQNxHPsJQ.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2025-11-07T06:22:40.481309"
+  },
+  "115345": {
+    "id": 115345,
+    "name": "Sakho & Mangane",
+    "original_name": "Sakho et Mangane",
+    "first_air_date": "2019-03-25",
+    "vote_average": 5.8,
+    "poster_path": "/cWsDh5Q19PpqNOe1CE9RLd7pRvv.jpg",
+    "genre_ids": [
+      35,
+      80
+    ],
+    "cached_at": "2025-11-07T06:22:40.535629"
+  },
+  "87811": {
+    "id": 87811,
+    "name": "Persona",
+    "original_name": "페르소나",
+    "first_air_date": "2019-04-11",
+    "vote_average": 6.549,
+    "poster_path": "/uT2F9FsELfgjPcOhl6Z60bXjWCP.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-11-07T06:22:40.567188"
+  },
+  "304936": {
+    "id": 304936,
+    "name": "Terrazza Sentimento",
+    "original_name": "Terrazza Sentimento",
+    "first_air_date": "2025-11-05",
+    "vote_average": 7.0,
+    "poster_path": "/uxntXFQ6SqY4celQejnUC9y6TQ3.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-11-07T06:22:40.577179"
+  },
+  "88071": {
+    "id": 88071,
+    "name": "Trailer Park Boys: The Animated Series",
+    "original_name": "Trailer Park Boys: The Animated Series",
+    "first_air_date": "2019-03-31",
+    "vote_average": 6.917,
+    "poster_path": "/ncJAzlVu44RN9ZWWsxI5SCFuOP3.jpg",
+    "genre_ids": [
+      16,
+      35
+    ],
+    "cached_at": "2025-11-07T06:22:40.607563"
+  },
+  "87712": {
+    "id": 87712,
+    "name": "Scuola di sopravvivenza",
+    "original_name": "You vs. Wild",
+    "first_air_date": "2019-04-10",
+    "vote_average": 6.1,
+    "poster_path": "/e0LaOgmLAQQiKE2TyJtG7hu2mBQ.jpg",
+    "genre_ids": [
+      10764,
+      10759
+    ],
+    "cached_at": "2025-11-07T06:22:40.625821"
+  },
+  "225171": {
+    "id": 225171,
+    "name": "Pluribus",
+    "original_name": "Pluribus",
+    "first_air_date": "2025-11-06",
+    "vote_average": 6.0,
+    "poster_path": "/JTwEkHalvyy2IjmBKcia74YC0c.jpg",
+    "genre_ids": [
+      18,
+      10765
+    ],
+    "cached_at": "2025-11-07T06:22:40.647505"
+  },
+  "245219": {
+    "id": 245219,
+    "name": "Death by Lightning",
+    "original_name": "Death by Lightning",
+    "first_air_date": "2025-11-06",
+    "vote_average": 8.0,
+    "poster_path": "/KyUrz3GA1FML3XnKkY795XxDxN.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "cached_at": "2025-11-07T06:22:40.694923"
+  },
+  "302540": {
+    "id": 302540,
+    "name": "Troppo cattivi: Pronti all'azione!",
+    "original_name": "The Bad Guys: Breaking In",
+    "first_air_date": "2025-11-06",
+    "vote_average": 9.0,
+    "poster_path": "/12ybD4BvgSpmhSjknFPvf1Nu7CC.jpg",
+    "genre_ids": [
+      16
+    ],
+    "cached_at": "2025-11-07T06:22:40.770162"
+  },
+  "87799": {
+    "id": 87799,
+    "name": "Huge in France",
+    "original_name": "Huge en France",
+    "first_air_date": "2019-04-12",
+    "vote_average": 5.7,
+    "poster_path": "/vj2tyu2SY0pIzToqWpiXbht4NBE.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-11-07T06:22:41.006329"
   }
 }
