@@ -98,45 +98,6 @@
     <desc lang="it">Italy - Serie A : Pisa vs Cremonese</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="Formula1MSCCruisesSaoPauloGPPractice1">
-    <display-name>Formula 1 : MSC Cruises Sao Paulo GP - Practice 1</display-name>
-  </channel>
-  <programme start="20251107000000 +0200" stop="20251107163000 +0200" channel="Formula1MSCCruisesSaoPauloGPPractice1">
-    <title lang="it">Inizia alle 16:30.</title>
-    <desc lang="it">Formula 1 : MSC Cruises Sao Paulo GP - Practice 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251107163000 +0200" stop="20251107183000 +0200" channel="Formula1MSCCruisesSaoPauloGPPractice1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 1 : MSC Cruises Sao Paulo GP - Practice 1</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="MotoGPGreekGrandPrixofPortugal">
-    <display-name>MotoGP Greek Grand Prix of Portugal</display-name>
-  </channel>
-  <programme start="20251107000000 +0200" stop="20251107170000 +0200" channel="MotoGPGreekGrandPrixofPortugal">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">MotoGP Greek Grand Prix of Portugal.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251107170000 +0200" stop="20251107190000 +0200" channel="MotoGPGreekGrandPrixofPortugal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP Greek Grand Prix of Portugal</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="MotoERound7PortugalQualifying">
-    <display-name>MotoE | Round 7 | Portugal Qualifying</display-name>
-  </channel>
-  <programme start="20251107000000 +0200" stop="20251107181500 +0200" channel="MotoERound7PortugalQualifying">
-    <title lang="it">Inizia alle 18:15.</title>
-    <desc lang="it">MotoE | Round 7 | Portugal Qualifying.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251107181500 +0200" stop="20251107201500 +0200" channel="MotoERound7PortugalQualifying">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoE | Round 7 | Portugal Qualifying</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="Formula1MSCCruisesSaoPauloGPSprintQualifying">
     <display-name>Formula 1 : MSC Cruises Sao Paulo GP - Sprint Qualifying</display-name>
   </channel>

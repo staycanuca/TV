@@ -141,8 +141,6 @@ https://vavoo.to/vavoo-iptv/play/40604994550f228d5b9b59
 https://vavoo.to/vavoo-iptv/play/2116902817eb437d88bab6
 #EXTINF:-1 tvg-id="hgtv.it" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS" group-title="Altro",HGTV
 https://vavoo.to/vavoo-iptv/play/42489970292d2930202d0e
-#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
-https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.gruppoicaro.it/wp-content/uploads/2020/05/icarotv.png" group-title="Altro",ICARO TV
 https://vavoo.to/vavoo-iptv/play/2392139008947764078821
 #EXTINF:-1 tvg-id="iris.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS
@@ -277,18 +275,10 @@ https://vavoo.to/vavoo-iptv/play/441082840c9ecc6bf454e
 https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
 
 # NEWS
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN ACTION MOVIES
-https://vavoo.to/vavoo-iptv/play/30648111922089ed4a29cc
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN COMEDY MOVIES
-https://vavoo.to/vavoo-iptv/play/11093727783b90d83934c6
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN DRAMA
 https://vavoo.to/vavoo-iptv/play/209862439074120bb15132
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN FAMILY
 https://vavoo.to/vavoo-iptv/play/3902650955a82543dc27a4
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN TOP FREE
-https://vavoo.to/vavoo-iptv/play/1572866962efea4ca22353
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN TV SHOWS
-https://vavoo.to/vavoo-iptv/play/860912269147f85ae7a8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/RDS-Logo.png/260px-RDS-Logo.png" group-title="Musica",RDS SOCIAL
 https://vavoo.to/vavoo-iptv/play/4031388312f5ebcfc7dc6d
 #EXTINF:-1 tvg-id="rdssocialtv.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/RDS-Logo.png/260px-RDS-Logo.png" group-title="Musica",RDS SOCIAL TV
@@ -303,8 +293,6 @@ https://vavoo.to/vavoo-iptv/play/3075118500c67364486aa6
 https://vavoo.to/vavoo-iptv/play/22357320045f329c720096
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkE5wuUMIVAtANMfpSL4T5bIO73owXBhpvEg&s" group-title="Altro",RETE ORO
 https://vavoo.to/vavoo-iptv/play/3351863213ae83540f4e1e
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",RETE SOLE
-https://vavoo.to/vavoo-iptv/play/36929275131676477efa1e
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.retetvitalia.it/news/wp-content/uploads/2019/07/cropped-RTI-L.png" group-title="Altro",RETE TV ITALIA
 https://vavoo.to/vavoo-iptv/play/413105501853266fc8e1b9
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/d/df/Logo_Rete_Veneta.png" group-title="Altro",RETE VENETA
@@ -421,6 +409,8 @@ https://dlhd.dad/watch.php?id=872
 https://dlhd.dad/watch.php?id=873
 #EXTINF:-1 tvg-id="sky.sport..254.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/2560px-Sky_Sport_-_Logo_2020.svg.png" group-title="Sport",SKY SPORT 254 (D)
 https://dlhd.dad/watch.php?id=874
+#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
+https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (D)
 https://dlhd.dad/watch.php?id=462
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",SKY SPORT BASKET (D)
@@ -625,7 +615,7 @@ https://dlhd.dad/watch.php?id=460
 #EXTINF:-1 tvg-id="italyseriecascolivsgubbio" tvg-name="Soccer | Italy - Serie C : Ascoli vs Gubbio (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ascoli_vs_Gubbio.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Ascoli vs Gubbio (21:30)
 https://dlhd.dad/watch.php?id=110
 
-#EXTINF:-1 tvg-id="italyserieccavesevspotenzacalcio" tvg-name="Soccer | Italy - Serie C : Cavese vs Potenza Calcio (21:30)" tvg-logo="https://www.consigliamidove.it/wp-content/uploads/2019/05/Potenza.jpg" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Cavese vs Potenza Calcio (21:30)
+#EXTINF:-1 tvg-id="italyserieccavesevspotenzacalcio" tvg-name="Soccer | Italy - Serie C : Cavese vs Potenza Calcio (21:30)" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Cavese vs Potenza Calcio (21:30)
 https://dlhd.dad/watch.php?id=151
 
 #EXTINF:-1 tvg-id="italyseriebspeziavsbari1908" tvg-name="Soccer | Italy - Serie B : Spezia vs Bari 1908 (21:30)" tvg-logo="https://i.pinimg.com/originals/37/c4/2e/37c42e10369e6e4a09fc1532036618fb.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie B : Spezia vs Bari 1908 (21:30)
@@ -637,17 +627,8 @@ https://dlhd.dad/watch.php?id=16
 #EXTINF:-1 tvg-id="italyserieapisavscremonese" tvg-name="Soccer | Italy - Serie A : Pisa vs Cremonese (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pisa_vs_Cremonese.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Pisa vs Cremonese (21:45)
 https://dlhd.dad/watch.php?id=870
 
-#EXTINF:-1 tvg-id="wtafinalssemifinalsathensatpampmetzatpsemfinals" tvg-name="Tennis | WTA Finals Semifinals; Athens-ATP &amp; Metz-ATP Semfinals (14:30)" tvg-logo="https://assets.stickpng.com/images/6266992c2c88722059d58710.png" group-title="Eventi Live DLHD",Tennis | WTA Finals Semifinals; Athens-ATP &amp; Metz-ATP Semfinals (14:30)
-https://dlhd.dad/watch.php?id=576
-
-#EXTINF:-1 tvg-id="moto3greekgrandprixofportugal" tvg-name="Motorsport | Moto 3 : Greek Grand Prix of Portugal (15:10)" tvg-logo="https://i.pinimg.com/originals/2f/fb/cd/2ffbcd976c744d97034e9febc8127351.png" group-title="Eventi Live DLHD",Motorsport | Moto 3 : Greek Grand Prix of Portugal (15:10)
-https://dlhd.dad/watch.php?id=575
-
 #EXTINF:-1 tvg-id="formula1msccruisessaopaulogppractice1" tvg-name="Motorsport | Formula 1 : MSC Cruises Sao Paulo GP - Practice 1 (16:30)" tvg-logo="https://logospng.org/download/formula-1/formula-1-2048.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : MSC Cruises Sao Paulo GP - Practice 1 (16:30)
 https://dlhd.dad/watch.php?id=577
-
-#EXTINF:-1 tvg-id="moto2greekgrandprixofportugal" tvg-name="Motorsport | Moto 2 : Greek Grand Prix of Portugal (16:00)" tvg-logo="https://i.pinimg.com/originals/2f/fb/cd/2ffbcd976c744d97034e9febc8127351.png" group-title="Eventi Live DLHD",Motorsport | Moto 2 : Greek Grand Prix of Portugal (16:00)
-https://dlhd.dad/watch.php?id=575
 
 #EXTINF:-1 tvg-id="motogpgreekgrandprixofportugal" tvg-name="Motorsport | MotoGP Greek Grand Prix of Portugal (17:00)" tvg-logo="https://wlassets.aprilia.com/wlassets/aprilia/master/Aprilia_World/Racing/moto-gp-2023/news/motogp-lemans-sunday/2023-05-GP-France-51131_heroheading/original/2023+05+GP+France+51131_heroheading.png?1684075178866" group-title="Eventi Live DLHD",Motorsport | MotoGP Greek Grand Prix of Portugal (17:00)
 https://dlhd.dad/watch.php?id=575
@@ -662,8 +643,6 @@ https://dlhd.dad/watch.php?id=577
 https://dlhd.dad/watch.php?id=879
 
 
-#EXTINF:-1 group-title="Eventi Live SPORTSONLINE",Formula 1: Sao Paulo Grand Prix: Practice 1 15:00
-https://sportzonline.live/channels/hd/hd8.php
 #EXTINF:-1 group-title="Eventi Live SPORTSONLINE",Formula 1: Sao Paulo Grand Prix: Sprint Qualifying 19:00
 https://sportzonline.live/channels/hd/hd8.php
 #EXTINF:-1 group-title="Eventi Live SPORTSONLINE",Spezia x Bari 1908 20:30
