@@ -111,19 +111,6 @@
     <desc lang="it">WTA Finals Semifinals; Athens-ATP &amp; Metz-ATP Semfinals</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="MotoGPGreekGrandPrixofPortugalFreePractice">
-    <display-name>MotoGP Greek Grand Prix of Portugal Free Practice</display-name>
-  </channel>
-  <programme start="20251107000000 +0200" stop="20251107124000 +0200" channel="MotoGPGreekGrandPrixofPortugalFreePractice">
-    <title lang="it">Inizia alle 12:40.</title>
-    <desc lang="it">MotoGP Greek Grand Prix of Portugal Free Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251107124000 +0200" stop="20251107144000 +0200" channel="MotoGPGreekGrandPrixofPortugalFreePractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP Greek Grand Prix of Portugal Free Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="Moto3GreekGrandPrixofPortugal">
     <display-name>Moto 3 : Greek Grand Prix of Portugal</display-name>
   </channel>
@@ -201,32 +188,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Formula 1 : MSC Cruises Sao Paulo GP - Sprint Qualifying</desc>
     <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="InternationalChampionshipSemiFinal">
-    <display-name>International Championship | Semi-Final</display-name>
-  </channel>
-  <programme start="20251107000000 +0200" stop="20251107133000 +0200" channel="InternationalChampionshipSemiFinal">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">International Championship | Semi-Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251107133000 +0200" stop="20251107153000 +0200" channel="InternationalChampionshipSemiFinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">International Championship | Semi-Final</desc>
-    <category lang="it">Snooker</category>
-  </programme>
-  <channel id="UCIBMXFreestyleWorldChampionshipsWomenFlatlandFinal">
-    <display-name>UCI BMX Freestyle World Championships Women | Flatland | Final</display-name>
-  </channel>
-  <programme start="20251107000000 +0200" stop="20251107140000 +0200" channel="UCIBMXFreestyleWorldChampionshipsWomenFlatlandFinal">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">UCI BMX Freestyle World Championships Women | Flatland | Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251107140000 +0200" stop="20251107160000 +0200" channel="UCIBMXFreestyleWorldChampionshipsWomenFlatlandFinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UCI BMX Freestyle World Championships Women | Flatland | Final</desc>
-    <category lang="it">Cycling</category>
   </programme>
   <channel id="UCIBMXFreestyleWorldChampionshipsMenFlatlandFinal">
     <display-name>UCI BMX Freestyle World Championships Men | Flatland | Final</display-name>
