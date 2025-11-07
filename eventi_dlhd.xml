@@ -98,45 +98,6 @@
     <desc lang="it">Italy - Serie A : Pisa vs Cremonese</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="WTAFinalsSemifinalsAthensATPampMetzATPSemfinals">
-    <display-name>WTA Finals Semifinals; Athens-ATP &amp; Metz-ATP Semfinals</display-name>
-  </channel>
-  <programme start="20251107000000 +0200" stop="20251107143000 +0200" channel="WTAFinalsSemifinalsAthensATPampMetzATPSemfinals">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">WTA Finals Semifinals; Athens-ATP &amp; Metz-ATP Semfinals.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251107143000 +0200" stop="20251107163000 +0200" channel="WTAFinalsSemifinalsAthensATPampMetzATPSemfinals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA Finals Semifinals; Athens-ATP &amp; Metz-ATP Semfinals</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <channel id="Moto3GreekGrandPrixofPortugal">
-    <display-name>Moto 3 : Greek Grand Prix of Portugal</display-name>
-  </channel>
-  <programme start="20251107000000 +0200" stop="20251107151000 +0200" channel="Moto3GreekGrandPrixofPortugal">
-    <title lang="it">Inizia alle 15:10.</title>
-    <desc lang="it">Moto 3 : Greek Grand Prix of Portugal.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251107151000 +0200" stop="20251107171000 +0200" channel="Moto3GreekGrandPrixofPortugal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto 3 : Greek Grand Prix of Portugal</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="Moto2GreekGrandPrixofPortugal">
-    <display-name>Moto 2 : Greek Grand Prix of Portugal</display-name>
-  </channel>
-  <programme start="20251107000000 +0200" stop="20251107160000 +0200" channel="Moto2GreekGrandPrixofPortugal">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Moto 2 : Greek Grand Prix of Portugal.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251107160000 +0200" stop="20251107180000 +0200" channel="Moto2GreekGrandPrixofPortugal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto 2 : Greek Grand Prix of Portugal</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="Formula1MSCCruisesSaoPauloGPPractice1">
     <display-name>Formula 1 : MSC Cruises Sao Paulo GP - Practice 1</display-name>
   </channel>

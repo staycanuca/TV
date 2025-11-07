@@ -81,6 +81,8 @@ https://vavoo.to/vavoo-iptv/play/196833914960066715a573
 https://vavoo.to/vavoo-iptv/play/2745635299ab0cc043a143
 #EXTINF:-1 tvg-id="dazn.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN (D)
 https://dlhd.dad/watch.php?id=877
+#EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV
+https://vavoo.to/vavoo-iptv/play/3802167244650eb7a51319
 #EXTINF:-1 tvg-id="discovery.channel.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari",DISCOVERY CHANNEL
 https://vavoo.to/vavoo-iptv/play/355484191439d5194fc358
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini",DISCOVERY K2
@@ -139,6 +141,8 @@ https://vavoo.to/vavoo-iptv/play/40604994550f228d5b9b59
 https://vavoo.to/vavoo-iptv/play/2116902817eb437d88bab6
 #EXTINF:-1 tvg-id="hgtv.it" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS" group-title="Altro",HGTV
 https://vavoo.to/vavoo-iptv/play/42489970292d2930202d0e
+#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
+https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.gruppoicaro.it/wp-content/uploads/2020/05/icarotv.png" group-title="Altro",ICARO TV
 https://vavoo.to/vavoo-iptv/play/2392139008947764078821
 #EXTINF:-1 tvg-id="iris.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS
@@ -159,8 +163,6 @@ https://vavoo.to/vavoo-iptv/play/477083716dc642d622f68
 https://vavoo.to/vavoo-iptv/play/803540254d5a6317673b3
 #EXTINF:-1 tvg-id="k2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini",K2
 https://vavoo.to/vavoo-iptv/play/11090349bae706bd9ec4
-
-# FILM - SERIE TV
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/radio-kiss-kiss-tv-it.png?raw=true" group-title="Musica",KISS KISS
 https://vavoo.to/vavoo-iptv/play/38157267494d3060cf955b
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/radio-kiss-kiss-italia-it.png?raw=true" group-title="Musica",KISS KISS ITALIA
@@ -431,6 +433,8 @@ https://dlhd.dad/watch.php?id=870
 https://dlhd.dad/watch.php?id=577
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/198930923100c09085a1ae
+#EXTINF:-1 tvg-id="sky.sport.golf.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Sport",SKY SPORT GOLF
+https://vavoo.to/vavoo-iptv/play/3897711086f5655aa4d5fb
 #EXTINF:-1 tvg-id="sky.sport.max.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-max-it.png" group-title="Sport",SKY SPORT MAX (D)
 https://dlhd.dad/watch.php?id=460
 #EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-motogp-hd-it.png" group-title="Sport",SKY SPORT MOTOGP
@@ -475,6 +479,10 @@ https://vavoo.to/vavoo-iptv/play/300937751365646200d097
 https://vavoo.to/vavoo-iptv/play/11653719d8ef305a8c92
 #EXTINF:-1 tvg-id="" tvg-logo="https://bresciasat.it/assets/front/img/logo3.png" group-title="Altro",SUPER TV BRESCIA
 https://vavoo.to/vavoo-iptv/play/2061826034c5ac3b5d7306
+#EXTINF:-1 tvg-id="super!.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/1024px-Super%21_logo_2021.svg.png" group-title="Bambini",SUPER!
+https://vavoo.to/vavoo-iptv/play/2900362153b8a056cb86c0
+
+# FILM - SERIE TV
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_ebhZMV4eYibx6UpVDOt1KOlmhOPYBh0gKw&s" group-title="Altro",SUPERSIX LOMBARDIA
 https://vavoo.to/vavoo-iptv/play/8491244640295fc9ea282
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.abruzzi.tv/logo-abruzzi.png" group-title="Altro",TELE ABRUZZO
@@ -617,10 +625,10 @@ https://dlhd.dad/watch.php?id=460
 #EXTINF:-1 tvg-id="italyseriecascolivsgubbio" tvg-name="Soccer | Italy - Serie C : Ascoli vs Gubbio (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ascoli_vs_Gubbio.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Ascoli vs Gubbio (21:30)
 https://dlhd.dad/watch.php?id=110
 
-#EXTINF:-1 tvg-id="italyserieccavesevspotenzacalcio" tvg-name="Soccer | Italy - Serie C : Cavese vs Potenza Calcio (21:30)" tvg-logo="https://www.potenzacalcio.net/wp-content/uploads/2021/11/cropped-pic.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Cavese vs Potenza Calcio (21:30)
+#EXTINF:-1 tvg-id="italyserieccavesevspotenzacalcio" tvg-name="Soccer | Italy - Serie C : Cavese vs Potenza Calcio (21:30)" tvg-logo="https://www.consigliamidove.it/wp-content/uploads/2019/05/Potenza.jpg" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Cavese vs Potenza Calcio (21:30)
 https://dlhd.dad/watch.php?id=151
 
-#EXTINF:-1 tvg-id="italyseriebspeziavsbari1908" tvg-name="Soccer | Italy - Serie B : Spezia vs Bari 1908 (21:30)" tvg-logo="https://www.goatsontheroad.com/wp-content/uploads/2022/11/take-a-day-trip-to-Bari.jpeg" group-title="Eventi Live DLHD",Soccer | Italy - Serie B : Spezia vs Bari 1908 (21:30)
+#EXTINF:-1 tvg-id="italyseriebspeziavsbari1908" tvg-name="Soccer | Italy - Serie B : Spezia vs Bari 1908 (21:30)" tvg-logo="https://i.pinimg.com/originals/37/c4/2e/37c42e10369e6e4a09fc1532036618fb.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie B : Spezia vs Bari 1908 (21:30)
 https://dlhd.dad/watch.php?id=68
 
 #EXTINF:-1 tvg-id="italyserieapisavscremonese" tvg-name="Soccer | Italy - Serie A : Pisa vs Cremonese (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pisa_vs_Cremonese.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Pisa vs Cremonese (21:45)
@@ -629,19 +637,16 @@ https://dlhd.dad/watch.php?id=16
 #EXTINF:-1 tvg-id="italyserieapisavscremonese" tvg-name="Soccer | Italy - Serie A : Pisa vs Cremonese (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pisa_vs_Cremonese.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Pisa vs Cremonese (21:45)
 https://dlhd.dad/watch.php?id=870
 
-#EXTINF:-1 tvg-id="wtafinalssemifinalsathensatpampmetzatpsemfinals" tvg-name="Tennis | WTA Finals Semifinals; Athens-ATP &amp; Metz-ATP Semfinals (14:30)" tvg-logo="https://cdn4.iconfinder.com/data/icons/sport-356/32/Line_Icon_Final_round-512.png" group-title="Eventi Live DLHD",Tennis | WTA Finals Semifinals; Athens-ATP &amp; Metz-ATP Semfinals (14:30)
+#EXTINF:-1 tvg-id="wtafinalssemifinalsathensatpampmetzatpsemfinals" tvg-name="Tennis | WTA Finals Semifinals; Athens-ATP &amp; Metz-ATP Semfinals (14:30)" tvg-logo="https://assets.stickpng.com/images/6266992c2c88722059d58710.png" group-title="Eventi Live DLHD",Tennis | WTA Finals Semifinals; Athens-ATP &amp; Metz-ATP Semfinals (14:30)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="motogpgreekgrandprixofportugalfreepractice" tvg-name="Motorsport | MotoGP Greek Grand Prix of Portugal Free Practice (12:40)" tvg-logo="https://wlassets.aprilia.com/wlassets/aprilia/master/Aprilia_World/Racing/moto-gp-2023/news/motogp-lemans-sunday/2023-05-GP-France-51131_heroheading/original/2023+05+GP+France+51131_heroheading.png?1684075178866" group-title="Eventi Live DLHD",Motorsport | MotoGP Greek Grand Prix of Portugal Free Practice (12:40)
+#EXTINF:-1 tvg-id="moto3greekgrandprixofportugal" tvg-name="Motorsport | Moto 3 : Greek Grand Prix of Portugal (15:10)" tvg-logo="https://i.pinimg.com/originals/2f/fb/cd/2ffbcd976c744d97034e9febc8127351.png" group-title="Eventi Live DLHD",Motorsport | Moto 3 : Greek Grand Prix of Portugal (15:10)
 https://dlhd.dad/watch.php?id=575
 
-#EXTINF:-1 tvg-id="moto3greekgrandprixofportugal" tvg-name="Motorsport | Moto 3 : Greek Grand Prix of Portugal (15:10)" tvg-logo="https://wlassets.motoguzzi.com/wlassets/moto-guzzi/master/landing-page/2024/V7-Range/editorial/V7Sport-1920x1440/original/MG-V7Sport-editorialhorizontal.jpg?1730366023506" group-title="Eventi Live DLHD",Motorsport | Moto 3 : Greek Grand Prix of Portugal (15:10)
-https://dlhd.dad/watch.php?id=575
-
-#EXTINF:-1 tvg-id="formula1msccruisessaopaulogppractice1" tvg-name="Motorsport | Formula 1 : MSC Cruises Sao Paulo GP - Practice 1 (16:30)" tvg-logo="https://i.pinimg.com/originals/48/7a/cf/487acf60c75951c1de0116aa0fa7a4b6.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : MSC Cruises Sao Paulo GP - Practice 1 (16:30)
+#EXTINF:-1 tvg-id="formula1msccruisessaopaulogppractice1" tvg-name="Motorsport | Formula 1 : MSC Cruises Sao Paulo GP - Practice 1 (16:30)" tvg-logo="https://logospng.org/download/formula-1/formula-1-2048.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : MSC Cruises Sao Paulo GP - Practice 1 (16:30)
 https://dlhd.dad/watch.php?id=577
 
-#EXTINF:-1 tvg-id="moto2greekgrandprixofportugal" tvg-name="Motorsport | Moto 2 : Greek Grand Prix of Portugal (16:00)" tvg-logo="https://wlassets.motoguzzi.com/wlassets/moto-guzzi/master/landing-page/2024/V7-Range/editorial/V7Sport-1920x1440/original/MG-V7Sport-editorialhorizontal.jpg?1730366023506" group-title="Eventi Live DLHD",Motorsport | Moto 2 : Greek Grand Prix of Portugal (16:00)
+#EXTINF:-1 tvg-id="moto2greekgrandprixofportugal" tvg-name="Motorsport | Moto 2 : Greek Grand Prix of Portugal (16:00)" tvg-logo="https://i.pinimg.com/originals/2f/fb/cd/2ffbcd976c744d97034e9febc8127351.png" group-title="Eventi Live DLHD",Motorsport | Moto 2 : Greek Grand Prix of Portugal (16:00)
 https://dlhd.dad/watch.php?id=575
 
 #EXTINF:-1 tvg-id="motogpgreekgrandprixofportugal" tvg-name="Motorsport | MotoGP Greek Grand Prix of Portugal (17:00)" tvg-logo="https://wlassets.aprilia.com/wlassets/aprilia/master/Aprilia_World/Racing/moto-gp-2023/news/motogp-lemans-sunday/2023-05-GP-France-51131_heroheading/original/2023+05+GP+France+51131_heroheading.png?1684075178866" group-title="Eventi Live DLHD",Motorsport | MotoGP Greek Grand Prix of Portugal (17:00)
@@ -650,14 +655,8 @@ https://dlhd.dad/watch.php?id=575
 #EXTINF:-1 tvg-id="motoeround7portugalqualifying" tvg-name="Motorsport | MotoE | Round 7 | Portugal Qualifying (18:15)" tvg-logo="https://motoe-cz.s18.cdn-upgates.com/_cache/2/a/2afb0b89abac8aedb4ee7b4383b4c813-v63bec87203ced-servis.png" group-title="Eventi Live DLHD",Motorsport | MotoE | Round 7 | Portugal Qualifying (18:15)
 https://dlhd.dad/watch.php?id=575
 
-#EXTINF:-1 tvg-id="formula1msccruisessaopaulogpsprintqualifying" tvg-name="Motorsport | Formula 1 : MSC Cruises Sao Paulo GP - Sprint Qualifying (20:30)" tvg-logo="https://i.pinimg.com/originals/48/7a/cf/487acf60c75951c1de0116aa0fa7a4b6.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : MSC Cruises Sao Paulo GP - Sprint Qualifying (20:30)
+#EXTINF:-1 tvg-id="formula1msccruisessaopaulogpsprintqualifying" tvg-name="Motorsport | Formula 1 : MSC Cruises Sao Paulo GP - Sprint Qualifying (20:30)" tvg-logo="https://logospng.org/download/formula-1/formula-1-2048.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : MSC Cruises Sao Paulo GP - Sprint Qualifying (20:30)
 https://dlhd.dad/watch.php?id=577
-
-#EXTINF:-1 tvg-id="internationalchampionshipsemifinal" tvg-name="Snooker | International Championship | Semi-Final (13:30)" tvg-logo="https://www.kcl.ac.uk/newimages/sspp/faculty-top-level/main/international-relations-image-780-440.x881f33e9.png?f=webp" group-title="Eventi Live DLHD",Snooker | International Championship | Semi-Final (13:30)
-https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="ucibmxfreestyleworldchampionshipswomenflatlandfinal" tvg-name="Cycling | UCI BMX Freestyle World Championships Women | Flatland | Final (14:00)" tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/Uci-Logo.png" group-title="Eventi Live DLHD",Cycling | UCI BMX Freestyle World Championships Women | Flatland | Final (14:00)
-https://dlhd.dad/watch.php?id=879
 
 #EXTINF:-1 tvg-id="ucibmxfreestyleworldchampionshipsmenflatlandfinal" tvg-name="Cycling | UCI BMX Freestyle World Championships Men | Flatland | Final (19:00)" tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/Uci-Logo.png" group-title="Eventi Live DLHD",Cycling | UCI BMX Freestyle World Championships Men | Flatland | Final (19:00)
 https://dlhd.dad/watch.php?id=879
