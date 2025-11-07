@@ -111,17 +111,4 @@
     <desc lang="it">Formula 1 : MSC Cruises Sao Paulo GP - Sprint Qualifying</desc>
     <category lang="it">Motorsport</category>
   </programme>
-  <channel id="UCIBMXFreestyleWorldChampionshipsMenFlatlandFinal">
-    <display-name>UCI BMX Freestyle World Championships Men | Flatland | Final</display-name>
-  </channel>
-  <programme start="20251107000000 +0200" stop="20251107190000 +0200" channel="UCIBMXFreestyleWorldChampionshipsMenFlatlandFinal">
-    <title lang="it">Inizia alle 19:00.</title>
-    <desc lang="it">UCI BMX Freestyle World Championships Men | Flatland | Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251107190000 +0200" stop="20251107210000 +0200" channel="UCIBMXFreestyleWorldChampionshipsMenFlatlandFinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UCI BMX Freestyle World Championships Men | Flatland | Final</desc>
-    <category lang="it">Cycling</category>
-  </programme>
 </tv>
