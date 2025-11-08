@@ -1,135 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="EnglandPremierLeagueTottenhamHotspurvsManchesterUnited">
-    <display-name>England - Premier League : Tottenham Hotspur vs Manchester United</display-name>
-  </channel>
-  <programme start="20251108000000 +0200" stop="20251108143000 +0200" channel="EnglandPremierLeagueTottenhamHotspurvsManchesterUnited">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">England - Premier League : Tottenham Hotspur vs Manchester United.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251108143000 +0200" stop="20251108163000 +0200" channel="EnglandPremierLeagueTottenhamHotspurvsManchesterUnited">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Tottenham Hotspur vs Manchester United</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieAwomenMilanvsJuventus">
-    <display-name>Italy - Serie A (women) : Milan vs Juventus</display-name>
-  </channel>
-  <programme start="20251108000000 +0200" stop="20251108150000 +0200" channel="ItalySerieAwomenMilanvsJuventus">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">Italy - Serie A (women) : Milan vs Juventus.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251108150000 +0200" stop="20251108170000 +0200" channel="ItalySerieAwomenMilanvsJuventus">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A (women) : Milan vs Juventus</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCRenatevsVirtusVerona">
-    <display-name>Italy - Serie C : Renate vs Virtus Verona</display-name>
-  </channel>
-  <programme start="20251108000000 +0200" stop="20251108153000 +0200" channel="ItalySerieCRenatevsVirtusVerona">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Italy - Serie C : Renate vs Virtus Verona.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251108153000 +0200" stop="20251108173000 +0200" channel="ItalySerieCRenatevsVirtusVerona">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Renate vs Virtus Verona</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCUnionArzignanoChiampovsPergolettese">
-    <display-name>Italy - Serie C : Union ArzignanoChiampo vs Pergolettese</display-name>
-  </channel>
-  <programme start="20251108000000 +0200" stop="20251108153000 +0200" channel="ItalySerieCUnionArzignanoChiampovsPergolettese">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Italy - Serie C : Union ArzignanoChiampo vs Pergolettese.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251108153000 +0200" stop="20251108173000 +0200" channel="ItalySerieCUnionArzignanoChiampovsPergolettese">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Union ArzignanoChiampo vs Pergolettese</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCDolomitiBellunesivsCittadella">
-    <display-name>Italy - Serie C : Dolomiti Bellunesi vs Cittadella</display-name>
-  </channel>
-  <programme start="20251108000000 +0200" stop="20251108153000 +0200" channel="ItalySerieCDolomitiBellunesivsCittadella">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Italy - Serie C : Dolomiti Bellunesi vs Cittadella.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251108153000 +0200" stop="20251108173000 +0200" channel="ItalySerieCDolomitiBellunesivsCittadella">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Dolomiti Bellunesi vs Cittadella</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCBravsPineto">
-    <display-name>Italy - Serie C : Bra vs Pineto</display-name>
-  </channel>
-  <programme start="20251108000000 +0200" stop="20251108153000 +0200" channel="ItalySerieCBravsPineto">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Italy - Serie C : Bra vs Pineto.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251108153000 +0200" stop="20251108173000 +0200" channel="ItalySerieCBravsPineto">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Bra vs Pineto</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCTrapani1905vsPicerno">
-    <display-name>Italy - Serie C : Trapani 1905 vs Picerno</display-name>
-  </channel>
-  <programme start="20251108000000 +0200" stop="20251108153000 +0200" channel="ItalySerieCTrapani1905vsPicerno">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Italy - Serie C : Trapani 1905 vs Picerno.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251108153000 +0200" stop="20251108173000 +0200" channel="ItalySerieCTrapani1905vsPicerno">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Trapani 1905 vs Picerno</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCAtalantaIIvsGiugliano">
-    <display-name>Italy - Serie C : Atalanta II vs Giugliano</display-name>
-  </channel>
-  <programme start="20251108000000 +0200" stop="20251108153000 +0200" channel="ItalySerieCAtalantaIIvsGiugliano">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Italy - Serie C : Atalanta II vs Giugliano.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251108153000 +0200" stop="20251108173000 +0200" channel="ItalySerieCAtalantaIIvsGiugliano">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Atalanta II vs Giugliano</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieAComovsCagliari">
-    <display-name>Italy - Serie A : Como vs Cagliari</display-name>
-  </channel>
-  <programme start="20251108000000 +0200" stop="20251108160000 +0200" channel="ItalySerieAComovsCagliari">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Italy - Serie A : Como vs Cagliari.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251108160000 +0200" stop="20251108180000 +0200" channel="ItalySerieAComovsCagliari">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Como vs Cagliari</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieALeccevsHellasVerona">
-    <display-name>Italy - Serie A : Lecce vs Hellas Verona</display-name>
-  </channel>
-  <programme start="20251108000000 +0200" stop="20251108160000 +0200" channel="ItalySerieALeccevsHellasVerona">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Italy - Serie A : Lecce vs Hellas Verona.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251108160000 +0200" stop="20251108180000 +0200" channel="ItalySerieALeccevsHellasVerona">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Lecce vs Hellas Verona</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="EnglandPremierLeagueEvertonvsFulham">
     <display-name>England - Premier League : Everton vs Fulham</display-name>
   </channel>
@@ -319,45 +189,6 @@
     <desc lang="it">WTA Tour Finals Riyadh</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="Moto3GreekGrandPrixofPortugalQualifying">
-    <display-name>Moto 3 : Greek Grand Prix of Portugal Qualifying</display-name>
-  </channel>
-  <programme start="20251108000000 +0200" stop="20251108144500 +0200" channel="Moto3GreekGrandPrixofPortugalQualifying">
-    <title lang="it">Inizia alle 14:45.</title>
-    <desc lang="it">Moto 3 : Greek Grand Prix of Portugal Qualifying.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251108144500 +0200" stop="20251108164500 +0200" channel="Moto3GreekGrandPrixofPortugalQualifying">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto 3 : Greek Grand Prix of Portugal Qualifying</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="Formula1MSCCruisesSaoPauloGPSprint">
-    <display-name>Formula 1 : MSC Cruises Sao Paulo GP - Sprint</display-name>
-  </channel>
-  <programme start="20251108000000 +0200" stop="20251108150000 +0200" channel="Formula1MSCCruisesSaoPauloGPSprint">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">Formula 1 : MSC Cruises Sao Paulo GP - Sprint.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251108150000 +0200" stop="20251108170000 +0200" channel="Formula1MSCCruisesSaoPauloGPSprint">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 1 : MSC Cruises Sao Paulo GP - Sprint</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="Moto2GreekGrandPrixofPortugal">
-    <display-name>Moto 2 : Greek Grand Prix of Portugal</display-name>
-  </channel>
-  <programme start="20251108000000 +0200" stop="20251108154000 +0200" channel="Moto2GreekGrandPrixofPortugal">
-    <title lang="it">Inizia alle 15:40.</title>
-    <desc lang="it">Moto 2 : Greek Grand Prix of Portugal.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251108154000 +0200" stop="20251108174000 +0200" channel="Moto2GreekGrandPrixofPortugal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto 2 : Greek Grand Prix of Portugal</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="MotoGPGreekGrandPrixofPortugalSprintRace">
     <display-name>Moto GP : Greek Grand Prix of Portugal Sprint Race</display-name>
   </channel>
@@ -410,19 +241,6 @@
     <desc lang="it">Formula 1 : MSC Cruises Sao Paulo GP - Qualifying</desc>
     <category lang="it">Motorsport</category>
   </programme>
-  <channel id="CyclocrossEuropeanChampionshipsMiddelkerke2025womensrace">
-    <display-name>Cyclo-cross: European Championships - Middelkerke 2025 women's race</display-name>
-  </channel>
-  <programme start="20251108000000 +0200" stop="20251108160000 +0200" channel="CyclocrossEuropeanChampionshipsMiddelkerke2025womensrace">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Cyclo-cross: European Championships - Middelkerke 2025 women's race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251108160000 +0200" stop="20251108180000 +0200" channel="CyclocrossEuropeanChampionshipsMiddelkerke2025womensrace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Cyclo-cross: European Championships - Middelkerke 2025 women's race</desc>
-    <category lang="it">Cycling</category>
-  </programme>
   <channel id="UCIBMXFreestyleWorldChampionshipsMenParkFinal">
     <display-name>UCI BMX Freestyle World Championships Men | Park | Final</display-name>
   </channel>
@@ -435,19 +253,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">UCI BMX Freestyle World Championships Men | Park | Final</desc>
     <category lang="it">Cycling</category>
-  </programme>
-  <channel id="FriendlyInternationalIrelandvsJapan">
-    <display-name>Friendly International : Ireland vs Japan</display-name>
-  </channel>
-  <programme start="20251108000000 +0200" stop="20251108144000 +0200" channel="FriendlyInternationalIrelandvsJapan">
-    <title lang="it">Inizia alle 14:40.</title>
-    <desc lang="it">Friendly International : Ireland vs Japan.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251108144000 +0200" stop="20251108164000 +0200" channel="FriendlyInternationalIrelandvsJapan">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Friendly International : Ireland vs Japan</desc>
-    <category lang="it">Rugby Union</category>
   </programme>
   <channel id="FriendlyInternationalItalyvsAustralia">
     <display-name>Friendly International : Italy vs Australia</display-name>
