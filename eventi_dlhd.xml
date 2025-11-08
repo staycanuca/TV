@@ -11,7 +11,7 @@
   <programme start="20251108133000 +0200" stop="20251108153000 +0200" channel="ItalySerieAwomenInterMilanovsSassuolo">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Italy - Serie A (women) : Inter Milano vs Sassuolo</desc>
-    <category lang="it">Soccer</category>
+    <category lang="it">All Soccer Events</category>
   </programme>
   <channel id="EnglandPremierLeagueTottenhamHotspurvsManchesterUnited">
     <display-name>England - Premier League : Tottenham Hotspur vs Manchester United</display-name>
@@ -24,7 +24,7 @@
   <programme start="20251108143000 +0200" stop="20251108163000 +0200" channel="EnglandPremierLeagueTottenhamHotspurvsManchesterUnited">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">England - Premier League : Tottenham Hotspur vs Manchester United</desc>
-    <category lang="it">Soccer</category>
+    <category lang="it">All Soccer Events</category>
   </programme>
   <channel id="ItalySerieAwomenMilanvsJuventus">
     <display-name>Italy - Serie A (women) : Milan vs Juventus</display-name>
@@ -37,7 +37,7 @@
   <programme start="20251108150000 +0200" stop="20251108170000 +0200" channel="ItalySerieAwomenMilanvsJuventus">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Italy - Serie A (women) : Milan vs Juventus</desc>
-    <category lang="it">Soccer</category>
+    <category lang="it">All Soccer Events</category>
   </programme>
   <channel id="ItalySerieCRenatevsVirtusVerona">
     <display-name>Italy - Serie C : Renate vs Virtus Verona</display-name>
@@ -50,7 +50,7 @@
   <programme start="20251108153000 +0200" stop="20251108173000 +0200" channel="ItalySerieCRenatevsVirtusVerona">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Italy - Serie C : Renate vs Virtus Verona</desc>
-    <category lang="it">Soccer</category>
+    <category lang="it">All Soccer Events</category>
   </programme>
   <channel id="ItalySerieCUnionArzignanoChiampovsPergolettese">
     <display-name>Italy - Serie C : Union ArzignanoChiampo vs Pergolettese</display-name>
@@ -63,7 +63,7 @@
   <programme start="20251108153000 +0200" stop="20251108173000 +0200" channel="ItalySerieCUnionArzignanoChiampovsPergolettese">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Italy - Serie C : Union ArzignanoChiampo vs Pergolettese</desc>
-    <category lang="it">Soccer</category>
+    <category lang="it">All Soccer Events</category>
   </programme>
   <channel id="ItalySerieCDolomitiBellunesivsCittadella">
     <display-name>Italy - Serie C : Dolomiti Bellunesi vs Cittadella</display-name>
@@ -76,7 +76,7 @@
   <programme start="20251108153000 +0200" stop="20251108173000 +0200" channel="ItalySerieCDolomitiBellunesivsCittadella">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Italy - Serie C : Dolomiti Bellunesi vs Cittadella</desc>
-    <category lang="it">Soccer</category>
+    <category lang="it">All Soccer Events</category>
   </programme>
   <channel id="ItalySerieCBravsPineto">
     <display-name>Italy - Serie C : Bra vs Pineto</display-name>
@@ -89,7 +89,7 @@
   <programme start="20251108153000 +0200" stop="20251108173000 +0200" channel="ItalySerieCBravsPineto">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Italy - Serie C : Bra vs Pineto</desc>
-    <category lang="it">Soccer</category>
+    <category lang="it">All Soccer Events</category>
   </programme>
   <channel id="ItalySerieCTrapani1905vsPicerno">
     <display-name>Italy - Serie C : Trapani 1905 vs Picerno</display-name>
@@ -102,7 +102,7 @@
   <programme start="20251108153000 +0200" stop="20251108173000 +0200" channel="ItalySerieCTrapani1905vsPicerno">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Italy - Serie C : Trapani 1905 vs Picerno</desc>
-    <category lang="it">Soccer</category>
+    <category lang="it">All Soccer Events</category>
   </programme>
   <channel id="ItalySerieCAtalantaIIvsGiugliano">
     <display-name>Italy - Serie C : Atalanta II vs Giugliano</display-name>
@@ -115,7 +115,7 @@
   <programme start="20251108153000 +0200" stop="20251108173000 +0200" channel="ItalySerieCAtalantaIIvsGiugliano">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Italy - Serie C : Atalanta II vs Giugliano</desc>
-    <category lang="it">Soccer</category>
+    <category lang="it">All Soccer Events</category>
   </programme>
   <channel id="ItalySerieAComovsCagliari">
     <display-name>Italy - Serie A : Como vs Cagliari</display-name>
@@ -128,7 +128,7 @@
   <programme start="20251108160000 +0200" stop="20251108180000 +0200" channel="ItalySerieAComovsCagliari">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Italy - Serie A : Como vs Cagliari</desc>
-    <category lang="it">Soccer</category>
+    <category lang="it">All Soccer Events</category>
   </programme>
   <channel id="ItalySerieALeccevsHellasVerona">
     <display-name>Italy - Serie A : Lecce vs Hellas Verona</display-name>
@@ -141,7 +141,7 @@
   <programme start="20251108160000 +0200" stop="20251108180000 +0200" channel="ItalySerieALeccevsHellasVerona">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Italy - Serie A : Lecce vs Hellas Verona</desc>
-    <category lang="it">Soccer</category>
+    <category lang="it">All Soccer Events</category>
   </programme>
   <channel id="EnglandPremierLeagueEvertonvsFulham">
     <display-name>England - Premier League : Everton vs Fulham</display-name>
@@ -154,7 +154,7 @@
   <programme start="20251108170000 +0200" stop="20251108190000 +0200" channel="EnglandPremierLeagueEvertonvsFulham">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">England - Premier League : Everton vs Fulham</desc>
-    <category lang="it">Soccer</category>
+    <category lang="it">All Soccer Events</category>
   </programme>
   <channel id="FranceLigue1OlympiqueMarseillevsBrest">
     <display-name>France - Ligue 1 : Olympique Marseille vs Brest</display-name>
@@ -167,7 +167,7 @@
   <programme start="20251108180000 +0200" stop="20251108200000 +0200" channel="FranceLigue1OlympiqueMarseillevsBrest">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">France - Ligue 1 : Olympique Marseille vs Brest</desc>
-    <category lang="it">Soccer</category>
+    <category lang="it">All Soccer Events</category>
   </programme>
   <channel id="ItalySerieCProPatriavsLumezzane">
     <display-name>Italy - Serie C : Pro Patria vs Lumezzane</display-name>
@@ -180,7 +180,7 @@
   <programme start="20251108183000 +0200" stop="20251108203000 +0200" channel="ItalySerieCProPatriavsLumezzane">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Italy - Serie C : Pro Patria vs Lumezzane</desc>
-    <category lang="it">Soccer</category>
+    <category lang="it">All Soccer Events</category>
   </programme>
   <channel id="ItalySerieCNuovaMonterosivsPontedera">
     <display-name>Italy - Serie C : Nuova Monterosi vs Pontedera</display-name>
@@ -193,7 +193,7 @@
   <programme start="20251108183000 +0200" stop="20251108203000 +0200" channel="ItalySerieCNuovaMonterosivsPontedera">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Italy - Serie C : Nuova Monterosi vs Pontedera</desc>
-    <category lang="it">Soccer</category>
+    <category lang="it">All Soccer Events</category>
   </programme>
   <channel id="ItalySerieCPianesevsRimini">
     <display-name>Italy - Serie C : Pianese vs Rimini</display-name>
@@ -206,7 +206,7 @@
   <programme start="20251108183000 +0200" stop="20251108203000 +0200" channel="ItalySerieCPianesevsRimini">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Italy - Serie C : Pianese vs Rimini</desc>
-    <category lang="it">Soccer</category>
+    <category lang="it">All Soccer Events</category>
   </programme>
   <channel id="ItalySerieCRavennavsSassariTorres">
     <display-name>Italy - Serie C : Ravenna vs Sassari Torres</display-name>
@@ -219,7 +219,7 @@
   <programme start="20251108183000 +0200" stop="20251108203000 +0200" channel="ItalySerieCRavennavsSassariTorres">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Italy - Serie C : Ravenna vs Sassari Torres</desc>
-    <category lang="it">Soccer</category>
+    <category lang="it">All Soccer Events</category>
   </programme>
   <channel id="ItalySerieCCosenzavsVirtusCasarano">
     <display-name>Italy - Serie C : Cosenza vs Virtus Casarano</display-name>
@@ -232,7 +232,7 @@
   <programme start="20251108183000 +0200" stop="20251108203000 +0200" channel="ItalySerieCCosenzavsVirtusCasarano">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Italy - Serie C : Cosenza vs Virtus Casarano</desc>
-    <category lang="it">Soccer</category>
+    <category lang="it">All Soccer Events</category>
   </programme>
   <channel id="ItalySerieAJuventusvsTorino">
     <display-name>Italy - Serie A : Juventus vs Torino</display-name>
@@ -245,7 +245,7 @@
   <programme start="20251108190000 +0200" stop="20251108210000 +0200" channel="ItalySerieAJuventusvsTorino">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Italy - Serie A : Juventus vs Torino</desc>
-    <category lang="it">Soccer</category>
+    <category lang="it">All Soccer Events</category>
   </programme>
   <channel id="EnglandPremierLeagueSunderlandvsArsenal">
     <display-name>England - Premier League : Sunderland vs Arsenal</display-name>
@@ -258,7 +258,7 @@
   <programme start="20251108193000 +0200" stop="20251108213000 +0200" channel="EnglandPremierLeagueSunderlandvsArsenal">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">England - Premier League : Sunderland vs Arsenal</desc>
-    <category lang="it">Soccer</category>
+    <category lang="it">All Soccer Events</category>
   </programme>
   <channel id="GermanyBundesliga2KaiserslauternvsHerthaBSC">
     <display-name>Germany - Bundesliga 2 : Kaiserslautern vs Hertha BSC</display-name>
@@ -271,7 +271,7 @@
   <programme start="20251108213000 +0200" stop="20251108233000 +0200" channel="GermanyBundesliga2KaiserslauternvsHerthaBSC">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Germany - Bundesliga 2 : Kaiserslautern vs Hertha BSC</desc>
-    <category lang="it">Soccer</category>
+    <category lang="it">All Soccer Events</category>
   </programme>
   <channel id="ItalySerieAParmavsMilan">
     <display-name>Italy - Serie A : Parma vs Milan</display-name>
@@ -284,7 +284,7 @@
   <programme start="20251108214500 +0200" stop="20251108234500 +0200" channel="ItalySerieAParmavsMilan">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Italy - Serie A : Parma vs Milan</desc>
-    <category lang="it">Soccer</category>
+    <category lang="it">All Soccer Events</category>
   </programme>
   <programme start="20251108000000 +0200" stop="20251108214500 +0200" channel="ItalySerieAParmavsMilan">
     <title lang="it">Inizia alle 21:45.</title>
@@ -294,7 +294,7 @@
   <programme start="20251108214500 +0200" stop="20251108234500 +0200" channel="ItalySerieAParmavsMilan">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Italy - Serie A : Parma vs Milan</desc>
-    <category lang="it">Soccer</category>
+    <category lang="it">All Soccer Events</category>
   </programme>
   <programme start="20251108000000 +0200" stop="20251108214500 +0200" channel="ItalySerieAParmavsMilan">
     <title lang="it">Inizia alle 21:45.</title>
@@ -304,7 +304,7 @@
   <programme start="20251108214500 +0200" stop="20251108234500 +0200" channel="ItalySerieAParmavsMilan">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Italy - Serie A : Parma vs Milan</desc>
-    <category lang="it">Soccer</category>
+    <category lang="it">All Soccer Events</category>
   </programme>
   <channel id="FranceLigue1MonacovsLens">
     <display-name>France - Ligue 1 : Monaco vs Lens</display-name>
@@ -317,7 +317,7 @@
   <programme start="20251108220500 +0200" stop="20251109000500 +0200" channel="FranceLigue1MonacovsLens">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">France - Ligue 1 : Monaco vs Lens</desc>
-    <category lang="it">Soccer</category>
+    <category lang="it">All Soccer Events</category>
   </programme>
   <channel id="WTATourFinalsRiyadh">
     <display-name>WTA Tour Finals Riyadh</display-name>
