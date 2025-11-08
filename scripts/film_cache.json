@@ -130858,5 +130858,593 @@
       10749
     ],
     "cached_at": "2025-11-07T06:22:34.310933"
+  },
+  "1576374": {
+    "id": 1576374,
+    "title": "Uno sposo e due spose",
+    "release_date": "2025-11-01",
+    "vote_average": 0.0,
+    "poster_path": "/byi4v7milXCzdy8KtwcdYZ6v4pN.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2025-11-08T06:19:40.637655"
+  },
+  "635146": {
+    "id": 635146,
+    "title": "La leggenda dei cinque elementi",
+    "release_date": "2020-06-25",
+    "vote_average": 4.471,
+    "poster_path": "/cIGT9DwYanhmOxS8tg7BeV0xpY4.jpg",
+    "genre_ids": [
+      14,
+      12,
+      10751,
+      9648
+    ],
+    "cached_at": "2025-11-08T06:19:40.711901"
+  },
+  "401686": {
+    "id": 401686,
+    "title": "Berlin, I Love You",
+    "release_date": "2019-12-04",
+    "vote_average": 4.746,
+    "poster_path": "/qgVDEPqWsaklkDfr0DRA0A3EKUa.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-11-08T06:19:40.924582"
+  },
+  "585381": {
+    "id": 585381,
+    "title": "Souvenir",
+    "release_date": "2021-03-04",
+    "vote_average": 6.317,
+    "poster_path": "/xywJrZfmAhUUsBhpvrdGEBUYlxt.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-11-08T06:19:41.141324"
+  },
+  "582186": {
+    "id": 582186,
+    "title": "Oh, Ramona!",
+    "release_date": "2019-02-14",
+    "vote_average": 5.757,
+    "poster_path": "/mscdZrk8k6VTVOgbVF5IpsaA8sK.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2025-11-08T06:19:41.143271"
+  },
+  "498448": {
+    "id": 498448,
+    "title": "Kesari",
+    "release_date": "2019-03-21",
+    "vote_average": 7.081,
+    "poster_path": "/ctjT1pMNAGD9ou0kuhz806tf7kX.jpg",
+    "genre_ids": [
+      28,
+      18,
+      36,
+      10752
+    ],
+    "cached_at": "2025-11-08T06:19:41.285950"
+  },
+  "549559": {
+    "id": 549559,
+    "title": "Apollo 11",
+    "release_date": "2019-03-01",
+    "vote_average": 7.876,
+    "poster_path": "/woLMRroHyoTGoXyxdEeBJEYBFtu.jpg",
+    "genre_ids": [
+      99,
+      36,
+      18
+    ],
+    "cached_at": "2025-11-08T06:19:41.565828"
+  },
+  "585504": {
+    "id": 585504,
+    "title": "Khalid: Free Spirit",
+    "release_date": "2019-04-03",
+    "vote_average": 7.0,
+    "poster_path": "/v3lQksobEVS5laa9Jp9QsmSoGAg.jpg",
+    "genre_ids": [
+      10402,
+      18
+    ],
+    "cached_at": "2025-11-08T06:19:41.923427"
+  },
+  "274570": {
+    "id": 274570,
+    "title": "Hawaiian Surf Stories",
+    "release_date": "2005-01-01",
+    "vote_average": 0.0,
+    "poster_path": null,
+    "genre_ids": [],
+    "cached_at": "2025-11-08T06:19:42.213854"
+  },
+  "463364": {
+    "id": 463364,
+    "title": "The Isle",
+    "release_date": "2019-02-08",
+    "vote_average": 4.734,
+    "poster_path": "/1YPlbnyaDV7N1VSc8UHRVi3597o.jpg",
+    "genre_ids": [
+      53,
+      12,
+      14,
+      27
+    ],
+    "cached_at": "2025-11-08T06:19:43.207362"
+  },
+  "90921": {
+    "id": 90921,
+    "title": "Thunder Ninja Kids: Wonderful Mission",
+    "release_date": "1990-11-30",
+    "vote_average": 3.7,
+    "poster_path": "/v4PoYNQHoBhCt7xCG3gSPA9IoM7.jpg",
+    "genre_ids": [
+      14,
+      28,
+      36
+    ],
+    "cached_at": "2025-11-08T06:19:43.292687"
+  },
+  "86605": {
+    "id": 86605,
+    "title": "Before Sunrise",
+    "release_date": "2005-07-04",
+    "vote_average": 6.5,
+    "poster_path": null,
+    "genre_ids": [
+      16
+    ],
+    "cached_at": "2025-11-08T06:19:43.567427"
+  },
+  "474214": {
+    "id": 474214,
+    "title": "Trading Paint - Oltre la leggenda",
+    "release_date": "2019-02-22",
+    "vote_average": 5.4,
+    "poster_path": "/zeC094kZilrC1eKv90DZkR2zgFQ.jpg",
+    "genre_ids": [
+      28,
+      18
+    ],
+    "cached_at": "2025-11-08T06:19:43.925584"
+  },
+  "86755": {
+    "id": 86755,
+    "title": "Come On Children",
+    "release_date": "1973-03-21",
+    "vote_average": 5.8,
+    "poster_path": "/aGzpOxNDdOpHm8AlT27eq78Ygv3.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-11-08T06:19:43.928341"
+  },
+  "491473": {
+    "id": 491473,
+    "title": "Gloria Bell",
+    "release_date": "2019-03-07",
+    "vote_average": 6.0,
+    "poster_path": "/oTfAWQXUceUszmifA4AwkIsDccQ.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2025-11-08T06:19:44.286350"
+  },
+  "86640": {
+    "id": 86640,
+    "title": "Nudo e selvaggio",
+    "release_date": "1985-08-13",
+    "vote_average": 4.993,
+    "poster_path": "/pfwNt10t4Eq86kyPAlaGHXoGKf2.jpg",
+    "genre_ids": [
+      12,
+      28,
+      27
+    ],
+    "cached_at": "2025-11-08T06:19:44.353663"
+  },
+  "477887": {
+    "id": 477887,
+    "title": "Nureyev - The White Crow",
+    "release_date": "2018-08-31",
+    "vote_average": 6.591,
+    "poster_path": "/tSX6OTFyskyIvnLIzgImJ17lyGc.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-11-08T06:19:45.352384"
+  },
+  "554739": {
+    "id": 554739,
+    "title": "The Final Wish",
+    "release_date": "2019-01-24",
+    "vote_average": 5.0,
+    "poster_path": "/181zwXeXcRrBWkF5OFt3d1GhDpW.jpg",
+    "genre_ids": [
+      27
+    ],
+    "cached_at": "2025-11-08T06:19:46.366527"
+  },
+  "86053": {
+    "id": 86053,
+    "title": "Un enredo de familia",
+    "release_date": "1943-05-09",
+    "vote_average": 4.4,
+    "poster_path": "/utB9Fxa2OzUpVHSalUV6SPyIEdM.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-11-08T06:19:46.490569"
+  },
+  "1246049": {
+    "id": 1246049,
+    "title": "Dracula - L’amore perduto",
+    "release_date": "2025-07-30",
+    "vote_average": 7.066,
+    "poster_path": "/cqFaYumI8BzVSG3TIHBLumEOYZk.jpg",
+    "genre_ids": [
+      27,
+      14,
+      10749
+    ],
+    "cached_at": "2025-11-08T06:19:46.510346"
+  },
+  "584427": {
+    "id": 584427,
+    "title": "R4",
+    "release_date": "2019-03-01",
+    "vote_average": 5.914,
+    "poster_path": "/hxtvnvWdeibiDc6mU5ftAUPGofe.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2025-11-08T06:19:46.640742"
+  },
+  "303077": {
+    "id": 303077,
+    "title": "Hendathi Endare Heegirabeku",
+    "release_date": "1995-01-01",
+    "vote_average": 0.0,
+    "poster_path": null,
+    "genre_ids": [],
+    "cached_at": "2025-11-08T06:19:46.717837"
+  },
+  "1062722": {
+    "id": 1062722,
+    "title": "Frankenstein",
+    "release_date": "2025-10-17",
+    "vote_average": 7.655,
+    "poster_path": "/zxPLe88dEW3i2RTGAQixbKmZATz.jpg",
+    "genre_ids": [
+      18,
+      27,
+      14
+    ],
+    "cached_at": "2025-11-08T06:19:47.286094"
+  },
+  "498743": {
+    "id": 498743,
+    "title": "Gli ultimi fuorilegge",
+    "release_date": "2019-03-15",
+    "vote_average": 6.046,
+    "poster_path": "/cuSL7aqKwylmp2qigHO28EJyc8B.jpg",
+    "genre_ids": [
+      37
+    ],
+    "cached_at": "2025-11-08T06:19:47.362870"
+  },
+  "574303": {
+    "id": 574303,
+    "title": "Jo Pil-ho: L'alba della vendetta",
+    "release_date": "2019-03-20",
+    "vote_average": 6.103,
+    "poster_path": "/syUUwzha2YwBOHbig7eIvL78hVC.jpg",
+    "genre_ids": [
+      28,
+      80,
+      18,
+      53
+    ],
+    "cached_at": "2025-11-08T06:19:47.422962"
+  },
+  "720312": {
+    "id": 720312,
+    "title": "No Sin Unpunished",
+    "release_date": "2019-01-21",
+    "vote_average": 6.0,
+    "poster_path": "/xsUpyA7sR79QhWXQ0QPuQ8UFLNk.jpg",
+    "genre_ids": [
+      27
+    ],
+    "cached_at": "2025-11-08T06:19:47.499165"
+  },
+  "303109": {
+    "id": 303109,
+    "title": "Kemarau Cinta",
+    "release_date": "2005-05-05",
+    "vote_average": 0.0,
+    "poster_path": "/9xTsqFE6yDQUKy0OE0EhXQ9x7Nn.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-11-08T06:19:47.503284"
+  },
+  "483353": {
+    "id": 483353,
+    "title": "L'ora del lupo",
+    "release_date": "2019-01-26",
+    "vote_average": 5.35,
+    "poster_path": "/yZZBUpZ9rDsz6cCfnktU90uAOmF.jpg",
+    "genre_ids": [
+      53
+    ],
+    "cached_at": "2025-11-08T06:19:47.942311"
+  },
+  "411139": {
+    "id": 411139,
+    "title": "I'm Not Here",
+    "release_date": "2017-11-16",
+    "vote_average": 5.824,
+    "poster_path": "/zyJyNCoR4rVi5OEYniLEOxYCM4b.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-11-08T06:19:48.212978"
+  },
+  "512199": {
+    "id": 512199,
+    "title": "Native Son",
+    "release_date": "2019-01-24",
+    "vote_average": 5.443,
+    "poster_path": "/vVF6CnjXLqAjK2crI1ielma18TW.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-11-08T06:19:48.290930"
+  },
+  "87216": {
+    "id": 87216,
+    "title": "Droopy contro Dan McGoo",
+    "release_date": "1945-04-14",
+    "vote_average": 6.7,
+    "poster_path": "/794ukwkz2qpMCwHc1vQyijv6SWD.jpg",
+    "genre_ids": [
+      16,
+      35,
+      37
+    ],
+    "cached_at": "2025-11-08T06:19:48.361360"
+  },
+  "537526": {
+    "id": 537526,
+    "title": "A Land Imagined",
+    "release_date": "2019-02-06",
+    "vote_average": 5.982,
+    "poster_path": "/9SDdIlpQ3dkhBFy6se2STiWvujZ.jpg",
+    "genre_ids": [
+      9648,
+      18
+    ],
+    "cached_at": "2025-11-08T06:19:48.853920"
+  },
+  "1426792": {
+    "id": 1426792,
+    "title": "Mango",
+    "release_date": "2025-11-07",
+    "vote_average": 6.5,
+    "poster_path": "/s9lDFwMqxIlJHD7ovZ9wUw0twwK.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "cached_at": "2025-11-08T06:19:48.927352"
+  },
+  "519241": {
+    "id": 519241,
+    "title": "Chuva É Cantoria na Aldeia dos Mortos",
+    "release_date": "2019-03-14",
+    "vote_average": 5.8,
+    "poster_path": "/aAqSPr4B1W5BmrxBwMxORFXBciD.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-11-08T06:19:49.423975"
+  },
+  "1265063": {
+    "id": 1265063,
+    "title": "After the Hunt - Dopo la caccia",
+    "release_date": "2025-10-09",
+    "vote_average": 6.3,
+    "poster_path": "/plvw7QFmMLRczx5EEn9NizCSZEi.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "cached_at": "2025-11-08T06:19:49.735130"
+  },
+  "573917": {
+    "id": 573917,
+    "title": "Ken Jeong: You Complete Me, Ho",
+    "release_date": "2019-02-14",
+    "vote_average": 5.8,
+    "poster_path": "/xhrJCFM3tWWQnRKUGYzrmczVTRX.jpg",
+    "genre_ids": [
+      35,
+      99
+    ],
+    "cached_at": "2025-11-08T06:19:50.377241"
+  },
+  "1197137": {
+    "id": 1197137,
+    "title": "Black Phone 2",
+    "release_date": "2025-10-15",
+    "vote_average": 7.259,
+    "poster_path": "/2QpKUxbaXIuFtJZtiXCeWw2ZNcZ.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2025-11-08T06:19:50.520250"
+  },
+  "86943": {
+    "id": 86943,
+    "title": "The Restless Ones",
+    "release_date": "1965-12-02",
+    "vote_average": 4.2,
+    "poster_path": "/fZHIYwE2BG8s7rMAYSSTVI9QsBw.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-11-08T06:19:50.750347"
+  },
+  "541495": {
+    "id": 541495,
+    "title": "मर्द को दर्द नहीं होता",
+    "release_date": "2019-03-21",
+    "vote_average": 6.634,
+    "poster_path": "/wTjHUQ2PK6M253kvVoK44ljTt2u.jpg",
+    "genre_ids": [
+      28,
+      35
+    ],
+    "cached_at": "2025-11-08T06:19:50.881053"
+  },
+  "581958": {
+    "id": 581958,
+    "title": "Amy Schumer: Growing",
+    "release_date": "2019-03-19",
+    "vote_average": 5.9,
+    "poster_path": "/uQa9lkX1fYCpsG5Uq8ONOsqlbQw.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-11-08T06:19:51.211352"
+  },
+  "582868": {
+    "id": 582868,
+    "title": "Firebrand",
+    "release_date": "2019-02-22",
+    "vote_average": 5.8,
+    "poster_path": "/kJxkdh6UyKU0VfW6Jah0S4jifCV.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-11-08T06:19:51.246022"
+  },
+  "85220": {
+    "id": 85220,
+    "title": "The Thieving Hand",
+    "release_date": "1908-02-01",
+    "vote_average": 6.45,
+    "poster_path": null,
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-11-08T06:19:51.313067"
+  },
+  "567860": {
+    "id": 567860,
+    "title": "FYRE: La più grande festa mai avvenuta",
+    "release_date": "2019-01-18",
+    "vote_average": 6.924,
+    "poster_path": "/yFsP0BAJhAH3RTXCAnGvI1CtaUb.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-11-08T06:19:51.779377"
+  },
+  "536176": {
+    "id": 536176,
+    "title": "Brexit: The Uncivil War",
+    "release_date": "2019-01-19",
+    "vote_average": 6.589,
+    "poster_path": "/AcEPeTBU6UoCi8PgSjRxAi8pEy1.jpg",
+    "genre_ids": [
+      36,
+      10770,
+      18
+    ],
+    "cached_at": "2025-11-08T06:19:51.853582"
+  },
+  "96722": {
+    "id": 96722,
+    "title": "Klassenkeile",
+    "release_date": "1969-03-28",
+    "vote_average": 4.0,
+    "poster_path": "/jfshTckkhiTmMLB1j16bbS4WCMa.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-11-08T06:19:52.098644"
+  },
+  "424651": {
+    "id": 424651,
+    "title": "Untogether",
+    "release_date": "2019-02-08",
+    "vote_average": 5.365,
+    "poster_path": "/kfypuQSaXQTSXQk837qPwRW3H8K.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2025-11-08T06:19:52.217043"
+  },
+  "94547": {
+    "id": 94547,
+    "title": "Not a Romance",
+    "release_date": "2003-07-02",
+    "vote_average": 10.0,
+    "poster_path": "/vaif13Lz45wiQdr3LO9x1moKEip.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "cached_at": "2025-11-08T06:19:52.721824"
+  },
+  "86742": {
+    "id": 86742,
+    "title": "Beyond Atlantis",
+    "release_date": "1973-09-01",
+    "vote_average": 3.731,
+    "poster_path": "/2UmiFVWnbZWQjGldZnamA0YyLbq.jpg",
+    "genre_ids": [
+      14,
+      878,
+      27
+    ],
+    "cached_at": "2025-11-08T06:19:52.954799"
+  },
+  "593280": {
+    "id": 593280,
+    "title": "Sopraffatti dalla vita",
+    "release_date": "2019-01-26",
+    "vote_average": 6.523,
+    "poster_path": "/fHO4wOw7u6B9yIzLuKf0UBO7GmO.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-11-08T06:19:53.353967"
+  },
+  "553644": {
+    "id": 553644,
+    "title": "ReMastered: The Miami Showband Massacre",
+    "release_date": "2019-03-22",
+    "vote_average": 6.7,
+    "poster_path": "/bFXbGsyccxtkPiqp7GQNcFsvvJP.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-11-08T06:19:53.880288"
   }
 }
