@@ -485,19 +485,6 @@
     <desc lang="it">Formula 1 : MSC Cruises Sao Paulo GP - Qualifying</desc>
     <category lang="it">Motorsport</category>
   </programme>
-  <channel id="UFCFightMainCardGabrielBonfimvsRandyBrown">
-    <display-name>UFC Fight Main Card : Gabriel Bonfim vs Randy Brown</display-name>
-  </channel>
-  <programme start="20251108000000 +0200" stop="20251108020000 +0200" channel="UFCFightMainCardGabrielBonfimvsRandyBrown">
-    <title lang="it">Inizia alle 02:00.</title>
-    <desc lang="it">UFC Fight Main Card : Gabriel Bonfim vs Randy Brown.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251108020000 +0200" stop="20251108040000 +0200" channel="UFCFightMainCardGabrielBonfimvsRandyBrown">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UFC Fight Main Card : Gabriel Bonfim vs Randy Brown</desc>
-    <category lang="it">MMA</category>
-  </programme>
   <channel id="InternationalChampionshipSemiFinal">
     <display-name>International Championship | Semi-Final</display-name>
   </channel>
