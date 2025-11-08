@@ -2,27 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyseriecpropatriavslumezzane" tvg-name="All Soccer Events | Italy - Serie C : Pro Patria vs Lumezzane (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pro Patria_vs_Lumezzane.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Pro Patria vs Lumezzane (18:30)
-https://dlhd.dad/watch.php?id=190
-
-#EXTINF:-1 tvg-id="italyseriecnuovamonterosivspontedera" tvg-name="All Soccer Events | Italy - Serie C : Nuova Monterosi vs Pontedera (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Nuova Monterosi_vs_Pontedera.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Nuova Monterosi vs Pontedera (18:30)
-https://dlhd.dad/watch.php?id=188
-
-#EXTINF:-1 tvg-id="italyseriecpianesevsrimini" tvg-name="All Soccer Events | Italy - Serie C : Pianese vs Rimini (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pianese_vs_Rimini.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Pianese vs Rimini (18:30)
-https://dlhd.dad/watch.php?id=191
-
-#EXTINF:-1 tvg-id="italyseriecravennavssassaritorres" tvg-name="All Soccer Events | Italy - Serie C : Ravenna vs Sassari Torres (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ravenna_vs_Sassari Torres.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Ravenna vs Sassari Torres (18:30)
-https://dlhd.dad/watch.php?id=151
-
-#EXTINF:-1 tvg-id="italyserieccosenzavsvirtuscasarano" tvg-name="All Soccer Events | Italy - Serie C : Cosenza vs Virtus Casarano (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Cosenza_vs_Virtus Casarano.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Cosenza vs Virtus Casarano (18:30)
-https://dlhd.dad/watch.php?id=192
-
-#EXTINF:-1 tvg-id="italyserieajuventusvstorino" tvg-name="All Soccer Events | Italy - Serie A : Juventus vs Torino (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Juventus_vs_Torino.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Juventus vs Torino (19:00)
-https://dlhd.dad/watch.php?id=877
-
-#EXTINF:-1 tvg-id="englandpremierleaguesunderlandvsarsenal" tvg-name="All Soccer Events | England - Premier League : Sunderland vs Arsenal (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sunderland_vs_Arsenal.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Sunderland vs Arsenal (19:30)
-https://dlhd.dad/watch.php?id=870
-
 #EXTINF:-1 tvg-id="germanybundesliga2kaiserslauternvsherthabsc" tvg-name="All Soccer Events | Germany - Bundesliga 2 : Kaiserslautern vs Hertha BSC (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Kaiserslautern_vs_Hertha BSC.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - Bundesliga 2 : Kaiserslautern vs Hertha BSC (21:30)
 https://dlhd.dad/watch.php?id=192
 
@@ -37,21 +16,6 @@ https://dlhd.dad/watch.php?id=461
 
 #EXTINF:-1 tvg-id="franceligue1monacovslens" tvg-name="All Soccer Events | France - Ligue 1 : Monaco vs Lens (22:05)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Monaco_vs_Lens.png" group-title="Eventi Live DLHD",All Soccer Events | France - Ligue 1 : Monaco vs Lens (22:05)
 https://dlhd.dad/watch.php?id=188
-
-#EXTINF:-1 tvg-id="formula1msccruisessaopaulogpqualifying" tvg-name="Motorsport | Formula 1 : MSC Cruises Sao Paulo GP - Qualifying (19:00)" tvg-logo="https://brandlogos.net/wp-content/uploads/2022/04/formula_1-logo-brandlogos.net_-768x768.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : MSC Cruises Sao Paulo GP - Qualifying (19:00)
-https://dlhd.dad/watch.php?id=577
-
-#EXTINF:-1 tvg-id="ucibmxfreestyleworldchampionshipsmenparkfinal" tvg-name="Cycling | UCI BMX Freestyle World Championships Men | Park | Final (18:45)" tvg-logo="https://www.alma-park.de/wp-content/uploads/2024/06/alma-park-icon-axtwerfen.png" group-title="Eventi Live DLHD",Cycling | UCI BMX Freestyle World Championships Men | Park | Final (18:45)
-https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="friendlyinternationalitalyvsaustralia" tvg-name="Rugby Union | Friendly International : Italy vs Australia (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Italy_vs_Australia.png" group-title="Eventi Live DLHD",Rugby Union | Friendly International : Italy vs Australia (19:30)
-https://dlhd.dad/watch.php?id=460
-
-#EXTINF:-1 tvg-id="friendlyinternationalitalyvsaustralia" tvg-name="Rugby Union | Friendly International : Italy vs Australia (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Italy_vs_Australia.png" group-title="Eventi Live DLHD",Rugby Union | Friendly International : Italy vs Australia (19:30)
-https://dlhd.dad/watch.php?id=882
-
-#EXTINF:-1 tvg-id="friendlyinternationalenglandvsfiji" tvg-name="Rugby Union | Friendly International : England vs Fiji (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/England_vs_Fiji.png" group-title="Eventi Live DLHD",Rugby Union | Friendly International : England vs Fiji (19:30)
-https://dlhd.dad/watch.php?id=462
 
 #EXTINF:-1 tvg-id="friendlyinternationalfrancevssouthafrica" tvg-name="Rugby Union | Friendly International : France vs South Africa (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/France_vs_South Africa.png" group-title="Eventi Live DLHD",Rugby Union | Friendly International : France vs South Africa (22:00)
 https://dlhd.dad/watch.php?id=462
