@@ -488,17 +488,7 @@
   <channel id="InternationalChampionshipSemiFinal">
     <display-name>International Championship | Semi-Final</display-name>
   </channel>
-  <programme start="20251108000000 +0200" stop="20251108080000 +0200" channel="InternationalChampionshipSemiFinal">
-    <title lang="it">Inizia alle 08:00.</title>
-    <desc lang="it">International Championship | Semi-Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251108080000 +0200" stop="20251108100000 +0200" channel="InternationalChampionshipSemiFinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">International Championship | Semi-Final</desc>
-    <category lang="it">Snooker</category>
-  </programme>
-  <programme start="20251108100000 +0200" stop="20251108133000 +0200" channel="InternationalChampionshipSemiFinal">
+  <programme start="20251108000000 +0200" stop="20251108133000 +0200" channel="InternationalChampionshipSemiFinal">
     <title lang="it">Inizia alle 13:30.</title>
     <desc lang="it">International Championship | Semi-Final.</desc>
     <category lang="it">Annuncio</category>
