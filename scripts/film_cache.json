@@ -131446,5 +131446,58 @@
       99
     ],
     "cached_at": "2025-11-08T06:19:53.880288"
+  },
+  "14012": {
+    "id": 14012,
+    "title": "Flicka - Uno spirito libero",
+    "release_date": "2006-10-20",
+    "vote_average": 6.858,
+    "poster_path": "/gGgBRUs9J1kLV6TJZawUyKizcF2.jpg",
+    "genre_ids": [
+      10751,
+      18
+    ],
+    "cached_at": "2025-11-09T06:20:16.862086"
+  },
+  "845": {
+    "id": 845,
+    "title": "L'altro uomo",
+    "release_date": "1951-06-27",
+    "vote_average": 7.665,
+    "poster_path": "/j7mipe9EyZ1N0Jg0W8VqdKoMacJ.jpg",
+    "genre_ids": [
+      80,
+      53
+    ],
+    "cached_at": "2025-11-09T06:20:18.417724"
+  },
+  "1284120": {
+    "id": 1284120,
+    "title": "The Ugly Stepsister",
+    "release_date": "2025-03-07",
+    "vote_average": 7.356,
+    "poster_path": "/bDHsYuXlCC3Qd2wTgcsKa4YL0iB.jpg",
+    "genre_ids": [
+      27,
+      35,
+      14,
+      18
+    ],
+    "cached_at": "2025-11-09T06:20:19.223129"
+  },
+  "487672": {
+    "id": 487672,
+    "title": "Reign of the Supermen",
+    "release_date": "2019-01-13",
+    "vote_average": 7.025,
+    "poster_path": "/e9TzqscNRUaG8HqEP3K1jUvi8pC.jpg",
+    "genre_ids": [
+      878,
+      16,
+      28,
+      12,
+      14
+    ],
+    "cached_at": "2025-11-09T06:20:23.967984"
   }
 }

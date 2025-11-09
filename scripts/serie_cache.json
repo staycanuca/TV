@@ -58108,5 +58108,57 @@
       18
     ],
     "cached_at": "2025-11-08T06:19:58.733037"
+  },
+  "304186": {
+    "id": 304186,
+    "name": "Calciopoli ultimo atto: le nuove verità nascoste",
+    "original_name": "Calciopoli ultimo atto: le nuove verità nascoste",
+    "first_air_date": "2025-11-09",
+    "vote_average": 0.0,
+    "poster_path": "/1BDDRckfRClmz0CRDdFaL7ebDiZ.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-11-09T06:20:29.950269"
+  },
+  "84669": {
+    "id": 84669,
+    "name": "The Quintessential Quintuplets",
+    "original_name": "五等分の花嫁",
+    "first_air_date": "2019-01-11",
+    "vote_average": 8.449,
+    "poster_path": "/2N3eopYKpWkUD2pChD4jWV6UyGD.jpg",
+    "genre_ids": [
+      16,
+      18,
+      35
+    ],
+    "cached_at": "2025-11-09T06:20:29.990866"
+  },
+  "86072": {
+    "id": 86072,
+    "name": "绝世千金",
+    "original_name": "绝世千金",
+    "first_air_date": "2019-01-17",
+    "vote_average": 6.7,
+    "poster_path": "/5gnLXYUp2aRIHFjeK21xZzmncr8.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "cached_at": "2025-11-09T06:20:30.032344"
+  },
+  "85789": {
+    "id": 85789,
+    "name": "MI senti?",
+    "original_name": "M'entends-tu?",
+    "first_air_date": "2019-01-16",
+    "vote_average": 7.9,
+    "poster_path": "/mzxccD9DZ7olWlXN4912QxpZN4J.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2025-11-09T06:20:30.118424"
   }
 }
