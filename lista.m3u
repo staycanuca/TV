@@ -247,6 +247,10 @@ https://dlhd.dad/watch.php?id=852
 https://vavoo.to/vavoo-iptv/play/2179822223e6f7fefa408e
 #EXTINF:-1 tvg-id="rai5.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-5-it.png" group-title="Rai",RAI 5
 https://vavoo.to/vavoo-iptv/play/31633805432b7c33717323
+#EXTINF:-1 tvg-id="raigulp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-gulp-it.png" group-title="Rai",RAI GULP
+https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
+https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
 https://vavoo.to/vavoo-iptv/play/1925964148b9cb23cc2bce
 #EXTINF:-1 tvg-id="rainews24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Rai",RAI NEWS 24
@@ -627,7 +631,7 @@ https://dlhd.dad/watch.php?id=164
 #EXTINF:-1 tvg-id="italyseriecprovercellivstriestina" tvg-name="All Soccer Events | Italy - Serie C : Pro Vercelli vs Triestina (15:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pro Vercelli_vs_Triestina.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Pro Vercelli vs Triestina (15:30)
 https://dlhd.dad/watch.php?id=165
 
-#EXTINF:-1 tvg-id="italyseriecperugiavsarezzo" tvg-name="All Soccer Events | Italy - Serie C : Perugia vs Arezzo (15:30)" tvg-logo="https://mercatininatalearezzo.it/wp-content/uploads/2022/08/Logo-MercatiniNataleArezzo2022-Recuperato.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Perugia vs Arezzo (15:30)
+#EXTINF:-1 tvg-id="italyseriecperugiavsarezzo" tvg-name="All Soccer Events | Italy - Serie C : Perugia vs Arezzo (15:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Perugia_vs_Arezzo.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Perugia vs Arezzo (15:30)
 https://dlhd.dad/watch.php?id=166
 
 #EXTINF:-1 tvg-id="italyseriecsiracusavslatina" tvg-name="All Soccer Events | Italy - Serie C : Siracusa vs Latina (15:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Siracusa_vs_Latina.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Siracusa vs Latina (15:30)
@@ -696,34 +700,34 @@ https://dlhd.dad/watch.php?id=870
 #EXTINF:-1 tvg-id="italyserieainternazionalevslazio" tvg-name="All Soccer Events | Italy - Serie A : Internazionale vs Lazio (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Internazionale_vs_Lazio.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Internazionale vs Lazio (21:45)
 https://dlhd.dad/watch.php?id=877
 
-#EXTINF:-1 tvg-id="2025nittoatpfinalsroundrobinday1" tvg-name="Tennis | 2025 Nitto ATP Finals Round Robin, Day 1 (15:00)" tvg-logo="https://png.pngtree.com/png-clipart/20240226/original/pngtree-2025-year-gradient-vector-png-image_14411938.png" group-title="Eventi Live DLHD",Tennis | 2025 Nitto ATP Finals Round Robin, Day 1 (15:00)
+#EXTINF:-1 tvg-id="2025nittoatpfinalsroundrobinday1" tvg-name="Tennis | 2025 Nitto ATP Finals Round Robin, Day 1 (15:00)" tvg-logo="https://png.pngtree.com/png-clipart/20240204/original/pngtree-2025-minimalist-calendar-vector-png-image_14235147.png" group-title="Eventi Live DLHD",Tennis | 2025 Nitto ATP Finals Round Robin, Day 1 (15:00)
 https://dlhd.dad/watch.php?id=576
 
 #EXTINF:-1 tvg-id="centercourtliveatpfinalssinglesroundrobinlive" tvg-name="Tennis | Center Court Live ATP Finals Singles Round Robin Live (21:30)" tvg-logo="https://cdn-skill.splashmath.com/panel-uploads/GlossaryTerm/8bc0a422674548a48e2500b880628b91/1544077479_Center-of-the-Circle-Center-Point.png" group-title="Eventi Live DLHD",Tennis | Center Court Live ATP Finals Singles Round Robin Live (21:30)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="motogpgreekgrandprixofportugalwarmup" tvg-name="Motorsport | Moto GP : Greek Grand Prix of Portugal Warm Up (11:30)" tvg-logo="https://motoadventure.com.br/wp-content/uploads/2023/12/cf-moto-450-mt-5.png" group-title="Eventi Live DLHD",Motorsport | Moto GP : Greek Grand Prix of Portugal Warm Up (11:30)
+#EXTINF:-1 tvg-id="motogpgreekgrandprixofportugalwarmup" tvg-name="Motorsport | Moto GP : Greek Grand Prix of Portugal Warm Up (11:30)" tvg-logo="https://logos-world.net/wp-content/uploads/2024/12/MotoGP-Logo-New.png" group-title="Eventi Live DLHD",Motorsport | Moto GP : Greek Grand Prix of Portugal Warm Up (11:30)
 https://dlhd.dad/watch.php?id=575
 
-#EXTINF:-1 tvg-id="moto2greekgrandprixofportugalrace" tvg-name="Motorsport | Moto 2 : Greek Grand Prix of Portugal Race (12:00)" tvg-logo="https://motoadventure.com.br/wp-content/uploads/2023/12/cf-moto-450-mt-5.png" group-title="Eventi Live DLHD",Motorsport | Moto 2 : Greek Grand Prix of Portugal Race (12:00)
+#EXTINF:-1 tvg-id="moto2greekgrandprixofportugalrace" tvg-name="Motorsport | Moto 2 : Greek Grand Prix of Portugal Race (12:00)" tvg-logo="https://web2.fireboldweb.com/wp-content/uploads/2023/05/090520231683636873Victory-MRX-200-Negro-azul-foto1.png" group-title="Eventi Live DLHD",Motorsport | Moto 2 : Greek Grand Prix of Portugal Race (12:00)
 https://dlhd.dad/watch.php?id=575
 
-#EXTINF:-1 tvg-id="motogpgreekgrandprixofportugalrace" tvg-name="Motorsport | Moto GP : Greek Grand Prix of Portugal Race (15:00)" tvg-logo="https://motoadventure.com.br/wp-content/uploads/2023/12/cf-moto-450-mt-5.png" group-title="Eventi Live DLHD",Motorsport | Moto GP : Greek Grand Prix of Portugal Race (15:00)
+#EXTINF:-1 tvg-id="motogpgreekgrandprixofportugalrace" tvg-name="Motorsport | Moto GP : Greek Grand Prix of Portugal Race (15:00)" tvg-logo="https://logos-world.net/wp-content/uploads/2024/12/MotoGP-Logo-New.png" group-title="Eventi Live DLHD",Motorsport | Moto GP : Greek Grand Prix of Portugal Race (15:00)
 https://dlhd.dad/watch.php?id=575
 
-#EXTINF:-1 tvg-id="moto3greekgrandprixofportugalrace" tvg-name="Motorsport | Moto 3 : Greek Grand Prix of Portugal Race (16:15)" tvg-logo="https://motoadventure.com.br/wp-content/uploads/2023/12/cf-moto-450-mt-5.png" group-title="Eventi Live DLHD",Motorsport | Moto 3 : Greek Grand Prix of Portugal Race (16:15)
+#EXTINF:-1 tvg-id="moto3greekgrandprixofportugalrace" tvg-name="Motorsport | Moto 3 : Greek Grand Prix of Portugal Race (16:15)" tvg-logo="https://web2.fireboldweb.com/wp-content/uploads/2023/05/090520231683636873Victory-MRX-200-Negro-azul-foto1.png" group-title="Eventi Live DLHD",Motorsport | Moto 3 : Greek Grand Prix of Portugal Race (16:15)
 https://dlhd.dad/watch.php?id=575
 
-#EXTINF:-1 tvg-id="formula1msccruisessaopaulogpgrandprixsunday" tvg-name="Motorsport | Formula 1 : MSC Cruises Sao Paulo GP - Grand Prix Sunday (17:00)" tvg-logo="https://wallpaperaccess.com/full/6122723.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : MSC Cruises Sao Paulo GP - Grand Prix Sunday (17:00)
+#EXTINF:-1 tvg-id="formula1msccruisessaopaulogpgrandprixsunday" tvg-name="Motorsport | Formula 1 : MSC Cruises Sao Paulo GP - Grand Prix Sunday (17:00)" tvg-logo="https://images.seeklogo.com/logo-png/42/2/mclaren-formula-1-team-logo-png_seeklogo-425651.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : MSC Cruises Sao Paulo GP - Grand Prix Sunday (17:00)
 https://dlhd.dad/watch.php?id=577
 
-#EXTINF:-1 tvg-id="formula1msccruisessaopaulogprace" tvg-name="Motorsport | Formula 1 : MSC Cruises Sao Paulo GP - Race (19:00)" tvg-logo="https://wallpaperaccess.com/full/6122723.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : MSC Cruises Sao Paulo GP - Race (19:00)
+#EXTINF:-1 tvg-id="formula1msccruisessaopaulogprace" tvg-name="Motorsport | Formula 1 : MSC Cruises Sao Paulo GP - Race (19:00)" tvg-logo="https://logospng.org/download/formula-1/formula-1-2048.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : MSC Cruises Sao Paulo GP - Race (19:00)
 https://dlhd.dad/watch.php?id=577
 
-#EXTINF:-1 tvg-id="internationalchampionshipfinalafternoonsession" tvg-name="Snooker | International Championship | Final | Afternoon Session (09:00)" tvg-logo="https://cmsv2-assets.apptegy.net/uploads/16648/logo/17941/logo_template_300.png" group-title="Eventi Live DLHD",Snooker | International Championship | Final | Afternoon Session (09:00)
+#EXTINF:-1 tvg-id="internationalchampionshipfinalafternoonsession" tvg-name="Snooker | International Championship | Final | Afternoon Session (09:00)" tvg-logo="https://www.international.com.gt/wp-content/uploads/2023/05/hv-web-3.png" group-title="Eventi Live DLHD",Snooker | International Championship | Final | Afternoon Session (09:00)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="internationalchampionshipfinaleveningsession" tvg-name="Snooker | International Championship | Final | Evening Session (14:00)" tvg-logo="https://cmsv2-assets.apptegy.net/uploads/16648/logo/17941/logo_template_300.png" group-title="Eventi Live DLHD",Snooker | International Championship | Final | Evening Session (14:00)
+#EXTINF:-1 tvg-id="internationalchampionshipfinaleveningsession" tvg-name="Snooker | International Championship | Final | Evening Session (14:00)" tvg-logo="https://www.international.com.gt/wp-content/uploads/2023/05/hv-web-3.png" group-title="Eventi Live DLHD",Snooker | International Championship | Final | Evening Session (14:00)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="seriea2pesarovsscafati" tvg-name="Basketball | Serie A2 : Pesaro vs Scafati (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pesaro_vs_Scafati.png" group-title="Eventi Live DLHD",Basketball | Serie A2 : Pesaro vs Scafati (13:30)
