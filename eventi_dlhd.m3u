@@ -2,30 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="englandpremierleaguemanchestercityvsliverpool" tvg-name="All Soccer Events | England - Premier League : Manchester City vs Liverpool (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Manchester City_vs_Liverpool.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Manchester City vs Liverpool (18:30)
-https://dlhd.dad/watch.php?id=462
-
-#EXTINF:-1 tvg-id="italyseriecgianaerminiovsalbinoleffe" tvg-name="All Soccer Events | Italy - Serie C : Giana Erminio vs AlbinoLeffe (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Giana Erminio_vs_AlbinoLeffe.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Giana Erminio vs AlbinoLeffe (18:30)
-https://dlhd.dad/watch.php?id=164
-
-#EXTINF:-1 tvg-id="italyseriecnovaravslecco" tvg-name="All Soccer Events | Italy - Serie C : Novara vs Lecco (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Novara_vs_Lecco.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Novara vs Lecco (18:30)
-https://dlhd.dad/watch.php?id=169
-
-#EXTINF:-1 tvg-id="italyseriecathleticcarpivslivorno" tvg-name="All Soccer Events | Italy - Serie C : Athletic Carpi vs Livorno (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Athletic Carpi_vs_Livorno.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Athletic Carpi vs Livorno (18:30)
-https://dlhd.dad/watch.php?id=166
-
-#EXTINF:-1 tvg-id="italyseriecmonopolivscasertana" tvg-name="All Soccer Events | Italy - Serie C : Monopoli vs Casertana (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Monopoli_vs_Casertana.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Monopoli vs Casertana (18:30)
-https://dlhd.dad/watch.php?id=167
-
-#EXTINF:-1 tvg-id="italyseriecsorrentovsaudacecerignola" tvg-name="All Soccer Events | Italy - Serie C : Sorrento vs Audace Cerignola (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sorrento_vs_Audace Cerignola.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Sorrento vs Audace Cerignola (18:30)
-https://dlhd.dad/watch.php?id=165
-
-#EXTINF:-1 tvg-id="italyseriearomavsudinese" tvg-name="All Soccer Events | Italy - Serie A : Roma vs Udinese (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Roma_vs_Udinese.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Roma vs Udinese (19:00)
-https://dlhd.dad/watch.php?id=168
-
-#EXTINF:-1 tvg-id="italyseriearomavsudinese" tvg-name="All Soccer Events | Italy - Serie A : Roma vs Udinese (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Roma_vs_Udinese.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Roma vs Udinese (19:00)
-https://dlhd.dad/watch.php?id=870
-
 #EXTINF:-1 tvg-id="germanybundesligaeintrachtfrankfurtvsmainz05" tvg-name="All Soccer Events | Germany - Bundesliga : Eintracht Frankfurt vs Mainz 05 (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Eintracht Frankfurt_vs_Mainz 05.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - Bundesliga : Eintracht Frankfurt vs Mainz 05 (20:30)
 https://dlhd.dad/watch.php?id=460
 
@@ -44,12 +20,6 @@ https://dlhd.dad/watch.php?id=870
 #EXTINF:-1 tvg-id="italyserieainternazionalevslazio" tvg-name="All Soccer Events | Italy - Serie A : Internazionale vs Lazio (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Internazionale_vs_Lazio.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Internazionale vs Lazio (21:45)
 https://dlhd.dad/watch.php?id=877
 
-#EXTINF:-1 tvg-id="centercourtliveatpfinalssinglesroundrobinlive" tvg-name="Tennis | Center Court Live ATP Finals Singles Round Robin Live (21:30)" tvg-logo="https://static.flashscore.com/res/image/data/MBu4vgWI-IF09zCVA.png" group-title="Eventi Live DLHD",Tennis | Center Court Live ATP Finals Singles Round Robin Live (21:30)
+#EXTINF:-1 tvg-id="centercourtliveatpfinalssinglesroundrobinlive" tvg-name="Tennis | Center Court Live ATP Finals Singles Round Robin Live (21:30)" tvg-logo="https://cdn-skill.splashmath.com/panel-uploads/GlossaryTerm/8bc0a422674548a48e2500b880628b91/1544077479_Center-of-the-Circle-Center-Point.png" group-title="Eventi Live DLHD",Tennis | Center Court Live ATP Finals Singles Round Robin Live (21:30)
 https://dlhd.dad/watch.php?id=576
-
-#EXTINF:-1 tvg-id="formula1msccruisessaopaulogprace" tvg-name="Motorsport | Formula 1 : MSC Cruises Sao Paulo GP - Race (19:00)" tvg-logo="https://wallpapercave.com/wp/wp8757596.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : MSC Cruises Sao Paulo GP - Race (19:00)
-https://dlhd.dad/watch.php?id=577
-
-#EXTINF:-1 tvg-id="seriea1womenfirenzewvssangiovanniw" tvg-name="Volleyball | Serie A1 Women : Firenze W vs San Giovanni W (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Firenze W_vs_San Giovanni W.png" group-title="Eventi Live DLHD",Volleyball | Serie A1 Women : Firenze W vs San Giovanni W (19:00)
-https://dlhd.dad/watch.php?id=882
 
