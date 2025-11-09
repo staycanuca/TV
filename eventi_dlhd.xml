@@ -508,19 +508,6 @@
     <desc lang="it">Serie A2 : Pesaro vs Scafati</desc>
     <category lang="it">Basketball</category>
   </programme>
-  <channel id="SaitamaCriteriumMenSaitama35kmx17">
-    <display-name>Saitama Criterium Men | Saitama (3.5km x 17)</display-name>
-  </channel>
-  <programme start="20251109000000 +0200" stop="20251109074500 +0200" channel="SaitamaCriteriumMenSaitama35kmx17">
-    <title lang="it">Inizia alle 07:45.</title>
-    <desc lang="it">Saitama Criterium Men | Saitama (3.5km x 17).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251109074500 +0200" stop="20251109094500 +0200" channel="SaitamaCriteriumMenSaitama35kmx17">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Saitama Criterium Men | Saitama (3.5km x 17)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
   <channel id="UECEuropeanChampionshipsEliteMenMiddelkerke">
     <display-name>UEC European Championships Elite Men | Middelkerke</display-name>
   </channel>
