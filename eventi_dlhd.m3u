@@ -2,24 +2,27 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="germanybundesligaeintrachtfrankfurtvsmainz05" tvg-name="All Soccer Events | Germany - Bundesliga : Eintracht Frankfurt vs Mainz 05 (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Eintracht Frankfurt_vs_Mainz 05.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - Bundesliga : Eintracht Frankfurt vs Mainz 05 (20:30)
-https://dlhd.dad/watch.php?id=460
+#EXTINF:-1 tvg-id="italyseriecsalernitanavscrotone" tvg-name="Soccer | Italy - Serie C : Salernitana vs Crotone (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Salernitana_vs_Crotone.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Salernitana vs Crotone (21:30)
+https://dlhd.dad/watch.php?id=5
 
-#EXTINF:-1 tvg-id="italyseriecternanavsvispesaro" tvg-name="All Soccer Events | Italy - Serie C : Ternana vs Vis Pesaro (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ternana_vs_Vis Pesaro.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Ternana vs Vis Pesaro (21:30)
-https://dlhd.dad/watch.php?id=166
+#EXTINF:-1 tvg-id="italyseriecsalernitanavscrotone" tvg-name="Soccer | Italy - Serie C : Salernitana vs Crotone (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Salernitana_vs_Crotone.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Salernitana vs Crotone (21:30)
+https://dlhd.dad/watch.php?id=882
 
-#EXTINF:-1 tvg-id="italyseriecfoggiavsbenevento" tvg-name="All Soccer Events | Italy - Serie C : Foggia vs Benevento (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Foggia_vs_Benevento.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Foggia vs Benevento (21:30)
-https://dlhd.dad/watch.php?id=169
-
-#EXTINF:-1 tvg-id="italyseriecfoggiavsbenevento" tvg-name="All Soccer Events | Italy - Serie C : Foggia vs Benevento (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Foggia_vs_Benevento.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Foggia vs Benevento (21:30)
-https://dlhd.dad/watch.php?id=462
-
-#EXTINF:-1 tvg-id="franceligue1olympiquelyonnaisvspsg" tvg-name="All Soccer Events | France - Ligue 1 : Olympique Lyonnais vs PSG (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Olympique Lyonnais_vs_PSG.png" group-title="Eventi Live DLHD",All Soccer Events | France - Ligue 1 : Olympique Lyonnais vs PSG (21:45)
+#EXTINF:-1 tvg-id="italyseriecsalernitanavscrotone" tvg-name="Soccer | Italy - Serie C : Salernitana vs Crotone (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Salernitana_vs_Crotone.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Salernitana vs Crotone (21:30)
 https://dlhd.dad/watch.php?id=870
 
-#EXTINF:-1 tvg-id="italyserieainternazionalevslazio" tvg-name="All Soccer Events | Italy - Serie A : Internazionale vs Lazio (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Internazionale_vs_Lazio.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Internazionale vs Lazio (21:45)
-https://dlhd.dad/watch.php?id=877
-
-#EXTINF:-1 tvg-id="centercourtliveatpfinalssinglesroundrobinlive" tvg-name="Tennis | Center Court Live ATP Finals Singles Round Robin Live (21:30)" tvg-logo="https://cdn-skill.splashmath.com/panel-uploads/GlossaryTerm/8bc0a422674548a48e2500b880628b91/1544077479_Center-of-the-Circle-Center-Point.png" group-title="Eventi Live DLHD",Tennis | Center Court Live ATP Finals Singles Round Robin Live (21:30)
+#EXTINF:-1 tvg-id="atpfinalssinglesroundrobin" tvg-name="Tennis | ATP Finals Singles Round Robin (15:00)" tvg-logo="https://media.geeksforgeeks.org/wp-content/uploads/20240102093745/Structure-of-ATP.png" group-title="Eventi Live DLHD",Tennis | ATP Finals Singles Round Robin (15:00)
 https://dlhd.dad/watch.php?id=576
+
+#EXTINF:-1 tvg-id="atpfinalsdoubles2day2inturinita" tvg-name="Tennis | ATP Finals: Doubles 2, Day 2 in Turin (ITA) (19:00)" tvg-logo="https://media.geeksforgeeks.org/wp-content/uploads/20240102093745/Structure-of-ATP.png" group-title="Eventi Live DLHD",Tennis | ATP Finals: Doubles 2, Day 2 in Turin (ITA) (19:00)
+https://dlhd.dad/watch.php?id=576
+
+#EXTINF:-1 tvg-id="atptourfinalsturinitalyjanniksinnervsfelixaugeraliassime" tvg-name="Tennis | ATP Tour Finals Turin, Italy : Jannik Sinner vs Felix Auger-Aliassime (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Jannik Sinner_vs_Felix Auger-Aliassime.png" group-title="Eventi Live DLHD",Tennis | ATP Tour Finals Turin, Italy : Jannik Sinner vs Felix Auger-Aliassime (21:30)
+https://dlhd.dad/watch.php?id=576
+
+#EXTINF:-1 tvg-id="nicosapiotrophy20251stmatchday" tvg-name="Water Sports | Nico Sapio Trophy 2025 - 1st matchday (16:15)" tvg-logo="https://www.formidablemag.com/wp-content/uploads/2012/11/nicoformidablemag90.jpg" group-title="Eventi Live DLHD",Water Sports | Nico Sapio Trophy 2025 - 1st matchday (16:15)
+https://dlhd.dad/watch.php?id=882
+
+#EXTINF:-1 tvg-id="nicosapiotrophy20252ndday" tvg-name="Water Sports | Nico Sapio Trophy 2025 - 2nd day (18:30)" tvg-logo="https://www.formidablemag.com/wp-content/uploads/2012/11/nicoformidablemag90.jpg" group-title="Eventi Live DLHD",Water Sports | Nico Sapio Trophy 2025 - 2nd day (18:30)
+https://dlhd.dad/watch.php?id=882
 
