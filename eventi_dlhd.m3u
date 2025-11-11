@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="2025nittoatpfinalsroundrobinday3" tvg-name="Tennis | 2025 Nitto ATP Finals Round Robin, Day 3 (15:00)" tvg-logo="https://png.pngtree.com/png-clipart/20240310/original/pngtree-2025-golden-3d-letters-happy-new-yea-png-image_14556016.png" group-title="Eventi Live DLHD",Tennis | 2025 Nitto ATP Finals Round Robin, Day 3 (15:00)
+#EXTINF:-1 tvg-id="2025nittoatpfinalsroundrobinday3" tvg-name="Tennis | 2025 Nitto ATP Finals Round Robin, Day 3 (15:00)" tvg-logo="https://png.pngtree.com/png-clipart/20240204/original/pngtree-2025-minimalist-calendar-vector-png-image_14235147.png" group-title="Eventi Live DLHD",Tennis | 2025 Nitto ATP Finals Round Robin, Day 3 (15:00)
 https://dlhd.dad/watch.php?id=576
 
 #EXTINF:-1 tvg-id="atpfinalssinglesroundrobin" tvg-name="Tennis | ATP Finals Singles Round Robin (21:30)" tvg-logo="https://media.geeksforgeeks.org/wp-content/uploads/20240102093745/Structure-of-ATP.png" group-title="Eventi Live DLHD",Tennis | ATP Finals Singles Round Robin (21:30)
