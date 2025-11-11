@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ATPFinalsSinglesRoundRobin">
-    <display-name>ATP Finals Singles Round Robin</display-name>
+  <channel id="EuropeU19EuroQualifyingItalyU19vsMoldovaU19">
+    <display-name>Europe - U19 Euro Qualifying : Italy U19 vs Moldova U19</display-name>
   </channel>
-  <programme start="20251111000000 +0200" stop="20251111213000 +0200" channel="ATPFinalsSinglesRoundRobin">
-    <title lang="it">Inizia alle 21:30.</title>
-    <desc lang="it">ATP Finals Singles Round Robin.</desc>
+  <programme start="20251112000000 +0200" stop="20251112160000 +0200" channel="EuropeU19EuroQualifyingItalyU19vsMoldovaU19">
+    <title lang="it">Inizia alle 16:00.</title>
+    <desc lang="it">Europe - U19 Euro Qualifying : Italy U19 vs Moldova U19.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20251111213000 +0200" stop="20251111233000 +0200" channel="ATPFinalsSinglesRoundRobin">
+  <programme start="20251112160000 +0200" stop="20251112180000 +0200" channel="EuropeU19EuroQualifyingItalyU19vsMoldovaU19">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP Finals Singles Round Robin</desc>
+    <desc lang="it">Europe - U19 Euro Qualifying : Italy U19 vs Moldova U19</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="NittoATPFinals">
+    <display-name>Nitto ATP Finals</display-name>
+  </channel>
+  <programme start="20251112000000 +0200" stop="20251112123000 +0200" channel="NittoATPFinals">
+    <title lang="it">Inizia alle 12:30.</title>
+    <desc lang="it">Nitto ATP Finals.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251112123000 +0200" stop="20251112143000 +0200" channel="NittoATPFinals">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Nitto ATP Finals</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="ChampionsLeagueTrapanivsBneiHerzliya">
-    <display-name>Champions League : Trapani vs Bnei Herzliya</display-name>
+  <channel id="ItalySerieA1WomenBustoArsizioVolleyvsCuneoGrandaVolley">
+    <display-name>Italy Serie A1 Women : Busto Arsizio Volley vs. Cuneo Granda Volley</display-name>
   </channel>
-  <programme start="20251111000000 +0200" stop="20251111213000 +0200" channel="ChampionsLeagueTrapanivsBneiHerzliya">
-    <title lang="it">Inizia alle 21:30.</title>
-    <desc lang="it">Champions League : Trapani vs Bnei Herzliya.</desc>
+  <programme start="20251112000000 +0200" stop="20251112220000 +0200" channel="ItalySerieA1WomenBustoArsizioVolleyvsCuneoGrandaVolley">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">Italy Serie A1 Women : Busto Arsizio Volley vs. Cuneo Granda Volley.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20251111213000 +0200" stop="20251111233000 +0200" channel="ChampionsLeagueTrapanivsBneiHerzliya">
+  <programme start="20251112220000 +0200" stop="20251113000000 +0200" channel="ItalySerieA1WomenBustoArsizioVolleyvsCuneoGrandaVolley">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Champions League : Trapani vs Bnei Herzliya</desc>
-    <category lang="it">Basketball</category>
-  </programme>
-  <channel id="ChampionsLeagueProReccovsVkJadranSplit">
-    <display-name>Champions League : Pro Recco vs. Vk Jadran Split</display-name>
-  </channel>
-  <programme start="20251111000000 +0200" stop="20251111213000 +0200" channel="ChampionsLeagueProReccovsVkJadranSplit">
-    <title lang="it">Inizia alle 21:30.</title>
-    <desc lang="it">Champions League : Pro Recco vs. Vk Jadran Split.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251111213000 +0200" stop="20251111233000 +0200" channel="ChampionsLeagueProReccovsVkJadranSplit">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Champions League : Pro Recco vs. Vk Jadran Split</desc>
-    <category lang="it">Waterpolo</category>
+    <desc lang="it">Italy Serie A1 Women : Busto Arsizio Volley vs. Cuneo Granda Volley</desc>
+    <category lang="it">Volleyball</category>
   </programme>
 </tv>
