@@ -2,15 +2,18 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyseriecsalernitanavscrotone" tvg-name="Soccer | Italy - Serie C : Salernitana vs Crotone (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Salernitana_vs_Crotone.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Salernitana vs Crotone (21:30)
-https://dlhd.dad/watch.php?id=5
-
-#EXTINF:-1 tvg-id="italyseriecsalernitanavscrotone" tvg-name="Soccer | Italy - Serie C : Salernitana vs Crotone (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Salernitana_vs_Crotone.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Salernitana vs Crotone (21:30)
-https://dlhd.dad/watch.php?id=882
-
-#EXTINF:-1 tvg-id="italyseriecsalernitanavscrotone" tvg-name="Soccer | Italy - Serie C : Salernitana vs Crotone (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Salernitana_vs_Crotone.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Salernitana vs Crotone (21:30)
-https://dlhd.dad/watch.php?id=870
-
-#EXTINF:-1 tvg-id="atptourfinalsturinitalyjanniksinnervsfelixaugeraliassime" tvg-name="Tennis | ATP Tour Finals Turin, Italy : Jannik Sinner vs Felix Auger-Aliassime (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Jannik Sinner_vs_Felix Auger-Aliassime.png" group-title="Eventi Live DLHD",Tennis | ATP Tour Finals Turin, Italy : Jannik Sinner vs Felix Auger-Aliassime (21:30)
+#EXTINF:-1 tvg-id="2025nittoatpfinalsroundrobinday3" tvg-name="Tennis | 2025 Nitto ATP Finals Round Robin, Day 3 (15:00)" tvg-logo="https://png.pngtree.com/png-clipart/20240204/original/pngtree-2025-minimalist-calendar-vector-png-image_14235147.png" group-title="Eventi Live DLHD",Tennis | 2025 Nitto ATP Finals Round Robin, Day 3 (15:00)
 https://dlhd.dad/watch.php?id=576
+
+#EXTINF:-1 tvg-id="atpfinalssinglesroundrobin" tvg-name="Tennis | ATP Finals Singles Round Robin (21:30)" tvg-logo="https://media.geeksforgeeks.org/wp-content/uploads/20240102093745/Structure-of-ATP.png" group-title="Eventi Live DLHD",Tennis | ATP Finals Singles Round Robin (21:30)
+https://dlhd.dad/watch.php?id=576
+
+#EXTINF:-1 tvg-id="championsleaguetrapanivsbneiherzliya" tvg-name="Basketball | Champions League : Trapani vs Bnei Herzliya (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Trapani_vs_Bnei Herzliya.png" group-title="Eventi Live DLHD",Basketball | Champions League : Trapani vs Bnei Herzliya (21:30)
+https://dlhd.dad/watch.php?id=877
+
+#EXTINF:-1 tvg-id="telenetsuperprestigenieljaarmarktcrosss" tvg-name="Cycling | Telenet Superprestige Niel - Jaarmarktcrosss (14:30)" tvg-logo="https://freight.cargo.site/i/d5a6606db6ac28646c7ace584c4d9e1ec68fb94fd230d14d2b60d3033f6721f1/NIEL-logo_IG.png" group-title="Eventi Live DLHD",Cycling | Telenet Superprestige Niel - Jaarmarktcrosss (14:30)
+https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 tvg-id="championsleagueproreccovsvkjadransplit" tvg-name="Waterpolo | Champions League : Pro Recco vs. Vk Jadran Split (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pro Recco_vs_Vk Jadran Split.png" group-title="Eventi Live DLHD",Waterpolo | Champions League : Pro Recco vs. Vk Jadran Split (21:30)
+https://dlhd.dad/watch.php?id=462
 

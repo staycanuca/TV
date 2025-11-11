@@ -1,3 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="2025NittoATPFinalsRoundRobinDay3">
+    <display-name>2025 Nitto ATP Finals Round Robin, Day 3</display-name>
+  </channel>
+  <programme start="20251111000000 +0200" stop="20251111150000 +0200" channel="2025NittoATPFinalsRoundRobinDay3">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">2025 Nitto ATP Finals Round Robin, Day 3.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251111150000 +0200" stop="20251111170000 +0200" channel="2025NittoATPFinalsRoundRobinDay3">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">2025 Nitto ATP Finals Round Robin, Day 3</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <channel id="ATPFinalsSinglesRoundRobin">
+    <display-name>ATP Finals Singles Round Robin</display-name>
+  </channel>
+  <programme start="20251111000000 +0200" stop="20251111213000 +0200" channel="ATPFinalsSinglesRoundRobin">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">ATP Finals Singles Round Robin.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251111213000 +0200" stop="20251111233000 +0200" channel="ATPFinalsSinglesRoundRobin">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">ATP Finals Singles Round Robin</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <channel id="ChampionsLeagueTrapanivsBneiHerzliya">
+    <display-name>Champions League : Trapani vs Bnei Herzliya</display-name>
+  </channel>
+  <programme start="20251111000000 +0200" stop="20251111213000 +0200" channel="ChampionsLeagueTrapanivsBneiHerzliya">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Champions League : Trapani vs Bnei Herzliya.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251111213000 +0200" stop="20251111233000 +0200" channel="ChampionsLeagueTrapanivsBneiHerzliya">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Champions League : Trapani vs Bnei Herzliya</desc>
+    <category lang="it">Basketball</category>
+  </programme>
+  <channel id="TelenetSuperprestigeNielJaarmarktcrosss">
+    <display-name>Telenet Superprestige Niel - Jaarmarktcrosss</display-name>
+  </channel>
+  <programme start="20251111000000 +0200" stop="20251111143000 +0200" channel="TelenetSuperprestigeNielJaarmarktcrosss">
+    <title lang="it">Inizia alle 14:30.</title>
+    <desc lang="it">Telenet Superprestige Niel - Jaarmarktcrosss.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251111143000 +0200" stop="20251111163000 +0200" channel="TelenetSuperprestigeNielJaarmarktcrosss">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Telenet Superprestige Niel - Jaarmarktcrosss</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <channel id="ChampionsLeagueProReccovsVkJadranSplit">
+    <display-name>Champions League : Pro Recco vs. Vk Jadran Split</display-name>
+  </channel>
+  <programme start="20251111000000 +0200" stop="20251111213000 +0200" channel="ChampionsLeagueProReccovsVkJadranSplit">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Champions League : Pro Recco vs. Vk Jadran Split.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251111213000 +0200" stop="20251111233000 +0200" channel="ChampionsLeagueProReccovsVkJadranSplit">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Champions League : Pro Recco vs. Vk Jadran Split</desc>
+    <category lang="it">Waterpolo</category>
+  </programme>
 </tv>
