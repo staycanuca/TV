@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="europeu19euroqualifyingitalyu19vsmoldovau19" tvg-name="Soccer | Europe - U19 Euro Qualifying : Italy U19 vs Moldova U19 (16:00)" tvg-logo="https://www.myglobalviewpoint.com/wp-content/uploads/2023/06/venice.png" group-title="Eventi Live DLHD",Soccer | Europe - U19 Euro Qualifying : Italy U19 vs Moldova U19 (16:00)
+#EXTINF:-1 tvg-id="europeu19euroqualifyingitalyu19vsmoldovau19" tvg-name="Soccer | Europe - U19 Euro Qualifying : Italy U19 vs Moldova U19 (16:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Italy U19_vs_Moldova U19.png" group-title="Eventi Live DLHD",Soccer | Europe - U19 Euro Qualifying : Italy U19 vs Moldova U19 (16:00)
 https://dlhd.dad/watch.php?id=882
 
 #EXTINF:-1 tvg-id="nittoatpfinals" tvg-name="Tennis | Nitto ATP Finals (12:30)" tvg-logo="https://tickets.nittoatpfinals.com/img/lang/es.png" group-title="Eventi Live DLHD",Tennis | Nitto ATP Finals (12:30)
