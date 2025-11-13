@@ -1,1 +1,25 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
+https://example.com.m3u8
+
+#EXTINF:-1 tvg-id="worldcupqualifyingnorwayvsestonia" tvg-name="Soccer | World Cup Qualifying : Norway vs Estonia (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Norway_vs_Estonia.png" group-title="Eventi Live DLHD",Soccer | World Cup Qualifying : Norway vs Estonia (19:00)
+https://dlhd.dad/watch.php?id=462
+
+#EXTINF:-1 tvg-id="worldcupqualifyingmoldovavsitaly" tvg-name="Soccer | World Cup Qualifying : Moldova vs Italy (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Moldova_vs_Italy.png" group-title="Eventi Live DLHD",Soccer | World Cup Qualifying : Moldova vs Italy (21:45)
+https://dlhd.dad/watch.php?id=850
+
+#EXTINF:-1 tvg-id="worldcupqualifyingfrancevsukraine" tvg-name="Soccer | World Cup Qualifying : France vs Ukraine (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/France_vs_Ukraine.png" group-title="Eventi Live DLHD",Soccer | World Cup Qualifying : France vs Ukraine (21:45)
+https://dlhd.dad/watch.php?id=462
+
+#EXTINF:-1 tvg-id="atpfinalssinglesroundrobin" tvg-name="Tennis | ATP Finals Singles Round Robin (15:00)" tvg-logo="https://media.geeksforgeeks.org/wp-content/uploads/20240102093745/Structure-of-ATP.png" group-title="Eventi Live DLHD",Tennis | ATP Finals Singles Round Robin (15:00)
+https://dlhd.dad/watch.php?id=576
+
+#EXTINF:-1 tvg-id="atpfinalssinglesroundrobin" tvg-name="Tennis | ATP Finals Singles Round Robin (21:30)" tvg-logo="https://media.geeksforgeeks.org/wp-content/uploads/20240102093745/Structure-of-ATP.png" group-title="Eventi Live DLHD",Tennis | ATP Finals Singles Round Robin (21:30)
+https://dlhd.dad/watch.php?id=576
+
+#EXTINF:-1 tvg-id="italysuperlegaperugiaumbriavolleyvscuneovolley" tvg-name="Volleyball | Italy SuperLega : Perugia Umbria Volley vs. Cuneo Volley (21:30)" tvg-logo="https://www.exploring-umbria.com/wp-content/uploads/2019/05/PERUGIA-PIAZZA-IV-NOVEMBRE-1600x1066.jpeg" group-title="Eventi Live DLHD",Volleyball | Italy SuperLega : Perugia Umbria Volley vs. Cuneo Volley (21:30)
+https://dlhd.dad/watch.php?id=881
+
+#EXTINF:-1 tvg-id="worldopenequippedchampionshipswomens63kgandmens93kgclujnapoca" tvg-name="Weightlifting | World Open Equipped Championships Women's 63kg and Men's 93kg | Cluj Napoca (19:00)" tvg-logo="https://miro.medium.com/max/2400/1*khBmQoTMMvHi4aHkzrVS7g.png" group-title="Eventi Live DLHD",Weightlifting | World Open Equipped Championships Women's 63kg and Men's 93kg | Cluj Napoca (19:00)
+https://dlhd.dad/watch.php?id=878
+

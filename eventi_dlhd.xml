@@ -42,17 +42,7 @@
   <channel id="ATPFinalsSinglesRoundRobin">
     <display-name>ATP Finals Singles Round Robin</display-name>
   </channel>
-  <programme start="20251113000000 +0200" stop="20251113150000 +0200" channel="ATPFinalsSinglesRoundRobin">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">ATP Finals Singles Round Robin.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251113150000 +0200" stop="20251113170000 +0200" channel="ATPFinalsSinglesRoundRobin">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP Finals Singles Round Robin</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <programme start="20251113170000 +0200" stop="20251113213000 +0200" channel="ATPFinalsSinglesRoundRobin">
+  <programme start="20251113000000 +0200" stop="20251113213000 +0200" channel="ATPFinalsSinglesRoundRobin">
     <title lang="it">Inizia alle 21:30.</title>
     <desc lang="it">ATP Finals Singles Round Robin.</desc>
     <category lang="it">Annuncio</category>
