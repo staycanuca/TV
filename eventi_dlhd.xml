@@ -75,32 +75,6 @@
     <desc lang="it">ATP Finals Singles Round Robin</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="Moto3ValenciaGrandPrixPractice1">
-    <display-name>Moto3 : Valencia Grand Prix Practice 1</display-name>
-  </channel>
-  <programme start="20251114000000 +0200" stop="20251114141000 +0200" channel="Moto3ValenciaGrandPrixPractice1">
-    <title lang="it">Inizia alle 14:10.</title>
-    <desc lang="it">Moto3 : Valencia Grand Prix Practice 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251114141000 +0200" stop="20251114161000 +0200" channel="Moto3ValenciaGrandPrixPractice1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto3 : Valencia Grand Prix Practice 1</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="MotoGPValenciaGrandPrixPractice1">
-    <display-name>MotoGP : Valencia Grand Prix Practice 1</display-name>
-  </channel>
-  <programme start="20251114000000 +0200" stop="20251114141500 +0200" channel="MotoGPValenciaGrandPrixPractice1">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">MotoGP : Valencia Grand Prix Practice 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251114141500 +0200" stop="20251114161500 +0200" channel="MotoGPValenciaGrandPrixPractice1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : Valencia Grand Prix Practice 1</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="Moto2ValenciaGrandPrixPractice1">
     <display-name>Moto2 : Valencia Grand Prix Practice 1</display-name>
   </channel>
