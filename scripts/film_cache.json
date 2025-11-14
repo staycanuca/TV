@@ -133318,5 +133318,511 @@
     "poster_path": null,
     "genre_ids": [],
     "cached_at": "2025-11-13T06:23:18.926138"
+  },
+  "77134": {
+    "id": 77134,
+    "title": "Al_Dente",
+    "release_date": "1998-06-05",
+    "vote_average": 5.6,
+    "poster_path": "/gicZjbfscfF5iqquSaK6ECRUKRH.jpg",
+    "genre_ids": [
+      16,
+      35
+    ],
+    "cached_at": "2025-11-14T06:22:47.939060"
+  },
+  "467867": {
+    "id": 467867,
+    "title": "Paterno",
+    "release_date": "2018-04-07",
+    "vote_average": 6.205,
+    "poster_path": "/Ad4y2Cc2FcY1wOk3DH7HVWlrgEM.jpg",
+    "genre_ids": [
+      18,
+      10770
+    ],
+    "cached_at": "2025-11-14T06:22:48.065474"
+  },
+  "93362": {
+    "id": 93362,
+    "title": "Wicked Whispers",
+    "release_date": "2002-07-24",
+    "vote_average": 0.0,
+    "poster_path": "/dYTBeS4xyTQo9OsDShx53gDPB48.jpg",
+    "genre_ids": [],
+    "cached_at": "2025-11-14T06:22:48.720115"
+  },
+  "451563": {
+    "id": 451563,
+    "title": "Buon Anniversario",
+    "release_date": "2018-03-30",
+    "vote_average": 5.741,
+    "poster_path": "/nQYX248aotb6ma6QxJ14utYEYoD.jpg",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "cached_at": "2025-11-14T06:22:49.558002"
+  },
+  "76567": {
+    "id": 76567,
+    "title": "Geo360 - In den Smaragdbergen von Bahia",
+    "release_date": "",
+    "vote_average": 0.0,
+    "poster_path": null,
+    "genre_ids": [],
+    "cached_at": "2025-11-14T06:22:50.134789"
+  },
+  "429195": {
+    "id": 429195,
+    "title": "Dark River",
+    "release_date": "2017-10-07",
+    "vote_average": 5.633,
+    "poster_path": "/2dAAl5Sm4XzSU5D0IozMTCliT1V.jpg",
+    "genre_ids": [
+      53,
+      18,
+      9648
+    ],
+    "cached_at": "2025-11-14T06:22:50.557243"
+  },
+  "443009": {
+    "id": 443009,
+    "title": "Don't Worry",
+    "release_date": "2018-04-04",
+    "vote_average": 6.715,
+    "poster_path": "/9mrhQ4HGNRIcjZpTXeHXxYlJegd.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2025-11-14T06:22:50.630551"
+  },
+  "465929": {
+    "id": 465929,
+    "title": "Back Roads",
+    "release_date": "2019-11-15",
+    "vote_average": 5.804,
+    "poster_path": "/va3CVH59k7b79JLl4t2TLJAh0fZ.jpg",
+    "genre_ids": [
+      80,
+      18,
+      53
+    ],
+    "cached_at": "2025-11-14T06:22:51.773202"
+  },
+  "241576": {
+    "id": 241576,
+    "title": "Prigioniero di un segreto",
+    "release_date": "2010-07-15",
+    "vote_average": 0.0,
+    "poster_path": "/gpMvvAYa3CNSuyW2VI3M7jnkSbS.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-11-14T06:22:52.146655"
+  },
+  "467660": {
+    "id": 467660,
+    "title": "Unsane",
+    "release_date": "2018-03-22",
+    "vote_average": 6.246,
+    "poster_path": "/n36bckwOm8EWbZsEABCa4E6Yyo0.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2025-11-14T06:22:52.205272"
+  },
+  "77416": {
+    "id": 77416,
+    "title": "Bruce Springsteen - Vote For A Change",
+    "release_date": "",
+    "vote_average": 0.0,
+    "poster_path": null,
+    "genre_ids": [
+      10402
+    ],
+    "cached_at": "2025-11-14T06:22:52.416125"
+  },
+  "452015": {
+    "id": 452015,
+    "title": "염력",
+    "release_date": "2018-01-31",
+    "vote_average": 6.284,
+    "poster_path": "/5LRL9cvVQl0Mne8CZslb5VNwY6v.jpg",
+    "genre_ids": [
+      14,
+      28
+    ],
+    "cached_at": "2025-11-14T06:22:52.503430"
+  },
+  "414001": {
+    "id": 414001,
+    "title": "Il mistero di Donald C.",
+    "release_date": "2018-02-09",
+    "vote_average": 5.935,
+    "poster_path": "/yPTSS7Ho52yRjJOesGEpYQR6lR.jpg",
+    "genre_ids": [
+      18,
+      12
+    ],
+    "cached_at": "2025-11-14T06:22:52.788423"
+  },
+  "77735": {
+    "id": 77735,
+    "title": "ഗദ്ദാമ",
+    "release_date": "2011-01-01",
+    "vote_average": 5.4,
+    "poster_path": "/m0HUehDN8J2MZ5FUDh5He19RNRp.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-11-14T06:22:53.578341"
+  },
+  "472805": {
+    "id": 472805,
+    "title": "Outside In",
+    "release_date": "2018-03-30",
+    "vote_average": 6.162,
+    "poster_path": "/o8mGEiiEmR7yyoDqk9iSAeokYVZ.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-11-14T06:22:53.702933"
+  },
+  "369523": {
+    "id": 369523,
+    "title": "The Tale",
+    "release_date": "2018-01-20",
+    "vote_average": 7.061,
+    "poster_path": "/aguq47xq3qhN807rSyz4lJyhAkX.jpg",
+    "genre_ids": [
+      18,
+      9648
+    ],
+    "cached_at": "2025-11-14T06:22:53.941102"
+  },
+  "427214": {
+    "id": 427214,
+    "title": "The Happy Prince - L'ultimo ritratto di Oscar Wilde",
+    "release_date": "2018-04-12",
+    "vote_average": 6.3,
+    "poster_path": "/1Tanv8tgPpQdAwe529Y0WMIM6EK.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-11-14T06:22:54.272709"
+  },
+  "474753": {
+    "id": 474753,
+    "title": "The China Hustle",
+    "release_date": "2018-03-30",
+    "vote_average": 7.19,
+    "poster_path": "/c1TsjdrKm2HxvqoALGnHh0BYOlA.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-11-14T06:22:54.435755"
+  },
+  "506943": {
+    "id": 506943,
+    "title": "라라",
+    "release_date": "2018-02-22",
+    "vote_average": 5.4,
+    "poster_path": "/pctblzpR9LXBWoPVh6QayCxYPrM.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "cached_at": "2025-11-14T06:22:54.647159"
+  },
+  "399248": {
+    "id": 399248,
+    "title": "Beirut",
+    "release_date": "2018-04-11",
+    "vote_average": 6.282,
+    "poster_path": "/s2qIeFsI9TskZr1LkSwljQDh5nl.jpg",
+    "genre_ids": [
+      28,
+      53,
+      18
+    ],
+    "cached_at": "2025-11-14T06:22:54.799013"
+  },
+  "505177": {
+    "id": 505177,
+    "title": "10x10",
+    "release_date": "2018-03-16",
+    "vote_average": 5.243,
+    "poster_path": "/XiJnFYNk4pv7esc8cLGkJ45gbt.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      53
+    ],
+    "cached_at": "2025-11-14T06:22:55.423395"
+  },
+  "516525": {
+    "id": 516525,
+    "title": "Seth Rogen's Hilarity for Charity",
+    "release_date": "2018-04-06",
+    "vote_average": 5.1,
+    "poster_path": "/xoRYL6uuS9qvGeJ4o0hbmQji7hm.jpg",
+    "genre_ids": [
+      35,
+      99,
+      10770
+    ],
+    "cached_at": "2025-11-14T06:22:56.818709"
+  },
+  "430231": {
+    "id": 430231,
+    "title": "The Endless",
+    "release_date": "2017-11-05",
+    "vote_average": 6.33,
+    "poster_path": "/90sU5K4cFlJP0f6zjoINBh2UxSd.jpg",
+    "genre_ids": [
+      878,
+      27,
+      53
+    ],
+    "cached_at": "2025-11-14T06:22:57.135035"
+  },
+  "500268": {
+    "id": 500268,
+    "title": "Made in Italy",
+    "release_date": "2018-01-25",
+    "vote_average": 6.067,
+    "poster_path": "/nzeFmkdPoxSisdTHvdgbR4p8ReM.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2025-11-14T06:22:57.218355"
+  },
+  "1429738": {
+    "id": 1429738,
+    "title": "ตี๋ใหญ่ ฤกษ์ดาวโจร",
+    "release_date": "2025-11-13",
+    "vote_average": 0.0,
+    "poster_path": "/vqYZMLUwaN1z1iJ4TKvExyxo1TX.jpg",
+    "genre_ids": [
+      80,
+      28,
+      18
+    ],
+    "cached_at": "2025-11-14T06:22:57.647603"
+  },
+  "451480": {
+    "id": 451480,
+    "title": "Il club del libro e della torta di bucce di patata di Guernsey",
+    "release_date": "2018-04-19",
+    "vote_average": 7.414,
+    "poster_path": "/jCWi1EDMwmaHf7ouzb5EjhbmsYO.jpg",
+    "genre_ids": [
+      10749,
+      18,
+      36
+    ],
+    "cached_at": "2025-11-14T06:22:58.574053"
+  },
+  "77061": {
+    "id": 77061,
+    "title": "神威三猛龍",
+    "release_date": "1980-08-14",
+    "vote_average": 5.889,
+    "poster_path": "/jL40LEE0di8njbGmPhfNVeajDO6.jpg",
+    "genre_ids": [
+      28,
+      878
+    ],
+    "cached_at": "2025-11-14T06:22:58.708753"
+  },
+  "456929": {
+    "id": 456929,
+    "title": "Non ci resta che vincere",
+    "release_date": "2018-04-06",
+    "vote_average": 7.517,
+    "poster_path": "/na7kgRfj502sVsWtJbYNBWxxCT4.jpg",
+    "genre_ids": [
+      35,
+      10751,
+      18
+    ],
+    "cached_at": "2025-11-14T06:22:59.220138"
+  },
+  "304849": {
+    "id": 304849,
+    "title": "Classic Cartoon Favorites, Vol. 4 - Starring Chip 'N Dale",
+    "release_date": "2005-01-01",
+    "vote_average": 9.7,
+    "poster_path": "/yENKxDoz1bkM3R3EV7mxJos0wEW.jpg",
+    "genre_ids": [
+      16,
+      10751
+    ],
+    "cached_at": "2025-11-14T06:22:59.365721"
+  },
+  "432301": {
+    "id": 432301,
+    "title": "Lo scandalo Kennedy",
+    "release_date": "2018-04-06",
+    "vote_average": 6.088,
+    "poster_path": "/96SMkv7eTIQbQa1XBnHaEuPkiOE.jpg",
+    "genre_ids": [
+      36,
+      18,
+      53
+    ],
+    "cached_at": "2025-11-14T06:22:59.917101"
+  },
+  "396373": {
+    "id": 396373,
+    "title": "Woman Walks Ahead",
+    "release_date": "2018-06-28",
+    "vote_average": 6.642,
+    "poster_path": "/qI5NcQHR0nsykPqlG2qnfFyMgW6.jpg",
+    "genre_ids": [
+      18,
+      36,
+      37
+    ],
+    "cached_at": "2025-11-14T06:23:00.121392"
+  },
+  "78735": {
+    "id": 78735,
+    "title": "இரும்பு பூக்கள்",
+    "release_date": "1991-02-16",
+    "vote_average": 0.0,
+    "poster_path": null,
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-11-14T06:23:00.129636"
+  },
+  "519804": {
+    "id": 519804,
+    "title": "Kevin James: Never Don't Give Up",
+    "release_date": "2018-04-24",
+    "vote_average": 6.152,
+    "poster_path": "/yqZ7QkRBFiURtVWuGNhGagjRRDe.jpg",
+    "genre_ids": [
+      35,
+      10770
+    ],
+    "cached_at": "2025-11-14T06:23:00.701342"
+  },
+  "433694": {
+    "id": 433694,
+    "title": "Sgt. Stubby: An American Hero",
+    "release_date": "2018-04-13",
+    "vote_average": 7.9,
+    "poster_path": "/o3eKgsZARPMrCoMZbPa3SI0La6H.jpg",
+    "genre_ids": [
+      16,
+      12,
+      10751,
+      36,
+      10752
+    ],
+    "cached_at": "2025-11-14T06:23:00.718651"
+  },
+  "564149": {
+    "id": 564149,
+    "title": "Message Man",
+    "release_date": "2018-03-08",
+    "vote_average": 5.071,
+    "poster_path": "/eB5QkQkDt9UTXG23ChR9yzdXq3c.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "cached_at": "2025-11-14T06:23:00.844324"
+  },
+  "395990": {
+    "id": 395990,
+    "title": "Il giustiziere della notte - Death Wish",
+    "release_date": "2018-03-01",
+    "vote_average": 6.202,
+    "poster_path": "/6eNDKoMHL3tHBmA9upgIUsfsmvr.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53,
+      18
+    ],
+    "cached_at": "2025-11-14T06:23:00.914111"
+  },
+  "407890": {
+    "id": 407890,
+    "title": "Charley Thompson",
+    "release_date": "2018-04-06",
+    "vote_average": 6.949,
+    "poster_path": "/eDDzxXWJw7MFKmsz7i6IEPp8nW4.jpg",
+    "genre_ids": [
+      18,
+      12
+    ],
+    "cached_at": "2025-11-14T06:23:01.200696"
+  },
+  "399131": {
+    "id": 399131,
+    "title": "Dude",
+    "release_date": "2018-04-20",
+    "vote_average": 5.523,
+    "poster_path": "/mtQyt1Tx3ppR18BZRUCQQ9VUPZW.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-11-14T06:23:01.388904"
+  },
+  "605488": {
+    "id": 605488,
+    "title": "Monster",
+    "release_date": "2018-06-29",
+    "vote_average": 1.0,
+    "poster_path": "/4YBDdifQQJarw3bdoNUGMSrLE9N.jpg",
+    "genre_ids": [
+      27
+    ],
+    "cached_at": "2025-11-14T06:23:01.575074"
+  },
+  "429417": {
+    "id": 429417,
+    "title": "Ghost Stories",
+    "release_date": "2018-01-20",
+    "vote_average": 6.445,
+    "poster_path": "/faS9i7mYqYIZ0OQStEgaicLvjaz.jpg",
+    "genre_ids": [
+      27,
+      18
+    ],
+    "cached_at": "2025-11-14T06:23:01.701903"
+  },
+  "497916": {
+    "id": 497916,
+    "title": "Il banchiere della Resistenza",
+    "release_date": "2018-03-08",
+    "vote_average": 6.681,
+    "poster_path": "/w14H375w5MSoaThOrDXcC7FT7bG.jpg",
+    "genre_ids": [
+      10752,
+      18
+    ],
+    "cached_at": "2025-11-14T06:23:01.789729"
+  },
+  "917901": {
+    "id": 917901,
+    "title": "La battaglia di Dunquerke: dal disastro al trionfo",
+    "release_date": "2018-03-06",
+    "vote_average": 7.4,
+    "poster_path": "/z4DVd4z1vuQRpdXj9GI7aXuIpbY.jpg",
+    "genre_ids": [
+      99,
+      10752
+    ],
+    "cached_at": "2025-11-14T06:23:01.897833"
   }
 }

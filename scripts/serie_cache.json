@@ -58912,5 +58912,196 @@
       10764
     ],
     "cached_at": "2025-11-13T06:23:23.955501"
+  },
+  "304849": {
+    "id": 304849,
+    "name": "50 secondi: il caso Fernando Báez Sosa",
+    "original_name": "50 segundos: El caso Fernando Báez Sosa",
+    "first_air_date": "2025-11-13",
+    "vote_average": 0.0,
+    "poster_path": "/jkOtjdo6GuIH7LEmjEocABUEDfM.jpg",
+    "genre_ids": [
+      99,
+      80
+    ],
+    "cached_at": "2025-11-14T06:23:06.955649"
+  },
+  "77134": {
+    "id": 77134,
+    "name": "First Team: Juventus",
+    "original_name": "First Team: Juventus",
+    "first_air_date": "2018-02-16",
+    "vote_average": 6.7,
+    "poster_path": "/asq4TGwhGvnBri8vpX55CXFlYBJ.jpg",
+    "genre_ids": [
+      99,
+      10764
+    ],
+    "cached_at": "2025-11-14T06:23:07.032530"
+  },
+  "78735": {
+    "id": 78735,
+    "name": "独孤天下",
+    "original_name": "独孤天下",
+    "first_air_date": "2018-02-21",
+    "vote_average": 7.8,
+    "poster_path": "/uq6BDWa8sVpPcQlK8wQ24ToWC0J.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-11-14T06:23:07.053316"
+  },
+  "76567": {
+    "id": 76567,
+    "name": "Benvenuti in famiglia",
+    "original_name": "Benvinguts a la família",
+    "first_air_date": "2018-01-22",
+    "vote_average": 7.2,
+    "poster_path": "/wjIGXwUtN5vpRIL0DdK8fw8QVPz.jpg",
+    "genre_ids": [
+      35,
+      10751
+    ],
+    "cached_at": "2025-11-14T06:23:07.100942"
+  },
+  "77061": {
+    "id": 77061,
+    "name": "Rapture",
+    "original_name": "Rapture",
+    "first_air_date": "2018-03-30",
+    "vote_average": 5.6,
+    "poster_path": "/4NWBCNYneLnitj1Mq9PjZEhfc9i.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-11-14T06:23:07.108535"
+  },
+  "77416": {
+    "id": 77416,
+    "name": "Ugly Delicious",
+    "original_name": "Ugly Delicious",
+    "first_air_date": "2018-02-23",
+    "vote_average": 6.9,
+    "poster_path": "/gjnjLomnOaLSk5q2E5W8KQKTJoq.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-11-14T06:23:07.152371"
+  },
+  "252193": {
+    "id": 252193,
+    "name": "Ikusagami - Last Samurai Standing",
+    "original_name": "イクサガミ",
+    "first_air_date": "2025-11-13",
+    "vote_average": 8.9,
+    "poster_path": "/uuyh6MjvJb9URnKQj1ZOjkBKwov.jpg",
+    "genre_ids": [
+      10759,
+      18
+    ],
+    "cached_at": "2025-11-14T06:23:07.168479"
+  },
+  "93362": {
+    "id": 93362,
+    "name": "忽而今夏",
+    "original_name": "忽而今夏",
+    "first_air_date": "2018-04-19",
+    "vote_average": 7.3,
+    "poster_path": "/f0wQNQNJlOexhyEsalB23A222NO.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-11-14T06:23:07.169425"
+  },
+  "77791": {
+    "id": 77791,
+    "name": "Nailed It!",
+    "original_name": "Nailed It!",
+    "first_air_date": "2018-03-09",
+    "vote_average": 7.1,
+    "poster_path": "/3wLAkbQu2Ld1rjiEeFvHnqmO5zN.jpg",
+    "genre_ids": [
+      10764
+    ],
+    "cached_at": "2025-11-14T06:23:07.222705"
+  },
+  "77735": {
+    "id": 77735,
+    "name": "스위치",
+    "original_name": "스위치",
+    "first_air_date": "2018-03-28",
+    "vote_average": 6.8,
+    "poster_path": "/4WUGO8lfJFiQgwVBWcWicmVr5tu.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      35
+    ],
+    "cached_at": "2025-11-14T06:23:07.240788"
+  },
+  "78941": {
+    "id": 78941,
+    "name": "Aggretsuko",
+    "original_name": "アグレッシブ烈子",
+    "first_air_date": "2018-04-20",
+    "vote_average": 7.339,
+    "poster_path": "/92KEPlJcr51geOAbI0AvU1oJMdu.jpg",
+    "genre_ids": [
+      16,
+      35
+    ],
+    "cached_at": "2025-11-14T06:23:07.296672"
+  },
+  "241576": {
+    "id": 241576,
+    "name": "如果我不曾見過太陽",
+    "original_name": "如果我不曾見過太陽",
+    "first_air_date": "2025-11-13",
+    "vote_average": 10.0,
+    "poster_path": "/gJYg8mPAzuqsuSqBYmYKv1qQpld.jpg",
+    "genre_ids": [
+      80,
+      18,
+      9648
+    ],
+    "cached_at": "2025-11-14T06:23:07.309554"
+  },
+  "250504": {
+    "id": 250504,
+    "name": "The Beast in Me",
+    "original_name": "The Beast in Me",
+    "first_air_date": "2025-11-13",
+    "vote_average": 8.6,
+    "poster_path": "/jxf7JCfIMvGONWTNUIJ068sFixK.jpg",
+    "genre_ids": [
+      9648,
+      18
+    ],
+    "cached_at": "2025-11-14T06:23:07.311285"
+  },
+  "79008": {
+    "id": 79008,
+    "name": "Luis Miguel - La serie",
+    "original_name": "Luis Miguel: La Serie",
+    "first_air_date": "2018-04-22",
+    "vote_average": 8.0,
+    "poster_path": "/qR0uCwC6umvJUcmvNsSz2FruGXp.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-11-14T06:23:07.455856"
+  },
+  "284838": {
+    "id": 284838,
+    "name": "9-1-1: Nashville",
+    "original_name": "9-1-1: Nashville",
+    "first_air_date": "2025-10-09",
+    "vote_average": 8.0,
+    "poster_path": "/4Dl0LysUOEWOhitzAfrKFkBeefu.jpg",
+    "genre_ids": [
+      18,
+      10759
+    ],
+    "cached_at": "2025-11-14T06:23:07.597363"
   }
 }
