@@ -251,19 +251,6 @@
     <desc lang="it">Nitto ATP Finals Semi-final</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="Moto3ValenciaGrandPrixQualifying">
-    <display-name>Moto3 : Valencia Grand Prix Qualifying</display-name>
-  </channel>
-  <programme start="20251115000000 +0200" stop="20251115134500 +0200" channel="Moto3ValenciaGrandPrixQualifying">
-    <title lang="it">Inizia alle 13:45.</title>
-    <desc lang="it">Moto3 : Valencia Grand Prix Qualifying.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251115134500 +0200" stop="20251115154500 +0200" channel="Moto3ValenciaGrandPrixQualifying">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto3 : Valencia Grand Prix Qualifying</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="Moto2ValenciaGrandPrixQualifying">
     <display-name>Moto2 : Valencia Grand Prix Qualifying</display-name>
   </channel>
@@ -289,19 +276,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">MotoGP : Valencia Grand Prix Sprint Race</desc>
     <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="SlalomWomenLeviWomenLjuticZrinkavsHectorSara">
-    <display-name>Slalom Women Levi Women : Ljutic, Zrinka vs. Hector, Sara</display-name>
-  </channel>
-  <programme start="20251115000000 +0200" stop="20251115134500 +0200" channel="SlalomWomenLeviWomenLjuticZrinkavsHectorSara">
-    <title lang="it">Inizia alle 13:45.</title>
-    <desc lang="it">Slalom Women Levi Women : Ljutic, Zrinka vs. Hector, Sara.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251115134500 +0200" stop="20251115154500 +0200" channel="SlalomWomenLeviWomenLjuticZrinkavsHectorSara">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Slalom Women Levi Women : Ljutic, Zrinka vs. Hector, Sara</desc>
-    <category lang="it">Alpine Ski</category>
   </programme>
   <channel id="SuperprestigeMerksplasWomen">
     <display-name>Superprestige | Merksplas Women</display-name>
@@ -341,29 +315,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Grand Prix | United States Free routine | Mixed Pairs</desc>
     <category lang="it">Ice Skating</category>
-  </programme>
-  <channel id="FriendlyInternationalItalyvsSouthAfrica">
-    <display-name>Friendly International : Italy vs South Africa</display-name>
-  </channel>
-  <programme start="20251115000000 +0200" stop="20251115140000 +0200" channel="FriendlyInternationalItalyvsSouthAfrica">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Friendly International : Italy vs South Africa.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251115140000 +0200" stop="20251115160000 +0200" channel="FriendlyInternationalItalyvsSouthAfrica">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Friendly International : Italy vs South Africa</desc>
-    <category lang="it">Rugby Union</category>
-  </programme>
-  <programme start="20251115000000 +0200" stop="20251115140000 +0200" channel="FriendlyInternationalItalyvsSouthAfrica">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Friendly International : Italy vs South Africa.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251115140000 +0200" stop="20251115160000 +0200" channel="FriendlyInternationalItalyvsSouthAfrica">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Friendly International : Italy vs South Africa</desc>
-    <category lang="it">Rugby Union</category>
   </programme>
   <channel id="FriendlyInternationalEnglandvsNewZealand">
     <display-name>Friendly International : England vs New Zealand</display-name>
