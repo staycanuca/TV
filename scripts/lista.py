@@ -1523,280 +1523,87 @@ def schedule_extractor():
     load_dotenv()
     
     LINK_DADDY = os.getenv("LINK_DADDY", "").strip() or "https://dlhd.dad"
+    FLARESOLVERR_URL = os.getenv("FLARESOLVERR_URL")
+    if FLARESOLVERR_URL:
+        FLARESOLVERR_URL = FLARESOLVERR_URL.strip()
+    else:
+        print("❌ ERRORE: La variabile d'ambiente 'FLARESOLVERR_URL' non è impostata nel file .env. Impossibile continuare.")
+        return  # Interrompe l'esecuzione della funzione
     
     def html_to_json(html_content):
         """Converte il contenuto HTML della programmazione in formato JSON."""
         soup = BeautifulSoup(html_content, 'html.parser')
         result = {}
-    
+        
+        # Cerca il div principale con il nuovo ID
         schedule_div = soup.find('div', id='schedule')
         if not schedule_div:
-            print("AVVISO: Contenitore 'schedule' non trovato nel contenuto HTML!")
-            return {}
-    
-        for day_div in schedule_div.find_all('div', class_='schedule__day'):
-            day_title_tag = day_div.find('div', class_='schedule__dayTitle')
-            if not day_title_tag:
+            # Fallback se l'ID non viene trovato, cerca la classe
+            schedule_div = soup.find('div', class_='schedule schedule--compact')
+        
+        if not schedule_div:
+            print("AVVISO: Contenitore 'schedule' non trovato!")
+            return result
+        
+        # La data è unica per tutto lo schedule (Saturday 15th Nov 2025)
+        day_title_tag = schedule_div.find('div', class_='schedule__dayTitle')
+        if not day_title_tag:
+            current_date = "Unknown Date"
+        else:
+            current_date = day_title_tag.text.strip()
+        
+        result[current_date] = {}
+        
+        # Processa tutte le categorie direttamente
+        for category_div in schedule_div.find_all('div', class_='schedule__category'):
+            cat_header = category_div.find('div', class_='schedule__catHeader')
+            if not cat_header:
                 continue
             
-            current_date = day_title_tag.text.strip()
-            result[current_date] = {}
-    
-            for category_div in day_div.find_all('div', class_='schedule__category'):
-                cat_header = category_div.find('div', class_='schedule__catHeader')
-                if not cat_header:
-                    continue
-                
-                current_category = cat_header.text.strip()
-                result[current_date][current_category] = []
-                
-                category_body = category_div.find('div', class_='schedule__categoryBody')
-                if not category_body:
-                    continue
-
-                for event_div in category_body.find_all('div', class_='schedule__event'):
-                    event_header = event_div.find('div', class_='schedule__eventHeader')
-                    if not event_header:
-                        continue
-
-                    time_span = event_header.find('span', class_='schedule__time')
-                    event_title_span = event_header.find('span', class_='schedule__eventTitle')
-                    
-                    event_data = {
-                        "time": time_span.text.strip() if time_span else "",
-                        "event": event_title_span.text.strip() if event_title_span else "Evento Sconosciuto",
-                        "channels": []
-                    }
-
-                    channels_div = event_div.find('div', class_='schedule__channels')
-                    if channels_div:
-                        for link in channels_div.find_all('a', href=re.compile(r'/watch\.php\?id=\d+')):
-                            href = link.get('href', '')
-                            channel_id_match = re.search(r'id=(\d+)', href)
-                            if channel_id_match:
-                                channel_id = channel_id_match.group(1)
-                                channel_name = link.text.strip()
-                                channel_name = re.sub(r'\s*CH-\d+$', '', channel_name).strip()
-
-                                event_data["channels"].append({
-                                    "channel_name": channel_name,
-                                    "channel_id": channel_id
-                                })
-                    
-                    result[current_date][current_category].append(event_data)
-    
-        return result
-    
-    def html_to_json_extra_schedule(html_content, result):
-        """Aggiunge gli eventi_dlhd dalla sezione 'Extra Schedule' al risultato JSON."""
-        soup = BeautifulSoup(html_content, 'html.parser')
-
-        extra_schedule_header = soup.find(lambda tag: tag.name == 'h2' and 'Extra Schedule' in tag.get_text() and 'Backup' not in tag.get_text() and 'Plus' not in tag.get_text())
-        if not extra_schedule_header:
-            print("AVVISO: Sezione 'Extra Schedule' non trovata.")
-            return result
- 
-        schedule_div = extra_schedule_header.find_next_sibling('div', class_='schedule')
-        if not schedule_div: 
-            print("AVVISO: Contenitore per 'Extra Schedule' non trovato.")
-            return result
-
-        for day_div in schedule_div.find_all('div', class_='schedule__day'):
-            day_title_tag = day_div.find('div', class_='schedule__dayTitle')
-            if not day_title_tag:
+            # Estrai il nome della categoria dal tag card__meta
+            cat_meta = cat_header.find('div', class_='card__meta')
+            if not cat_meta:
                 continue
             
-            current_date = day_title_tag.text.strip()
-            if current_date not in result:
-                result[current_date] = {}
-
-            for event_div in day_div.find_all('div', class_='schedule__event'):
+            current_category = cat_meta.text.strip()
+            result[current_date][current_category] = []
+            
+            category_body = category_div.find('div', class_='schedule__categoryBody')
+            if not category_body:
+                continue
+            
+            # Processa tutti gli eventi
+            for event_div in category_body.find_all('div', class_='schedule__event'):
                 event_header = event_div.find('div', class_='schedule__eventHeader')
                 if not event_header:
                     continue
-
+                
                 time_span = event_header.find('span', class_='schedule__time')
                 event_title_span = event_header.find('span', class_='schedule__eventTitle')
                 
-                if not time_span or not event_title_span:
-                    continue
-
-                event_title_text = event_title_span.text.strip()
-                
-                # Estrai la categoria dal titolo dell'evento, se presente
-                category = "eventi_dlhd Extra" # Categoria di default
-                if ":" in event_title_text:
-                    parts = event_title_text.split(':', 1)
-                    potential_category = parts[0].strip()
-                    # Heuristica per decidere se è una categoria
-                    if len(potential_category.split()) < 4 and not any(char.isdigit() for char in potential_category):
-                         category = potential_category
-
-                if category not in result[current_date]:
-                    result[current_date][category] = []
-
                 event_data = {
-                    "time": time_span.text.strip(),
-                    "event": event_title_text,
-                    "channels": []
+                    'time': time_span.text.strip() if time_span else '',
+                    'event': event_title_span.text.strip() if event_title_span else 'Evento Sconosciuto',
+                    'channels': []
                 }
-
+                
                 channels_div = event_div.find('div', class_='schedule__channels')
                 if channels_div:
-                    for link in channels_div.find_all('a', href=re.compile(r'/watchs2watch\.php\?id=')):
+                    for link in channels_div.find_all('a', href=True):
                         href = link.get('href', '')
-                        # L'ID del canale è codificato in modo diverso qui, lo gestiamo come testo
-                        channel_id = href.split('id=')[-1]
-                        channel_name = link.text.strip()
-                        channel_name = re.sub(r'\s*CH-\d+$', '', channel_name).strip()
-
-                        event_data["channels"].append({
-                            "channel_name": channel_name,
-                            "channel_id": channel_id # Manteniamo l'ID complesso
-                        })
-                
-                if event_data["channels"]:
-                    result[current_date][category].append(event_data)
-
-        return result
-
-    def html_to_json_extra_backup_schedule(html_content, result):
-        """Aggiunge gli eventi_dlhd dalla sezione 'Extra Schedule Backup' al risultato JSON."""
-        soup = BeautifulSoup(html_content, 'html.parser')
-
-        extra_schedule_header = soup.find(lambda tag: tag.name == 'h2' and 'Extra Schedule Backup' in tag.get_text())
-        if not extra_schedule_header:
-            print("AVVISO: Sezione 'Extra Schedule Backup' non trovata.")
-            return result
- 
-        schedule_div = extra_schedule_header.find_next_sibling('div', class_='schedule')
-        if not schedule_div: 
-            print("AVVISO: Contenitore per 'Extra Schedule Backup' non trovato.")
-            return result
-
-        for day_div in schedule_div.find_all('div', class_='schedule__day'):
-            day_title_tag = day_div.find('div', class_='schedule__dayTitle')
-            if not day_title_tag:
-                continue
-            
-            current_date = day_title_tag.text.strip()
-            if current_date not in result:
-                result[current_date] = {}
-
-            for category_div in day_div.find_all('div', class_='schedule__category'):
-                cat_header = category_div.find('div', class_='schedule__catHeader')
-                if not cat_header:
-                    continue
-                
-                current_category = cat_header.text.strip()
-                if current_category not in result[current_date]:
-                    result[current_date][current_category] = []
-
-                category_body = category_div.find('div', class_='schedule__categoryBody')
-                if not category_body:
-                    continue
-
-                for event_div in category_body.find_all('div', class_='schedule__event'):
-                    event_header = event_div.find('div', class_='schedule__eventHeader')
-                    if not event_header:
-                        continue
-
-                    time_span = event_header.find('span', class_='schedule__time')
-                    event_title_span = event_header.find('span', class_='schedule__eventTitle')
-                    
-                    event_data = {
-                        "time": time_span.text.strip() if time_span else "",
-                        "event": event_title_span.text.strip() if event_title_span else "Evento Sconosciuto",
-                        "channels": []
-                    }
-
-                    channels_div = event_div.find('div', class_='schedule__channels')
-                    if channels_div:
-                        for link in channels_div.find_all('a', href=re.compile(r'/watchextra\.php\?id=')):
-                            href = link.get('href', '')
-                            channel_id_match = re.search(r'id=(\d+)', href)
-                            if channel_id_match:
-                                channel_id = channel_id_match.group(1)
-                                channel_name = link.text.strip()
-                                channel_name = re.sub(r'\s*CH-\d+$', '', channel_name).strip()
-
-                                event_data["channels"].append({
-                                    "channel_name": channel_name,
-                                    "channel_id": channel_id
-                                })
-                    
-                    if event_data["channels"]:
-                        result[current_date][current_category].append(event_data)
-
-        return result
-
-    def html_to_json_extra_sd_schedule(html_content, result):
-        """Aggiunge gli eventi_dlhd dalla sezione 'Extra SD Stream Schedule' al risultato JSON."""
-        soup = BeautifulSoup(html_content, 'html.parser')
-
-        extra_schedule_header = soup.find(lambda tag: tag.name == 'h2' and 'Extra SD Stream Schedule' in tag.get_text())
-        if not extra_schedule_header:
-            print("AVVISO: Sezione 'Extra SD Stream Schedule' non trovata.")
-            return result
- 
-        schedule_div = extra_schedule_header.find_next_sibling('div', class_='schedule')
-        if not schedule_div: 
-            print("AVVISO: Contenitore per 'Extra SD Stream Schedule' non trovato.")
-            return result
-
-        for day_div in schedule_div.find_all('div', class_='schedule__day'):
-            day_title_tag = day_div.find('div', class_='schedule__dayTitle')
-            if not day_title_tag:
-                continue
-            
-            current_date = day_title_tag.text.strip()
-            if current_date not in result:
-                result[current_date] = {}
-
-            for category_div in day_div.find_all('div', class_='schedule__category'):
-                cat_header = category_div.find('div', class_='schedule__catHeader')
-                if not cat_header:
-                    continue
-                
-                current_category = cat_header.text.strip()
-                if current_category not in result[current_date]:
-                    result[current_date][current_category] = []
-
-                category_body = category_div.find('div', class_='schedule__categoryBody')
-                if not category_body:
-                    continue
-
-                for event_div in category_body.find_all('div', class_='schedule__event'):
-                    event_header = event_div.find('div', class_='schedule__eventHeader')
-                    if not event_header:
-                        continue
-
-                    time_span = event_header.find('span', class_='schedule__time')
-                    event_title_span = event_header.find('span', class_='schedule__eventTitle')
-                    
-                    event_data = {
-                        "time": time_span.text.strip() if time_span else "",
-                        "event": event_title_span.text.strip() if event_title_span else "Evento Sconosciuto",
-                        "channels": []
-                    }
-
-                    channels_div = event_div.find('div', class_='schedule__channels')
-                    if channels_div:
-                        for link in channels_div.find_all('a', href=re.compile(r'/watchsd\.php\?id=')):
-                            href = link.get('href', '')
-                            # L'ID del canale è una stringa, non un numero
-                            channel_id = href.split('id=')[-1]
-                            channel_name = link.text.strip()
-                            channel_name = re.sub(r'\s*CH-[\w-]+$', '', channel_name).strip()
-
-                            event_data["channels"].append({
-                                "channel_name": channel_name,
-                                "channel_id": channel_id
+                        # Estrae l'id da watch.php?id=XXX
+                        channel_id_match = re.search(r'id=(\d+)', href)
+                        if channel_id_match:
+                            channel_id = channel_id_match.group(1)
+                            channel_name = link.get('title', link.text.strip())
+                            event_data['channels'].append({
+                                'channel_name': channel_name,
+                                'channel_id': channel_id
                             })
-                    
-                    if event_data["channels"]:
-                        result[current_date][current_category].append(event_data)
-
+                
+                if event_data['channels']:
+                    result[current_date][current_category].append(event_data)
+        
         return result
     
     def modify_json_file(json_file_path):
@@ -1820,65 +1627,67 @@ def schedule_extractor():
             json.dump(data, f, indent=4)
         
         print(f"File JSON modificato e salvato in {json_file_path}")
-    
+        
     def extract_schedule_container():
+        import requests
+        from bs4 import BeautifulSoup
+        import json
+        import os
+        
         url = f"{LINK_DADDY}/"
-    
         script_dir = os.path.dirname(os.path.abspath(__file__))
         json_output = os.path.join(script_dir, "daddyliveSchedule.json")
-    
-        print(f"Accesso alla pagina {url} per estrarre il main-schedule-container...")
-    
-        with sync_playwright() as p:
-            browser = p.chromium.launch(headless=True)
-            context = browser.new_context(
-                user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0 Safari/537.36"
+        
+        print(f"Accesso a {url} con FlareSolverr...")
+        
+        payload = {
+            "cmd": "request.get",
+            "url": url,
+            "maxTimeout": 60000
+        }
+        
+        try:
+            # Invia richiesta a FlareSolverr
+            response = requests.post(
+                FLARESOLVERR_URL,
+                json=payload,
+                headers={"Content-Type": "application/json"},
+                timeout=70
             )
-            page = context.new_page()
-    
-            max_attempts = 3
-            for attempt in range(1, max_attempts + 1):
-                try:
-                    print(f"Tentativo {attempt} di {max_attempts}...")
-                    page.goto(url)
-                    print("Attesa per il caricamento completo...")
-                    page.wait_for_timeout(10000)  # 10 secondi
-    
-                    schedule_content = page.evaluate("""() => {
-                        const container = document.querySelector('body');
-                        return container ? container.outerHTML : '';
-                    }""")
-    
-                    if not schedule_content:
-                        print("AVVISO: Contenuto della pagina non trovato o vuoto!")
-                        if attempt == max_attempts:
-                            browser.close()
-                            return False
-                        else:
-                            continue
-    
-                    print("Conversione HTML della programmazione principale in formato JSON...")
-                    json_data = html_to_json(schedule_content)
-    
-                    with open(json_output, "w", encoding="utf-8") as f:
-                        json.dump(json_data, f, indent=4)
-    
-                    print(f"Dati JSON salvati in {json_output}")
-    
-                    modify_json_file(json_output)
-                    browser.close()
-                    return True
-    
-                except Exception as e:
-                    print(f"ERRORE nel tentativo {attempt}: {str(e)}")
-                    if attempt == max_attempts:
-                        print("Tutti i tentativi falliti!")
-                        browser.close()
-                        return False
-                    else:
-                        print(f"Riprovando... (tentativo {attempt + 1} di {max_attempts})")
-    
-            browser.close()
+            
+            result = response.json()
+            
+            if result.get("status") != "ok":
+                print(f"❌ FlareSolverr fallito: {result.get('message')}")
+                return False
+            
+            # Ottieni l'HTML
+            html_content = result["solution"]["response"]
+            
+            print("✓ Cloudflare bypassato con FlareSolverr!")
+            
+            # Parse HTML
+            soup = BeautifulSoup(html_content, 'html.parser')
+            schedule_div = soup.find('div', id='schedule')
+            
+            if not schedule_div:
+                print("❌ #schedule non trovato!")
+                with open("flare_debug.html", "w", encoding="utf-8") as f:
+                    f.write(html_content)
+                return False
+            
+            print("✓ Schedule estratto!")
+            json_data = html_to_json(str(schedule_div))
+            
+            with open(json_output, "w", encoding="utf-8") as f:
+                json.dump(json_data, f, indent=4)
+            
+            print(f"✓ Salvato in {json_output}")
+            modify_json_file(json_output)
+            return True
+            
+        except Exception as e:
+            print(f"❌ ERRORE: {str(e)}")
             return False
     
     if __name__ == "__main__":
@@ -2419,10 +2228,6 @@ def italy_channels():
     from dotenv import load_dotenv
     from bs4 import BeautifulSoup
 
-    # Variabile d'ambiente per controllare i canali Daddylive
-    CANALI_DADDY = os.getenv("CANALI_DADDY", "no").strip().lower() == "si"
-    LINK_DADDY = os.getenv("LINK_DADDY", "").strip() or "https://dlhd.dad"
-
     def getAuthSignature():
         headers = {
             "user-agent": "okhttp/4.11.0",
@@ -2887,7 +2692,7 @@ def italy_channels():
             print(f"Errore nella lettura di {epg_file}: {e}")
         return tvg_id_map
 
-    def save_as_m3u(channels, daddylive_channels=None, filename="italy.m3u"):
+    def save_as_m3u(channels, filename="italy.m3u"):
         logos = fetch_logos()
         epg_xml_path = os.path.join(output_dir, "epg.xml")
         tvg_id_map = create_tvg_id_map(epg_xml_path)
@@ -2932,63 +2737,6 @@ def italy_channels():
                         "logo": logo,             # Logo trovato con nome modificato
                         "tvg_id": tvg_id         # TVG-ID trovato con nome modificato
                     })
-
-        # Processa i canali Daddylive se presenti
-        if daddylive_channels:
-            for raw_name, stream_url_with_id in daddylive_channels:
-                # Pulizia e trasformazione del nome come nella logica originale
-                name_after_initial_clean = clean_channel_name(raw_name)
-                # Rimuovi "italy" e converti in maiuscolo
-                base_daddy_name = re.sub(r'italy', '', name_after_initial_clean, flags=re.IGNORECASE).strip()
-                base_daddy_name = re.sub(r'\s+', ' ', base_daddy_name).strip()
-                base_daddy_name = base_daddy_name.upper()
-
-                # Estrai l'ID del canale dall'URL per la correzione
-                stream_url = stream_url_with_id
-                channel_id_match = re.search(r'id=(\d+)', stream_url)
-                channel_id = channel_id_match.group(1) if channel_id_match else None
-
-                if channel_id == "877":
-                    print(f"[CORREZIONE FINALE] Canale ID {channel_id} ('{base_daddy_name}') forzato a 'DAZN'")
-                    base_daddy_name = "DAZN"
-                    
-                if channel_id == "853":
-                    print(f"[CORREZIONE FINALE] Canale ID {channel_id} ('{base_daddy_name}') forzato a 'CANALE 5'")
-                    base_daddy_name = "CANALE 5"
-
-                # Usa la mappa fornita per la rinomina dei canali Sky Calcio specifici di Daddylive
-                rename_map = {
-                    "SKY CALCIO 1": "SKY SPORT 251",
-                    "SKY CALCIO 2": "SKY SPORT 252",
-                    "SKY CALCIO 3": "SKY SPORT 253",
-                    "SKY CALCIO 4": "SKY SPORT 254",
-                    "SKY CALCIO 5": "SKY SPORT 255",
-                    "SKY CALCIO 6": "SKY SPORT 256",
-                    "SKY CALCIO 7": "DAZN 1"
-                }
-
-                # Rimuovi eventuali numeri tra parentesi dal nome base prima della mappa
-                base_daddy_name_clean = re.sub(r"\s*\(\d+\)", "", base_daddy_name).strip()
-                if base_daddy_name_clean in rename_map:
-                    base_daddy_name = rename_map[base_daddy_name_clean]
-
-                # Aggiungi suffisso (D) per identificare i canali Daddylive
-                final_name = f"{base_daddy_name} (D)"
-                category = classify_channel(base_daddy_name)
-
-                # Usa il nome base (senza suffisso) per cercare logo e tvg-id
-                logo = logos.get(base_daddy_name.lower(), "")
-                tvg_id = tvg_id_map.get(normalize_channel_name(base_daddy_name), "")
-
-                if category not in channels_by_category:
-                    channels_by_category[category] = []
-
-                channels_by_category[category].append({
-                    "name": final_name,
-                    "url": stream_url,
-                    "logo": logo,
-                    "tvg_id": tvg_id
-                })
 
         # Salva nel file M3U
         with open(os.path.join(output_dir, filename), "w", encoding="utf-8") as f:
@@ -3044,128 +2792,20 @@ def italy_channels():
 
         print(f"Playlist M3U salvata in: {os.path.join(output_dir, filename)}")
         print(f"Totale canali Vavoo: {len(channels)}")
-        if daddylive_channels:
-            print(f"Totale canali Daddylive: {len(daddylive_channels)}")
         print(f"Totale canali per categoria:")
         for category, channel_list in channels_by_category.items():
             print(f" {category}: {len(channel_list)} canali")
-
-    def get_stream_from_channel_id(channel_id):
-        """Risolve lo stream URL per un canale Daddylive dato il suo ID."""
-        # Usa direttamente il metodo .php
-        raw_php_url = f"{LINK_DADDY.rstrip('/')}/watch.php?id={channel_id}"
-        print(f"URL .php per il canale Daddylive {channel_id}: {raw_php_url}")
-        return raw_php_url
-
-    def fetch_channels_from_daddy_json(json_url):
-        """Estrae i canali italiani dalla pagina HTML di Daddylive (non più dal JSON)."""
-        from bs4 import BeautifulSoup
-        
-        print(f"Recupero canali da {LINK_DADDY}/24-7-channels.php")
-        channels = []
-        seen_daddy_channel_ids = set()
-        session = requests.Session()
-    
-        try:
-            # Scarica la pagina HTML invece del JSON
-            url = f"{LINK_DADDY}/24-7-channels.php"
-            headers = {
-                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
-            }
-            
-            response = requests.get(url, headers=headers, timeout=15, verify=False)
-            response.raise_for_status()
-            
-            # Parsa l'HTML
-            soup = BeautifulSoup(response.text, 'html.parser')
-            cards = soup.find_all('a', class_='card')
-            
-            print(f"Trovati {len(cards)} canali nella pagina HTML di Daddylive.")
-    
-            for card in cards:
-                # Estrae il nome del canale
-                title_div = card.find('div', class_='card__title')
-                if not title_div:
-                    continue
-                
-                channel_name_raw = title_div.text.strip()
-                
-                # Estrae l'ID del canale
-                href = card.get('href', '')
-                if not ('id=' in href):
-                    continue
-                
-                channel_id = href.split('id=')[1].split('&')[0]
-    
-                if not channel_name_raw or not channel_id:
-                    continue
-    
-                # Correzione specifica per il canale ID 853
-                if channel_id == "853":
-                    print(f"[CORREZIONE] Trovato ID 853. Il nome '{channel_name_raw}' sarà forzato a 'Canale 5 Italy'.")
-                    channel_name_raw = "Canale 5 Italy"
-    
-                # Filtro: deve contenere "italy" (case-insensitive)
-                if "italy" in channel_name_raw.lower():
-                    if channel_id in seen_daddy_channel_ids:
-                        print(f"Skipping Daddylive channel '{channel_name_raw}' (ID: {channel_id}) perché l'ID è già stato processato.")
-                        continue
-                    seen_daddy_channel_ids.add(channel_id)
-                    print(f"Trovato canale ITALIANO (Daddylive HTML): {channel_name_raw}, ID: {channel_id}. Tentativo di risoluzione stream...")
-                    
-                    # Usa il link .php come richiesto
-                    stream_url = get_stream_from_channel_id(channel_id)
-                    if stream_url:
-                        url_with_id = stream_url
-                        channels.append((channel_name_raw, url_with_id))
-                        print(f"Aggiunto stream .php per {channel_name_raw}: {stream_url}")
-                    else:
-                        print(f"Impossibile risolvere lo stream per {channel_name_raw} (ID: {channel_id})")
-            
-            if not channels:
-                print(f"Nessun canale italiano estratto/risolto dalla pagina HTML.")
-    
-        except requests.RequestException as e:
-            print(f"Errore durante il download dalla pagina HTML: {e}")
-        except Exception as e:
-            print(f"Errore imprevisto durante il parsing della pagina HTML: {e}")
-        
-        return channels
 
     if __name__ == "__main__":
         # 1. Canali da sorgenti Vavoo (JSON)
         print("\n--- Fetching canali da sorgenti Vavoo (JSON) ---")
         channels = get_channels()
         print(f"Trovati {len(channels)} canali Vavoo.")
-        
-        # 2. Canali dalla pagina HTML di Daddylive (se abilitato)
-        daddylive_channels = None
-        if CANALI_DADDY:
-            print("\n--- Fetching canali da Daddylive (HTML) ---")
-            daddy_json_url = f"{LINK_DADDY.rstrip('/')}/daddy.json"
-            daddylive_channels = fetch_channels_from_daddy_json(daddy_json_url)
 
-            # Aggiungi manualmente il canale DAZN (ID 877) se non è già presente
-            if not any(item[1] and 'id=877' in item[1] for item in daddylive_channels):
-                print("[INFO] Aggiunta manuale del canale DAZN (ID: 877)...")
-                # Usa il link .php come richiesto
-                stream_url_877 = get_stream_from_channel_id("877")
-                if stream_url_877:
-                    daddylive_channels.append(("DAZN Italy (D)", stream_url_877))
-                    print("[✓] Canale DAZN (ID: 877) aggiunto con successo.")
-
-            print(f"Trovati {len(daddylive_channels)} canali Daddylive.")
-        else:
-            print("\n--- Canali Daddylive disabilitati (CANALI_DADDY=no) ---")
-        
-        # 3. Crea la playlist M3U
+        # 2. Crea la playlist M3U
         print("\n--- Creazione playlist M3U ---")
         # Salva i canali Vavoo
         save_as_m3u(channels, filename="vavoo.m3u")
-        
-        # Salva i canali Daddylive se presenti
-        if daddylive_channels:
-            save_as_m3u([], daddylive_channels=daddylive_channels, filename="dlhd.m3u")
     
 # Funzione per il settimo script (world_channels_generator.py)
 def world_channels_generator():
