@@ -133824,5 +133824,262 @@
       10752
     ],
     "cached_at": "2025-11-14T06:23:01.897833"
+  },
+  "438457": {
+    "id": 438457,
+    "title": "The Ballad of Lefty Brown",
+    "release_date": "2017-12-15",
+    "vote_average": 6.2,
+    "poster_path": "/p4L5DM3ZeEuAawFxd2ftgISQMZQ.jpg",
+    "genre_ids": [
+      37
+    ],
+    "cached_at": "2025-11-15T06:20:44.319611"
+  },
+  "1087572": {
+    "id": 1087572,
+    "title": "Blackmailed",
+    "release_date": "2018-01-01",
+    "vote_average": 0.0,
+    "poster_path": "/7PtUnJ6nIId3M7sfiQ3bgXRWLfS.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-11-15T06:20:44.605280"
+  },
+  "1400780": {
+    "id": 1400780,
+    "title": "Come See Me in the Good Light",
+    "release_date": "2025-11-14",
+    "vote_average": 7.0,
+    "poster_path": "/uxtMx0ZPk93hABiqqL3yivqBP66.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-11-15T06:20:45.930870"
+  },
+  "283392": {
+    "id": 283392,
+    "title": "Ninja kasumi",
+    "release_date": "",
+    "vote_average": 0.0,
+    "poster_path": null,
+    "genre_ids": [],
+    "cached_at": "2025-11-15T06:20:48.641990"
+  },
+  "76178": {
+    "id": 76178,
+    "title": "Terrorists, Killers and Middle-East Wackos",
+    "release_date": "2005-06-21",
+    "vote_average": 1.0,
+    "poster_path": "/jY1X2QmYpDbLA9QsowSwtshwYgC.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-11-15T06:20:48.679192"
+  },
+  "323368": {
+    "id": 323368,
+    "title": "Hangman - Il gioco dell'impiccato",
+    "release_date": "2017-12-22",
+    "vote_average": 5.816,
+    "poster_path": "/e1pehGURvePYeGlsOx0XmMTpLm0.jpg",
+    "genre_ids": [
+      9648,
+      80,
+      53
+    ],
+    "cached_at": "2025-11-15T06:20:49.574385"
+  },
+  "438259": {
+    "id": 438259,
+    "title": "1918 - I giorni del coraggio",
+    "release_date": "2017-12-14",
+    "vote_average": 6.347,
+    "poster_path": "/2wiD92pcU3op6Uz2c5sA9YDH6jP.jpg",
+    "genre_ids": [
+      10752,
+      18,
+      28
+    ],
+    "cached_at": "2025-11-15T06:20:50.288605"
+  },
+  "466872": {
+    "id": 466872,
+    "title": "The First Lap",
+    "release_date": "2017-12-07",
+    "vote_average": 6.0,
+    "poster_path": "/1ens4EDhfoL3b5ckwG0n45a0YFf.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-11-15T06:20:50.462914"
+  },
+  "1362315": {
+    "id": 1362315,
+    "title": "La mano sulla culla",
+    "release_date": "2025-10-16",
+    "vote_average": 5.7,
+    "poster_path": "/pB1B5Pg7LBR5ppvVEWgA3GkGcV4.jpg",
+    "genre_ids": [
+      53
+    ],
+    "cached_at": "2025-11-15T06:20:50.482557"
+  },
+  "1425122": {
+    "id": 1425122,
+    "title": "A Very Jonas Christmas Movie",
+    "release_date": "2025-11-13",
+    "vote_average": 9.1,
+    "poster_path": "/kGLgaDrYWmTAdRFzGP5pBquRnhO.jpg",
+    "genre_ids": [
+      35,
+      10402
+    ],
+    "cached_at": "2025-11-15T06:20:51.055077"
+  },
+  "76148": {
+    "id": 76148,
+    "title": "Room to Rent",
+    "release_date": "2001-06-22",
+    "vote_average": 5.5,
+    "poster_path": "/ug0J2Rudtp3CAnSYHxoyAGDUDTi.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-11-15T06:20:51.936655"
+  },
+  "82235": {
+    "id": 82235,
+    "title": "Mischka",
+    "release_date": "2002-02-20",
+    "vote_average": 5.3,
+    "poster_path": "/vYvJTfQSc68hDGhZvYmA3qDlw3b.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2025-11-15T06:20:53.072128"
+  },
+  "195269": {
+    "id": 195269,
+    "title": "Ancora 12 Rounds",
+    "release_date": "2013-06-01",
+    "vote_average": 5.594,
+    "poster_path": "/8TDOtA9ByYXcXfhsrTUxJyDvxi5.jpg",
+    "genre_ids": [
+      28,
+      12,
+      53
+    ],
+    "cached_at": "2025-11-15T06:20:53.665132"
+  },
+  "488223": {
+    "id": 488223,
+    "title": "Dave Chappelle: Equanimity",
+    "release_date": "2017-12-31",
+    "vote_average": 7.454,
+    "poster_path": "/4EaNffvPj5uTxRbFcmiTkor1lZW.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-11-15T06:20:53.687081"
+  },
+  "17134": {
+    "id": 17134,
+    "title": "12 Rounds",
+    "release_date": "2009-03-19",
+    "vote_average": 5.904,
+    "poster_path": "/c055rmYad39JrSRZjI8ftakKToa.jpg",
+    "genre_ids": [
+      28,
+      53,
+      80
+    ],
+    "cached_at": "2025-11-15T06:20:54.020816"
+  },
+  "437103": {
+    "id": 437103,
+    "title": "1987",
+    "release_date": "2017-12-27",
+    "vote_average": 8.113,
+    "poster_path": "/mO55nkEFrI2EVdjxx0asaOGtHfa.jpg",
+    "genre_ids": [
+      18,
+      36,
+      53
+    ],
+    "cached_at": "2025-11-15T06:20:54.514352"
+  },
+  "1117857": {
+    "id": 1117857,
+    "title": "In Your Dreams - Continua a sognare",
+    "release_date": "2025-11-07",
+    "vote_average": 6.714,
+    "poster_path": "/g1ntwXrE9Bhc6mmZxE8DasUQTvA.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      35,
+      12,
+      14
+    ],
+    "cached_at": "2025-11-15T06:20:54.734144"
+  },
+  "1523096": {
+    "id": 1523096,
+    "title": "Fragments for Venus",
+    "release_date": "2025-08-30",
+    "vote_average": 0.0,
+    "poster_path": "/rVeF3CV9qzDo35FQpi1llFjzLFf.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-11-15T06:20:55.537491"
+  },
+  "76305": {
+    "id": 76305,
+    "title": "Hjelp, vi er i filmbransjen",
+    "release_date": "2011-07-29",
+    "vote_average": 3.8,
+    "poster_path": "/as1UuHHAIDc54VicnA6NgOokHbT.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-11-15T06:20:56.342842"
+  },
+  "470819": {
+    "id": 470819,
+    "title": "Jane",
+    "release_date": "2017-12-28",
+    "vote_average": 7.5,
+    "poster_path": "/lasO6v47evkx4JfRqf4Rhqp8FZd.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-11-15T06:20:56.699906"
+  },
+  "1386792": {
+    "id": 1386792,
+    "title": "Lefter: la storia di Ordinaryus",
+    "release_date": "2025-11-13",
+    "vote_average": 1.0,
+    "poster_path": "/peQTKTerXAxBZeQwTk0NyFR47T.jpg",
+    "genre_ids": [
+      18,
+      36
+    ],
+    "cached_at": "2025-11-15T06:20:56.822097"
+  },
+  "394537": {
+    "id": 394537,
+    "title": "I pirati della Somalia",
+    "release_date": "2017-12-08",
+    "vote_average": 6.877,
+    "poster_path": "/hIX982lWc7AUBWVeMZrbIDWTuMJ.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-11-15T06:20:56.985193"
   }
 }

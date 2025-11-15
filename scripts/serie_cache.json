@@ -59103,5 +59103,108 @@
       10759
     ],
     "cached_at": "2025-11-14T06:23:07.597363"
+  },
+  "82235": {
+    "id": 82235,
+    "name": "Pete the Cat",
+    "original_name": "Pete the Cat",
+    "first_air_date": "2017-12-25",
+    "vote_average": 7.375,
+    "poster_path": "/eTug1KuDsrQ4jMIN6zaEnERfSnd.jpg",
+    "genre_ids": [
+      16,
+      10762
+    ],
+    "cached_at": "2025-11-15T06:21:00.557142"
+  },
+  "283392": {
+    "id": 283392,
+    "name": "Me late que sí",
+    "original_name": "Me late que sí",
+    "first_air_date": "2025-11-14",
+    "vote_average": 7.0,
+    "poster_path": "/2frfO6pr8i1Oh1iakIFRrLQGEK9.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "cached_at": "2025-11-15T06:21:00.574848"
+  },
+  "76148": {
+    "id": 76148,
+    "name": "Derry Girls",
+    "original_name": "Derry Girls",
+    "first_air_date": "2018-01-04",
+    "vote_average": 8.082,
+    "poster_path": "/btIm8LOtm2qgHIA2IHmQJvD1Mju.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2025-11-15T06:21:00.662311"
+  },
+  "76178": {
+    "id": 76178,
+    "name": "Non c'è bisogno di presentazioni - Con David Letterman",
+    "original_name": "My Next Guest Needs No Introduction with David Letterman",
+    "first_air_date": "2018-01-12",
+    "vote_average": 7.0,
+    "poster_path": "/5dObN91CjQPUhgQoEMbpmLTtxc8.jpg",
+    "genre_ids": [
+      10767,
+      35
+    ],
+    "cached_at": "2025-11-15T06:21:00.666732"
+  },
+  "207863": {
+    "id": 207863,
+    "name": "Le streghe Mayfair",
+    "original_name": "Mayfair Witches",
+    "first_air_date": "2023-01-08",
+    "vote_average": 7.3,
+    "poster_path": "/eDl1veju2Hf3tyFmGAedtGXb9Yv.jpg",
+    "genre_ids": [
+      18,
+      10765
+    ],
+    "cached_at": "2025-11-15T06:21:00.735239"
+  },
+  "274979": {
+    "id": 274979,
+    "name": "Il cuculo di cristallo",
+    "original_name": "El cuco de cristal",
+    "first_air_date": "2025-11-14",
+    "vote_average": 8.5,
+    "poster_path": "/5Z5Qrh7VTQg7sz6HmumE0Sg7kGp.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-11-15T06:21:00.764916"
+  },
+  "244416": {
+    "id": 244416,
+    "name": "Malice",
+    "original_name": "Malice",
+    "first_air_date": "2025-11-14",
+    "vote_average": 6.0,
+    "poster_path": "/fKhHzRk1VIJY1nz1cRhAfAaYfnA.jpg",
+    "genre_ids": [
+      18,
+      9648
+    ],
+    "cached_at": "2025-11-15T06:21:00.809369"
+  },
+  "76305": {
+    "id": 76305,
+    "name": "Date da mangiare a Phil",
+    "original_name": "Somebody Feed Phil",
+    "first_air_date": "2018-01-12",
+    "vote_average": 7.4,
+    "poster_path": "/baB2pARwDixrwnwKKmGY415hqPL.jpg",
+    "genre_ids": [
+      99,
+      10764
+    ],
+    "cached_at": "2025-11-15T06:21:00.876366"
   }
 }
