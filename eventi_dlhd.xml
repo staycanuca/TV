@@ -261,32 +261,6 @@
     <desc lang="it">Nitto ATP Finals</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="MotoGPValenciaGrandPrixWarmUp">
-    <display-name>MotoGP : Valencia Grand Prix Warm Up</display-name>
-  </channel>
-  <programme start="20251116000000 +0200" stop="20251116113000 +0200" channel="MotoGPValenciaGrandPrixWarmUp">
-    <title lang="it">Inizia alle 11:30.</title>
-    <desc lang="it">MotoGP : Valencia Grand Prix Warm Up.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251116113000 +0200" stop="20251116133000 +0200" channel="MotoGPValenciaGrandPrixWarmUp">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : Valencia Grand Prix Warm Up</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="Moto3ValenciaGrandPrixRace">
-    <display-name>Moto3 : Valencia Grand Prix Race</display-name>
-  </channel>
-  <programme start="20251116000000 +0200" stop="20251116120000 +0200" channel="Moto3ValenciaGrandPrixRace">
-    <title lang="it">Inizia alle 12:00.</title>
-    <desc lang="it">Moto3 : Valencia Grand Prix Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251116120000 +0200" stop="20251116140000 +0200" channel="Moto3ValenciaGrandPrixRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto3 : Valencia Grand Prix Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="Moto2ValenciaGrandPrixRace">
     <display-name>Moto2 : Valencia Grand Prix Race</display-name>
   </channel>
@@ -316,27 +290,7 @@
   <channel id="SlalomLeviKristoffersenHenrikvsMeillardLoic">
     <display-name>Slalom Levi : Kristoffersen, Henrik vs. Meillard, Loic</display-name>
   </channel>
-  <programme start="20251116000000 +0200" stop="20251116120000 +0200" channel="SlalomLeviKristoffersenHenrikvsMeillardLoic">
-    <title lang="it">Inizia alle 12:00.</title>
-    <desc lang="it">Slalom Levi : Kristoffersen, Henrik vs. Meillard, Loic.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251116120000 +0200" stop="20251116140000 +0200" channel="SlalomLeviKristoffersenHenrikvsMeillardLoic">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Slalom Levi : Kristoffersen, Henrik vs. Meillard, Loic</desc>
-    <category lang="it">Alpine Ski</category>
-  </programme>
-  <programme start="20251116000000 +0200" stop="20251116120000 +0200" channel="SlalomLeviKristoffersenHenrikvsMeillardLoic">
-    <title lang="it">Inizia alle 12:00.</title>
-    <desc lang="it">Slalom Levi : Kristoffersen, Henrik vs. Meillard, Loic.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251116120000 +0200" stop="20251116140000 +0200" channel="SlalomLeviKristoffersenHenrikvsMeillardLoic">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Slalom Levi : Kristoffersen, Henrik vs. Meillard, Loic</desc>
-    <category lang="it">Alpine Ski</category>
-  </programme>
-  <programme start="20251116140000 +0200" stop="20251116144500 +0200" channel="SlalomLeviKristoffersenHenrikvsMeillardLoic">
+  <programme start="20251116000000 +0200" stop="20251116144500 +0200" channel="SlalomLeviKristoffersenHenrikvsMeillardLoic">
     <title lang="it">Inizia alle 14:45.</title>
     <desc lang="it">Slalom Levi : Kristoffersen, Henrik vs. Meillard, Loic.</desc>
     <category lang="it">Annuncio</category>
