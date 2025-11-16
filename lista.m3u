@@ -13,8 +13,6 @@ https://vavoo.to/vavoo-iptv/play/68845853044f9c95e43e
 https://vavoo.to/vavoo-iptv/play/190887752614ef25f5e1fd
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.omceo.bg.it/images/loghi/antenna-2.png" group-title="Altro",ANTENNA 2
 https://vavoo.to/vavoo-iptv/play/30140012609b4bf5e8d3b7
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",ANTENNA SICILIA
-https://vavoo.to/vavoo-iptv/play/3309975829c0cd274e96f4
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.antennasud.com/media/2022/08/cropped-LOGO_ANTENNA_SUD_ROSSO_FORATO.png" group-title="Altro",ANTENNA SUD
 https://vavoo.to/vavoo-iptv/play/4084059868fd82d62442e9
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.arte.tv/sites/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png" group-title="Documentari",ARTE NETWORK
@@ -139,19 +137,17 @@ https://vavoo.to/vavoo-iptv/play/40604994550f228d5b9b59
 https://vavoo.to/vavoo-iptv/play/2116902817eb437d88bab6
 #EXTINF:-1 tvg-id="hgtv.it" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS" group-title="Altro",HGTV
 https://vavoo.to/vavoo-iptv/play/42489970292d2930202d0e
-#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
-https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.gruppoicaro.it/wp-content/uploads/2020/05/icarotv.png" group-title="Altro",ICARO TV
 https://vavoo.to/vavoo-iptv/play/2392139008947764078821
 #EXTINF:-1 tvg-id="iris.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS
 https://vavoo.to/vavoo-iptv/play/23919988fc371eea2329
-#EXTINF:-1 tvg-id="italia.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Mediaset",ITALIA 1
-https://vavoo.to/vavoo-iptv/play/633342961994dc5083ad5
 #EXTINF:-1 tvg-id="italia.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Mediaset",ITALIA 1 (D)
 https://dlhd.dad/watch.php?id=854
 
 # ALTRO
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3 (1)
+https://vavoo.to/vavoo-iptv/play/1565298794daace40d1b60
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3 (2)
 https://vavoo.to/vavoo-iptv/play/1200985239ceccd12c8a54
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.upmagazinearezzo.it/atladv/wp-content/uploads/2017/07/atlantide-adv-logo-italian-fishing-tv.jpg" group-title="Altro",ITALIAN FISHING TV
 https://vavoo.to/vavoo-iptv/play/477083716dc642d622f68
@@ -289,6 +285,8 @@ https://vavoo.to/vavoo-iptv/play/860912269147f85ae7a8
 https://vavoo.to/vavoo-iptv/play/4031388312f5ebcfc7dc6d
 #EXTINF:-1 tvg-id="rdssocialtv.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/RDS-Logo.png/260px-RDS-Logo.png" group-title="Musica",RDS SOCIAL TV
 https://vavoo.to/vavoo-iptv/play/36560804080912cdf76cbf
+#EXTINF:-1 tvg-id="real.time.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Altro",REAL TIME
+https://vavoo.to/vavoo-iptv/play/2251241999722578d55332
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Reggio_TV_logo.png/640px-Reggio_TV_logo.png" group-title="Altro",REGGIO TV
 https://vavoo.to/vavoo-iptv/play/216554978929adb39fe170
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/rei-tv-it.png?raw=true" group-title="Altro",REI TV
@@ -333,6 +331,8 @@ https://vavoo.to/vavoo-iptv/play/11138532639c972f8c712f
 https://vavoo.to/vavoo-iptv/play/2002360508ebbced695f3c
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/senato-tv-it.png?raw=true" group-title="Altro",SENATO TV (2)
 https://vavoo.to/vavoo-iptv/play/28955495519a6e882c3db3
+#EXTINF:-1 tvg-id="sky.arte.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE
+https://vavoo.to/vavoo-iptv/play/1902695925283bcfc576b0
 #EXTINF:-1 tvg-id="sky.atlantic.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Film - Serie TV",SKY ATLANTIC
 https://vavoo.to/vavoo-iptv/play/1482866609814ff0b05ac7
 #EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film - Serie TV",SKY CINEMA ACTION
@@ -361,8 +361,6 @@ https://dlhd.dad/watch.php?id=866
 https://vavoo.to/vavoo-iptv/play/32165161175e13c1d3f56a
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY (D)
 https://dlhd.dad/watch.php?id=865
-#EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film - Serie TV",SKY CINEMA ROMANCE
-https://vavoo.to/vavoo-iptv/play/128126488561be9a87267f
 #EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film - Serie TV",SKY CINEMA ROMANCE (D)
 https://dlhd.dad/watch.php?id=864
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film - Serie TV",SKY CINEMA SUSPENSE
@@ -545,6 +543,8 @@ https://vavoo.to/vavoo-iptv/play/40202419628e8eecc1dd12
 https://vavoo.to/vavoo-iptv/play/1785098768e3514b1dbecc
 #EXTINF:-1 tvg-id="tg.norba.24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tg-norba-24-it.png" group-title="News",TG NORBA 24
 https://vavoo.to/vavoo-iptv/play/3413557893b1ed86e5018c
+#EXTINF:-1 tvg-id="topcalcio24.it" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPHW5VLQDGnNMVZszgWZRqnBSjPUTgAcUltQ&s" group-title="Sport",TOP CALCIO 24
+https://vavoo.to/vavoo-iptv/play/383554932681b8c3d5666a
 #EXTINF:-1 tvg-id="top.crime.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/top-crime-it.png" group-title="Mediaset",TOP CRIME
 https://vavoo.to/vavoo-iptv/play/3420407456fb80f4ceda0b
 
@@ -660,37 +660,25 @@ https://dlhd.dad/watch.php?id=152
 #EXTINF:-1 tvg-id="worldcupqualifyingitalyvsnorway" tvg-name="Soccer | World Cup Qualifying : Italy vs Norway (22:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Italy_vs_Norway.png" group-title="Eventi Live DLHD",Soccer | World Cup Qualifying : Italy vs Norway (22:45)
 https://dlhd.dad/watch.php?id=850
 
-#EXTINF:-1 tvg-id="worldcupqualifyingisraelvsmoldova" tvg-name="Soccer | World Cup Qualifying : Israel vs Moldova (22:45)" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/israel-logo.png" group-title="Eventi Live DLHD",Soccer | World Cup Qualifying : Israel vs Moldova (22:45)
+#EXTINF:-1 tvg-id="worldcupqualifyingisraelvsmoldova" tvg-name="Soccer | World Cup Qualifying : Israel vs Moldova (22:45)" tvg-logo="https://ichef.bbci.co.uk/news/1024/cpsprodpb/C30B/production/_131413994_israel_todayv2-nc.png" group-title="Eventi Live DLHD",Soccer | World Cup Qualifying : Israel vs Moldova (22:45)
 https://dlhd.dad/watch.php?id=870
 
 #EXTINF:-1 tvg-id="nittoatpfinals" tvg-name="Tennis | Nitto ATP Finals (17:00)" tvg-logo="https://tickets.nittoatpfinals.com/img/lang/it.png" group-title="Eventi Live DLHD",Tennis | Nitto ATP Finals (17:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="motogpvalenciagrandprixwarmup" tvg-name="Motorsport | MotoGP : Valencia Grand Prix Warm Up (11:30)" tvg-logo="https://logos-world.net/wp-content/uploads/2024/12/MotoGP-Logo-New.png" group-title="Eventi Live DLHD",Motorsport | MotoGP : Valencia Grand Prix Warm Up (11:30)
-https://dlhd.dad/watch.php?id=575
-
-#EXTINF:-1 tvg-id="moto3valenciagrandprixrace" tvg-name="Motorsport | Moto3 : Valencia Grand Prix Race (12:00)" tvg-logo="https://1.bp.blogspot.com/-Kz3F9RMG_M0/XPU-eFuDj4I/AAAAAAAAIJg/N4FhR0pVZnsPTII5Mooq3NE8DXhtA6BiACLcBGAs/s72-c/Moto3%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="Eventi Live DLHD",Motorsport | Moto3 : Valencia Grand Prix Race (12:00)
-https://dlhd.dad/watch.php?id=575
-
-#EXTINF:-1 tvg-id="moto2valenciagrandprixrace" tvg-name="Motorsport | Moto2 : Valencia Grand Prix Race (14:00)" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/289/666/original/zoom-logo-transparent-free-png.png" group-title="Eventi Live DLHD",Motorsport | Moto2 : Valencia Grand Prix Race (14:00)
+#EXTINF:-1 tvg-id="moto2valenciagrandprixrace" tvg-name="Motorsport | Moto2 : Valencia Grand Prix Race (14:00)" tvg-logo="https://1.bp.blogspot.com/-dt6mSIGyYDs/XPVByA3agjI/AAAAAAAAIJs/_6R4IvD5Gh43Bsk4SSoCKUveuK953FQkgCLcBGAs/s72-c/Moto2%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="Eventi Live DLHD",Motorsport | Moto2 : Valencia Grand Prix Race (14:00)
 https://dlhd.dad/watch.php?id=575
 
 #EXTINF:-1 tvg-id="motogpvalenciagrandprixrace" tvg-name="Motorsport | MotoGP : Valencia Grand Prix Race (20:00)" tvg-logo="https://logos-world.net/wp-content/uploads/2024/12/MotoGP-Logo-New.png" group-title="Eventi Live DLHD",Motorsport | MotoGP : Valencia Grand Prix Race (20:00)
 https://dlhd.dad/watch.php?id=575
 
-#EXTINF:-1 tvg-id="slalomlevikristoffersenhenrikvsmeillardloic" tvg-name="Alpine Ski | Slalom Levi : Kristoffersen, Henrik vs. Meillard, Loic (12:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Kristoffersen, Henrik_vs_Meillard, Loic.png" group-title="Eventi Live DLHD",Alpine Ski | Slalom Levi : Kristoffersen, Henrik vs. Meillard, Loic (12:00)
-https://dlhd.dad/watch.php?id=882
-
-#EXTINF:-1 tvg-id="slalomlevikristoffersenhenrikvsmeillardloic" tvg-name="Alpine Ski | Slalom Levi : Kristoffersen, Henrik vs. Meillard, Loic (12:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Kristoffersen, Henrik_vs_Meillard, Loic.png" group-title="Eventi Live DLHD",Alpine Ski | Slalom Levi : Kristoffersen, Henrik vs. Meillard, Loic (12:00)
-https://dlhd.dad/watch.php?id=878
-
 #EXTINF:-1 tvg-id="slalomlevikristoffersenhenrikvsmeillardloic" tvg-name="Alpine Ski | Slalom Levi : Kristoffersen, Henrik vs. Meillard, Loic (14:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Kristoffersen, Henrik_vs_Meillard, Loic.png" group-title="Eventi Live DLHD",Alpine Ski | Slalom Levi : Kristoffersen, Henrik vs. Meillard, Loic (14:45)
 https://dlhd.dad/watch.php?id=882
 
 #EXTINF:-1 tvg-id="slalomlevikristoffersenhenrikvsmeillardloic" tvg-name="Alpine Ski | Slalom Levi : Kristoffersen, Henrik vs. Meillard, Loic (14:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Kristoffersen, Henrik_vs_Meillard, Loic.png" group-title="Eventi Live DLHD",Alpine Ski | Slalom Levi : Kristoffersen, Henrik vs. Meillard, Loic (14:45)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="xobadkamerstrophyx2otrofeehammeflandriencross" tvg-name="Cycling | X?O Badkamers Trophy X2O Trofee Hamme - Flandriencross (15:45)" tvg-logo="https://aboutpreschool.net/wp-content/uploads/2023/05/Words-that-start-with-Letter-X-Vocabulary-List-of-words-with-X.png" group-title="Eventi Live DLHD",Cycling | X?O Badkamers Trophy X2O Trofee Hamme - Flandriencross (15:45)
+#EXTINF:-1 tvg-id="xobadkamerstrophyx2otrofeehammeflandriencross" tvg-name="Cycling | X?O Badkamers Trophy X2O Trofee Hamme - Flandriencross (15:45)" tvg-logo="http://www.clipartbest.com/cliparts/yik/bLe/yikbLekiE.gif" group-title="Eventi Live DLHD",Cycling | X?O Badkamers Trophy X2O Trofee Hamme - Flandriencross (15:45)
 https://dlhd.dad/watch.php?id=879
 
 #EXTINF:-1 tvg-id="serieacametrevisovsavellino" tvg-name="Floorball | Serie A : Came Treviso vs Avellino (22:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Came Treviso_vs_Avellino.png" group-title="Eventi Live DLHD",Floorball | Serie A : Came Treviso vs Avellino (22:45)
@@ -702,7 +690,7 @@ https://dlhd.dad/watch.php?id=878
 #EXTINF:-1 tvg-id="italyseriea1womenvolleyvallefogliavshelviarecinamacerata" tvg-name="Volleyball | Italy Serie A1 Women : Volley Vallefoglia vs. Helvia Recina Macerata (20:00)" tvg-logo="https://dicodusport.fr/blog/wp-content/uploads/2024/08/Volley-ball-JO-2024-Les-Bleus-en-finale-apres-leur-victoire-ecrasante-contre-lItalie.png" group-title="Eventi Live DLHD",Volleyball | Italy Serie A1 Women : Volley Vallefoglia vs. Helvia Recina Macerata (20:00)
 https://dlhd.dad/watch.php?id=882
 
-#EXTINF:-1 tvg-id="worldopenequippedpowerliftingchampionshipswomens84kgandmens120kgclujnapoca" tvg-name="Weightlifting | World Open Equipped Powerlifting Championships Women's 84kg and Men's 120kg | Cluj Napoca (16:00)" tvg-logo="https://static.vecteezy.com/system/resources/previews/019/053/744/non_2x/world-globe-earth-map-png.png" group-title="Eventi Live DLHD",Weightlifting | World Open Equipped Powerlifting Championships Women's 84kg and Men's 120kg | Cluj Napoca (16:00)
+#EXTINF:-1 tvg-id="worldopenequippedpowerliftingchampionshipswomens84kgandmens120kgclujnapoca" tvg-name="Weightlifting | World Open Equipped Powerlifting Championships Women's 84kg and Men's 120kg | Cluj Napoca (16:00)" tvg-logo="https://dcspotlight.com/wp-content/uploads/2015/10/NEW-HEADLINES-WORLD.png" group-title="Eventi Live DLHD",Weightlifting | World Open Equipped Powerlifting Championships Women's 84kg and Men's 120kg | Cluj Napoca (16:00)
 https://dlhd.dad/watch.php?id=878
 
 

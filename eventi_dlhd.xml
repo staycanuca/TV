@@ -261,19 +261,6 @@
     <desc lang="it">Nitto ATP Finals</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="Moto2ValenciaGrandPrixRace">
-    <display-name>Moto2 : Valencia Grand Prix Race</display-name>
-  </channel>
-  <programme start="20251116000000 +0200" stop="20251116140000 +0200" channel="Moto2ValenciaGrandPrixRace">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Moto2 : Valencia Grand Prix Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251116140000 +0200" stop="20251116160000 +0200" channel="Moto2ValenciaGrandPrixRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Valencia Grand Prix Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="MotoGPValenciaGrandPrixRace">
     <display-name>MotoGP : Valencia Grand Prix Race</display-name>
   </channel>
