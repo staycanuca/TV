@@ -2,18 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyseriecbeneventovsmonopoli" tvg-name="Soccer | Italy - Serie C : Benevento vs Monopoli (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Benevento_vs_Monopoli.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Benevento vs Monopoli (14:30)
-https://dlhd.dad/watch.php?id=19
-
-#EXTINF:-1 tvg-id="italyseriecbeneventovsmonopoli" tvg-name="Soccer | Italy - Serie C : Benevento vs Monopoli (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Benevento_vs_Monopoli.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Benevento vs Monopoli (14:30)
-https://dlhd.dad/watch.php?id=870
-
-#EXTINF:-1 tvg-id="italyseriecospitalettovsunionbrescia" tvg-name="Soccer | Italy - Serie C : Ospitaletto vs Union Brescia (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ospitaletto_vs_Union Brescia.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Ospitaletto vs Union Brescia (14:30)
-https://dlhd.dad/watch.php?id=20
-
-#EXTINF:-1 tvg-id="italyseriecospitalettovsunionbrescia" tvg-name="Soccer | Italy - Serie C : Ospitaletto vs Union Brescia (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ospitaletto_vs_Union Brescia.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Ospitaletto vs Union Brescia (14:30)
-https://dlhd.dad/watch.php?id=462
-
 #EXTINF:-1 tvg-id="italyseriecalcionevsnovara" tvg-name="Soccer | Italy - Serie C : Alcione vs Novara (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Alcione_vs_Novara.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Alcione vs Novara (16:30)
 https://dlhd.dad/watch.php?id=21
 
@@ -38,7 +26,7 @@ https://dlhd.dad/watch.php?id=152
 #EXTINF:-1 tvg-id="worldcupqualifyingportugalvsarmenia" tvg-name="Soccer | World Cup Qualifying : Portugal vs Armenia (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Portugal_vs_Armenia.png" group-title="Eventi Live DLHD",Soccer | World Cup Qualifying : Portugal vs Armenia (17:00)
 https://dlhd.dad/watch.php?id=870
 
-#EXTINF:-1 tvg-id="worldcupqualifyinghungaryvsirelandrepublic" tvg-name="Soccer | World Cup Qualifying : Hungary vs Ireland Republic (17:00)" tvg-logo="http://4.bp.blogspot.com/-juZlIM6H8X4/Vka-HlAN5nI/AAAAAAAAAB8/elVbQtTyAs0/s1600/map-of-ireland.png" group-title="Eventi Live DLHD",Soccer | World Cup Qualifying : Hungary vs Ireland Republic (17:00)
+#EXTINF:-1 tvg-id="worldcupqualifyinghungaryvsirelandrepublic" tvg-name="Soccer | World Cup Qualifying : Hungary vs Ireland Republic (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Hungary_vs_Ireland Republic.png" group-title="Eventi Live DLHD",Soccer | World Cup Qualifying : Hungary vs Ireland Republic (17:00)
 https://dlhd.dad/watch.php?id=20
 
 #EXTINF:-1 tvg-id="italyserieawomenromavslazio" tvg-name="Soccer | Italy - Serie A (women) : Roma vs Lazio (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Roma_vs_Lazio.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A (women) : Roma vs Lazio (17:30)
@@ -59,33 +47,21 @@ https://dlhd.dad/watch.php?id=152
 #EXTINF:-1 tvg-id="worldcupqualifyingitalyvsnorway" tvg-name="Soccer | World Cup Qualifying : Italy vs Norway (22:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Italy_vs_Norway.png" group-title="Eventi Live DLHD",Soccer | World Cup Qualifying : Italy vs Norway (22:45)
 https://dlhd.dad/watch.php?id=850
 
-#EXTINF:-1 tvg-id="worldcupqualifyingisraelvsmoldova" tvg-name="Soccer | World Cup Qualifying : Israel vs Moldova (22:45)" tvg-logo="https://ichef.bbci.co.uk/news/1024/cpsprodpb/C30B/production/_131413994_israel_todayv2-nc.png" group-title="Eventi Live DLHD",Soccer | World Cup Qualifying : Israel vs Moldova (22:45)
+#EXTINF:-1 tvg-id="worldcupqualifyingisraelvsmoldova" tvg-name="Soccer | World Cup Qualifying : Israel vs Moldova (22:45)" tvg-logo="https://wallpapercave.com/wp/wp2362767.png" group-title="Eventi Live DLHD",Soccer | World Cup Qualifying : Israel vs Moldova (22:45)
 https://dlhd.dad/watch.php?id=870
 
-#EXTINF:-1 tvg-id="nittoatpfinals" tvg-name="Tennis | Nitto ATP Finals (17:00)" tvg-logo="https://images.simpletire.com/images/q_auto/line-images/1935/1935-sidetread/nitto-nt555rii.png" group-title="Eventi Live DLHD",Tennis | Nitto ATP Finals (17:00)
+#EXTINF:-1 tvg-id="nittoatpfinals" tvg-name="Tennis | Nitto ATP Finals (17:00)" tvg-logo="https://tickets.nittoatpfinals.com/img/lang/it.png" group-title="Eventi Live DLHD",Tennis | Nitto ATP Finals (17:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="motogpvalenciagrandprixrace" tvg-name="Motorsport | MotoGP : Valencia Grand Prix Race (20:00)" tvg-logo="https://wlassets.aprilia.com/wlassets/aprilia/master/Aprilia_World/Racing/moto-gp-2023/news/motogp-lemans-sunday/2023-05-GP-France-51131_heroheading/original/2023+05+GP+France+51131_heroheading.png?1684075178866" group-title="Eventi Live DLHD",Motorsport | MotoGP : Valencia Grand Prix Race (20:00)
+#EXTINF:-1 tvg-id="motogpvalenciagrandprixrace" tvg-name="Motorsport | MotoGP : Valencia Grand Prix Race (20:00)" tvg-logo="https://wallpapercave.com/wp/wp11853500.jpg" group-title="Eventi Live DLHD",Motorsport | MotoGP : Valencia Grand Prix Race (20:00)
 https://dlhd.dad/watch.php?id=575
-
-#EXTINF:-1 tvg-id="slalomlevikristoffersenhenrikvsmeillardloic" tvg-name="Alpine Ski | Slalom Levi : Kristoffersen, Henrik vs. Meillard, Loic (14:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Kristoffersen, Henrik_vs_Meillard, Loic.png" group-title="Eventi Live DLHD",Alpine Ski | Slalom Levi : Kristoffersen, Henrik vs. Meillard, Loic (14:45)
-https://dlhd.dad/watch.php?id=882
-
-#EXTINF:-1 tvg-id="slalomlevikristoffersenhenrikvsmeillardloic" tvg-name="Alpine Ski | Slalom Levi : Kristoffersen, Henrik vs. Meillard, Loic (14:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Kristoffersen, Henrik_vs_Meillard, Loic.png" group-title="Eventi Live DLHD",Alpine Ski | Slalom Levi : Kristoffersen, Henrik vs. Meillard, Loic (14:45)
-https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="xobadkamerstrophyx2otrofeehammeflandriencross" tvg-name="Cycling | X?O Badkamers Trophy X2O Trofee Hamme - Flandriencross (15:45)" tvg-logo="https://pixy.org/src/91/916374.png" group-title="Eventi Live DLHD",Cycling | X?O Badkamers Trophy X2O Trofee Hamme - Flandriencross (15:45)
-https://dlhd.dad/watch.php?id=879
 
 #EXTINF:-1 tvg-id="serieacametrevisovsavellino" tvg-name="Floorball | Serie A : Came Treviso vs Avellino (22:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Came Treviso_vs_Avellino.png" group-title="Eventi Live DLHD",Floorball | Serie A : Came Treviso vs Avellino (22:45)
 https://dlhd.dad/watch.php?id=462
 
-#EXTINF:-1 tvg-id="isuworldcupspeedskatingspeedskatingworldcupcompetitioninsaltlakecityday3" tvg-name="Ice Skating | ISU World Cup Speed Skating Speed ??Skating: World Cup Competition in Salt Lake City Day 3 (22:00)" tvg-logo="https://seeklogo.com/images/I/isu-logo-6C37186889-seeklogo.com.png" group-title="Eventi Live DLHD",Ice Skating | ISU World Cup Speed Skating Speed ??Skating: World Cup Competition in Salt Lake City Day 3 (22:00)
+#EXTINF:-1 tvg-id="isuworldcupspeedskatingspeedskatingworldcupcompetitioninsaltlakecityday3" tvg-name="Ice Skating | ISU World Cup Speed Skating Speed ??Skating: World Cup Competition in Salt Lake City Day 3 (22:00)" tvg-logo="https://www.onlinedegree.com/wp-content/uploads/2017/01/illinois_state_university_seal-svg.png" group-title="Eventi Live DLHD",Ice Skating | ISU World Cup Speed Skating Speed ??Skating: World Cup Competition in Salt Lake City Day 3 (22:00)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="italyseriea1womenvolleyvallefogliavshelviarecinamacerata" tvg-name="Volleyball | Italy Serie A1 Women : Volley Vallefoglia vs. Helvia Recina Macerata (20:00)" tvg-logo="https://store.verovolley.com/store/wp-content/uploads/2023/11/3.png" group-title="Eventi Live DLHD",Volleyball | Italy Serie A1 Women : Volley Vallefoglia vs. Helvia Recina Macerata (20:00)
 https://dlhd.dad/watch.php?id=882
-
-#EXTINF:-1 tvg-id="worldopenequippedpowerliftingchampionshipswomens84kgandmens120kgclujnapoca" tvg-name="Weightlifting | World Open Equipped Powerlifting Championships Women's 84kg and Men's 120kg | Cluj Napoca (16:00)" tvg-logo="https://dcspotlight.com/wp-content/uploads/2015/10/NEW-HEADLINES-WORLD.png" group-title="Eventi Live DLHD",Weightlifting | World Open Equipped Powerlifting Championships Women's 84kg and Men's 120kg | Cluj Napoca (16:00)
-https://dlhd.dad/watch.php?id=878
 
