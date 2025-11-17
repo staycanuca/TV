@@ -1,3 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="FriendlyAlbaniaU21vsUkraineU21">
+    <display-name>Friendly : Albania U21 vs Ukraine U21</display-name>
+  </channel>
+  <programme start="20251117000000 +0200" stop="20251117200000 +0200" channel="FriendlyAlbaniaU21vsUkraineU21">
+    <title lang="it">Inizia alle 20:00.</title>
+    <desc lang="it">Friendly : Albania U21 vs Ukraine U21.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251117200000 +0200" stop="20251117220000 +0200" channel="FriendlyAlbaniaU21vsUkraineU21">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Friendly : Albania U21 vs Ukraine U21</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieCPergolettesevsGianaErminio">
+    <display-name>Italy - Serie C : Pergolettese vs Giana Erminio</display-name>
+  </channel>
+  <programme start="20251117000000 +0200" stop="20251117223000 +0200" channel="ItalySerieCPergolettesevsGianaErminio">
+    <title lang="it">Inizia alle 22:30.</title>
+    <desc lang="it">Italy - Serie C : Pergolettese vs Giana Erminio.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251117223000 +0200" stop="20251118003000 +0200" channel="ItalySerieCPergolettesevsGianaErminio">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Pergolettese vs Giana Erminio</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieCFoggiavsCavese">
+    <display-name>Italy - Serie C : Foggia vs Cavese</display-name>
+  </channel>
+  <programme start="20251117000000 +0200" stop="20251117223000 +0200" channel="ItalySerieCFoggiavsCavese">
+    <title lang="it">Inizia alle 22:30.</title>
+    <desc lang="it">Italy - Serie C : Foggia vs Cavese.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251117223000 +0200" stop="20251118003000 +0200" channel="ItalySerieCFoggiavsCavese">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Foggia vs Cavese</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20251117000000 +0200" stop="20251117223000 +0200" channel="ItalySerieCFoggiavsCavese">
+    <title lang="it">Inizia alle 22:30.</title>
+    <desc lang="it">Italy - Serie C : Foggia vs Cavese.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251117223000 +0200" stop="20251118003000 +0200" channel="ItalySerieCFoggiavsCavese">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Foggia vs Cavese</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="WorldCupQualifyingGermanyvsSlovakia">
+    <display-name>World Cup Qualifying : Germany vs Slovakia</display-name>
+  </channel>
+  <programme start="20251117000000 +0200" stop="20251117224500 +0200" channel="WorldCupQualifyingGermanyvsSlovakia">
+    <title lang="it">Inizia alle 22:45.</title>
+    <desc lang="it">World Cup Qualifying : Germany vs Slovakia.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251117224500 +0200" stop="20251118004500 +0200" channel="WorldCupQualifyingGermanyvsSlovakia">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Cup Qualifying : Germany vs Slovakia</desc>
+    <category lang="it">Soccer</category>
+  </programme>
 </tv>
