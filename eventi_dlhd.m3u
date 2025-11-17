@@ -1,16 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
-https://example.com.m3u8
-
-#EXTINF:-1 tvg-id="worldcupqualifyingitalyvsnorway" tvg-name="Soccer | World Cup Qualifying : Italy vs Norway (22:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Italy_vs_Norway.png" group-title="Eventi Live DLHD",Soccer | World Cup Qualifying : Italy vs Norway (22:45)
-https://dlhd.dad/watch.php?id=850
-
-#EXTINF:-1 tvg-id="worldcupqualifyingisraelvsmoldova" tvg-name="Soccer | World Cup Qualifying : Israel vs Moldova (22:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Israel_vs_Moldova.png" group-title="Eventi Live DLHD",Soccer | World Cup Qualifying : Israel vs Moldova (22:45)
-https://dlhd.dad/watch.php?id=870
-
-#EXTINF:-1 tvg-id="serieacametrevisovsavellino" tvg-name="Floorball | Serie A : Came Treviso vs Avellino (22:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Came Treviso_vs_Avellino.png" group-title="Eventi Live DLHD",Floorball | Serie A : Came Treviso vs Avellino (22:45)
-https://dlhd.dad/watch.php?id=462
-
-#EXTINF:-1 tvg-id="isuworldcupspeedskatingspeedskatingworldcupcompetitioninsaltlakecityday3" tvg-name="Ice Skating | ISU World Cup Speed Skating Speed ??Skating: World Cup Competition in Salt Lake City Day 3 (22:00)" tvg-logo="https://www.onlinedegree.com/wp-content/uploads/2017/01/illinois_state_university_seal-svg.png" group-title="Eventi Live DLHD",Ice Skating | ISU World Cup Speed Skating Speed ??Skating: World Cup Competition in Salt Lake City Day 3 (22:00)
-https://dlhd.dad/watch.php?id=878
-
