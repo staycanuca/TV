@@ -191,8 +191,6 @@ https://vavoo.to/vavoo-iptv/play/3212860676dcc8c28a2be1
 https://vavoo.to/vavoo-iptv/play/3446813098b031eef6dc22
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO
 https://vavoo.to/vavoo-iptv/play/179844839442a5ed454fe
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari",NAT GEO WILD
-https://vavoo.to/vavoo-iptv/play/3229664409bbe85d51bba2
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/570326948497195008/Wf6DPfFP_400x400.jpeg" group-title="Musica",OL3 RADIO
 https://vavoo.to/vavoo-iptv/play/681027341f93934e0bc5
 #EXTINF:-1 tvg-id="" tvg-logo="https://gag-fondazionedeagostini.s3.amazonaws.com/wp-content/uploads/2023/03/logo-Onda-Novara-TV-Ufficiale-1.png" group-title="Altro",ONDA NOVARA TV
@@ -371,8 +369,6 @@ https://vavoo.to/vavoo-iptv/play/128126488561be9a87267f
 https://dlhd.dad/watch.php?id=864
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film - Serie TV",SKY CINEMA SUSPENSE
 https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06
-#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO
-https://vavoo.to/vavoo-iptv/play/17596257388e83c18bb676
 #EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO (D)
 https://dlhd.dad/watch.php?id=860
 #EXTINF:-1 tvg-id="sky.cinema.uno.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA UNO +24
@@ -417,8 +413,6 @@ https://dlhd.dad/watch.php?id=872
 https://dlhd.dad/watch.php?id=873
 #EXTINF:-1 tvg-id="sky.sport..254.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/2560px-Sky_Sport_-_Logo_2020.svg.png" group-title="Sport",SKY SPORT 254 (D)
 https://dlhd.dad/watch.php?id=874
-#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
-https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (D)
 https://dlhd.dad/watch.php?id=462
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",SKY SPORT BASKET (D)
@@ -620,10 +614,10 @@ https://dlhd.dad/watch.php?id=851
 #EXTINF:-1 tvg-id="daviscupworldgroupteamsfrancevsbelgium" tvg-name="Tennis | Davis Cup World Group Teams : France vs Belgium (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/France_vs_Belgium.png" group-title="Eventi Live DLHD",Tennis | Davis Cup World Group Teams : France vs Belgium (18:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="motogpvalenciatestday" tvg-name="Motorsport | MotoGP: Valencia Test Day (12:00)" tvg-logo="https://logos-world.net/wp-content/uploads/2024/12/MotoGP-Logo-New.png" group-title="Eventi Live DLHD",Motorsport | MotoGP: Valencia Test Day (12:00)
+#EXTINF:-1 tvg-id="motogpvalenciatestday" tvg-name="Motorsport | MotoGP: Valencia Test Day (12:00)" tvg-logo="https://wallpapercave.com/wp/wp11853500.jpg" group-title="Eventi Live DLHD",Motorsport | MotoGP: Valencia Test Day (12:00)
 https://dlhd.dad/watch.php?id=575
 
-#EXTINF:-1 tvg-id="motogpvalenciatestday" tvg-name="Motorsport | MotoGP: Valencia Test Day (16:20)" tvg-logo="https://logos-world.net/wp-content/uploads/2024/12/MotoGP-Logo-New.png" group-title="Eventi Live DLHD",Motorsport | MotoGP: Valencia Test Day (16:20)
+#EXTINF:-1 tvg-id="motogpvalenciatestday" tvg-name="Motorsport | MotoGP: Valencia Test Day (16:20)" tvg-logo="https://wallpapercave.com/wp/wp11853500.jpg" group-title="Eventi Live DLHD",Motorsport | MotoGP: Valencia Test Day (16:20)
 https://dlhd.dad/watch.php?id=575
 
 #EXTINF:-1 tvg-id="championsleaguegalatasarayvstrieste" tvg-name="Basketball | Champions League : Galatasaray vs Trieste (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Galatasaray_vs_Trieste.png" group-title="Eventi Live DLHD",Basketball | Champions League : Galatasaray vs Trieste (20:00)

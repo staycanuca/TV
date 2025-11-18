@@ -42,17 +42,7 @@
   <channel id="MotoGPValenciaTestDay">
     <display-name>MotoGP: Valencia Test Day</display-name>
   </channel>
-  <programme start="20251118000000 +0200" stop="20251118120000 +0200" channel="MotoGPValenciaTestDay">
-    <title lang="it">Inizia alle 12:00.</title>
-    <desc lang="it">MotoGP: Valencia Test Day.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251118120000 +0200" stop="20251118140000 +0200" channel="MotoGPValenciaTestDay">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP: Valencia Test Day</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20251118140000 +0200" stop="20251118162000 +0200" channel="MotoGPValenciaTestDay">
+  <programme start="20251118000000 +0200" stop="20251118162000 +0200" channel="MotoGPValenciaTestDay">
     <title lang="it">Inizia alle 16:20.</title>
     <desc lang="it">MotoGP: Valencia Test Day.</desc>
     <category lang="it">Annuncio</category>
