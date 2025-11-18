@@ -39,19 +39,6 @@
     <desc lang="it">Davis Cup World Group Teams : France vs Belgium</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="MotoGPValenciaTestDay">
-    <display-name>MotoGP: Valencia Test Day</display-name>
-  </channel>
-  <programme start="20251118000000 +0200" stop="20251118162000 +0200" channel="MotoGPValenciaTestDay">
-    <title lang="it">Inizia alle 16:20.</title>
-    <desc lang="it">MotoGP: Valencia Test Day.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251118162000 +0200" stop="20251118182000 +0200" channel="MotoGPValenciaTestDay">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP: Valencia Test Day</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="ChampionsLeagueGalatasarayvsTrieste">
     <display-name>Champions League : Galatasaray vs Trieste</display-name>
   </channel>
