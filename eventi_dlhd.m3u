@@ -1,1 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
+https://example.com.m3u8
+
+#EXTINF:-1 tvg-id="europeu19euroqualifyingpolandu19vsitalyu19" tvg-name="Soccer | Europe - U19 Euro Qualifying : Poland U19 vs Italy U19 (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Poland U19_vs_Italy U19.png" group-title="Eventi Live DLHD",Soccer | Europe - U19 Euro Qualifying : Poland U19 vs Italy U19 (17:00)
+https://dlhd.dad/watch.php?id=882
+
+#EXTINF:-1 tvg-id="europeeurou21qualifyingmontenegrou21vsitalyu21" tvg-name="Soccer | Europe - Euro U-21 Qualifying : Montenegro U21 vs Italy U21 (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Montenegro U21_vs_Italy U21.png" group-title="Eventi Live DLHD",Soccer | Europe - Euro U-21 Qualifying : Montenegro U21 vs Italy U21 (20:30)
+https://dlhd.dad/watch.php?id=851
+
+#EXTINF:-1 tvg-id="daviscupworldgroupteamsfrancevsbelgium" tvg-name="Tennis | Davis Cup World Group Teams : France vs Belgium (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/France_vs_Belgium.png" group-title="Eventi Live DLHD",Tennis | Davis Cup World Group Teams : France vs Belgium (18:00)
+https://dlhd.dad/watch.php?id=576
+
+#EXTINF:-1 tvg-id="motogpvalenciatestday" tvg-name="Motorsport | MotoGP: Valencia Test Day (12:00)" tvg-logo="https://wallpapercave.com/wp/wp11853500.jpg" group-title="Eventi Live DLHD",Motorsport | MotoGP: Valencia Test Day (12:00)
+https://dlhd.dad/watch.php?id=575
+
+#EXTINF:-1 tvg-id="motogpvalenciatestday" tvg-name="Motorsport | MotoGP: Valencia Test Day (16:20)" tvg-logo="https://wallpapercave.com/wp/wp11853500.jpg" group-title="Eventi Live DLHD",Motorsport | MotoGP: Valencia Test Day (16:20)
+https://dlhd.dad/watch.php?id=575
+
+#EXTINF:-1 tvg-id="championsleaguegalatasarayvstrieste" tvg-name="Basketball | Champions League : Galatasaray vs Trieste (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Galatasaray_vs_Trieste.png" group-title="Eventi Live DLHD",Basketball | Champions League : Galatasaray vs Trieste (20:00)
+https://dlhd.dad/watch.php?id=877
+
