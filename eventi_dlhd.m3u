@@ -1,10 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
-https://example.com.m3u8
-
-#EXTINF:-1 tvg-id="riyadhsnookerchampionshipjuddtrumpvsmarkwilliams" tvg-name="Snooker | Riyadh Snooker Championship : Judd Trump vs Mark Williams (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Judd Trump_vs_Mark Williams.png" group-title="Eventi Live DLHD",Snooker | Riyadh Snooker Championship : Judd Trump vs Mark Williams (22:00)
-https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="jumpingpragueglobalchampionsleaguequarterfinal" tvg-name="Equestrian | Jumping | Prague Global Champions League | Quarter-Final (22:00)" tvg-logo="https://cdn.pixabay.com/photo/2022/01/01/21/31/jumping-cat-6909026_1280.png" group-title="Eventi Live DLHD",Equestrian | Jumping | Prague Global Champions League | Quarter-Final (22:00)
-https://dlhd.dad/watch.php?id=879
-
