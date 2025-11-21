@@ -135698,5 +135698,551 @@
       35
     ],
     "cached_at": "2025-11-20T06:21:49.751409"
+  },
+  "69786": {
+    "id": 69786,
+    "title": "Kiss Shot",
+    "release_date": "1989-04-11",
+    "vote_average": 5.9,
+    "poster_path": "/qZNmYxtStIvUpTYdCGTMBQ4h2yd.jpg",
+    "genre_ids": [
+      10751,
+      18
+    ],
+    "cached_at": "2025-11-21T06:22:54.607095"
+  },
+  "445993": {
+    "id": 445993,
+    "title": "Presa mortale 5 - Scontro letale",
+    "release_date": "2017-03-16",
+    "vote_average": 6.558,
+    "poster_path": "/9dbZqft6gS34f4qVncU6APBAKWU.jpg",
+    "genre_ids": [
+      28
+    ],
+    "cached_at": "2025-11-21T06:22:54.754802"
+  },
+  "70177": {
+    "id": 70177,
+    "title": "Quella casa sull'isola maledetta",
+    "release_date": "2008-01-01",
+    "vote_average": 4.2,
+    "poster_path": "/4RvSytqRw0MIkBvLUrKQYWJrbY.jpg",
+    "genre_ids": [
+      53,
+      9648,
+      10770,
+      27
+    ],
+    "cached_at": "2025-11-21T06:22:54.771842"
+  },
+  "10385": {
+    "id": 10385,
+    "title": "Avviso di chiamata",
+    "release_date": "2000-02-16",
+    "vote_average": 5.2,
+    "poster_path": "/yRmToc6fmsLCzcW84zWoCwx1Vwo.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "cached_at": "2025-11-21T06:22:55.178583"
+  },
+  "426254": {
+    "id": 426254,
+    "title": "Marjorie Prime",
+    "release_date": "2017-01-23",
+    "vote_average": 6.12,
+    "poster_path": "/rvTZFjcNvzPFYJnmdrvSrGvqx67.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      878
+    ],
+    "cached_at": "2025-11-21T06:22:55.465290"
+  },
+  "340027": {
+    "id": 340027,
+    "title": "Brain on Fire",
+    "release_date": "2017-02-22",
+    "vote_average": 7.024,
+    "poster_path": "/kEwI53HNDO0ajSUWh4HSsGrlF6l.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-11-21T06:22:55.830981"
+  },
+  "11232": {
+    "id": 11232,
+    "title": "Kate & Leopold",
+    "release_date": "2001-12-25",
+    "vote_average": 6.34,
+    "poster_path": "/qBeEqr7mYoirZsqVDxgnCvxZgzl.jpg",
+    "genre_ids": [
+      10749,
+      35,
+      14
+    ],
+    "cached_at": "2025-11-21T06:22:55.967532"
+  },
+  "408220": {
+    "id": 408220,
+    "title": "Justice League Dark",
+    "release_date": "2017-01-24",
+    "vote_average": 7.293,
+    "poster_path": "/gWcTaDFXDrOAPfVzfBFz0Aya5BE.jpg",
+    "genre_ids": [
+      16,
+      28,
+      12,
+      14,
+      878
+    ],
+    "cached_at": "2025-11-21T06:22:56.769885"
+  },
+  "371638": {
+    "id": 371638,
+    "title": "The Disaster Artist",
+    "release_date": "2017-03-12",
+    "vote_average": 7.104,
+    "poster_path": "/gIA9GE5ewJwxqJgAy8Sr6CcbHbn.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2025-11-21T06:22:58.838918"
+  },
+  "331392": {
+    "id": 331392,
+    "title": "Mistero a Eloise",
+    "release_date": "2016-12-30",
+    "vote_average": 5.1,
+    "poster_path": "/rMArB9BXjmIWPkxvHURzjo1MiTu.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      53
+    ],
+    "cached_at": "2025-11-21T06:22:59.276917"
+  },
+  "431093": {
+    "id": 431093,
+    "title": "Everybody Loves Somebody",
+    "release_date": "2017-02-10",
+    "vote_average": 6.518,
+    "poster_path": "/bZKpuVXmYu6gaprjfkOdvlvY5Z9.jpg",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "cached_at": "2025-11-21T06:22:59.480849"
+  },
+  "403390": {
+    "id": 403390,
+    "title": "Raccolto amaro",
+    "release_date": "2017-01-31",
+    "vote_average": 5.905,
+    "poster_path": "/4TKsahkySbM83fdGx7L714hEH8Q.jpg",
+    "genre_ids": [
+      10752,
+      18,
+      36,
+      10749
+    ],
+    "cached_at": "2025-11-21T06:23:00.128636"
+  },
+  "416166": {
+    "id": 416166,
+    "title": "The Institute",
+    "release_date": "2017-03-03",
+    "vote_average": 4.261,
+    "poster_path": "/6Gg6p1nTwklozFWnPr0YvSAekan.jpg",
+    "genre_ids": [
+      53,
+      9648,
+      27
+    ],
+    "cached_at": "2025-11-21T06:23:00.268794"
+  },
+  "415086": {
+    "id": 415086,
+    "title": "What the Health",
+    "release_date": "2017-03-16",
+    "vote_average": 6.857,
+    "poster_path": "/sz9cPeSmiGLA1EDUPszlrWfSrId.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-11-21T06:23:00.475185"
+  },
+  "405204": {
+    "id": 405204,
+    "title": "Tom of Finland",
+    "release_date": "2017-02-24",
+    "vote_average": 6.6,
+    "poster_path": "/c5IVVfPTtD0lGPVwms8b4WnPdqn.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-11-21T06:23:00.492033"
+  },
+  "430448": {
+    "id": 430448,
+    "title": "I Am Jane Doe",
+    "release_date": "2017-02-10",
+    "vote_average": 5.7,
+    "poster_path": "/cQw2jh60Ey3zY90B8965JRclKQ2.jpg",
+    "genre_ids": [
+      80,
+      99
+    ],
+    "cached_at": "2025-11-21T06:23:00.850477"
+  },
+  "70781": {
+    "id": 70781,
+    "title": "Hai mai provato... in una valigia?",
+    "release_date": "1973-10-12",
+    "vote_average": 6.283,
+    "poster_path": "/2b45GxR76T2BnxjMHtDlVGnVxY7.jpg",
+    "genre_ids": [
+      35,
+      12
+    ],
+    "cached_at": "2025-11-21T06:23:00.921108"
+  },
+  "428446": {
+    "id": 428446,
+    "title": "Walking Out",
+    "release_date": "2017-01-21",
+    "vote_average": 5.887,
+    "poster_path": "/wK3l4ZfcRXFph6uop7yr7scM2SP.jpg",
+    "genre_ids": [
+      12,
+      18,
+      53,
+      9648
+    ],
+    "cached_at": "2025-11-21T06:23:01.265865"
+  },
+  "297160": {
+    "id": 297160,
+    "title": "XX - Donne da morire",
+    "release_date": "2017-02-17",
+    "vote_average": 5.031,
+    "poster_path": "/e8i3S06thTCUnKqROpEbwOFI4Hp.jpg",
+    "genre_ids": [
+      27
+    ],
+    "cached_at": "2025-11-21T06:23:01.269934"
+  },
+  "432789": {
+    "id": 432789,
+    "title": "L'incredibile Jessica James",
+    "release_date": "2017-01-27",
+    "vote_average": 6.2,
+    "poster_path": "/r7tDHGsFzHY0YBCaaNctvAxZhpc.jpg",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "cached_at": "2025-11-21T06:23:01.276861"
+  },
+  "346681": {
+    "id": 346681,
+    "title": "Wilson",
+    "release_date": "2017-03-24",
+    "vote_average": 6.0,
+    "poster_path": "/qyhneypumCNCpUKlh7zCTJprgJ4.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2025-11-21T06:23:01.406470"
+  },
+  "352501": {
+    "id": 352501,
+    "title": "Suocero scatenato",
+    "release_date": "2017-03-10",
+    "vote_average": 5.688,
+    "poster_path": "/cpwXZOnJqxWXGsIh8Vbh9xbqwau.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2025-11-21T06:23:01.554652"
+  },
+  "440099": {
+    "id": 440099,
+    "title": "მზის ქალაქი",
+    "release_date": "2017-02-10",
+    "vote_average": 7.2,
+    "poster_path": "/ntSGBTXgnnDIyylQr0uZgH1lkfx.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-11-21T06:23:01.840093"
+  },
+  "340270": {
+    "id": 340270,
+    "title": "Quello che veramente importa",
+    "release_date": "2017-02-17",
+    "vote_average": 7.163,
+    "poster_path": "/fKNF9RnqI3x0s6xgsBuUVBRYJKy.jpg",
+    "genre_ids": [
+      10751,
+      18,
+      35
+    ],
+    "cached_at": "2025-11-21T06:23:02.048003"
+  },
+  "20077": {
+    "id": 20077,
+    "title": "Batman contro Dracula",
+    "release_date": "2005-10-18",
+    "vote_average": 7.0,
+    "poster_path": "/8uKIqZBXfxhflenI2LkNZIHUp7I.jpg",
+    "genre_ids": [
+      16,
+      28,
+      14,
+      9648
+    ],
+    "cached_at": "2025-11-21T06:23:02.411677"
+  },
+  "426257": {
+    "id": 426257,
+    "title": "Roxanne Roxanne",
+    "release_date": "2017-01-22",
+    "vote_average": 6.0,
+    "poster_path": "/4WHkXS4828gKrhZg4Tje5gj5QVs.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-11-21T06:23:03.067300"
+  },
+  "286538": {
+    "id": 286538,
+    "title": "Bokeh",
+    "release_date": "2017-03-24",
+    "vote_average": 5.413,
+    "poster_path": "/cedeEgSeKpsFZH9z9LgWbEqILlW.jpg",
+    "genre_ids": [
+      18,
+      878,
+      53
+    ],
+    "cached_at": "2025-11-21T06:23:03.563626"
+  },
+  "489610": {
+    "id": 489610,
+    "title": "Guardians",
+    "release_date": "2017-11-28",
+    "vote_average": 4.357,
+    "poster_path": "/hjhXGbxwJQyeN0qvMiziYzF73K6.jpg",
+    "genre_ids": [
+      27,
+      878
+    ],
+    "cached_at": "2025-11-21T06:23:04.484105"
+  },
+  "354216": {
+    "id": 354216,
+    "title": "The Devil's Candy",
+    "release_date": "2016-12-15",
+    "vote_average": 6.302,
+    "poster_path": "/tW5oymYOrPJOHcLirjPp6zoMmc6.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2025-11-21T06:23:04.625910"
+  },
+  "447904": {
+    "id": 447904,
+    "title": "L'altro fratello",
+    "release_date": "2017-03-20",
+    "vote_average": 7.031,
+    "poster_path": "/ueJ0hARGGEA2JT1o3e9DEpjErat.jpg",
+    "genre_ids": [
+      53,
+      18,
+      80
+    ],
+    "cached_at": "2025-11-21T06:23:04.760983"
+  },
+  "9349": {
+    "id": 9349,
+    "title": "I nuovi eroi",
+    "release_date": "1992-07-10",
+    "vote_average": 6.333,
+    "poster_path": "/4lvFxXvGSQgf0210jvd1lL1yXdQ.jpg",
+    "genre_ids": [
+      53,
+      28,
+      878,
+      80
+    ],
+    "cached_at": "2025-11-21T06:23:04.767753"
+  },
+  "429238": {
+    "id": 429238,
+    "title": "Coin Heist - Colpo alla Zecca",
+    "release_date": "2017-01-06",
+    "vote_average": 5.4,
+    "poster_path": "/piu9lVYRC7t4ifQSIQtvt7rQkF6.jpg",
+    "genre_ids": [
+      10751,
+      80
+    ],
+    "cached_at": "2025-11-21T06:23:05.050150"
+  },
+  "70897": {
+    "id": 70897,
+    "title": "CSI: Miami - A XXX Parody",
+    "release_date": "2010-05-14",
+    "vote_average": 7.1,
+    "poster_path": "/ero9yCApov6jgCC3TS9lwaIak9I.jpg",
+    "genre_ids": [
+      35,
+      80,
+      27
+    ],
+    "cached_at": "2025-11-21T06:23:05.261285"
+  },
+  "438734": {
+    "id": 438734,
+    "title": "Devil in the Dark",
+    "release_date": "2017-03-07",
+    "vote_average": 4.8,
+    "poster_path": "/i4w9FcFDVQLecmYZtfTUr8Qt31h.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2025-11-21T06:23:05.337327"
+  },
+  "435473": {
+    "id": 435473,
+    "title": "American Violence",
+    "release_date": "2017-02-03",
+    "vote_average": 4.433,
+    "poster_path": "/c70L9jY4yWXT8JaaPgwWB7wlgHX.jpg",
+    "genre_ids": [
+      80,
+      18,
+      53
+    ],
+    "cached_at": "2025-11-21T06:23:05.553026"
+  },
+  "1548092": {
+    "id": 1548092,
+    "title": "Las Locuras",
+    "release_date": "2025-11-13",
+    "vote_average": 0.0,
+    "poster_path": "/8DkQBVesn5ihgYSD66JE7gigzGt.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-11-21T06:23:05.990665"
+  },
+  "10996": {
+    "id": 10996,
+    "title": "Stuart Little 2",
+    "release_date": "2002-07-19",
+    "vote_average": 5.767,
+    "poster_path": "/hjfeMLWqJY44mqqJKZSa6jx4Y1j.jpg",
+    "genre_ids": [
+      10751,
+      12,
+      35
+    ],
+    "cached_at": "2025-11-21T06:23:06.197605"
+  },
+  "345938": {
+    "id": 345938,
+    "title": "The Shack",
+    "release_date": "2017-03-03",
+    "vote_average": 7.495,
+    "poster_path": "/doAzav9kfdtsoSdw1MDFvjKq3J4.jpg",
+    "genre_ids": [
+      18,
+      10751
+    ],
+    "cached_at": "2025-11-21T06:23:06.203695"
+  },
+  "188924": {
+    "id": 188924,
+    "title": "Atomica",
+    "release_date": "2017-03-17",
+    "vote_average": 4.632,
+    "poster_path": "/o0fYUDBEvymij9WM3JtG1AVrgex.jpg",
+    "genre_ids": [
+      878,
+      53
+    ],
+    "cached_at": "2025-11-21T06:23:06.692044"
+  },
+  "9876": {
+    "id": 9876,
+    "title": "Fermati, o mamma spara",
+    "release_date": "1992-02-21",
+    "vote_average": 5.3,
+    "poster_path": "/eKuyCPH7jGJVxjHlNTrna7AJxUg.jpg",
+    "genre_ids": [
+      28,
+      35
+    ],
+    "cached_at": "2025-11-21T06:23:07.132856"
+  },
+  "11284": {
+    "id": 11284,
+    "title": "Nightmare 6 - La fine",
+    "release_date": "1991-09-05",
+    "vote_average": 5.306,
+    "poster_path": "/p0UgMqiCM9owrDmZRdpA2H6S8wW.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2025-11-21T06:23:07.354403"
+  },
+  "69886": {
+    "id": 69886,
+    "title": "Escape in Time",
+    "release_date": "2006-01-01",
+    "vote_average": 5.5,
+    "poster_path": "/5plHdNzu4TNK2iVaTP3OLzY0Vpo.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "cached_at": "2025-11-21T06:23:07.412384"
+  },
+  "437583": {
+    "id": 437583,
+    "title": "November",
+    "release_date": "2017-02-03",
+    "vote_average": 7.1,
+    "poster_path": "/sc5F0vZCbiwC55XLnvtxFsovRI9.jpg",
+    "genre_ids": [
+      18,
+      14,
+      10749,
+      27
+    ],
+    "cached_at": "2025-11-21T06:23:07.559122"
+  },
+  "408647": {
+    "id": 408647,
+    "title": "Teen Titans: The Judas Contract",
+    "release_date": "2017-03-31",
+    "vote_average": 7.364,
+    "poster_path": "/nuGIlNAJUati4qEAH1nrYKUA3xa.jpg",
+    "genre_ids": [
+      878,
+      16,
+      28
+    ],
+    "cached_at": "2025-11-21T06:23:08.696593"
   }
 }

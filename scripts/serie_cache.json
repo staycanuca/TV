@@ -59594,5 +59594,170 @@
       10765
     ],
     "cached_at": "2025-11-20T06:21:55.634265"
+  },
+  "69786": {
+    "id": 69786,
+    "name": "Innocente",
+    "original_name": "Masum",
+    "first_air_date": "2017-01-27",
+    "vote_average": 7.5,
+    "poster_path": "/kxFvOPVuUXaAX7h2qTKjg67qizN.jpg",
+    "genre_ids": [
+      80,
+      18,
+      9648
+    ],
+    "cached_at": "2025-11-21T06:23:13.739024"
+  },
+  "68947": {
+    "id": 68947,
+    "name": "김과장",
+    "original_name": "김과장",
+    "first_air_date": "2017-01-25",
+    "vote_average": 8.019,
+    "poster_path": "/dVIiEynkFXQiCL1Ic02smNhkSnw.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2025-11-21T06:23:13.778213"
+  },
+  "70378": {
+    "id": 70378,
+    "name": "Heavy Rescue: Inferno d’asfalto",
+    "original_name": "Heavy Rescue: 401",
+    "first_air_date": "2017-01-03",
+    "vote_average": 7.9,
+    "poster_path": "/sA5LHvIkYAzsMr5nSNe6hS0NhXt.jpg",
+    "genre_ids": [
+      10764,
+      18
+    ],
+    "cached_at": "2025-11-21T06:23:13.797880"
+  },
+  "69911": {
+    "id": 69911,
+    "name": "Ronnie O'Sullivan's American Hustle",
+    "original_name": "Ronnie O'Sullivan's American Hustle",
+    "first_air_date": "2017-01-26",
+    "vote_average": 7.0,
+    "poster_path": "/dXpxEgRupkM7kLibNsSz9Hxh2VL.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-11-21T06:23:13.803898"
+  },
+  "70177": {
+    "id": 70177,
+    "name": "Abstract: The Art of Design",
+    "original_name": "Abstract: The Art of Design",
+    "first_air_date": "2017-02-10",
+    "vote_average": 7.76,
+    "poster_path": "/mBpWUNGlB66cP6ght7NyT3jXmWN.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-11-21T06:23:13.864947"
+  },
+  "69929": {
+    "id": 69929,
+    "name": "겟잇케이 - 연예웹매거진",
+    "original_name": "겟잇케이 - 연예웹매거진",
+    "first_air_date": "2017-01-26",
+    "vote_average": 5.294,
+    "poster_path": "/ciCcqFI9EJEr0tptnc3nu34pFDE.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "cached_at": "2025-11-21T06:23:13.879460"
+  },
+  "69944": {
+    "id": 69944,
+    "name": "National Geographic: Crimini in alto mare",
+    "original_name": "Lawless Oceans",
+    "first_air_date": "2017-01-10",
+    "vote_average": 5.5,
+    "poster_path": "/fQsuPMqhmLPtPpm73kH17T3s8jO.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-11-21T06:23:13.939180"
+  },
+  "201992": {
+    "id": 201992,
+    "name": "The Rookie: Feds",
+    "original_name": "The Rookie: Feds",
+    "first_air_date": "2022-09-27",
+    "vote_average": 7.233,
+    "poster_path": "/sFLBmaQcUDSz87bL7UlkE8oVumm.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "cached_at": "2025-11-21T06:23:14.009231"
+  },
+  "71796": {
+    "id": 71796,
+    "name": "The World's Most Extraordinary Homes",
+    "original_name": "The World's Most Extraordinary Homes",
+    "first_air_date": "2017-02-08",
+    "vote_average": 7.489,
+    "poster_path": "/A4wcLt4nNGhtWUuQbnCZ1YQTvYC.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-11-21T06:23:14.085471"
+  },
+  "157362": {
+    "id": 157362,
+    "name": "The Wolf - Non farti ingannare da lei",
+    "original_name": "オオカミには騙されない",
+    "first_air_date": "2017-02-18",
+    "vote_average": 5.4,
+    "poster_path": "/yH7KsOP4qSFJG8CoBKQUsBloKni.jpg",
+    "genre_ids": [
+      10764
+    ],
+    "cached_at": "2025-11-21T06:23:14.150394"
+  },
+  "70781": {
+    "id": 70781,
+    "name": "Samurai Gourmet",
+    "original_name": "野武士のグルメ",
+    "first_air_date": "2017-03-17",
+    "vote_average": 7.8,
+    "poster_path": "/uDNxNevSXsEo9YtnnQ6ou5r4y9G.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-11-21T06:23:14.157905"
+  },
+  "70897": {
+    "id": 70897,
+    "name": "Ingovernabile",
+    "original_name": "Ingobernable",
+    "first_air_date": "2017-03-24",
+    "vote_average": 6.527,
+    "poster_path": "/zmSr770netDuKvusYGa724awFQr.jpg",
+    "genre_ids": [
+      10768,
+      18,
+      80
+    ],
+    "cached_at": "2025-11-21T06:23:14.224981"
+  },
+  "69886": {
+    "id": 69886,
+    "name": "Ultimate Beastmaster",
+    "original_name": "Ultimate Beastmaster",
+    "first_air_date": "2017-02-24",
+    "vote_average": 5.8,
+    "poster_path": "/fTyEg49HD4ekxdgYtcIL9pw2gfB.jpg",
+    "genre_ids": [
+      10759,
+      10764
+    ],
+    "cached_at": "2025-11-21T06:23:14.296072"
   }
 }
