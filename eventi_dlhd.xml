@@ -88,19 +88,6 @@
     <desc lang="it">Davis Cup Finals Semifinal 1 : Argentina vs Germany</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="F1AcademyLasVegasStripCircuitinNevadaQualifying">
-    <display-name>F1 Academy : Las Vegas Strip Circuit in Nevada Qualifying</display-name>
-  </channel>
-  <programme start="20251121000000 +0200" stop="20251121083000 +0200" channel="F1AcademyLasVegasStripCircuitinNevadaQualifying">
-    <title lang="it">Inizia alle 08:30.</title>
-    <desc lang="it">F1 Academy : Las Vegas Strip Circuit in Nevada Qualifying.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251121083000 +0200" stop="20251121103000 +0200" channel="F1AcademyLasVegasStripCircuitinNevadaQualifying">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">F1 Academy : Las Vegas Strip Circuit in Nevada Qualifying</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="RiyadhSeasonChampionshipSemiFinal">
     <display-name>Riyadh Season Championship | Semi-Final</display-name>
   </channel>

@@ -5,7 +5,7 @@ https://example.com.m3u8
 #EXTINF:-1 tvg-id="germanybundesliga2herthabscvseintrachtbraunschweig" tvg-name="Soccer | Germany - Bundesliga 2 : Hertha BSC vs Eintracht Braunschweig (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Hertha BSC_vs_Eintracht Braunschweig.png" group-title="Eventi Live DLHD",Soccer | Germany - Bundesliga 2 : Hertha BSC vs Eintracht Braunschweig (20:30)
 https://dlhd.dad/watch.php?id=870
 
-#EXTINF:-1 tvg-id="italyseriecpropatriavspergolettese" tvg-name="Soccer | Italy - Serie C : Pro Patria vs Pergolettese (22:30)" tvg-logo="https://www.novarafootballclub.it/wp-content/uploads/2021/09/cropped-logo-novara-favicon.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Pro Patria vs Pergolettese (22:30)
+#EXTINF:-1 tvg-id="italyseriecpropatriavspergolettese" tvg-name="Soccer | Italy - Serie C : Pro Patria vs Pergolettese (22:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pro Patria_vs_Pergolettese.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Pro Patria vs Pergolettese (22:30)
 https://dlhd.dad/watch.php?id=4
 
 #EXTINF:-1 tvg-id="italyseriecbravspontedera" tvg-name="Soccer | Italy - Serie C : Bra vs Pontedera (22:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bra_vs_Pontedera.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Bra vs Pontedera (22:30)
@@ -23,9 +23,6 @@ https://dlhd.dad/watch.php?id=870
 #EXTINF:-1 tvg-id="daviscupfinalssemifinal1argentinavsgermany" tvg-name="Tennis | Davis Cup Finals Semifinal 1 : Argentina vs Germany (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Argentina_vs_Germany.png" group-title="Eventi Live DLHD",Tennis | Davis Cup Finals Semifinal 1 : Argentina vs Germany (18:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="formula1heinekenlasvegasgrandprixpractice2" tvg-name="Motorsport | Formula 1 : Heineken Las Vegas Grand Prix - Practice 2 (07:00)" tvg-logo="https://logospng.org/download/formula-1/formula-1-2048.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Heineken Las Vegas Grand Prix - Practice 2 (07:00)
-https://dlhd.dad/watch.php?id=577
-
 #EXTINF:-1 tvg-id="f1academylasvegasstripcircuitinnevadaqualifying" tvg-name="Motorsport | F1 Academy : Las Vegas Strip Circuit in Nevada Qualifying (08:30)" tvg-logo="https://media.formula1.com/image/upload/t_16by9South/f_auto/q_auto/v1709392049/trackside-images/2024/F1_Grand_Prix_of_Bahrain/2053149561.jpg" group-title="Eventi Live DLHD",Motorsport | F1 Academy : Las Vegas Strip Circuit in Nevada Qualifying (08:30)
 https://dlhd.dad/watch.php?id=577
 
@@ -35,13 +32,13 @@ https://dlhd.dad/watch.php?id=878
 #EXTINF:-1 tvg-id="riyadhseasonchampionshipfinal" tvg-name="Snooker | Riyadh Season Championship | Final (22:00)" tvg-logo="https://wallpaperaccess.com/full/1623888.jpg" group-title="Eventi Live DLHD",Snooker | Riyadh Season Championship | Final (22:00)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="worldcupcortinamensdownhill1strun" tvg-name="Alpine Ski | World Cup - Cortina: Men's Downhill - 1st run (11:00)" tvg-logo="https://miro.medium.com/max/2400/1*khBmQoTMMvHi4aHkzrVS7g.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup - Cortina: Men's Downhill - 1st run (11:00)
+#EXTINF:-1 tvg-id="worldcupcortinamensdownhill1strun" tvg-name="Alpine Ski | World Cup - Cortina: Men's Downhill - 1st run (11:00)" tvg-logo="https://static.vecteezy.com/system/resources/previews/019/053/744/non_2x/world-globe-earth-map-png.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup - Cortina: Men's Downhill - 1st run (11:00)
 https://dlhd.dad/watch.php?id=882
 
-#EXTINF:-1 tvg-id="worldcupcortinamensdownhill2ndrun" tvg-name="Alpine Ski | World Cup - Cortina: Men's Downhill - 2nd run (12:40)" tvg-logo="https://miro.medium.com/max/2400/1*khBmQoTMMvHi4aHkzrVS7g.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup - Cortina: Men's Downhill - 2nd run (12:40)
+#EXTINF:-1 tvg-id="worldcupcortinamensdownhill2ndrun" tvg-name="Alpine Ski | World Cup - Cortina: Men's Downhill - 2nd run (12:40)" tvg-logo="https://static.vecteezy.com/system/resources/previews/019/053/744/non_2x/world-globe-earth-map-png.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup - Cortina: Men's Downhill - 2nd run (12:40)
 https://dlhd.dad/watch.php?id=882
 
-#EXTINF:-1 tvg-id="jumpingpragueglobalchampionsleaguesemifinal" tvg-name="Equestrian | Jumping | Prague Global Champions League | Semi-Final (22:00)" tvg-logo="https://ortoday.com/wp-content/uploads/2024/01/web-photo-template-3.png" group-title="Eventi Live DLHD",Equestrian | Jumping | Prague Global Champions League | Semi-Final (22:00)
+#EXTINF:-1 tvg-id="jumpingpragueglobalchampionsleaguesemifinal" tvg-name="Equestrian | Jumping | Prague Global Champions League | Semi-Final (22:00)" tvg-logo="https://fly.storage.tigris.dev/sticker-bucket/prediction-15112-sticker.png" group-title="Eventi Live DLHD",Equestrian | Jumping | Prague Global Champions League | Semi-Final (22:00)
 https://dlhd.dad/watch.php?id=879
 
 #EXTINF:-1 tvg-id="grandprixfinlandiamixedpairsshortprogram" tvg-name="Ice Skating | Grand Prix | Finlandia Mixed pairs | Short Program (15:00)" tvg-logo="https://www.grandroyal-group.com/wp-content/uploads/2022/03/4-SKU-grgi.png" group-title="Eventi Live DLHD",Ice Skating | Grand Prix | Finlandia Mixed pairs | Short Program (15:00)
@@ -53,9 +50,9 @@ https://dlhd.dad/watch.php?id=879
 #EXTINF:-1 tvg-id="grandprixfinlandiashortprogramfemale" tvg-name="Ice Skating | Grand Prix | Finlandia Short Program | Female (18:30)" tvg-logo="https://www.grandroyal-group.com/wp-content/uploads/2022/03/4-SKU-grgi.png" group-title="Eventi Live DLHD",Ice Skating | Grand Prix | Finlandia Short Program | Female (18:30)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="gfigureskatingfinlandiatrophyrhythmicdance" tvg-name="Ice Skating | GFigure Skating: Finlandia Trophy rhythmic dance (20:30)" tvg-logo="https://cdn.inksoft.com/images/publishers/14855/stores/milford_skating/img/socialmedia.png" group-title="Eventi Live DLHD",Ice Skating | GFigure Skating: Finlandia Trophy rhythmic dance (20:30)
+#EXTINF:-1 tvg-id="gfigureskatingfinlandiatrophyrhythmicdance" tvg-name="Ice Skating | GFigure Skating: Finlandia Trophy rhythmic dance (20:30)" tvg-logo="https://skatinginbcresults.com/logo.png" group-title="Eventi Live DLHD",Ice Skating | GFigure Skating: Finlandia Trophy rhythmic dance (20:30)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="lillehammermixedteamhs140worldcupday1" tvg-name="Ski Jumping | Lillehammer | Mixed Team HS 140 World Cup | Day 1 (17:45)" tvg-logo="https://www.cons.sm/wp-content/uploads/2018/05/Lillehammer_2016.png" group-title="Eventi Live DLHD",Ski Jumping | Lillehammer | Mixed Team HS 140 World Cup | Day 1 (17:45)
+#EXTINF:-1 tvg-id="lillehammermixedteamhs140worldcupday1" tvg-name="Ski Jumping | Lillehammer | Mixed Team HS 140 World Cup | Day 1 (17:45)" tvg-logo="https://bareyogalillehammer.no/wp-content/uploads/2024/02/YOGA_DAMER_TEGNING.png" group-title="Eventi Live DLHD",Ski Jumping | Lillehammer | Mixed Team HS 140 World Cup | Day 1 (17:45)
 https://dlhd.dad/watch.php?id=879
 
