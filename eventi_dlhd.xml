@@ -114,19 +114,6 @@
     <desc lang="it">Riyadh Season Championship | Final</desc>
     <category lang="it">Snooker</category>
   </programme>
-  <channel id="WorldCupCortinaMensDownhill1strun">
-    <display-name>World Cup - Cortina: Men's Downhill - 1st run</display-name>
-  </channel>
-  <programme start="20251121000000 +0200" stop="20251121110000 +0200" channel="WorldCupCortinaMensDownhill1strun">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">World Cup - Cortina: Men's Downhill - 1st run.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251121110000 +0200" stop="20251121130000 +0200" channel="WorldCupCortinaMensDownhill1strun">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup - Cortina: Men's Downhill - 1st run</desc>
-    <category lang="it">Alpine Ski</category>
-  </programme>
   <channel id="WorldCupCortinaMensDownhill2ndrun">
     <display-name>World Cup - Cortina: Men's Downhill - 2nd run</display-name>
   </channel>
