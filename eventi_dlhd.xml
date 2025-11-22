@@ -1,122 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieCProVercellivsAlcione">
-    <display-name>Italy - Serie C : Pro Vercelli vs Alcione</display-name>
-  </channel>
-  <programme start="20251122000000 +0200" stop="20251122163000 +0200" channel="ItalySerieCProVercellivsAlcione">
-    <title lang="it">Inizia alle 16:30.</title>
-    <desc lang="it">Italy - Serie C : Pro Vercelli vs Alcione.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251122163000 +0200" stop="20251122183000 +0200" channel="ItalySerieCProVercellivsAlcione">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Pro Vercelli vs Alcione</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCAlbinoLeffevsLumezzane">
-    <display-name>Italy - Serie C : AlbinoLeffe vs Lumezzane</display-name>
-  </channel>
-  <programme start="20251122000000 +0200" stop="20251122163000 +0200" channel="ItalySerieCAlbinoLeffevsLumezzane">
-    <title lang="it">Inizia alle 16:30.</title>
-    <desc lang="it">Italy - Serie C : AlbinoLeffe vs Lumezzane.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251122163000 +0200" stop="20251122183000 +0200" channel="ItalySerieCAlbinoLeffevsLumezzane">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : AlbinoLeffe vs Lumezzane</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCSiracusavsTeamAltamura">
-    <display-name>Italy - Serie C : Siracusa vs Team Altamura</display-name>
-  </channel>
-  <programme start="20251122000000 +0200" stop="20251122163000 +0200" channel="ItalySerieCSiracusavsTeamAltamura">
-    <title lang="it">Inizia alle 16:30.</title>
-    <desc lang="it">Italy - Serie C : Siracusa vs Team Altamura.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251122163000 +0200" stop="20251122183000 +0200" channel="ItalySerieCSiracusavsTeamAltamura">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Siracusa vs Team Altamura</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCSorrentovsCasertana">
-    <display-name>Italy - Serie C : Sorrento vs Casertana</display-name>
-  </channel>
-  <programme start="20251122000000 +0200" stop="20251122163000 +0200" channel="ItalySerieCSorrentovsCasertana">
-    <title lang="it">Inizia alle 16:30.</title>
-    <desc lang="it">Italy - Serie C : Sorrento vs Casertana.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251122163000 +0200" stop="20251122183000 +0200" channel="ItalySerieCSorrentovsCasertana">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Sorrento vs Casertana</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCGiuglianovsVirtusCasarano">
-    <display-name>Italy - Serie C : Giugliano vs Virtus Casarano</display-name>
-  </channel>
-  <programme start="20251122000000 +0200" stop="20251122163000 +0200" channel="ItalySerieCGiuglianovsVirtusCasarano">
-    <title lang="it">Inizia alle 16:30.</title>
-    <desc lang="it">Italy - Serie C : Giugliano vs Virtus Casarano.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251122163000 +0200" stop="20251122183000 +0200" channel="ItalySerieCGiuglianovsVirtusCasarano">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Giugliano vs Virtus Casarano</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCTrapani1905vsFoggia">
-    <display-name>Italy - Serie C : Trapani 1905 vs Foggia</display-name>
-  </channel>
-  <programme start="20251122000000 +0200" stop="20251122163000 +0200" channel="ItalySerieCTrapani1905vsFoggia">
-    <title lang="it">Inizia alle 16:30.</title>
-    <desc lang="it">Italy - Serie C : Trapani 1905 vs Foggia.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251122163000 +0200" stop="20251122183000 +0200" channel="ItalySerieCTrapani1905vsFoggia">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Trapani 1905 vs Foggia</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieACagliarivsGenoa">
-    <display-name>Italy - Serie A : Cagliari vs Genoa</display-name>
-  </channel>
-  <programme start="20251122000000 +0200" stop="20251122170000 +0200" channel="ItalySerieACagliarivsGenoa">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">Italy - Serie A : Cagliari vs Genoa.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251122170000 +0200" stop="20251122190000 +0200" channel="ItalySerieACagliarivsGenoa">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Cagliari vs Genoa</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieAUdinesevsBologna">
-    <display-name>Italy - Serie A : Udinese vs Bologna</display-name>
-  </channel>
-  <programme start="20251122000000 +0200" stop="20251122170000 +0200" channel="ItalySerieAUdinesevsBologna">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">Italy - Serie A : Udinese vs Bologna.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251122170000 +0200" stop="20251122190000 +0200" channel="ItalySerieAUdinesevsBologna">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Udinese vs Bologna</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="GermanyBundesligaBayernMnchenvsFreiburg">
-    <display-name>Germany - Bundesliga : Bayern München vs Freiburg</display-name>
-  </channel>
-  <programme start="20251122000000 +0200" stop="20251122173000 +0200" channel="GermanyBundesligaBayernMnchenvsFreiburg">
-    <title lang="it">Inizia alle 17:30.</title>
-    <desc lang="it">Germany - Bundesliga : Bayern München vs Freiburg.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251122173000 +0200" stop="20251122193000 +0200" channel="GermanyBundesligaBayernMnchenvsFreiburg">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - Bundesliga : Bayern München vs Freiburg</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="ItalySerieCUnionArzignanoChiampovsDolomitiBellunesi">
     <display-name>Italy - Serie C : Union ArzignanoChiampo vs Dolomiti Bellunesi</display-name>
   </channel>
@@ -326,19 +209,6 @@
     <desc lang="it">Women | Free Program Grand Prix | Finland</desc>
     <category lang="it">Ice Skating</category>
   </programme>
-  <channel id="FriendlyInternationalWalesvsNewZealand">
-    <display-name>Friendly International : Wales vs New Zealand</display-name>
-  </channel>
-  <programme start="20251122000000 +0200" stop="20251122181000 +0200" channel="FriendlyInternationalWalesvsNewZealand">
-    <title lang="it">Inizia alle 18:10.</title>
-    <desc lang="it">Friendly International : Wales vs New Zealand.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251122181000 +0200" stop="20251122201000 +0200" channel="FriendlyInternationalWalesvsNewZealand">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Friendly International : Wales vs New Zealand</desc>
-    <category lang="it">Rugby Union</category>
-  </programme>
   <channel id="FriendlyInternationalIrelandvsSouthAfrica">
     <display-name>Friendly International : Ireland vs South Africa</display-name>
   </channel>
@@ -374,18 +244,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Friendly International : Italy vs Chile</desc>
     <category lang="it">Rugby Union</category>
-  </programme>
-  <channel id="IndividualcompetitionLillehammerHS140">
-    <display-name>Individual competition | Lillehammer HS140</display-name>
-  </channel>
-  <programme start="20251122000000 +0200" stop="20251122163000 +0200" channel="IndividualcompetitionLillehammerHS140">
-    <title lang="it">Inizia alle 16:30.</title>
-    <desc lang="it">Individual competition | Lillehammer HS140.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251122163000 +0200" stop="20251122183000 +0200" channel="IndividualcompetitionLillehammerHS140">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Individual competition | Lillehammer HS140</desc>
-    <category lang="it">Ski Jumping</category>
   </programme>
 </tv>
