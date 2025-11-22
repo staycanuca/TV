@@ -316,19 +316,6 @@
     <desc lang="it">Davis Cup (T2025): Semifinal 2. Doubles</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="Formula1HeinekenLasVegasGrandPrixQualifying">
-    <display-name>Formula 1 : Heineken Las Vegas Grand Prix - Qualifying</display-name>
-  </channel>
-  <programme start="20251122000000 +0200" stop="20251122070000 +0200" channel="Formula1HeinekenLasVegasGrandPrixQualifying">
-    <title lang="it">Inizia alle 07:00.</title>
-    <desc lang="it">Formula 1 : Heineken Las Vegas Grand Prix - Qualifying.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251122070000 +0200" stop="20251122090000 +0200" channel="Formula1HeinekenLasVegasGrandPrixQualifying">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 1 : Heineken Las Vegas Grand Prix - Qualifying</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="UFCFightNightMainCardArmanTsarukyanvsDanHooker">
     <display-name>UFC Fight Night Main Card : Arman Tsarukyan vs Dan Hooker</display-name>
   </channel>
