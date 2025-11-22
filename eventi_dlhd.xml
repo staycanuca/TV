@@ -1,89 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieCUnionArzignanoChiampovsDolomitiBellunesi">
-    <display-name>Italy - Serie C : Union ArzignanoChiampo vs Dolomiti Bellunesi</display-name>
-  </channel>
-  <programme start="20251122000000 +0200" stop="20251122193000 +0200" channel="ItalySerieCUnionArzignanoChiampovsDolomitiBellunesi">
-    <title lang="it">Inizia alle 19:30.</title>
-    <desc lang="it">Italy - Serie C : Union ArzignanoChiampo vs Dolomiti Bellunesi.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251122193000 +0200" stop="20251122213000 +0200" channel="ItalySerieCUnionArzignanoChiampovsDolomitiBellunesi">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Union ArzignanoChiampo vs Dolomiti Bellunesi</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCVirtusVeronavsTriestina">
-    <display-name>Italy - Serie C : Virtus Verona vs Triestina</display-name>
-  </channel>
-  <programme start="20251122000000 +0200" stop="20251122193000 +0200" channel="ItalySerieCVirtusVeronavsTriestina">
-    <title lang="it">Inizia alle 19:30.</title>
-    <desc lang="it">Italy - Serie C : Virtus Verona vs Triestina.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251122193000 +0200" stop="20251122213000 +0200" channel="ItalySerieCVirtusVeronavsTriestina">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Virtus Verona vs Triestina</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCPianesevsForl">
-    <display-name>Italy - Serie C : Pianese vs Forlì</display-name>
-  </channel>
-  <programme start="20251122000000 +0200" stop="20251122193000 +0200" channel="ItalySerieCPianesevsForl">
-    <title lang="it">Inizia alle 19:30.</title>
-    <desc lang="it">Italy - Serie C : Pianese vs Forlì.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251122193000 +0200" stop="20251122213000 +0200" channel="ItalySerieCPianesevsForl">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Pianese vs Forlì</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCRavennavsGubbio">
-    <display-name>Italy - Serie C : Ravenna vs Gubbio</display-name>
-  </channel>
-  <programme start="20251122000000 +0200" stop="20251122193000 +0200" channel="ItalySerieCRavennavsGubbio">
-    <title lang="it">Inizia alle 19:30.</title>
-    <desc lang="it">Italy - Serie C : Ravenna vs Gubbio.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251122193000 +0200" stop="20251122213000 +0200" channel="ItalySerieCRavennavsGubbio">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Ravenna vs Gubbio</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20251122000000 +0200" stop="20251122193000 +0200" channel="ItalySerieCRavennavsGubbio">
-    <title lang="it">Inizia alle 19:30.</title>
-    <desc lang="it">Italy - Serie C : Ravenna vs Gubbio.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251122193000 +0200" stop="20251122213000 +0200" channel="ItalySerieCRavennavsGubbio">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Ravenna vs Gubbio</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCMonopolivsPicerno">
-    <display-name>Italy - Serie C : Monopoli vs Picerno</display-name>
-  </channel>
-  <programme start="20251122000000 +0200" stop="20251122193000 +0200" channel="ItalySerieCMonopolivsPicerno">
-    <title lang="it">Inizia alle 19:30.</title>
-    <desc lang="it">Italy - Serie C : Monopoli vs Picerno.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251122193000 +0200" stop="20251122213000 +0200" channel="ItalySerieCMonopolivsPicerno">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Monopoli vs Picerno</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="ItalySerieAFiorentinavsJuventus">
     <display-name>Italy - Serie A : Fiorentina vs Juventus</display-name>
   </channel>
-  <programme start="20251122000000 +0200" stop="20251122200000 +0200" channel="ItalySerieAFiorentinavsJuventus">
-    <title lang="it">Inizia alle 20:00.</title>
+  <programme start="20251122000000 +0100" stop="20251122190000 +0100" channel="ItalySerieAFiorentinavsJuventus">
+    <title lang="it">Inizia alle 19:00.</title>
     <desc lang="it">Italy - Serie A : Fiorentina vs Juventus.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20251122200000 +0200" stop="20251122220000 +0200" channel="ItalySerieAFiorentinavsJuventus">
+  <programme start="20251122190000 +0100" stop="20251122210000 +0100" channel="ItalySerieAFiorentinavsJuventus">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Italy - Serie A : Fiorentina vs Juventus</desc>
     <category lang="it">All Soccer Events</category>
@@ -91,12 +16,12 @@
   <channel id="EnglandPremierLeagueNewcastleUnitedvsManchesterCity">
     <display-name>England - Premier League : Newcastle United vs Manchester City</display-name>
   </channel>
-  <programme start="20251122000000 +0200" stop="20251122203000 +0200" channel="EnglandPremierLeagueNewcastleUnitedvsManchesterCity">
-    <title lang="it">Inizia alle 20:30.</title>
+  <programme start="20251122000000 +0100" stop="20251122193000 +0100" channel="EnglandPremierLeagueNewcastleUnitedvsManchesterCity">
+    <title lang="it">Inizia alle 19:30.</title>
     <desc lang="it">England - Premier League : Newcastle United vs Manchester City.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20251122203000 +0200" stop="20251122223000 +0200" channel="EnglandPremierLeagueNewcastleUnitedvsManchesterCity">
+  <programme start="20251122193000 +0100" stop="20251122213000 +0100" channel="EnglandPremierLeagueNewcastleUnitedvsManchesterCity">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">England - Premier League : Newcastle United vs Manchester City</desc>
     <category lang="it">All Soccer Events</category>
@@ -104,12 +29,12 @@
   <channel id="ItalySerieCAthleticCarpivsRimini">
     <display-name>Italy - Serie C : Athletic Carpi vs Rimini</display-name>
   </channel>
-  <programme start="20251122000000 +0200" stop="20251122223000 +0200" channel="ItalySerieCAthleticCarpivsRimini">
-    <title lang="it">Inizia alle 22:30.</title>
+  <programme start="20251122000000 +0100" stop="20251122213000 +0100" channel="ItalySerieCAthleticCarpivsRimini">
+    <title lang="it">Inizia alle 21:30.</title>
     <desc lang="it">Italy - Serie C : Athletic Carpi vs Rimini.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20251122223000 +0200" stop="20251123003000 +0200" channel="ItalySerieCAthleticCarpivsRimini">
+  <programme start="20251122213000 +0100" stop="20251122233000 +0100" channel="ItalySerieCAthleticCarpivsRimini">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Italy - Serie C : Athletic Carpi vs Rimini</desc>
     <category lang="it">All Soccer Events</category>
@@ -117,58 +42,45 @@
   <channel id="ItalySerieANapolivsAtalanta">
     <display-name>Italy - Serie A : Napoli vs Atalanta</display-name>
   </channel>
-  <programme start="20251122000000 +0200" stop="20251122224500 +0200" channel="ItalySerieANapolivsAtalanta">
-    <title lang="it">Inizia alle 22:45.</title>
+  <programme start="20251122000000 +0100" stop="20251122214500 +0100" channel="ItalySerieANapolivsAtalanta">
+    <title lang="it">Inizia alle 21:45.</title>
     <desc lang="it">Italy - Serie A : Napoli vs Atalanta.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20251122224500 +0200" stop="20251123004500 +0200" channel="ItalySerieANapolivsAtalanta">
+  <programme start="20251122214500 +0100" stop="20251122234500 +0100" channel="ItalySerieANapolivsAtalanta">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Italy - Serie A : Napoli vs Atalanta</desc>
     <category lang="it">All Soccer Events</category>
   </programme>
-  <programme start="20251122000000 +0200" stop="20251122224500 +0200" channel="ItalySerieANapolivsAtalanta">
-    <title lang="it">Inizia alle 22:45.</title>
+  <programme start="20251122000000 +0100" stop="20251122214500 +0100" channel="ItalySerieANapolivsAtalanta">
+    <title lang="it">Inizia alle 21:45.</title>
     <desc lang="it">Italy - Serie A : Napoli vs Atalanta.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20251122224500 +0200" stop="20251123004500 +0200" channel="ItalySerieANapolivsAtalanta">
+  <programme start="20251122214500 +0100" stop="20251122234500 +0100" channel="ItalySerieANapolivsAtalanta">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Italy - Serie A : Napoli vs Atalanta</desc>
     <category lang="it">All Soccer Events</category>
   </programme>
-  <programme start="20251122000000 +0200" stop="20251122224500 +0200" channel="ItalySerieANapolivsAtalanta">
-    <title lang="it">Inizia alle 22:45.</title>
+  <programme start="20251122000000 +0100" stop="20251122214500 +0100" channel="ItalySerieANapolivsAtalanta">
+    <title lang="it">Inizia alle 21:45.</title>
     <desc lang="it">Italy - Serie A : Napoli vs Atalanta.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20251122224500 +0200" stop="20251123004500 +0200" channel="ItalySerieANapolivsAtalanta">
+  <programme start="20251122214500 +0100" stop="20251122234500 +0100" channel="ItalySerieANapolivsAtalanta">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Italy - Serie A : Napoli vs Atalanta</desc>
     <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="DavisCupT2025Semifinal2Doubles">
-    <display-name>Davis Cup (T2025): Semifinal 2. Doubles</display-name>
-  </channel>
-  <programme start="20251122000000 +0200" stop="20251122183000 +0200" channel="DavisCupT2025Semifinal2Doubles">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">Davis Cup (T2025): Semifinal 2. Doubles.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251122183000 +0200" stop="20251122203000 +0200" channel="DavisCupT2025Semifinal2Doubles">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Davis Cup (T2025): Semifinal 2. Doubles</desc>
-    <category lang="it">Tennis</category>
   </programme>
   <channel id="UFCFightNightMainCardArmanTsarukyanvsDanHooker">
     <display-name>UFC Fight Night Main Card : Arman Tsarukyan vs Dan Hooker</display-name>
   </channel>
-  <programme start="20251122000000 +0200" stop="20251122210000 +0200" channel="UFCFightNightMainCardArmanTsarukyanvsDanHooker">
-    <title lang="it">Inizia alle 21:00.</title>
+  <programme start="20251122000000 +0100" stop="20251122200000 +0100" channel="UFCFightNightMainCardArmanTsarukyanvsDanHooker">
+    <title lang="it">Inizia alle 20:00.</title>
     <desc lang="it">UFC Fight Night Main Card : Arman Tsarukyan vs Dan Hooker.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20251122210000 +0200" stop="20251122230000 +0200" channel="UFCFightNightMainCardArmanTsarukyanvsDanHooker">
+  <programme start="20251122200000 +0100" stop="20251122220000 +0100" channel="UFCFightNightMainCardArmanTsarukyanvsDanHooker">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">UFC Fight Night Main Card : Arman Tsarukyan vs Dan Hooker</desc>
     <category lang="it">UFC Fight Night</category>
@@ -176,48 +88,25 @@
   <channel id="GlobalChampionsTourEvent17JumpingPrague">
     <display-name>Global Champions Tour | Event 17 Jumping | Prague</display-name>
   </channel>
-  <programme start="20251122000000 +0200" stop="20251122220000 +0200" channel="GlobalChampionsTourEvent17JumpingPrague">
-    <title lang="it">Inizia alle 22:00.</title>
+  <programme start="20251122000000 +0100" stop="20251122210000 +0100" channel="GlobalChampionsTourEvent17JumpingPrague">
+    <title lang="it">Inizia alle 21:00.</title>
     <desc lang="it">Global Champions Tour | Event 17 Jumping | Prague.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20251122220000 +0200" stop="20251123000000 +0200" channel="GlobalChampionsTourEvent17JumpingPrague">
+  <programme start="20251122210000 +0100" stop="20251122230000 +0100" channel="GlobalChampionsTourEvent17JumpingPrague">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Global Champions Tour | Event 17 Jumping | Prague</desc>
     <category lang="it">Equestrian</category>
   </programme>
-  <channel id="WomenFreeProgramGrandPrixFinland">
-    <display-name>Women | Free Program Grand Prix | Finland</display-name>
-  </channel>
-  <programme start="20251122000000 +0200" stop="20251122183000 +0200" channel="WomenFreeProgramGrandPrixFinland">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">Women | Free Program Grand Prix | Finland.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251122183000 +0200" stop="20251122203000 +0200" channel="WomenFreeProgramGrandPrixFinland">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Women | Free Program Grand Prix | Finland</desc>
-    <category lang="it">Ice Skating</category>
-  </programme>
-  <programme start="20251122000000 +0200" stop="20251122183000 +0200" channel="WomenFreeProgramGrandPrixFinland">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">Women | Free Program Grand Prix | Finland.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251122183000 +0200" stop="20251122203000 +0200" channel="WomenFreeProgramGrandPrixFinland">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Women | Free Program Grand Prix | Finland</desc>
-    <category lang="it">Ice Skating</category>
-  </programme>
   <channel id="FriendlyInternationalIrelandvsSouthAfrica">
     <display-name>Friendly International : Ireland vs South Africa</display-name>
   </channel>
-  <programme start="20251122000000 +0200" stop="20251122203000 +0200" channel="FriendlyInternationalIrelandvsSouthAfrica">
-    <title lang="it">Inizia alle 20:30.</title>
+  <programme start="20251122000000 +0100" stop="20251122193000 +0100" channel="FriendlyInternationalIrelandvsSouthAfrica">
+    <title lang="it">Inizia alle 19:30.</title>
     <desc lang="it">Friendly International : Ireland vs South Africa.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20251122203000 +0200" stop="20251122223000 +0200" channel="FriendlyInternationalIrelandvsSouthAfrica">
+  <programme start="20251122193000 +0100" stop="20251122213000 +0100" channel="FriendlyInternationalIrelandvsSouthAfrica">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Friendly International : Ireland vs South Africa</desc>
     <category lang="it">Rugby Union</category>
@@ -225,22 +114,22 @@
   <channel id="FriendlyInternationalItalyvsChile">
     <display-name>Friendly International : Italy vs Chile</display-name>
   </channel>
-  <programme start="20251122000000 +0200" stop="20251122231000 +0200" channel="FriendlyInternationalItalyvsChile">
-    <title lang="it">Inizia alle 23:10.</title>
+  <programme start="20251122000000 +0100" stop="20251122221000 +0100" channel="FriendlyInternationalItalyvsChile">
+    <title lang="it">Inizia alle 22:10.</title>
     <desc lang="it">Friendly International : Italy vs Chile.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20251122231000 +0200" stop="20251123011000 +0200" channel="FriendlyInternationalItalyvsChile">
+  <programme start="20251122221000 +0100" stop="20251123001000 +0100" channel="FriendlyInternationalItalyvsChile">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Friendly International : Italy vs Chile</desc>
     <category lang="it">Rugby Union</category>
   </programme>
-  <programme start="20251122000000 +0200" stop="20251122231000 +0200" channel="FriendlyInternationalItalyvsChile">
-    <title lang="it">Inizia alle 23:10.</title>
+  <programme start="20251122000000 +0100" stop="20251122221000 +0100" channel="FriendlyInternationalItalyvsChile">
+    <title lang="it">Inizia alle 22:10.</title>
     <desc lang="it">Friendly International : Italy vs Chile.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20251122231000 +0200" stop="20251123011000 +0200" channel="FriendlyInternationalItalyvsChile">
+  <programme start="20251122221000 +0100" stop="20251123001000 +0100" channel="FriendlyInternationalItalyvsChile">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Friendly International : Italy vs Chile</desc>
     <category lang="it">Rugby Union</category>
