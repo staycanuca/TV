@@ -2,63 +2,33 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyseriecunionarzignanochiampovsdolomitibellunesi" tvg-name="All Soccer Events | Italy - Serie C : Union ArzignanoChiampo vs Dolomiti Bellunesi (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Union ArzignanoChiampo_vs_Dolomiti Bellunesi.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Union ArzignanoChiampo vs Dolomiti Bellunesi (19:30)
-https://dlhd.dad/watch.php?id=214
-
-#EXTINF:-1 tvg-id="italyseriecvirtusveronavstriestina" tvg-name="All Soccer Events | Italy - Serie C : Virtus Verona vs Triestina (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Virtus Verona_vs_Triestina.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Virtus Verona vs Triestina (19:30)
-https://dlhd.dad/watch.php?id=217
-
-#EXTINF:-1 tvg-id="italyseriecpianesevsforlì" tvg-name="All Soccer Events | Italy - Serie C : Pianese vs Forlì (19:30)" tvg-logo="https://images.seeklogo.com/logo-png/55/3/us-aviation-academy-logo-png_seeklogo-550383.png?v=1957856647800139544" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Pianese vs Forlì (19:30)
-https://dlhd.dad/watch.php?id=215
-
-#EXTINF:-1 tvg-id="italyseriecravennavsgubbio" tvg-name="All Soccer Events | Italy - Serie C : Ravenna vs Gubbio (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ravenna_vs_Gubbio.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Ravenna vs Gubbio (19:30)
-https://dlhd.dad/watch.php?id=218
-
-#EXTINF:-1 tvg-id="italyseriecravennavsgubbio" tvg-name="All Soccer Events | Italy - Serie C : Ravenna vs Gubbio (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ravenna_vs_Gubbio.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Ravenna vs Gubbio (19:30)
-https://dlhd.dad/watch.php?id=460
-
-#EXTINF:-1 tvg-id="italyseriecmonopolivspicerno" tvg-name="All Soccer Events | Italy - Serie C : Monopoli vs Picerno (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Monopoli_vs_Picerno.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Monopoli vs Picerno (19:30)
-https://dlhd.dad/watch.php?id=216
-
-#EXTINF:-1 tvg-id="italyserieafiorentinavsjuventus" tvg-name="All Soccer Events | Italy - Serie A : Fiorentina vs Juventus (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Fiorentina_vs_Juventus.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Fiorentina vs Juventus (20:00)
-https://dlhd.dad/watch.php?id=877
-
-#EXTINF:-1 tvg-id="englandpremierleaguenewcastleunitedvsmanchestercity" tvg-name="All Soccer Events | England - Premier League : Newcastle United vs Manchester City (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Newcastle United_vs_Manchester City.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Newcastle United vs Manchester City (20:30)
+#EXTINF:-1 tvg-id="englandpremierleaguenewcastleunitedvsmanchestercity" tvg-name="All Soccer Events | England - Premier League : Newcastle United vs Manchester City (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Newcastle United_vs_Manchester City.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Newcastle United vs Manchester City (18:30)
 https://dlhd.dad/watch.php?id=870
 
-#EXTINF:-1 tvg-id="italyseriecathleticcarpivsrimini" tvg-name="All Soccer Events | Italy - Serie C : Athletic Carpi vs Rimini (22:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Athletic Carpi_vs_Rimini.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Athletic Carpi vs Rimini (22:30)
+#EXTINF:-1 tvg-id="italyseriecathleticcarpivsrimini" tvg-name="All Soccer Events | Italy - Serie C : Athletic Carpi vs Rimini (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Athletic Carpi_vs_Rimini.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Athletic Carpi vs Rimini (20:30)
 https://dlhd.dad/watch.php?id=217
 
-#EXTINF:-1 tvg-id="italyserieanapolivsatalanta" tvg-name="All Soccer Events | Italy - Serie A : Napoli vs Atalanta (22:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Napoli_vs_Atalanta.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Napoli vs Atalanta (22:45)
+#EXTINF:-1 tvg-id="italyserieanapolivsatalanta" tvg-name="All Soccer Events | Italy - Serie A : Napoli vs Atalanta (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Napoli_vs_Atalanta.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Napoli vs Atalanta (20:45)
 https://dlhd.dad/watch.php?id=218
 
-#EXTINF:-1 tvg-id="italyserieanapolivsatalanta" tvg-name="All Soccer Events | Italy - Serie A : Napoli vs Atalanta (22:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Napoli_vs_Atalanta.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Napoli vs Atalanta (22:45)
+#EXTINF:-1 tvg-id="italyserieanapolivsatalanta" tvg-name="All Soccer Events | Italy - Serie A : Napoli vs Atalanta (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Napoli_vs_Atalanta.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Napoli vs Atalanta (20:45)
 https://dlhd.dad/watch.php?id=461
 
-#EXTINF:-1 tvg-id="italyserieanapolivsatalanta" tvg-name="All Soccer Events | Italy - Serie A : Napoli vs Atalanta (22:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Napoli_vs_Atalanta.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Napoli vs Atalanta (22:45)
+#EXTINF:-1 tvg-id="italyserieanapolivsatalanta" tvg-name="All Soccer Events | Italy - Serie A : Napoli vs Atalanta (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Napoli_vs_Atalanta.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Napoli vs Atalanta (20:45)
 https://dlhd.dad/watch.php?id=870
 
-#EXTINF:-1 tvg-id="daviscupt2025semifinal2doubles" tvg-name="Tennis | Davis Cup (T2025): Semifinal 2. Doubles (18:30)" tvg-logo="https://thumbor.prod.vidiocdn.com/CtdGyPMQ6RtppK3TlcfxmiTZWmI=/filters:quality(70)/vidio-web-prod-category/uploads/category/image/358/davis-cup-cd9fd4.png" group-title="Eventi Live DLHD",Tennis | Davis Cup (T2025): Semifinal 2. Doubles (18:30)
-https://dlhd.dad/watch.php?id=576
-
-#EXTINF:-1 tvg-id="ufcfightnightmaincardarmantsarukyanvsdanhooker" tvg-name="UFC Fight Night | UFC Fight Night Main Card : Arman Tsarukyan vs Dan Hooker (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Arman Tsarukyan_vs_Dan Hooker.png" group-title="Eventi Live DLHD",UFC Fight Night | UFC Fight Night Main Card : Arman Tsarukyan vs Dan Hooker (21:00)
+#EXTINF:-1 tvg-id="ufcfightnightmaincardarmantsarukyanvsdanhooker" tvg-name="UFC Fight Night | UFC Fight Night Main Card : Arman Tsarukyan vs Dan Hooker (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Arman Tsarukyan_vs_Dan Hooker.png" group-title="Eventi Live DLHD",UFC Fight Night | UFC Fight Night Main Card : Arman Tsarukyan vs Dan Hooker (19:00)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="globalchampionstourevent17jumpingprague" tvg-name="Equestrian | Global Champions Tour | Event 17 Jumping | Prague (22:00)" tvg-logo="https://vertassets.blob.core.windows.net/image/91f6efa7/91f6efa7-b6cb-493d-87cb-a607b504726c/global_istock_1142610359.png" group-title="Eventi Live DLHD",Equestrian | Global Champions Tour | Event 17 Jumping | Prague (22:00)
+#EXTINF:-1 tvg-id="globalchampionstourevent17jumpingprague" tvg-name="Equestrian | Global Champions Tour | Event 17 Jumping | Prague (20:00)" tvg-logo="https://st.adda247.com/https://wpassets.adda247.com/wp-content/uploads/multisite/sites/2/2023/01/24165704/Global-Innovation-Index-2023-01.png" group-title="Eventi Live DLHD",Equestrian | Global Champions Tour | Event 17 Jumping | Prague (20:00)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="womenfreeprogramgrandprixfinland" tvg-name="Ice Skating | Women | Free Program Grand Prix | Finland (18:30)" tvg-logo="https://images.squarespace-cdn.com/content/v1/6737641f6b2a916348fbe365/8a6a9181-4760-4343-ad87-4f7a9a2b8d8b/Diverse+Happy+Women+(1).png?format=1000w" group-title="Eventi Live DLHD",Ice Skating | Women | Free Program Grand Prix | Finland (18:30)
-https://dlhd.dad/watch.php?id=882
-
-#EXTINF:-1 tvg-id="womenfreeprogramgrandprixfinland" tvg-name="Ice Skating | Women | Free Program Grand Prix | Finland (18:30)" tvg-logo="https://images.squarespace-cdn.com/content/v1/6737641f6b2a916348fbe365/8a6a9181-4760-4343-ad87-4f7a9a2b8d8b/Diverse+Happy+Women+(1).png?format=1000w" group-title="Eventi Live DLHD",Ice Skating | Women | Free Program Grand Prix | Finland (18:30)
-https://dlhd.dad/watch.php?id=879
-
-#EXTINF:-1 tvg-id="friendlyinternationalirelandvssouthafrica" tvg-name="Rugby Union | Friendly International : Ireland vs South Africa (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ireland_vs_South Africa.png" group-title="Eventi Live DLHD",Rugby Union | Friendly International : Ireland vs South Africa (20:30)
+#EXTINF:-1 tvg-id="friendlyinternationalirelandvssouthafrica" tvg-name="Rugby Union | Friendly International : Ireland vs South Africa (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ireland_vs_South Africa.png" group-title="Eventi Live DLHD",Rugby Union | Friendly International : Ireland vs South Africa (18:30)
 https://dlhd.dad/watch.php?id=462
 
-#EXTINF:-1 tvg-id="friendlyinternationalitalyvschile" tvg-name="Rugby Union | Friendly International : Italy vs Chile (23:10)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Italy_vs_Chile.png" group-title="Eventi Live DLHD",Rugby Union | Friendly International : Italy vs Chile (23:10)
+#EXTINF:-1 tvg-id="friendlyinternationalitalyvschile" tvg-name="Rugby Union | Friendly International : Italy vs Chile (21:10)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Italy_vs_Chile.png" group-title="Eventi Live DLHD",Rugby Union | Friendly International : Italy vs Chile (21:10)
 https://dlhd.dad/watch.php?id=882
 
-#EXTINF:-1 tvg-id="friendlyinternationalitalyvschile" tvg-name="Rugby Union | Friendly International : Italy vs Chile (23:10)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Italy_vs_Chile.png" group-title="Eventi Live DLHD",Rugby Union | Friendly International : Italy vs Chile (23:10)
+#EXTINF:-1 tvg-id="friendlyinternationalitalyvschile" tvg-name="Rugby Union | Friendly International : Italy vs Chile (21:10)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Italy_vs_Chile.png" group-title="Eventi Live DLHD",Rugby Union | Friendly International : Italy vs Chile (21:10)
 https://dlhd.dad/watch.php?id=462
 
