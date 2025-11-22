@@ -378,19 +378,6 @@
     <desc lang="it">Global Champions Tour | Event 17 Jumping | Prague</desc>
     <category lang="it">Equestrian</category>
   </programme>
-  <channel id="ISUGrandPrixSeries2025FinlandTrophyWomenShortCourse">
-    <display-name>ISU Grand Prix Series 2025 - Finland Trophy: Women - Short Course</display-name>
-  </channel>
-  <programme start="20251122000000 +0200" stop="20251122093000 +0200" channel="ISUGrandPrixSeries2025FinlandTrophyWomenShortCourse">
-    <title lang="it">Inizia alle 09:30.</title>
-    <desc lang="it">ISU Grand Prix Series 2025 - Finland Trophy: Women - Short Course.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251122093000 +0200" stop="20251122113000 +0200" channel="ISUGrandPrixSeries2025FinlandTrophyWomenShortCourse">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ISU Grand Prix Series 2025 - Finland Trophy: Women - Short Course</desc>
-    <category lang="it">Ice Skating</category>
-  </programme>
   <channel id="GrandPrixFinlandiaMixedpairsFreeroutine">
     <display-name>Grand Prix | Finlandia Mixed pairs | Free routine</display-name>
   </channel>
