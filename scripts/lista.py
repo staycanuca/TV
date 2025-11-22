@@ -848,7 +848,7 @@ def eventi_dlhd_m3u8_generator_world():
                         # e l'orario originale, poi applica il timedelta(hours=2) (per "correzione timezone?")
                         # Questo event_datetime_adjusted Ã¨ quello che viene usato per il filtro "meno di 2 ore fa" per oggi
                         # e per il nome del canale.
-                        event_datetime_adjusted_for_display_and_filter = datetime.combine(date_obj, original_event_time_obj) + timedelta(hours=2)
+                        event_datetime_adjusted_for_display_and_filter = datetime.combine(date_obj, original_event_time_obj) + timedelta(hours=1)
 
                         if is_yesterday_early_morning_event_check:
                             # Filtro per eventi_dlhd di ieri mattina presto (00:00 - 04:00, ora JSON)
@@ -1795,8 +1795,8 @@ def epg_eventi_dlhd_generator_world(json_file_path, output_file_path="eventi_dlh
         """Genera il contenuto XML EPG dai dati JSON filtrati"""
         epg_content = '<?xml version="1.0" encoding="UTF-8"?>\n<tv>\n'
         
-        italian_offset = timedelta(hours=2)
-        italian_offset_str = "+0200" 
+        italian_offset = timedelta(hours=1)
+        italian_offset_str = "+0100" 
     
         current_datetime_utc = datetime.now(timezone.utc)
         current_datetime_local = current_datetime_utc + italian_offset
@@ -2049,8 +2049,8 @@ def epg_eventi_dlhd_generator(json_file_path, output_file_path="eventi_dlhd.xml"
         """Genera il contenuto XML EPG dai dati JSON filtrati"""
         epg_content = '<?xml version="1.0" encoding="UTF-8"?>\n<tv>\n'
         
-        italian_offset = timedelta(hours=2)
-        italian_offset_str = "+0200" 
+        italian_offset = timedelta(hours=1)
+        italian_offset_str = "+0100" 
     
         current_datetime_utc = datetime.now(timezone.utc)
         current_datetime_local = current_datetime_utc + italian_offset
@@ -3034,7 +3034,7 @@ def sportsonline():
                             # Converte la stringa dell'orario in un oggetto datetime
                             original_time = datetime.datetime.strptime(time_str_original.strip(), '%H:%M')
                             # Aggiunge un'ora
-                            new_time = original_time + datetime.timedelta(hours=1)
+                            new_time = original_time + datetime.timedelta(hours=2)
                             time_str = new_time.strftime('%H:%M')
                         except ValueError:
                             time_str = time_str_original.strip() # Usa l'orario originale se il formato non è valido
