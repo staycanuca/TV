@@ -332,17 +332,7 @@
   <channel id="SlalomGurglKristoffersenHenrikvsMeillardLoic">
     <display-name>Slalom, Gurgl : Kristoffersen, Henrik vs. Meillard, Loic</display-name>
   </channel>
-  <programme start="20251122000000 +0200" stop="20251122121500 +0200" channel="SlalomGurglKristoffersenHenrikvsMeillardLoic">
-    <title lang="it">Inizia alle 12:15.</title>
-    <desc lang="it">Slalom, Gurgl : Kristoffersen, Henrik vs. Meillard, Loic.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251122121500 +0200" stop="20251122141500 +0200" channel="SlalomGurglKristoffersenHenrikvsMeillardLoic">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Slalom, Gurgl : Kristoffersen, Henrik vs. Meillard, Loic</desc>
-    <category lang="it">Alpine Ski</category>
-  </programme>
-  <programme start="20251122141500 +0200" stop="20251122153000 +0200" channel="SlalomGurglKristoffersenHenrikvsMeillardLoic">
+  <programme start="20251122000000 +0200" stop="20251122153000 +0200" channel="SlalomGurglKristoffersenHenrikvsMeillardLoic">
     <title lang="it">Inizia alle 15:30.</title>
     <desc lang="it">Slalom, Gurgl : Kristoffersen, Henrik vs. Meillard, Loic.</desc>
     <category lang="it">Annuncio</category>
