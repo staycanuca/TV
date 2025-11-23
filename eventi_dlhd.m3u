@@ -2,24 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyseriecgianaerminiovsospitaletto" tvg-name="Soccer | Italy - Serie C : Giana Erminio vs Ospitaletto (17:30)" tvg-logo="https://www.eltron.it/wp-content/uploads/2023/12/01_Immagini_profilo_PV_OSPITALETTO.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Giana Erminio vs Ospitaletto (17:30)
-https://dlhd.dad/watch.php?id=163
-
-#EXTINF:-1 tvg-id="italyseriecnuovamonterosivscampobasso" tvg-name="Soccer | Italy - Serie C : Nuova Monterosi vs Campobasso (17:30)" tvg-logo="https://www.magnoliabasket.it/wp-content/uploads/2019/08/logo_magnolia2019_traccia.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Nuova Monterosi vs Campobasso (17:30)
-https://dlhd.dad/watch.php?id=165
-
-#EXTINF:-1 tvg-id="italyseriecsalernitanavspotenzacalcio" tvg-name="Soccer | Italy - Serie C : Salernitana vs Potenza Calcio (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Salernitana_vs_Potenza Calcio.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Salernitana vs Potenza Calcio (17:30)
-https://dlhd.dad/watch.php?id=162
-
-#EXTINF:-1 tvg-id="italyseriecsalernitanavspotenzacalcio" tvg-name="Soccer | Italy - Serie C : Salernitana vs Potenza Calcio (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Salernitana_vs_Potenza Calcio.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Salernitana vs Potenza Calcio (17:30)
-https://dlhd.dad/watch.php?id=462
-
-#EXTINF:-1 tvg-id="italyseriealaziovslecce" tvg-name="Soccer | Italy - Serie A : Lazio vs Lecce (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lazio_vs_Lecce.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Lazio vs Lecce (18:00)
-https://dlhd.dad/watch.php?id=106
-
-#EXTINF:-1 tvg-id="italyseriealaziovslecce" tvg-name="Soccer | Italy - Serie A : Lazio vs Lecce (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lazio_vs_Lecce.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Lazio vs Lecce (18:00)
-https://dlhd.dad/watch.php?id=870
-
 #EXTINF:-1 tvg-id="italyseriecleccovscittadella" tvg-name="Soccer | Italy - Serie C : Lecco vs Cittadella (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lecco_vs_Cittadella.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Lecco vs Cittadella (20:30)
 https://dlhd.dad/watch.php?id=162
 
@@ -35,11 +17,8 @@ https://dlhd.dad/watch.php?id=870
 #EXTINF:-1 tvg-id="italyserieainternazionalevsmilan" tvg-name="Soccer | Italy - Serie A : Internazionale vs Milan (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Internazionale_vs_Milan.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Internazionale vs Milan (20:45)
 https://dlhd.dad/watch.php?id=877
 
-#EXTINF:-1 tvg-id="daviscupt2025finaldoubles" tvg-name="Tennis | Davis Cup (T2025): Final. Doubles (20:00)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/The_University_of_California_Davis.svg/300px-The_University_of_California_Davis.svg.png" group-title="Eventi Live DLHD",Tennis | Davis Cup (T2025): Final. Doubles (20:00)
+#EXTINF:-1 tvg-id="daviscupt2025finaldoubles" tvg-name="Tennis | Davis Cup (T2025): Final. Doubles (20:00)" tvg-logo="https://content.cdn.viber.com/stickers/144/429200/00429200.png" group-title="Eventi Live DLHD",Tennis | Davis Cup (T2025): Final. Doubles (20:00)
 https://dlhd.dad/watch.php?id=576
-
-#EXTINF:-1 tvg-id="quilternationsseriesenglandvsargentina" tvg-name="Rugby Union | Quilter Nations Series : England vs Argentina (16:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/England_vs_Argentina.png" group-title="Eventi Live DLHD",Rugby Union | Quilter Nations Series : England vs Argentina (16:45)
-https://dlhd.dad/watch.php?id=460
 
 #EXTINF:-1 tvg-id="top14stadefrancaisvstoulon" tvg-name="Rugby Union | Top 14 : Stade Francais vs Toulon (21:05)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Stade Francais_vs_Toulon.png" group-title="Eventi Live DLHD",Rugby Union | Top 14 : Stade Francais vs Toulon (21:05)
 https://dlhd.dad/watch.php?id=462
