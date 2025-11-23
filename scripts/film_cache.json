@@ -136586,5 +136586,29 @@
       10751
     ],
     "cached_at": "2025-11-22T06:20:13.073435"
+  },
+  "1422166": {
+    "id": 1422166,
+    "title": "The Age of Disclosure",
+    "release_date": "2025-11-21",
+    "vote_average": 8.0,
+    "poster_path": "/rVTGlKuJUeqgmznxhlpKDKClili.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-11-23T06:20:51.446525"
+  },
+  "376530": {
+    "id": 376530,
+    "title": "La principessa e l'aquila",
+    "release_date": "2016-11-02",
+    "vote_average": 7.054,
+    "poster_path": "/9yNdLimpzfpz4QDly32YSXo6GPa.jpg",
+    "genre_ids": [
+      10751,
+      99,
+      12
+    ],
+    "cached_at": "2025-11-23T06:21:01.095256"
   }
 }

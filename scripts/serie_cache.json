@@ -59787,5 +59787,33 @@
       9648
     ],
     "cached_at": "2025-11-22T06:20:17.793698"
+  },
+  "68435": {
+    "id": 68435,
+    "name": "Skylanders Academy",
+    "original_name": "Skylanders Academy",
+    "first_air_date": "2016-10-28",
+    "vote_average": 6.4,
+    "poster_path": "/jh1RVeQaiT9qjWYm6DOyWkotnd9.jpg",
+    "genre_ids": [
+      10762,
+      10759,
+      16,
+      10751
+    ],
+    "cached_at": "2025-11-23T06:21:07.319312"
+  },
+  "68375": {
+    "id": 68375,
+    "name": "Trailer Park Boys: Out of the Park: Europe",
+    "original_name": "Trailer Park Boys: Out of the Park: Europe",
+    "first_air_date": "2016-10-28",
+    "vote_average": 6.121,
+    "poster_path": "/rF9YTTxfyGw7rk7yu5uktu2RB5O.jpg",
+    "genre_ids": [
+      10759,
+      35
+    ],
+    "cached_at": "2025-11-23T06:21:07.443422"
   }
 }
