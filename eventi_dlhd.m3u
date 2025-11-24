@@ -2,9 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="fifau17worldcupaustriau17vsitalyu17" tvg-name="Soccer | FIFA U-17 World Cup : Austria U17 vs Italy U17 (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Austria U17_vs_Italy U17.png" group-title="Eventi Live DLHD",Soccer | FIFA U-17 World Cup : Austria U17 vs Italy U17 (14:30)
-https://dlhd.dad/watch.php?id=882
-
 #EXTINF:-1 tvg-id="italyserieatorinovscomo" tvg-name="Soccer | Italy - Serie A : Torino vs Como (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Torino_vs_Como.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Torino vs Como (18:30)
 https://dlhd.dad/watch.php?id=2
 
@@ -34,12 +31,6 @@ https://dlhd.dad/watch.php?id=877
 
 #EXTINF:-1 tvg-id="englandpremierleaguemanchesterunitedvseverton" tvg-name="Soccer | England - Premier League : Manchester United vs Everton (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Manchester United_vs_Everton.png" group-title="Eventi Live DLHD",Soccer | England - Premier League : Manchester United vs Everton (21:00)
 https://dlhd.dad/watch.php?id=461
-
-#EXTINF:-1 tvg-id="lohjaeuropeanwomenroundrobinitalyvssweden" tvg-name="Winter Sports | Lohja | European women | Round Robin : Italy vs Sweden (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Italy_vs_Sweden.png" group-title="Eventi Live DLHD",Winter Sports | Lohja | European women | Round Robin : Italy vs Sweden (15:00)
-https://dlhd.dad/watch.php?id=882
-
-#EXTINF:-1 tvg-id="lohjaeuropeanwomenroundrobinitalyvssweden" tvg-name="Winter Sports | Lohja | European women | Round Robin : Italy vs Sweden (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Italy_vs_Sweden.png" group-title="Eventi Live DLHD",Winter Sports | Lohja | European women | Round Robin : Italy vs Sweden (15:00)
-https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="menroundrobineuropeanchampionshipsitalyvsgermany" tvg-name="Winter Sports | Men | Round Robin | European Championships : Italy vs Germany (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Italy_vs_Germany.png" group-title="Eventi Live DLHD",Winter Sports | Men | Round Robin | European Championships : Italy vs Germany (19:00)
 https://dlhd.dad/watch.php?id=878
