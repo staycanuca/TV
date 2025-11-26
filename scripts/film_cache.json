@@ -136753,5 +136753,138 @@
       99
     ],
     "cached_at": "2025-11-25T06:23:35.125812"
+  },
+  "1522377": {
+    "id": 1522377,
+    "title": "Due mondi, un desiderio",
+    "release_date": "2025-11-24",
+    "vote_average": 9.0,
+    "poster_path": "/inouflcRShhZQjrmWsWIXbfTrxD.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "cached_at": "2025-11-26T06:23:35.262322"
+  },
+  "13380": {
+    "id": 13380,
+    "title": "Un magico Natale",
+    "release_date": "1985-11-22",
+    "vote_average": 5.821,
+    "poster_path": "/rMApp1QJAHJApdDu6sC4I2besD7.jpg",
+    "genre_ids": [
+      10751,
+      14
+    ],
+    "cached_at": "2025-11-26T06:23:35.442994"
+  },
+  "10860": {
+    "id": 10860,
+    "title": "Fiori d'acciaio",
+    "release_date": "1989-11-15",
+    "vote_average": 7.2,
+    "poster_path": "/dyWTqp3654FrSur1nZGANnANLHZ.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "cached_at": "2025-11-26T06:23:35.445397"
+  },
+  "58001": {
+    "id": 58001,
+    "title": "32 dicembre",
+    "release_date": "1988-01-28",
+    "vote_average": 7.107,
+    "poster_path": "/lIQezz2TGc3IUMegj6uppG8YeTl.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-11-26T06:23:35.469452"
+  },
+  "1315621": {
+    "id": 1315621,
+    "title": "A Capodanno tutti da me",
+    "release_date": "2025-01-01",
+    "vote_average": 5.4,
+    "poster_path": "/81k13FBVLr2yp9xwx1wFrgFdFfz.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2025-11-26T06:23:35.519932"
+  },
+  "1262983": {
+    "id": 1262983,
+    "title": "MadS",
+    "release_date": "2024-10-25",
+    "vote_average": 6.721,
+    "poster_path": "/xLZzQnsEnK2cpVMqrg3pyawIJSD.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2025-11-26T06:23:35.542582"
+  },
+  "11215": {
+    "id": 11215,
+    "title": "Baby Boom",
+    "release_date": "1987-10-07",
+    "vote_average": 6.4,
+    "poster_path": "/ooZmcxp7AP4WmClAnqHthTfS8CG.jpg",
+    "genre_ids": [
+      18,
+      35,
+      10749
+    ],
+    "cached_at": "2025-11-26T06:23:35.587301"
+  },
+  "30159": {
+    "id": 30159,
+    "title": "Io confesso",
+    "release_date": "1953-02-13",
+    "vote_average": 7.1,
+    "poster_path": "/1DcLAgvrOOIE0Goagypn6BcdrkV.jpg",
+    "genre_ids": [
+      18,
+      53,
+      80
+    ],
+    "cached_at": "2025-11-26T06:23:35.614939"
+  },
+  "57923": {
+    "id": 57923,
+    "title": "Il Mistero di Bellavista",
+    "release_date": "1985-01-01",
+    "vote_average": 7.0,
+    "poster_path": "/vwRcDFzZXB6W5mgjTmOeu4ZUFqo.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-11-26T06:23:35.660744"
+  },
+  "11353": {
+    "id": 11353,
+    "title": "Bowfinger",
+    "release_date": "1999-08-12",
+    "vote_average": 6.171,
+    "poster_path": "/wm8MKqwCmwrpW6xzDK2AHxGZ6m4.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-11-26T06:23:35.734660"
+  },
+  "278927": {
+    "id": 278927,
+    "title": "Il libro della giungla",
+    "release_date": "2016-04-07",
+    "vote_average": 6.9,
+    "poster_path": "/1e4gIuMBqjtQecPBHzLKOh8Ky68.jpg",
+    "genre_ids": [
+      10751,
+      12,
+      14
+    ],
+    "cached_at": "2025-11-26T06:23:35.803303"
   }
 }
