@@ -2,9 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="fifau17worldcupthirdplacematchbrazilu17vsitalyu17" tvg-name="Soccer | FIFA U-17 World Cup Third Place Match : Brazil U17 vs Italy U17 (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Brazil U17_vs_Italy U17.png" group-title="Eventi Live DLHD",Soccer | FIFA U-17 World Cup Third Place Match : Brazil U17 vs Italy U17 (13:30)
-https://dlhd.dad/watch.php?id=882
-
 #EXTINF:-1 tvg-id="fifau17worldcupfinalportugalu17vsaustriau17" tvg-name="Soccer | FIFA U-17 World Cup Final : Portugal U17 vs Austria U17 (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Portugal U17_vs_Austria U17.png" group-title="Eventi Live DLHD",Soccer | FIFA U-17 World Cup Final : Portugal U17 vs Austria U17 (17:00)
 https://dlhd.dad/watch.php?id=882
 
@@ -26,10 +23,10 @@ https://dlhd.dad/watch.php?id=460
 #EXTINF:-1 tvg-id="europeuefaeuropaleagueastonvillavsyoungboys" tvg-name="Soccer | Europe - UEFA Europa League : Aston Villa vs Young Boys (18:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Aston Villa_vs_Young Boys.png" group-title="Eventi Live DLHD",Soccer | Europe - UEFA Europa League : Aston Villa vs Young Boys (18:45)
 https://dlhd.dad/watch.php?id=21
 
-#EXTINF:-1 tvg-id="europeuefaeuropaleaguebolognavssalzburg" tvg-name="Soccer | Europe - UEFA Europa League : Bologna vs Salzburg (21:00)" tvg-logo="https://www.tripsavvy.com/thmb/Wvjf4qly5Y8ewQo8730d4PGBy8A=/2119x1415/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1070080094-7bdba81b255b42b1884840372ec56211.jpg" group-title="Eventi Live DLHD",Soccer | Europe - UEFA Europa League : Bologna vs Salzburg (21:00)
+#EXTINF:-1 tvg-id="europeuefaeuropaleaguebolognavssalzburg" tvg-name="Soccer | Europe - UEFA Europa League : Bologna vs Salzburg (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bologna_vs_Salzburg.png" group-title="Eventi Live DLHD",Soccer | Europe - UEFA Europa League : Bologna vs Salzburg (21:00)
 https://dlhd.dad/watch.php?id=8
 
-#EXTINF:-1 tvg-id="europeuefaeuropaleaguebolognavssalzburg" tvg-name="Soccer | Europe - UEFA Europa League : Bologna vs Salzburg (21:00)" tvg-logo="https://www.tripsavvy.com/thmb/Wvjf4qly5Y8ewQo8730d4PGBy8A=/2119x1415/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1070080094-7bdba81b255b42b1884840372ec56211.jpg" group-title="Eventi Live DLHD",Soccer | Europe - UEFA Europa League : Bologna vs Salzburg (21:00)
+#EXTINF:-1 tvg-id="europeuefaeuropaleaguebolognavssalzburg" tvg-name="Soccer | Europe - UEFA Europa League : Bologna vs Salzburg (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bologna_vs_Salzburg.png" group-title="Eventi Live DLHD",Soccer | Europe - UEFA Europa League : Bologna vs Salzburg (21:00)
 https://dlhd.dad/watch.php?id=461
 
 #EXTINF:-1 tvg-id="europeuefaeuropaleaguerangersvssportingbraga" tvg-name="Soccer | Europe - UEFA Europa League : Rangers vs Sporting Braga (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Rangers_vs_Sporting Braga.png" group-title="Eventi Live DLHD",Soccer | Europe - UEFA Europa League : Rangers vs Sporting Braga (21:00)
@@ -59,9 +56,6 @@ https://dlhd.dad/watch.php?id=878
 #EXTINF:-1 tvg-id="championsleaguewomenscandicciwvsalbablajw" tvg-name="Volleyball | Champions League Women : Scandicci W vs Alba Blaj W (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Scandicci W_vs_Alba Blaj W.png" group-title="Eventi Live DLHD",Volleyball | Champions League Women : Scandicci W vs Alba Blaj W (20:00)
 https://dlhd.dad/watch.php?id=462
 
-#EXTINF:-1 tvg-id="menroundrobineuropeanchampionshipsscotlandvsitaly" tvg-name="Winter Sports | Men | Round Robin | European Championships : Scotland vs Italy (13:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Scotland_vs_Italy.png" group-title="Eventi Live DLHD",Winter Sports | Men | Round Robin | European Championships : Scotland vs Italy (13:00)
-https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="milancortinatrialscurlingwomenssemifinal" tvg-name="Winter Sports | Milan Cortina Trials Curling, Women's Semifinal (18:00)" tvg-logo="https://a.cdn-hotels.com/gdcs/production41/d1209/ffe359ce-c62c-428c-9721-eb08a83bbad9.jpg" group-title="Eventi Live DLHD",Winter Sports | Milan Cortina Trials Curling, Women's Semifinal (18:00)
+#EXTINF:-1 tvg-id="milancortinatrialscurlingwomenssemifinal" tvg-name="Winter Sports | Milan Cortina Trials Curling, Women's Semifinal (18:00)" tvg-logo="https://assets.bucketlistly.blog/sites/5adf778b6eabcc00190b75b1/content_entry5adf77af6eabcc00190b75b6/63bd8869bcb2e90004d520eb/files/best-things-to-do-in-milan-main-image-op.jpg" group-title="Eventi Live DLHD",Winter Sports | Milan Cortina Trials Curling, Women's Semifinal (18:00)
 https://dlhd.dad/watch.php?id=879
 
