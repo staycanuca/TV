@@ -136886,5 +136886,44 @@
       14
     ],
     "cached_at": "2025-11-26T06:23:35.803303"
+  },
+  "1215798": {
+    "id": 1215798,
+    "title": "The Cut - Sfida estrema",
+    "release_date": "2025-09-04",
+    "vote_average": 6.1,
+    "poster_path": "/6iseyProRsPyu3rOCzsXDDnDGrl.jpg",
+    "genre_ids": [
+      53,
+      18
+    ],
+    "cached_at": "2025-11-27T06:24:05.375845"
+  },
+  "10425": {
+    "id": 10425,
+    "title": "Bobby Z -  Il signore della droga",
+    "release_date": "2007-07-23",
+    "vote_average": 6.1,
+    "poster_path": "/5GNunezGwourFmC4IX88jRFZra1.jpg",
+    "genre_ids": [
+      18,
+      28,
+      53,
+      80
+    ],
+    "cached_at": "2025-11-27T06:24:05.445020"
+  },
+  "1218762": {
+    "id": 1218762,
+    "title": "Jingle Bell Heist - Rapina a Natale",
+    "release_date": "2025-11-25",
+    "vote_average": 6.357,
+    "poster_path": "/w2gsk9B7AJHKaN47IULaIbNHFdx.jpg",
+    "genre_ids": [
+      10749,
+      80,
+      35
+    ],
+    "cached_at": "2025-11-27T06:24:05.620020"
   }
 }

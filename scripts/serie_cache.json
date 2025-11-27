@@ -59866,5 +59866,17 @@
       10764
     ],
     "cached_at": "2025-11-26T06:23:40.675388"
+  },
+  "37678": {
+    "id": 37678,
+    "name": "The Voice",
+    "original_name": "The Voice",
+    "first_air_date": "2011-04-26",
+    "vote_average": 5.9,
+    "poster_path": "/8jgjykcCuQ5rYreyqba4mazNKYd.jpg",
+    "genre_ids": [
+      10764
+    ],
+    "cached_at": "2025-11-27T06:24:11.616268"
   }
 }
