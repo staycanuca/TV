@@ -75,10 +75,6 @@ https://vavoo.to/vavoo-iptv/play/433893159bf516cde9a97
 https://vavoo.to/vavoo-iptv/play/12254846645cb5a95a1f30
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.arvedi.it/fileadmin/user_upload/istituzionale/gruppo-arvedi-e-informazione-logo-Cremona1.png" group-title="Altro",CREMONA 1
 https://vavoo.to/vavoo-iptv/play/4137427510ef362e6435fc
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",CRIME + INV
-https://vavoo.to/vavoo-iptv/play/196833914960066715a573
-#EXTINF:-1 tvg-id="dazn.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN
-https://vavoo.to/vavoo-iptv/play/2745635299ab0cc043a143
 #EXTINF:-1 tvg-id="dazn.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN (D)
 https://dlhd.dad/watch.php?id=877
 #EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV
@@ -141,8 +137,6 @@ https://vavoo.to/vavoo-iptv/play/40604994550f228d5b9b59
 https://vavoo.to/vavoo-iptv/play/2116902817eb437d88bab6
 #EXTINF:-1 tvg-id="hgtv.it" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS" group-title="Altro",HGTV
 https://vavoo.to/vavoo-iptv/play/42489970292d2930202d0e
-#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
-https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.gruppoicaro.it/wp-content/uploads/2020/05/icarotv.png" group-title="Altro",ICARO TV
 https://vavoo.to/vavoo-iptv/play/2392139008947764078821
 #EXTINF:-1 tvg-id="iris.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS
@@ -324,7 +318,7 @@ https://vavoo.to/vavoo-iptv/play/639406775e0288e6772cc
 #EXTINF:-1 tvg-id="rtl.102.5.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rtl-1025-it.png" group-title="Musica",RTL 102.5
 https://vavoo.to/vavoo-iptv/play/1729811452a70dafd8f6ba
 
-# RAI
+# FILM - SERIE TV
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",RTP (RETE TELEVISIVA)
 https://vavoo.to/vavoo-iptv/play/4136045815a19e851236a3
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tvdream.net/img/rtr99-cover.jpg" group-title="Altro",RTR 99 TV
@@ -478,7 +472,7 @@ https://vavoo.to/vavoo-iptv/play/2061826034c5ac3b5d7306
 #EXTINF:-1 tvg-id="super!.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/1024px-Super%21_logo_2021.svg.png" group-title="Bambini",SUPER!
 https://vavoo.to/vavoo-iptv/play/2900362153b8a056cb86c0
 
-# FILM - SERIE TV
+# MUSICA
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_ebhZMV4eYibx6UpVDOt1KOlmhOPYBh0gKw&s" group-title="Altro",SUPERSIX LOMBARDIA
 https://vavoo.to/vavoo-iptv/play/8491244640295fc9ea282
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.abruzzi.tv/logo-abruzzi.png" group-title="Altro",TELE ABRUZZO
@@ -562,7 +556,7 @@ https://vavoo.to/vavoo-iptv/play/27978570454e40f7218cf4
 #EXTINF:-1 tvg-id="" tvg-logo="https://teleromagna.it/Images/logo-tr-sport.jpg" group-title="Sport",TRSPORT
 https://vavoo.to/vavoo-iptv/play/3613140620a139097e4b5
 
-# MUSICA
+# RAI
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQpzqT0DLXv-md7VU-fTF5BeaEashocwHUdw&s" group-title="Altro",TT TELETUTTO
 https://vavoo.to/vavoo-iptv/play/3709706813e7a46de6436d
 #EXTINF:-1 tvg-id="tv8.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/tv8-it.png" group-title="Altro",TV 8
@@ -621,7 +615,7 @@ https://dlhd.dad/watch.php?id=8
 #EXTINF:-1 tvg-id="europeuefaeuropaleagueromavsmidtjylland" tvg-name="Soccer | Europe - UEFA Europa League : Roma vs Midtjylland (18:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Roma_vs_Midtjylland.png" group-title="Eventi Live DLHD",Soccer | Europe - UEFA Europa League : Roma vs Midtjylland (18:45)
 https://dlhd.dad/watch.php?id=461
 
-#EXTINF:-1 tvg-id="europeuefaeuropaleagueviktoriaplzevsfreiburg" tvg-name="Soccer | Europe - UEFA Europa League : Viktoria Plzeň vs Freiburg (18:45)" tvg-logo="https://www.momondo.de/discover/wp-content/uploads/sites/264/2022/06/DEST_GERMANY_BADEN-WURTTEMBERG_FREIBURG-IM-BREISGAU_GettyImages-1061644894.jpg" group-title="Eventi Live DLHD",Soccer | Europe - UEFA Europa League : Viktoria Plzeň vs Freiburg (18:45)
+#EXTINF:-1 tvg-id="europeuefaeuropaleagueviktoriaplzevsfreiburg" tvg-name="Soccer | Europe - UEFA Europa League : Viktoria Plzeň vs Freiburg (18:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Viktoria Plzeň_vs_Freiburg.png" group-title="Eventi Live DLHD",Soccer | Europe - UEFA Europa League : Viktoria Plzeň vs Freiburg (18:45)
 https://dlhd.dad/watch.php?id=13
 
 #EXTINF:-1 tvg-id="europeuefaeuropaleagueportovsnice" tvg-name="Soccer | Europe - UEFA Europa League : Porto vs Nice (18:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Porto_vs_Nice.png" group-title="Eventi Live DLHD",Soccer | Europe - UEFA Europa League : Porto vs Nice (18:45)
@@ -669,7 +663,7 @@ https://dlhd.dad/watch.php?id=462
 #EXTINF:-1 tvg-id="menroundrobineuropeanchampionshipsscotlandvsitaly" tvg-name="Winter Sports | Men | Round Robin | European Championships : Scotland vs Italy (13:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Scotland_vs_Italy.png" group-title="Eventi Live DLHD",Winter Sports | Men | Round Robin | European Championships : Scotland vs Italy (13:00)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="milancortinatrialscurlingwomenssemifinal" tvg-name="Winter Sports | Milan Cortina Trials Curling, Women's Semifinal (18:00)" tvg-logo="https://cdn.britannica.com/83/94683-050-8DBA7E61/cathedral-Milan-Piazza-del-Duomo.jpg" group-title="Eventi Live DLHD",Winter Sports | Milan Cortina Trials Curling, Women's Semifinal (18:00)
+#EXTINF:-1 tvg-id="milancortinatrialscurlingwomenssemifinal" tvg-name="Winter Sports | Milan Cortina Trials Curling, Women's Semifinal (18:00)" tvg-logo="https://a.cdn-hotels.com/gdcs/production41/d1209/ffe359ce-c62c-428c-9721-eb08a83bbad9.jpg" group-title="Eventi Live DLHD",Winter Sports | Milan Cortina Trials Curling, Women's Semifinal (18:00)
 https://dlhd.dad/watch.php?id=879
 
 
