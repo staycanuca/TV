@@ -141,8 +141,6 @@ https://vavoo.to/vavoo-iptv/play/40604994550f228d5b9b59
 https://vavoo.to/vavoo-iptv/play/2116902817eb437d88bab6
 #EXTINF:-1 tvg-id="hgtv.it" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS" group-title="Altro",HGTV
 https://vavoo.to/vavoo-iptv/play/42489970292d2930202d0e
-#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
-https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.gruppoicaro.it/wp-content/uploads/2020/05/icarotv.png" group-title="Altro",ICARO TV
 https://vavoo.to/vavoo-iptv/play/2392139008947764078821
 #EXTINF:-1 tvg-id="iris.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS
@@ -153,7 +151,9 @@ https://vavoo.to/vavoo-iptv/play/633342961994dc5083ad5
 https://dlhd.dad/watch.php?id=854
 
 # ALTRO
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3 (1)
+https://vavoo.to/vavoo-iptv/play/1565298794daace40d1b60
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3 (2)
 https://vavoo.to/vavoo-iptv/play/1200985239ceccd12c8a54
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.upmagazinearezzo.it/atladv/wp-content/uploads/2017/07/atlantide-adv-logo-italian-fishing-tv.jpg" group-title="Altro",ITALIAN FISHING TV
 https://vavoo.to/vavoo-iptv/play/477083716dc642d622f68
@@ -285,8 +285,6 @@ https://vavoo.to/vavoo-iptv/play/11093727783b90d83934c6
 https://vavoo.to/vavoo-iptv/play/209862439074120bb15132
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN FAMILY
 https://vavoo.to/vavoo-iptv/play/3902650955a82543dc27a4
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN TOP FREE
-https://vavoo.to/vavoo-iptv/play/1572866962efea4ca22353
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN TV SHOWS
 https://vavoo.to/vavoo-iptv/play/860912269147f85ae7a8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/RDS-Logo.png/260px-RDS-Logo.png" group-title="Musica",RDS SOCIAL
@@ -403,6 +401,8 @@ https://vavoo.to/vavoo-iptv/play/17532606771304e2497369
 # SPORT
 #EXTINF:-1 tvg-id="sky.serie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Film - Serie TV",SKY SERIE (D)
 https://dlhd.dad/watch.php?id=880
+#EXTINF:-1 tvg-id="skysport.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-it.png" group-title="Sport",SKY SPORT
+https://vavoo.to/vavoo-iptv/play/92466165981ba6f81de20
 #EXTINF:-1 tvg-id="sky.sport.24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 (D)
 https://dlhd.dad/watch.php?id=869
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY]
@@ -461,6 +461,8 @@ https://vavoo.to/vavoo-iptv/play/32202484989ac14421915
 https://dlhd.dad/watch.php?id=881
 
 # RAI
+#EXTINF:-1 tvg-id="sportitalia.it" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport",SPORT ITALIA
+https://vavoo.to/vavoo-iptv/play/288173992763b00e6fdc82
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/83094948658201829f87a
 #EXTINF:-1 tvg-id="supertennis.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport",SUPER TENNIS
@@ -612,43 +614,37 @@ https://dlhd.dad/watch.php?id=15
 #EXTINF:-1 tvg-id="italyserieacomovssassuolo" tvg-name="Soccer | Italy - Serie A : Como vs Sassuolo (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Como_vs_Sassuolo.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Como vs Sassuolo (20:45)
 https://dlhd.dad/watch.php?id=870
 
-#EXTINF:-1 tvg-id="formula1qatarairwaysqatargrandprixpractice1" tvg-name="Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Practice 1 (14:30)" tvg-logo="https://wallpaperaccess.com/full/2180263.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Practice 1 (14:30)
+#EXTINF:-1 tvg-id="formula1qatarairwaysqatargrandprixpractice1" tvg-name="Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Practice 1 (14:30)" tvg-logo="https://logos-world.net/wp-content/uploads/2023/12/F1-Emblem.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Practice 1 (14:30)
 https://dlhd.dad/watch.php?id=577
 
-#EXTINF:-1 tvg-id="formula2qatarairwaysqatargrandprixqualifying" tvg-name="Motorsport | Formula 2 : Qatar Airways Qatar Grand Prix - Qualifying (17:10)" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/506/639/large_2x/hand-drawn-physic-formulas-science-knowledge-education-chem-formula-and-physics-math-formula-and-physics-white-background-hand-drawn-line-math-formula-and-physics-formula-png.png" group-title="Eventi Live DLHD",Motorsport | Formula 2 : Qatar Airways Qatar Grand Prix - Qualifying (17:10)
+#EXTINF:-1 tvg-id="formula2qatarairwaysqatargrandprixqualifying" tvg-name="Motorsport | Formula 2 : Qatar Airways Qatar Grand Prix - Qualifying (17:10)" tvg-logo="https://www.dtti.it/wp-content/uploads/2022/07/formula-1-logo-0.png" group-title="Eventi Live DLHD",Motorsport | Formula 2 : Qatar Airways Qatar Grand Prix - Qualifying (17:10)
 https://dlhd.dad/watch.php?id=577
 
-#EXTINF:-1 tvg-id="formula1qatarairwaysqatargrandprixsprintqualifying" tvg-name="Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Sprint Qualifying (18:30)" tvg-logo="https://wallpaperaccess.com/full/2180263.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Sprint Qualifying (18:30)
+#EXTINF:-1 tvg-id="formula1qatarairwaysqatargrandprixsprintqualifying" tvg-name="Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Sprint Qualifying (18:30)" tvg-logo="https://logos-world.net/wp-content/uploads/2023/12/F1-Emblem.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Sprint Qualifying (18:30)
 https://dlhd.dad/watch.php?id=577
 
-#EXTINF:-1 tvg-id="judoeuropeanopen2025yesrome" tvg-name="Combat sports | Judo European Open 2025-yes Rome (15:30)" tvg-logo="https://www.myselfdefensetraining.com/wp-content/uploads/2017/01/Screen-Shot-2016-03-31-at-1.23.48-AM.png" group-title="Eventi Live DLHD",Combat sports | Judo European Open 2025-yes Rome (15:30)
+#EXTINF:-1 tvg-id="judoeuropeanopen2025yesrome" tvg-name="Combat sports | Judo European Open 2025-yes Rome (15:30)" tvg-logo="https://cdn.britannica.com/42/188042-050-F1BD0149/Teddy-Riner-French-route-world-title-judo-August-29-2015.jpg" group-title="Eventi Live DLHD",Combat sports | Judo European Open 2025-yes Rome (15:30)
 https://dlhd.dad/watch.php?id=882
 
-#EXTINF:-1 tvg-id="worldcupthemancoppermountaingiantslalomrun1" tvg-name="Alpine Ski | World Cup | The Man Copper Mountain | Giant Slalom | Run 1 (17:45)" tvg-logo="https://dcspotlight.com/wp-content/uploads/2015/10/NEW-HEADLINES-WORLD.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup | The Man Copper Mountain | Giant Slalom | Run 1 (17:45)
+#EXTINF:-1 tvg-id="worldcupthemancoppermountaingiantslalomrun1" tvg-name="Alpine Ski | World Cup | The Man Copper Mountain | Giant Slalom | Run 1 (17:45)" tvg-logo="https://miro.medium.com/max/2400/1*khBmQoTMMvHi4aHkzrVS7g.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup | The Man Copper Mountain | Giant Slalom | Run 1 (17:45)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="worldcupthemancoppermountaingiantslalomrun2" tvg-name="Alpine Ski | World Cup | The Man Copper Mountain | Giant Slalom | Run 2 (20:45)" tvg-logo="https://dcspotlight.com/wp-content/uploads/2015/10/NEW-HEADLINES-WORLD.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup | The Man Copper Mountain | Giant Slalom | Run 2 (20:45)
+#EXTINF:-1 tvg-id="worldcupthemancoppermountaingiantslalomrun2" tvg-name="Alpine Ski | World Cup | The Man Copper Mountain | Giant Slalom | Run 2 (20:45)" tvg-logo="https://miro.medium.com/max/2400/1*khBmQoTMMvHi4aHkzrVS7g.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup | The Man Copper Mountain | Giant Slalom | Run 2 (20:45)
 https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="f1h2oworldchampionshipjeddahronde4sprintrace" tvg-name="Sailing / Boating | F1H2O World Championship | Jeddah Ronde 4 | Sprint Race (13:30)" tvg-logo="https://www.f1h2o.com/img/layout/logo-h2o-carbon-neutral.png" group-title="Eventi Live DLHD",Sailing / Boating | F1H2O World Championship | Jeddah Ronde 4 | Sprint Race (13:30)
-https://dlhd.dad/watch.php?id=879
-
-#EXTINF:-1 tvg-id="rukamens10kmclassicworldcup" tvg-name="Cross Country | Ruka | Men's 10km Classic World Cup (13:00)" tvg-logo="https://www.ruka.fi/sites/ruka/files/styles/large/public/2022-06/ruka_fi_icons_ruka_kuusamo_alamakipyoraily.png?itok=359yq8Ld" group-title="Eventi Live DLHD",Cross Country | Ruka | Men's 10km Classic World Cup (13:00)
-https://dlhd.dad/watch.php?id=879
 
 #EXTINF:-1 tvg-id="unitedrugbychampionshipulstervstreviso" tvg-name="Rugby Union | United Rugby Championship : Ulster vs Treviso (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ulster_vs_Treviso.png" group-title="Eventi Live DLHD",Rugby Union | United Rugby Championship : Ulster vs Treviso (20:45)
 https://dlhd.dad/watch.php?id=462
 
-#EXTINF:-1 tvg-id="2025worldchampionshipsrifleandpistolfromcairo" tvg-name="Shooting | 2025 World Championships - Rifle and Pistol (from Cairo) (17:00)" tvg-logo="https://images.bubbleup.com/vipnation/1-default/2-vipnationcom/joan_jett_2025_1280x1280_1737399065.jpg" group-title="Eventi Live DLHD",Shooting | 2025 World Championships - Rifle and Pistol (from Cairo) (17:00)
+#EXTINF:-1 tvg-id="2025worldchampionshipsrifleandpistolfromcairo" tvg-name="Shooting | 2025 World Championships - Rifle and Pistol (from Cairo) (17:00)" tvg-logo="https://cdn.pixabay.com/photo/2024/11/21/10/59/ai-generated-9213515_1280.png" group-title="Eventi Live DLHD",Shooting | 2025 World Championships - Rifle and Pistol (from Cairo) (17:00)
 https://dlhd.dad/watch.php?id=882
 
-#EXTINF:-1 tvg-id="rukamenshs142worldcupqualifyingday1" tvg-name="Ski Jumping | Ruka | Men's HS 142 World Cup | Qualifying | Day 1 (17:15)" tvg-logo="https://static.zerochan.net/Saotome.Ruka.full.4136249.png" group-title="Eventi Live DLHD",Ski Jumping | Ruka | Men's HS 142 World Cup | Qualifying | Day 1 (17:15)
+#EXTINF:-1 tvg-id="rukamenshs142worldcupqualifyingday1" tvg-name="Ski Jumping | Ruka | Men's HS 142 World Cup | Qualifying | Day 1 (17:15)" tvg-logo="https://www.allkpop.com/upload/2023/11/content/201105/1700496327-image.png" group-title="Eventi Live DLHD",Ski Jumping | Ruka | Men's HS 142 World Cup | Qualifying | Day 1 (17:15)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="seriea1florentiavsposillipo" tvg-name="Water polo | Serie A1 : Florentia vs Posillipo (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Florentia_vs_Posillipo.png" group-title="Eventi Live DLHD",Water polo | Serie A1 : Florentia vs Posillipo (18:00)
 https://dlhd.dad/watch.php?id=882
 
-#EXTINF:-1 tvg-id="rukamenscompact75kmworldcup" tvg-name="Winter Sports | Ruka | Men's Compact 7.5km World Cup (15:00)" tvg-logo="https://mikucrossing.com/img/mikucrossing03/special_ticket/Ruka_transparent.png" group-title="Eventi Live DLHD",Winter Sports | Ruka | Men's Compact 7.5km World Cup (15:00)
+#EXTINF:-1 tvg-id="rukamenscompact75kmworldcup" tvg-name="Winter Sports | Ruka | Men's Compact 7.5km World Cup (15:00)" tvg-logo="https://www.allkpop.com/upload/2023/11/content/201105/1700496327-image.png" group-title="Eventi Live DLHD",Winter Sports | Ruka | Men's Compact 7.5km World Cup (15:00)
 https://dlhd.dad/watch.php?id=878
 
 
