@@ -136988,5 +136988,54 @@
       28
     ],
     "cached_at": "2025-11-28T06:23:54.378740"
+  },
+  "999075": {
+    "id": 999075,
+    "title": "La mia famiglia a Taipei",
+    "release_date": "2025-09-17",
+    "vote_average": 7.4,
+    "poster_path": "/yLz3T22c2ACUs5ewlvnH9Veavtq.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-11-29T06:20:49.047153"
+  },
+  "38602": {
+    "id": 38602,
+    "title": "Il piccolo Lord",
+    "release_date": "1980-12-01",
+    "vote_average": 7.376,
+    "poster_path": "/xepduuPwPp10zuVsAPkNajBVZ2O.jpg",
+    "genre_ids": [
+      10770,
+      10751,
+      18
+    ],
+    "cached_at": "2025-11-29T06:20:49.184351"
+  },
+  "1196573": {
+    "id": 1196573,
+    "title": "Educazione criminale",
+    "release_date": "2025-07-31",
+    "vote_average": 7.095,
+    "poster_path": "/jXFYf7LoVcnIMD48CcvId251HqE.jpg",
+    "genre_ids": [
+      28,
+      53,
+      80
+    ],
+    "cached_at": "2025-11-29T06:20:49.260239"
+  },
+  "1291040": {
+    "id": 1291040,
+    "title": "Natale senza Babbo",
+    "release_date": "2025-11-26",
+    "vote_average": 3.0,
+    "poster_path": "/7DFyI1S8xJ34AkUutVBqDSfOtfJ.jpg",
+    "genre_ids": [
+      35,
+      10751
+    ],
+    "cached_at": "2025-11-29T06:20:49.329852"
   }
 }
