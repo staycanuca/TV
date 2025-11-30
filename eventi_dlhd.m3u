@@ -65,7 +65,7 @@ https://dlhd.dad/watch.php?id=77
 #EXTINF:-1 tvg-id="italyserieccampobassovspianese" tvg-name="All Soccer Events | Italy - Serie C : Campobasso vs Pianese (16:30)" tvg-logo="https://static.vecteezy.com/system/resources/previews/024/983/617/original/instagram-whatsapp-logo-transparent-free-png.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Campobasso vs Pianese (16:30)
 https://dlhd.dad/watch.php?id=69
 
-#EXTINF:-1 tvg-id="italyseriecternanavsnuovamonterosi" tvg-name="All Soccer Events | Italy - Serie C : Ternana vs Nuova Monterosi (16:30)" tvg-logo="https://images.seeklogo.com/logo-png/52/3/liga-catarinense-de-futsal-logo-png_seeklogo-522808.png?v=1958563323069919616" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Ternana vs Nuova Monterosi (16:30)
+#EXTINF:-1 tvg-id="italyseriecternanavsnuovamonterosi" tvg-name="All Soccer Events | Italy - Serie C : Ternana vs Nuova Monterosi (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ternana_vs_Nuova Monterosi.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Ternana vs Nuova Monterosi (16:30)
 https://dlhd.dad/watch.php?id=68
 
 #EXTINF:-1 tvg-id="italyseriecfoggiavscosenza" tvg-name="All Soccer Events | Italy - Serie C : Foggia vs Cosenza (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Foggia_vs_Cosenza.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Foggia vs Cosenza (16:30)
@@ -77,7 +77,7 @@ https://dlhd.dad/watch.php?id=76
 #EXTINF:-1 tvg-id="italyserieaatalantavsfiorentina" tvg-name="All Soccer Events | Italy - Serie A : Atalanta vs Fiorentina (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Atalanta_vs_Fiorentina.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Atalanta vs Fiorentina (17:00)
 https://dlhd.dad/watch.php?id=870
 
-#EXTINF:-1 tvg-id="germanybundesligafreiburgvsmainz05" tvg-name="All Soccer Events | Germany - Bundesliga : Freiburg vs Mainz 05 (18:30)" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/08/mainz-05-logo.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - Bundesliga : Freiburg vs Mainz 05 (18:30)
+#EXTINF:-1 tvg-id="germanybundesligafreiburgvsmainz05" tvg-name="All Soccer Events | Germany - Bundesliga : Freiburg vs Mainz 05 (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Freiburg_vs_Mainz 05.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - Bundesliga : Freiburg vs Mainz 05 (18:30)
 https://dlhd.dad/watch.php?id=6
 
 #EXTINF:-1 tvg-id="italyserieclatinavsaudacecerignola" tvg-name="All Soccer Events | Italy - Serie C : Latina vs Audace Cerignola (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Latina_vs_Audace Cerignola.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Latina vs Audace Cerignola (19:30)
@@ -95,29 +95,26 @@ https://dlhd.dad/watch.php?id=877
 #EXTINF:-1 tvg-id="franceligue1olympiquelyonnaisvsnantes" tvg-name="All Soccer Events | France - Ligue 1 : Olympique Lyonnais vs Nantes (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Olympique Lyonnais_vs_Nantes.png" group-title="Eventi Live DLHD",All Soccer Events | France - Ligue 1 : Olympique Lyonnais vs Nantes (19:45)
 https://dlhd.dad/watch.php?id=870
 
-#EXTINF:-1 tvg-id="formula2qatarairwaysqatargrandprixrace" tvg-name="Motorsport | Formula 2 : Qatar Airways Qatar Grand Prix - Race (12:00)" tvg-logo="https://www.dtti.it/wp-content/uploads/2022/07/formula-1-logo-0.png" group-title="Eventi Live DLHD",Motorsport | Formula 2 : Qatar Airways Qatar Grand Prix - Race (12:00)
+#EXTINF:-1 tvg-id="formula2qatarairwaysqatargrandprixrace" tvg-name="Motorsport | Formula 2 : Qatar Airways Qatar Grand Prix - Race (12:00)" tvg-logo="https://i.pinimg.com/originals/48/7a/cf/487acf60c75951c1de0116aa0fa7a4b6.png" group-title="Eventi Live DLHD",Motorsport | Formula 2 : Qatar Airways Qatar Grand Prix - Race (12:00)
 https://dlhd.dad/watch.php?id=577
 
-#EXTINF:-1 tvg-id="formula1qatarairwaysqatargrandprixgrandprixsunday" tvg-name="Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Grand Prix Sunday (15:00)" tvg-logo="https://logolook.net/wp-content/uploads/2022/07/F1-Logo-history.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Grand Prix Sunday (15:00)
+#EXTINF:-1 tvg-id="formula1qatarairwaysqatargrandprixgrandprixsunday" tvg-name="Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Grand Prix Sunday (15:00)" tvg-logo="https://logospng.org/download/formula-1/formula-1-2048.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Grand Prix Sunday (15:00)
 https://dlhd.dad/watch.php?id=577
 
-#EXTINF:-1 tvg-id="formula1qatarairwaysqatargrandprixrace" tvg-name="Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Race (16:00)" tvg-logo="https://logolook.net/wp-content/uploads/2022/07/F1-Logo-history.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Race (16:00)
+#EXTINF:-1 tvg-id="formula1qatarairwaysqatargrandprixrace" tvg-name="Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Race (16:00)" tvg-logo="https://logospng.org/download/formula-1/formula-1-2048.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Race (16:00)
 https://dlhd.dad/watch.php?id=577
 
-#EXTINF:-1 tvg-id="ukchampionshipround1" tvg-name="Snooker | UK Championship | Round 1 (12:45)" tvg-logo="https://static.flashscore.com/res/image/data/6qPm8ajD-Q5eoRQvA.png" group-title="Eventi Live DLHD",Snooker | UK Championship | Round 1 (12:45)
+#EXTINF:-1 tvg-id="ukchampionshipround1" tvg-name="Snooker | UK Championship | Round 1 (12:45)" tvg-logo="https://www.infoandopinion.com/wp-content/uploads/2021/07/UK-Nations-Map-761x1024.png" group-title="Eventi Live DLHD",Snooker | UK Championship | Round 1 (12:45)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="ukchampionshipround1" tvg-name="Snooker | UK Championship | Round 1 (18:45)" tvg-logo="https://static.flashscore.com/res/image/data/6qPm8ajD-Q5eoRQvA.png" group-title="Eventi Live DLHD",Snooker | UK Championship | Round 1 (18:45)
+#EXTINF:-1 tvg-id="ukchampionshipround1" tvg-name="Snooker | UK Championship | Round 1 (18:45)" tvg-logo="https://www.infoandopinion.com/wp-content/uploads/2021/07/UK-Nations-Map-761x1024.png" group-title="Eventi Live DLHD",Snooker | UK Championship | Round 1 (18:45)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="worldcupwomencoppermountainslalomrun1" tvg-name="Alpine Ski | World Cup | Women Copper Mountain | Slalom | Run 1 (16:45)" tvg-logo="https://dcspotlight.com/wp-content/uploads/2015/10/NEW-HEADLINES-WORLD.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup | Women Copper Mountain | Slalom | Run 1 (16:45)
+#EXTINF:-1 tvg-id="worldcupwomencoppermountainslalomrun1" tvg-name="Alpine Ski | World Cup | Women Copper Mountain | Slalom | Run 1 (16:45)" tvg-logo="https://citybibleforum.org/sites/default/files/images/content/2021/World_image.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup | Women Copper Mountain | Slalom | Run 1 (16:45)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="worldcupwomencoppermountainslalomrun2" tvg-name="Alpine Ski | World Cup | Women Copper Mountain | Slalom | Run 2 (19:45)" tvg-logo="https://dcspotlight.com/wp-content/uploads/2015/10/NEW-HEADLINES-WORLD.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup | Women Copper Mountain | Slalom | Run 2 (19:45)
+#EXTINF:-1 tvg-id="worldcupwomencoppermountainslalomrun2" tvg-name="Alpine Ski | World Cup | Women Copper Mountain | Slalom | Run 2 (19:45)" tvg-logo="https://citybibleforum.org/sites/default/files/images/content/2021/World_image.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup | Women Copper Mountain | Slalom | Run 2 (19:45)
 https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="rukamensmassstartfreestyle20kmworldcup" tvg-name="Cross Country | Ruka | Men's Mass Start Freestyle 20km World Cup (09:00)" tvg-logo="https://images6.alphacoders.com/134/1345678.png" group-title="Eventi Live DLHD",Cross Country | Ruka | Men's Mass Start Freestyle 20km World Cup (09:00)
-https://dlhd.dad/watch.php?id=879
 
 #EXTINF:-1 tvg-id="uciworldcupflamanvilleeliteracewomen" tvg-name="Cycling | UCI World Cup Flamanville | Elite Race (Women) (12:30)" tvg-logo="https://www.theracecompanion.com/static/media/Hardline_Logo_Small.12e91ef430ac35614014.png" group-title="Eventi Live DLHD",Cycling | UCI World Cup Flamanville | Elite Race (Women) (12:30)
 https://dlhd.dad/watch.php?id=879
@@ -125,9 +122,9 @@ https://dlhd.dad/watch.php?id=879
 #EXTINF:-1 tvg-id="top14sectionpaloisevslarochelle" tvg-name="Rugby Union | Top 14 : Section Paloise vs La Rochelle (20:05)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Section Paloise_vs_La Rochelle.png" group-title="Eventi Live DLHD",Rugby Union | Top 14 : Section Paloise vs La Rochelle (20:05)
 https://dlhd.dad/watch.php?id=462
 
-#EXTINF:-1 tvg-id="italyseriea1womenmonvisovolleyvsvolleyvallefoglia" tvg-name="Volleyball | Italy, Serie A1, Women : Monviso Volley vs. Volley Vallefoglia (14:30)" tvg-logo="https://etruria.federvolley.it/images/M_images/Logo-versione-piccola-240x240.png" group-title="Eventi Live DLHD",Volleyball | Italy, Serie A1, Women : Monviso Volley vs. Volley Vallefoglia (14:30)
+#EXTINF:-1 tvg-id="italyseriea1womenmonvisovolleyvsvolleyvallefoglia" tvg-name="Volleyball | Italy, Serie A1, Women : Monviso Volley vs. Volley Vallefoglia (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Monviso Volley_vs_Volley Vallefoglia.png" group-title="Eventi Live DLHD",Volleyball | Italy, Serie A1, Women : Monviso Volley vs. Volley Vallefoglia (14:30)
 https://dlhd.dad/watch.php?id=882
 
-#EXTINF:-1 tvg-id="rukamenshs142worldcupday3" tvg-name="Winter Sports | Ruka | Men's HS 142 World Cup | Day 3 (12:00)" tvg-logo="https://images6.alphacoders.com/134/1345678.png" group-title="Eventi Live DLHD",Winter Sports | Ruka | Men's HS 142 World Cup | Day 3 (12:00)
+#EXTINF:-1 tvg-id="rukamenshs142worldcupday3" tvg-name="Winter Sports | Ruka | Men's HS 142 World Cup | Day 3 (12:00)" tvg-logo="https://mikucrossing.com/img/mikucrossing03/special_ticket/Ruka_transparent.png" group-title="Eventi Live DLHD",Winter Sports | Ruka | Men's HS 142 World Cup | Day 3 (12:00)
 https://dlhd.dad/watch.php?id=878
 
