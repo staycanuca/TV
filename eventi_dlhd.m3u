@@ -2,39 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyseriecvicenzavslecco" tvg-name="All Soccer Events | Italy - Serie C : Vicenza vs Lecco (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Vicenza_vs_Lecco.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Vicenza vs Lecco (13:30)
-https://dlhd.dad/watch.php?id=55
-
-#EXTINF:-1 tvg-id="italyseriecalcionevstrento" tvg-name="All Soccer Events | Italy - Serie C : Alcione vs Trento (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Alcione_vs_Trento.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Alcione vs Trento (13:30)
-https://dlhd.dad/watch.php?id=59
-
-#EXTINF:-1 tvg-id="italyseriecarezzovssambenedettese" tvg-name="All Soccer Events | Italy - Serie C : Arezzo vs Sambenedettese (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Arezzo_vs_Sambenedettese.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Arezzo vs Sambenedettese (13:30)
-https://dlhd.dad/watch.php?id=68
-
-#EXTINF:-1 tvg-id="italyseriectrapani1905vsmonopoli" tvg-name="All Soccer Events | Italy - Serie C : Trapani 1905 vs Monopoli (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Trapani 1905_vs_Monopoli.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Trapani 1905 vs Monopoli (13:30)
-https://dlhd.dad/watch.php?id=69
-
-#EXTINF:-1 tvg-id="italyseriecatalantaiivssiracusa" tvg-name="All Soccer Events | Italy - Serie C : Atalanta II vs Siracusa (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Atalanta II_vs_Siracusa.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Atalanta II vs Siracusa (13:30)
-https://dlhd.dad/watch.php?id=76
-
-#EXTINF:-1 tvg-id="italyseriecatalantaiivssiracusa" tvg-name="All Soccer Events | Italy - Serie C : Atalanta II vs Siracusa (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Atalanta II_vs_Siracusa.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Atalanta II vs Siracusa (13:30)
-https://dlhd.dad/watch.php?id=462
-
-#EXTINF:-1 tvg-id="italyseriecinteriivsprovercelli" tvg-name="All Soccer Events | Italy - Serie C : Inter II vs Pro Vercelli (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Inter II_vs_Pro Vercelli.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Inter II vs Pro Vercelli (13:30)
-https://dlhd.dad/watch.php?id=77
-
-#EXTINF:-1 tvg-id="italyserieapisavsinternazionale" tvg-name="All Soccer Events | Italy - Serie A : Pisa vs Internazionale (14:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pisa_vs_Internazionale.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Pisa vs Internazionale (14:00)
-https://dlhd.dad/watch.php?id=877
-
-#EXTINF:-1 tvg-id="englandpremierleaguewesthamunitedvsliverpool" tvg-name="All Soccer Events | England - Premier League : West Ham United vs Liverpool (14:05)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/West Ham United_vs_Liverpool.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : West Ham United vs Liverpool (14:05)
-https://dlhd.dad/watch.php?id=870
-
-#EXTINF:-1 tvg-id="englandpremierleagueastonvillavswolverhamptonwanderers" tvg-name="All Soccer Events | England - Premier League : Aston Villa vs Wolverhampton Wanderers (14:05)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Aston Villa_vs_Wolverhampton Wanderers.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Aston Villa vs Wolverhampton Wanderers (14:05)
-https://dlhd.dad/watch.php?id=6
-
-#EXTINF:-1 tvg-id="englandpremierleaguenottinghamforestvsbrightonamphovealbion" tvg-name="All Soccer Events | England - Premier League : Nottingham Forest vs Brighton &amp; Hove Albion (14:05)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Nottingham Forest_vs_Brighton &amp; Hove Albion.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Nottingham Forest vs Brighton &amp; Hove Albion (14:05)
-https://dlhd.dad/watch.php?id=7
-
 #EXTINF:-1 tvg-id="englandpremierleaguechelseavsarsenal" tvg-name="All Soccer Events | England - Premier League : Chelsea vs Arsenal (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Chelsea_vs_Arsenal.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Chelsea vs Arsenal (16:30)
 https://dlhd.dad/watch.php?id=462
 
@@ -77,26 +44,20 @@ https://dlhd.dad/watch.php?id=877
 #EXTINF:-1 tvg-id="franceligue1olympiquelyonnaisvsnantes" tvg-name="All Soccer Events | France - Ligue 1 : Olympique Lyonnais vs Nantes (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Olympique Lyonnais_vs_Nantes.png" group-title="Eventi Live DLHD",All Soccer Events | France - Ligue 1 : Olympique Lyonnais vs Nantes (19:45)
 https://dlhd.dad/watch.php?id=870
 
-#EXTINF:-1 tvg-id="formula1qatarairwaysqatargrandprixgrandprixsunday" tvg-name="Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Grand Prix Sunday (15:00)" tvg-logo="https://logospng.org/download/formula-1/formula-1-2048.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Grand Prix Sunday (15:00)
+#EXTINF:-1 tvg-id="formula1qatarairwaysqatargrandprixgrandprixsunday" tvg-name="Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Grand Prix Sunday (15:00)" tvg-logo="https://logolook.net/wp-content/uploads/2022/07/F1-Logo-history.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Grand Prix Sunday (15:00)
 https://dlhd.dad/watch.php?id=577
 
-#EXTINF:-1 tvg-id="formula1qatarairwaysqatargrandprixrace" tvg-name="Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Race (16:00)" tvg-logo="https://logospng.org/download/formula-1/formula-1-2048.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Race (16:00)
+#EXTINF:-1 tvg-id="formula1qatarairwaysqatargrandprixrace" tvg-name="Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Race (16:00)" tvg-logo="https://logolook.net/wp-content/uploads/2022/07/F1-Logo-history.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Race (16:00)
 https://dlhd.dad/watch.php?id=577
 
-#EXTINF:-1 tvg-id="ukchampionshipround1" tvg-name="Snooker | UK Championship | Round 1 (12:45)" tvg-logo="https://www.infoandopinion.com/wp-content/uploads/2021/07/UK-Nations-Map-761x1024.png" group-title="Eventi Live DLHD",Snooker | UK Championship | Round 1 (12:45)
+#EXTINF:-1 tvg-id="ukchampionshipround1" tvg-name="Snooker | UK Championship | Round 1 (18:45)" tvg-logo="https://www.worldtravelguide.net/wp-content/uploads/2017/04/Think-UK-England-London-533462679-TomasSereda-copy.jpg" group-title="Eventi Live DLHD",Snooker | UK Championship | Round 1 (18:45)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="ukchampionshipround1" tvg-name="Snooker | UK Championship | Round 1 (18:45)" tvg-logo="https://www.infoandopinion.com/wp-content/uploads/2021/07/UK-Nations-Map-761x1024.png" group-title="Eventi Live DLHD",Snooker | UK Championship | Round 1 (18:45)
-https://dlhd.dad/watch.php?id=879
-
-#EXTINF:-1 tvg-id="worldcupwomencoppermountainslalomrun1" tvg-name="Alpine Ski | World Cup | Women Copper Mountain | Slalom | Run 1 (16:45)" tvg-logo="https://miro.medium.com/max/2400/1*khBmQoTMMvHi4aHkzrVS7g.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup | Women Copper Mountain | Slalom | Run 1 (16:45)
+#EXTINF:-1 tvg-id="worldcupwomencoppermountainslalomrun1" tvg-name="Alpine Ski | World Cup | Women Copper Mountain | Slalom | Run 1 (16:45)" tvg-logo="https://www.worldatlas.com/r/w405/upload/f4/e0/49/shutterstock-1665254809.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup | Women Copper Mountain | Slalom | Run 1 (16:45)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="worldcupwomencoppermountainslalomrun2" tvg-name="Alpine Ski | World Cup | Women Copper Mountain | Slalom | Run 2 (19:45)" tvg-logo="https://miro.medium.com/max/2400/1*khBmQoTMMvHi4aHkzrVS7g.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup | Women Copper Mountain | Slalom | Run 2 (19:45)
+#EXTINF:-1 tvg-id="worldcupwomencoppermountainslalomrun2" tvg-name="Alpine Ski | World Cup | Women Copper Mountain | Slalom | Run 2 (19:45)" tvg-logo="https://www.worldatlas.com/r/w405/upload/f4/e0/49/shutterstock-1665254809.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup | Women Copper Mountain | Slalom | Run 2 (19:45)
 https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="uciworldcupflamanvilleeliteracewomen" tvg-name="Cycling | UCI World Cup Flamanville | Elite Race (Women) (12:30)" tvg-logo="https://www.theracecompanion.com/static/media/Hardline_Logo_Small.12e91ef430ac35614014.png" group-title="Eventi Live DLHD",Cycling | UCI World Cup Flamanville | Elite Race (Women) (12:30)
-https://dlhd.dad/watch.php?id=879
 
 #EXTINF:-1 tvg-id="top14sectionpaloisevslarochelle" tvg-name="Rugby Union | Top 14 : Section Paloise vs La Rochelle (20:05)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Section Paloise_vs_La Rochelle.png" group-title="Eventi Live DLHD",Rugby Union | Top 14 : Section Paloise vs La Rochelle (20:05)
 https://dlhd.dad/watch.php?id=462
