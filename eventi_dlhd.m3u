@@ -5,7 +5,7 @@ https://example.com.m3u8
 #EXTINF:-1 tvg-id="englandpremierleaguechelseavsarsenal" tvg-name="All Soccer Events | England - Premier League : Chelsea vs Arsenal (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Chelsea_vs_Arsenal.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Chelsea vs Arsenal (16:30)
 https://dlhd.dad/watch.php?id=462
 
-#EXTINF:-1 tvg-id="italyseriecdolomitibellunesivsgianaerminio" tvg-name="All Soccer Events | Italy - Serie C : Dolomiti Bellunesi vs Giana Erminio (16:30)" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Dolomiti Bellunesi vs Giana Erminio (16:30)
+#EXTINF:-1 tvg-id="italyseriecdolomitibellunesivsgianaerminio" tvg-name="All Soccer Events | Italy - Serie C : Dolomiti Bellunesi vs Giana Erminio (16:30)" tvg-logo="https://image.api.playstation.com/vulcan/ap/rnd/202309/0115/abaef775be2d78eb9090a70fbb0aab51b07b0f08b92a52da.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Dolomiti Bellunesi vs Giana Erminio (16:30)
 https://dlhd.dad/watch.php?id=59
 
 #EXTINF:-1 tvg-id="italyseriecpontederavsathleticcarpi" tvg-name="All Soccer Events | Italy - Serie C : Pontedera vs Athletic Carpi (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pontedera_vs_Athletic Carpi.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Pontedera vs Athletic Carpi (16:30)
@@ -44,24 +44,15 @@ https://dlhd.dad/watch.php?id=877
 #EXTINF:-1 tvg-id="franceligue1olympiquelyonnaisvsnantes" tvg-name="All Soccer Events | France - Ligue 1 : Olympique Lyonnais vs Nantes (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Olympique Lyonnais_vs_Nantes.png" group-title="Eventi Live DLHD",All Soccer Events | France - Ligue 1 : Olympique Lyonnais vs Nantes (19:45)
 https://dlhd.dad/watch.php?id=870
 
-#EXTINF:-1 tvg-id="formula1qatarairwaysqatargrandprixgrandprixsunday" tvg-name="Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Grand Prix Sunday (15:00)" tvg-logo="https://logolook.net/wp-content/uploads/2022/07/F1-Logo-history.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Grand Prix Sunday (15:00)
-https://dlhd.dad/watch.php?id=577
-
-#EXTINF:-1 tvg-id="formula1qatarairwaysqatargrandprixrace" tvg-name="Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Race (16:00)" tvg-logo="https://logolook.net/wp-content/uploads/2022/07/F1-Logo-history.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Race (16:00)
-https://dlhd.dad/watch.php?id=577
-
-#EXTINF:-1 tvg-id="ukchampionshipround1" tvg-name="Snooker | UK Championship | Round 1 (18:45)" tvg-logo="https://www.worldtravelguide.net/wp-content/uploads/2017/04/Think-UK-England-London-533462679-TomasSereda-copy.jpg" group-title="Eventi Live DLHD",Snooker | UK Championship | Round 1 (18:45)
+#EXTINF:-1 tvg-id="ukchampionshipround1" tvg-name="Snooker | UK Championship | Round 1 (18:45)" tvg-logo="https://c.files.bbci.co.uk/DA8E/production/_129805955_bbcm_united_kingdom_country_profile_map_220523.png" group-title="Eventi Live DLHD",Snooker | UK Championship | Round 1 (18:45)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="worldcupwomencoppermountainslalomrun1" tvg-name="Alpine Ski | World Cup | Women Copper Mountain | Slalom | Run 1 (16:45)" tvg-logo="https://www.worldatlas.com/r/w405/upload/f4/e0/49/shutterstock-1665254809.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup | Women Copper Mountain | Slalom | Run 1 (16:45)
+#EXTINF:-1 tvg-id="worldcupwomencoppermountainslalomrun1" tvg-name="Alpine Ski | World Cup | Women Copper Mountain | Slalom | Run 1 (16:45)" tvg-logo="https://miro.medium.com/max/2400/1*khBmQoTMMvHi4aHkzrVS7g.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup | Women Copper Mountain | Slalom | Run 1 (16:45)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="worldcupwomencoppermountainslalomrun2" tvg-name="Alpine Ski | World Cup | Women Copper Mountain | Slalom | Run 2 (19:45)" tvg-logo="https://www.worldatlas.com/r/w405/upload/f4/e0/49/shutterstock-1665254809.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup | Women Copper Mountain | Slalom | Run 2 (19:45)
+#EXTINF:-1 tvg-id="worldcupwomencoppermountainslalomrun2" tvg-name="Alpine Ski | World Cup | Women Copper Mountain | Slalom | Run 2 (19:45)" tvg-logo="https://miro.medium.com/max/2400/1*khBmQoTMMvHi4aHkzrVS7g.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup | Women Copper Mountain | Slalom | Run 2 (19:45)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="top14sectionpaloisevslarochelle" tvg-name="Rugby Union | Top 14 : Section Paloise vs La Rochelle (20:05)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Section Paloise_vs_La Rochelle.png" group-title="Eventi Live DLHD",Rugby Union | Top 14 : Section Paloise vs La Rochelle (20:05)
 https://dlhd.dad/watch.php?id=462
-
-#EXTINF:-1 tvg-id="italyseriea1womenmonvisovolleyvsvolleyvallefoglia" tvg-name="Volleyball | Italy, Serie A1, Women : Monviso Volley vs. Volley Vallefoglia (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Monviso Volley_vs_Volley Vallefoglia.png" group-title="Eventi Live DLHD",Volleyball | Italy, Serie A1, Women : Monviso Volley vs. Volley Vallefoglia (14:30)
-https://dlhd.dad/watch.php?id=882
 
