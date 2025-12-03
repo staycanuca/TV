@@ -2,21 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyserieccasertanavsatalantaii" tvg-name="All Soccer Events | Italy - Serie C : Casertana vs Atalanta II (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Casertana_vs_Atalanta II.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Casertana vs Atalanta II (16:30)
-https://daddyhd.com/watch.php?id=1
-
-#EXTINF:-1 tvg-id="italyserieccasertanavsatalantaii" tvg-name="All Soccer Events | Italy - Serie C : Casertana vs Atalanta II (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Casertana_vs_Atalanta II.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Casertana vs Atalanta II (16:30)
-https://daddyhd.com/watch.php?id=461
-
-#EXTINF:-1 tvg-id="italycoppaitalianapolivscagliari" tvg-name="All Soccer Events | Italy - Coppa Italia : Napoli vs Cagliari (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Napoli_vs_Cagliari.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Coppa Italia : Napoli vs Cagliari (17:00)
-https://daddyhd.com/watch.php?id=854
-
-#EXTINF:-1 tvg-id="italyseriecdolomitibellunesivsinterii" tvg-name="All Soccer Events | Italy - Serie C : Dolomiti Bellunesi vs Inter II (17:30)" tvg-logo="https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/1df69e50-2762-4c2a-8e66-8b57fc4f5f55/INTER+MNK+DFADV+JSYSS+MATCH+HM.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Dolomiti Bellunesi vs Inter II (17:30)
-https://daddyhd.com/watch.php?id=4
-
-#EXTINF:-1 tvg-id="italyseriecdolomitibellunesivsinterii" tvg-name="All Soccer Events | Italy - Serie C : Dolomiti Bellunesi vs Inter II (17:30)" tvg-logo="https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/1df69e50-2762-4c2a-8e66-8b57fc4f5f55/INTER+MNK+DFADV+JSYSS+MATCH+HM.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Dolomiti Bellunesi vs Inter II (17:30)
-https://daddyhd.com/watch.php?id=870
-
 #EXTINF:-1 tvg-id="englandpremierleaguewolverhamptonwanderersvsnottinghamforest" tvg-name="All Soccer Events | England - Premier League : Wolverhampton Wanderers vs Nottingham Forest (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Wolverhampton Wanderers_vs_Nottingham Forest.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Wolverhampton Wanderers vs Nottingham Forest (19:30)
 https://daddyhd.com/watch.php?id=8
 
@@ -46,7 +31,4 @@ https://daddyhd.com/watch.php?id=462
 
 #EXTINF:-1 tvg-id="seriea1vvmonzavsvolleycivitanova" tvg-name="Volleyball | Serie A1 : VV Monza vs. Volley Civitanova (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/VV Monza_vs_Volley Civitanova.png" group-title="Eventi Live DLHD",Volleyball | Serie A1 : VV Monza vs. Volley Civitanova (19:45)
 https://daddyhd.com/watch.php?id=882
-
-#EXTINF:-1 tvg-id="lenchampionsleaguejadranhnvsprorecco" tvg-name="Water polo | LEN Champions League : Jadran HN vs Pro Recco (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Jadran HN_vs_Pro Recco.png" group-title="Eventi Live DLHD",Water polo | LEN Champions League : Jadran HN vs Pro Recco (17:30)
-https://daddyhd.com/watch.php?id=460
 
