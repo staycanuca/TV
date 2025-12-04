@@ -60183,5 +60183,133 @@
       99
     ],
     "cached_at": "2025-12-03T06:24:17.577017"
+  },
+  "63929": {
+    "id": 63929,
+    "name": "마을 - 아치아라의 비밀",
+    "original_name": "마을 - 아치아라의 비밀",
+    "first_air_date": "2015-10-07",
+    "vote_average": 6.7,
+    "poster_path": "/1LYPqBtmRTqonRjV4dGP1cUXnYo.jpg",
+    "genre_ids": [
+      9648
+    ],
+    "cached_at": "2025-12-04T06:24:01.025308"
+  },
+  "65152": {
+    "id": 65152,
+    "name": "Degrassi: Next Class",
+    "original_name": "Degrassi: Next Class",
+    "first_air_date": "2016-01-04",
+    "vote_average": 6.842,
+    "poster_path": "/vSbSrFvnLkHeT7XGW68lEjcEaGG.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-12-04T06:24:01.104621"
+  },
+  "65368": {
+    "id": 65368,
+    "name": "Real Detective",
+    "original_name": "Real Detective",
+    "first_air_date": "2016-01-07",
+    "vote_average": 7.7,
+    "poster_path": "/4f7CCoRbrETYNvkShUFwoma3bEZ.jpg",
+    "genre_ids": [
+      18,
+      99,
+      80
+    ],
+    "cached_at": "2025-12-04T06:24:01.161609"
+  },
+  "64478": {
+    "id": 64478,
+    "name": "상상고양이",
+    "original_name": "상상고양이",
+    "first_air_date": "2015-11-24",
+    "vote_average": 2.4,
+    "poster_path": "/28pHvxhZZdbzhoMhGCM3ZrbK7nj.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "cached_at": "2025-12-04T06:24:01.225362"
+  },
+  "63161": {
+    "id": 63161,
+    "name": "Crazy Ex-Girlfriend",
+    "original_name": "Crazy Ex-Girlfriend",
+    "first_air_date": "2015-10-12",
+    "vote_average": 6.799,
+    "poster_path": "/pvYh3fdrRvreWmqw4onWJJmRXf5.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2025-12-04T06:24:01.236255"
+  },
+  "302171": {
+    "id": 302171,
+    "name": "My Untucked Life",
+    "original_name": "My Untucked Life",
+    "first_air_date": "2025-10-07",
+    "vote_average": 0.0,
+    "poster_path": "/ztJaRo1Wiys3zdMAYh4nzhhMnlJ.jpg",
+    "genre_ids": [
+      10764
+    ],
+    "cached_at": "2025-12-04T06:24:01.251033"
+  },
+  "64496": {
+    "id": 64496,
+    "name": "Saints & Strangers",
+    "original_name": "Saints & Strangers",
+    "first_air_date": "2015-11-22",
+    "vote_average": 6.4,
+    "poster_path": "/mhsaftBLNIQ5mcMgVhFtqc0ANYV.jpg",
+    "genre_ids": [
+      18,
+      10759
+    ],
+    "cached_at": "2025-12-04T06:24:01.307707"
+  },
+  "65153": {
+    "id": 65153,
+    "name": "Rebellion",
+    "original_name": "Rebellion",
+    "first_air_date": "2016-01-03",
+    "vote_average": 6.983,
+    "poster_path": "/c0BnaDnGZ5zucdyMPRtQZ96jqL0.jpg",
+    "genre_ids": [
+      10768,
+      18
+    ],
+    "cached_at": "2025-12-04T06:24:01.391958"
+  },
+  "64165": {
+    "id": 64165,
+    "name": "Chiami il mio agente!",
+    "original_name": "Dix pour cent",
+    "first_air_date": "2015-10-14",
+    "vote_average": 7.7,
+    "poster_path": "/1ipPwpGuSLyPPLIngl36MINw8Yy.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2025-12-04T06:24:01.451057"
+  },
+  "64249": {
+    "id": 64249,
+    "name": "Au service de la France",
+    "original_name": "Au service de la France",
+    "first_air_date": "2015-10-29",
+    "vote_average": 7.6,
+    "poster_path": "/7jq8mEHgkOq369vfGsOkoWu4QlZ.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-12-04T06:24:01.523742"
   }
 }

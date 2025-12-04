@@ -138183,5 +138183,418 @@
       10752
     ],
     "cached_at": "2025-12-03T06:24:12.972623"
+  },
+  "306964": {
+    "id": 306964,
+    "title": "Tales of Halloween",
+    "release_date": "2015-10-16",
+    "vote_average": 5.737,
+    "poster_path": "/oFGHqFaZnEklz8lbwyzXeOJGQbj.jpg",
+    "genre_ids": [
+      27,
+      53,
+      12,
+      35,
+      14
+    ],
+    "cached_at": "2025-12-04T06:23:55.907035"
+  },
+  "326425": {
+    "id": 326425,
+    "title": "Extraction",
+    "release_date": "2015-12-18",
+    "vote_average": 4.538,
+    "poster_path": "/lL3nzlwmcw7VmvqftF8wsrVWqEE.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "cached_at": "2025-12-04T06:23:55.912344"
+  },
+  "308453": {
+    "id": 308453,
+    "title": "The Bronze - Sono la numero 1",
+    "release_date": "2016-01-22",
+    "vote_average": 6.026,
+    "poster_path": "/kayRHjGZInSD6nGP3dvFsPpIuwS.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "cached_at": "2025-12-04T06:23:55.966888"
+  },
+  "364051": {
+    "id": 364051,
+    "title": "Agnus Dei",
+    "release_date": "2016-02-10",
+    "vote_average": 7.063,
+    "poster_path": "/mDlgrIQerzF6OU6hwHXstHCE2h3.jpg",
+    "genre_ids": [
+      18,
+      36
+    ],
+    "cached_at": "2025-12-04T06:23:55.966905"
+  },
+  "300693": {
+    "id": 300693,
+    "title": "Truth - Il prezzo della verità",
+    "release_date": "2015-10-16",
+    "vote_average": 6.543,
+    "poster_path": "/h1rO6dKCL3wIYw04RC82q5kCoTF.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-12-04T06:23:56.014267"
+  },
+  "253414": {
+    "id": 253414,
+    "title": "Rock the Kasbah",
+    "release_date": "2015-10-22",
+    "vote_average": 5.391,
+    "poster_path": "/vHXBpx2wBj79BXL16yqT9FDYaXm.jpg",
+    "genre_ids": [
+      35,
+      10402,
+      10752
+    ],
+    "cached_at": "2025-12-04T06:23:56.028213"
+  },
+  "324807": {
+    "id": 324807,
+    "title": "A Bigger Splash",
+    "release_date": "2015-11-26",
+    "vote_average": 6.163,
+    "poster_path": "/bS2C5AAQ7M8aN3mu7E0tzXUtNdz.jpg",
+    "genre_ids": [
+      18,
+      53,
+      10749
+    ],
+    "cached_at": "2025-12-04T06:23:56.036042"
+  },
+  "218784": {
+    "id": 218784,
+    "title": "Scherzi della natura",
+    "release_date": "2015-10-30",
+    "vote_average": 6.101,
+    "poster_path": "/qf4iaKHP4ntEAFLFbuh2mgF55QS.jpg",
+    "genre_ids": [
+      878,
+      35,
+      27
+    ],
+    "cached_at": "2025-12-04T06:23:56.084670"
+  },
+  "356842": {
+    "id": 356842,
+    "title": "I nuovi vicini",
+    "release_date": "2016-03-11",
+    "vote_average": 5.996,
+    "poster_path": "/qwhv2pmzQLWOxlMYEQzNEm7G6J1.jpg",
+    "genre_ids": [
+      53
+    ],
+    "cached_at": "2025-12-04T06:23:56.099398"
+  },
+  "309299": {
+    "id": 309299,
+    "title": "Experimenter",
+    "release_date": "2015-10-16",
+    "vote_average": 6.5,
+    "poster_path": "/kMTLGbekuHkpw4M8XKdN2d7n2aF.jpg",
+    "genre_ids": [
+      18,
+      36
+    ],
+    "cached_at": "2025-12-04T06:23:56.103844"
+  },
+  "277713": {
+    "id": 277713,
+    "title": "Sunset Song",
+    "release_date": "2015-12-04",
+    "vote_average": 6.2,
+    "poster_path": "/loBR4Qm16d0gtaCJ7T1gknMtK4f.jpg",
+    "genre_ids": [
+      18,
+      36
+    ],
+    "cached_at": "2025-12-04T06:23:56.153985"
+  },
+  "277710": {
+    "id": 277710,
+    "title": "Anesthesia",
+    "release_date": "2016-01-08",
+    "vote_average": 5.712,
+    "poster_path": "/1LmUPkTk7a57IiDd3MgZDsLhQiZ.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "cached_at": "2025-12-04T06:23:56.174732"
+  },
+  "333348": {
+    "id": 333348,
+    "title": "Natale all'improvviso",
+    "release_date": "2015-11-12",
+    "vote_average": 5.984,
+    "poster_path": "/fHglgh2stZWKrGkLLI0RHv8Dy1q.jpg",
+    "genre_ids": [
+      35,
+      10751,
+      18
+    ],
+    "cached_at": "2025-12-04T06:23:56.241978"
+  },
+  "320588": {
+    "id": 320588,
+    "title": "Hello, My Name Is Doris",
+    "release_date": "2015-11-27",
+    "vote_average": 6.388,
+    "poster_path": "/iYRpTDqZgA3rsRh4EIkWHsMjAKd.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "cached_at": "2025-12-04T06:23:56.244334"
+  },
+  "348678": {
+    "id": 348678,
+    "title": "Mr. Ove",
+    "release_date": "2015-12-25",
+    "vote_average": 7.604,
+    "poster_path": "/7T3dHuaaQWZUI5zQWegoS7VMdqQ.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2025-12-04T06:23:56.298616"
+  },
+  "381890": {
+    "id": 381890,
+    "title": "The Mermaid",
+    "release_date": "2016-02-08",
+    "vote_average": 6.551,
+    "poster_path": "/iUfIVi1mI9aEyiiJIdqfWehii2i.jpg",
+    "genre_ids": [
+      35,
+      14,
+      10749
+    ],
+    "cached_at": "2025-12-04T06:23:56.314414"
+  },
+  "318922": {
+    "id": 318922,
+    "title": "Kill Your Friends",
+    "release_date": "2015-11-06",
+    "vote_average": 6.072,
+    "poster_path": "/9XXXubXBoVFtdUWTQ3xGIr65jfl.jpg",
+    "genre_ids": [
+      35,
+      80,
+      53
+    ],
+    "cached_at": "2025-12-04T06:23:56.317557"
+  },
+  "363916": {
+    "id": 363916,
+    "title": "Høst",
+    "release_date": "2015-10-16",
+    "vote_average": 3.9,
+    "poster_path": "/zMgz4BX1svIpxMEepdF5aAn93m4.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2025-12-04T06:23:56.369915"
+  },
+  "352208": {
+    "id": 352208,
+    "title": "Where to Invade Next",
+    "release_date": "2015-12-23",
+    "vote_average": 7.2,
+    "poster_path": "/58gW2Uty2cAsgBgwC58vT2Z9SVt.jpg",
+    "genre_ids": [
+      99,
+      35
+    ],
+    "cached_at": "2025-12-04T06:23:56.384363"
+  },
+  "293970": {
+    "id": 293970,
+    "title": "The Final Girls",
+    "release_date": "2015-10-09",
+    "vote_average": 6.4,
+    "poster_path": "/8Ktafa5z6xcBg0Fys4hbtXhQJ7f.jpg",
+    "genre_ids": [
+      35,
+      27
+    ],
+    "cached_at": "2025-12-04T06:23:56.389168"
+  },
+  "1588237": {
+    "id": 1588237,
+    "title": "The Lost Chapter: Yuki's Revenge",
+    "release_date": "2025-12-05",
+    "vote_average": 8.5,
+    "poster_path": "/dOMsyboGMCVgG3PAidO5EQ9sFKl.jpg",
+    "genre_ids": [
+      28,
+      16,
+      14
+    ],
+    "cached_at": "2025-12-04T06:23:56.441068"
+  },
+  "372981": {
+    "id": 372981,
+    "title": "Marco Polo: One Hundred Eyes",
+    "release_date": "2015-12-26",
+    "vote_average": 7.323,
+    "poster_path": "/ppe606jyYyHYUJ0peKQfF93hsrV.jpg",
+    "genre_ids": [
+      28,
+      36,
+      18
+    ],
+    "cached_at": "2025-12-04T06:23:56.457914"
+  },
+  "334527": {
+    "id": 334527,
+    "title": "Criminal Activities",
+    "release_date": "2015-11-20",
+    "vote_average": 5.912,
+    "poster_path": "/i5vP4770Q9nT4JbHARlxrI3a4Cx.jpg",
+    "genre_ids": [
+      53,
+      80,
+      18
+    ],
+    "cached_at": "2025-12-04T06:23:56.527956"
+  },
+  "312831": {
+    "id": 312831,
+    "title": "The Hallow",
+    "release_date": "2015-11-06",
+    "vote_average": 5.7,
+    "poster_path": "/vsCQaMuTNxDfS70KoFeAw0pBIzG.jpg",
+    "genre_ids": [
+      14,
+      27
+    ],
+    "cached_at": "2025-12-04T06:23:56.530061"
+  },
+  "314385": {
+    "id": 314385,
+    "title": "By the Sea",
+    "release_date": "2015-11-12",
+    "vote_average": 5.531,
+    "poster_path": "/ayv5S3h9j7ewklU5VR02YNnxJBA.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2025-12-04T06:23:56.582277"
+  },
+  "362703": {
+    "id": 362703,
+    "title": "Diablo",
+    "release_date": "2016-01-08",
+    "vote_average": 4.894,
+    "poster_path": "/6uAVDyWhkXfaMo09hNpyqR0xkFp.jpg",
+    "genre_ids": [
+      28,
+      12,
+      53,
+      37
+    ],
+    "cached_at": "2025-12-04T06:23:56.598294"
+  },
+  "298584": {
+    "id": 298584,
+    "title": "Cabin Fever",
+    "release_date": "2016-02-12",
+    "vote_average": 4.7,
+    "poster_path": "/yJQLWoizC5zBjVk9dr2Qo1K1TCI.jpg",
+    "genre_ids": [
+      27
+    ],
+    "cached_at": "2025-12-04T06:23:56.601787"
+  },
+  "361931": {
+    "id": 361931,
+    "title": "Ronaldo",
+    "release_date": "2015-11-09",
+    "vote_average": 7.007,
+    "poster_path": "/qdr6Jx39KErvSeQFVREjxeEK4lk.jpg",
+    "genre_ids": [
+      99,
+      36
+    ],
+    "cached_at": "2025-12-04T06:23:56.655854"
+  },
+  "1261825": {
+    "id": 1261825,
+    "title": "Oh. What. Fun.",
+    "release_date": "2025-12-02",
+    "vote_average": 6.722,
+    "poster_path": "/qynCyBKCJUUcj4wo4PE2aQVvote.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-12-04T06:23:56.668747"
+  },
+  "245168": {
+    "id": 245168,
+    "title": "Suffragette",
+    "release_date": "2015-10-16",
+    "vote_average": 7.201,
+    "poster_path": "/vTOHqUXGZjqOteyPooF4Q4n1ke9.jpg",
+    "genre_ids": [
+      18,
+      36
+    ],
+    "cached_at": "2025-12-04T06:23:56.684102"
+  },
+  "386255": {
+    "id": 386255,
+    "title": "The Mildew from Planet Xonader",
+    "release_date": "2015-12-15",
+    "vote_average": 4.875,
+    "poster_path": "/oGFIWeBwmQOZplhSRqG0aFWWR5y.jpg",
+    "genre_ids": [
+      28,
+      27,
+      878
+    ],
+    "cached_at": "2025-12-04T06:23:56.747917"
+  },
+  "302528": {
+    "id": 302528,
+    "title": "Remember",
+    "release_date": "2015-10-23",
+    "vote_average": 7.347,
+    "poster_path": "/x496Ip0weJYfsEX23eNyzG4MjXV.jpg",
+    "genre_ids": [
+      18,
+      53,
+      9648
+    ],
+    "cached_at": "2025-12-04T06:23:56.748538"
+  },
+  "340357": {
+    "id": 340357,
+    "title": "Avril et le monde truqué",
+    "release_date": "2015-11-04",
+    "vote_average": 7.1,
+    "poster_path": "/8bTxUAoDhUGx2lL6KfcoiZNqepM.jpg",
+    "genre_ids": [
+      53,
+      12,
+      16,
+      35,
+      14,
+      878
+    ],
+    "cached_at": "2025-12-04T06:23:56.970564"
   }
 }
