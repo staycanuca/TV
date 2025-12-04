@@ -76,13 +76,6 @@ Con OMG Premium TV potrai sfruttare:
 - **EasyProxy**:  
   [EasyProxy](https://github.com/nzo66/EasyProxy)
 
-- **Mediaflow Proxy**:  
-  [mediaflow-proxy](https://github.com/nzo66/mediaflow-proxy)
-  
-- **Mediaflow Proxy Per HuggingFace**
-  
-  Usa questa repo ottimizzata: [HF-MFP](https://github.com/nzo66/HF-MFP)
-
 ---
 
 ## ⚙️ Vuoi Personalizzare la lista
