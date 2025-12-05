@@ -138596,5 +138596,385 @@
       878
     ],
     "cached_at": "2025-12-04T06:23:56.970564"
+  },
+  "311291": {
+    "id": 311291,
+    "title": "45 anni",
+    "release_date": "2015-05-29",
+    "vote_average": 6.6,
+    "poster_path": "/ryaxlTadcogDv5VyhRGFPp0cl4x.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2025-12-05T06:24:15.081212"
+  },
+  "346170": {
+    "id": 346170,
+    "title": "Il prescelto",
+    "release_date": "2015-07-23",
+    "vote_average": 4.311,
+    "poster_path": "/ntc1h25jQiz1twYFcg1zJ0gkTYF.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2025-12-05T06:24:15.136615"
+  },
+  "10317": {
+    "id": 10317,
+    "title": "All'ultimo voto",
+    "release_date": "2015-09-11",
+    "vote_average": 5.85,
+    "poster_path": "/kUjbZoKCsHIKUWmmGMC82RTqSgE.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2025-12-05T06:24:15.136630"
+  },
+  "295830": {
+    "id": 295830,
+    "title": "L'attacco dei giganti",
+    "release_date": "2015-08-01",
+    "vote_average": 6.1,
+    "poster_path": "/hQdsjMnSjB5IY1uMViG8B6HdiKn.jpg",
+    "genre_ids": [
+      27,
+      28,
+      878
+    ],
+    "cached_at": "2025-12-05T06:24:15.185989"
+  },
+  "1578631": {
+    "id": 1578631,
+    "title": "With Love, Meghan: Holiday Celebration",
+    "release_date": "2025-12-02",
+    "vote_average": 1.0,
+    "poster_path": "/9O5qbdyE67tzKfVt8UBu1U3nn6C.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-12-05T06:24:15.254752"
+  },
+  "319076": {
+    "id": 319076,
+    "title": "Listen to Me Marlon",
+    "release_date": "2015-07-29",
+    "vote_average": 7.5,
+    "poster_path": "/yhqIuN7VC5ZpBDyRnwyVRNR6CC3.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-12-05T06:24:15.274762"
+  },
+  "408866": {
+    "id": 408866,
+    "title": "RE:BORN",
+    "release_date": "2016-09-24",
+    "vote_average": 7.117,
+    "poster_path": "/fkIsBtjuf8q8hDQ9mxMEPzOYgPc.jpg",
+    "genre_ids": [
+      28,
+      80
+    ],
+    "cached_at": "2025-12-05T06:24:15.327976"
+  },
+  "290762": {
+    "id": 290762,
+    "title": "Miss You Already",
+    "release_date": "2015-09-12",
+    "vote_average": 7.4,
+    "poster_path": "/cvA686C7O8MwXhFIaql4ui6eR0p.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2025-12-05T06:24:15.345488"
+  },
+  "366506": {
+    "id": 366506,
+    "title": "Agoraphobia",
+    "release_date": "2015-10-01",
+    "vote_average": 4.447,
+    "poster_path": "/qLPawDUhdfcXYv2yYXQwIU3gvaT.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2025-12-05T06:24:15.353664"
+  },
+  "250124": {
+    "id": 250124,
+    "title": "Diario di una teenager",
+    "release_date": "2015-08-07",
+    "vote_average": 6.6,
+    "poster_path": "/bLdCdPlYlofA95Q8rhXGGUp60IT.jpg",
+    "genre_ids": [
+      18,
+      10749,
+      35
+    ],
+    "cached_at": "2025-12-05T06:24:15.397664"
+  },
+  "1441563": {
+    "id": 1441563,
+    "title": "My Secret Santa - Mia mamma è Babbo Natale!",
+    "release_date": "2025-12-02",
+    "vote_average": 6.583,
+    "poster_path": "/tpOAzBasKPsKwsUtPZOx1Mzuqq3.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2025-12-05T06:24:15.417137"
+  },
+  "309245": {
+    "id": 309245,
+    "title": "Mistress America",
+    "release_date": "2015-08-14",
+    "vote_average": 6.49,
+    "poster_path": "/1Y9rlzMIfzwjKI6eaCEV9J2eqfH.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-12-05T06:24:15.420827"
+  },
+  "393742": {
+    "id": 393742,
+    "title": "Houvast",
+    "release_date": "2016-04-16",
+    "vote_average": 5.6,
+    "poster_path": "/oY178ANKEWpDMMdugz7YNkccoeY.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-12-05T06:24:15.492605"
+  },
+  "310135": {
+    "id": 310135,
+    "title": "Turbo Kid",
+    "release_date": "2015-08-14",
+    "vote_average": 6.518,
+    "poster_path": "/ArUqADkwycYtNVuXSoSXVrdJ8iJ.jpg",
+    "genre_ids": [
+      28,
+      12,
+      35,
+      878
+    ],
+    "cached_at": "2025-12-05T06:24:15.556639"
+  },
+  "284674": {
+    "id": 284674,
+    "title": "Air - I custodi del risveglio",
+    "release_date": "2015-08-14",
+    "vote_average": 4.952,
+    "poster_path": "/vs7xGGYZltIZuLTcCgDp73tTJYn.jpg",
+    "genre_ids": [
+      878,
+      53
+    ],
+    "cached_at": "2025-12-05T06:24:15.564497"
+  },
+  "348689": {
+    "id": 348689,
+    "title": "Memories of the Sword",
+    "release_date": "2015-08-13",
+    "vote_average": 6.6,
+    "poster_path": "/6nMF5uCSLzOguWnp61wjcpqhK7t.jpg",
+    "genre_ids": [
+      18,
+      36,
+      28
+    ],
+    "cached_at": "2025-12-05T06:24:15.609240"
+  },
+  "306745": {
+    "id": 306745,
+    "title": "Freeheld - Amore, giustizia, uguaglianza",
+    "release_date": "2015-10-02",
+    "vote_average": 7.2,
+    "poster_path": "/jIJUIqvkutCnm182v5obfe9Ou33.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "cached_at": "2025-12-05T06:24:15.630496"
+  },
+  "655511": {
+    "id": 655511,
+    "title": "Wingmen: tre leggende del base jumping",
+    "release_date": "2015-07-16",
+    "vote_average": 8.0,
+    "poster_path": "/aM3iLTAUozxlRoefq8A6Jkt6Hne.jpg",
+    "genre_ids": [
+      99,
+      12
+    ],
+    "cached_at": "2025-12-05T06:24:15.632153"
+  },
+  "336050": {
+    "id": 336050,
+    "title": "Il figlio di Saul",
+    "release_date": "2015-06-11",
+    "vote_average": 7.1,
+    "poster_path": "/nHJneC2ZhAGluItDQzJCE04JU65.jpg",
+    "genre_ids": [
+      10752,
+      18,
+      53
+    ],
+    "cached_at": "2025-12-05T06:24:15.682340"
+  },
+  "254472": {
+    "id": 254472,
+    "title": "Stung",
+    "release_date": "2015-07-03",
+    "vote_average": 5.32,
+    "poster_path": "/xwZj0o0E9BVCIQYn23mOrH5PCEp.jpg",
+    "genre_ids": [
+      27,
+      35,
+      878
+    ],
+    "cached_at": "2025-12-05T06:24:15.699745"
+  },
+  "288036": {
+    "id": 288036,
+    "title": "SWOP - I sesso dipendenti",
+    "release_date": "2015-06-26",
+    "vote_average": 6.3,
+    "poster_path": "/joFIXA4auWSO30V7Iy4fNySDhDz.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2025-12-05T06:24:15.704966"
+  },
+  "271718": {
+    "id": 271718,
+    "title": "Un disastro di ragazza",
+    "release_date": "2015-07-17",
+    "vote_average": 5.8,
+    "poster_path": "/p2AlIzhtm6m0GTuuxy80rncBeNn.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2025-12-05T06:24:15.753737"
+  },
+  "327528": {
+    "id": 327528,
+    "title": "Born to Be Blue",
+    "release_date": "2015-09-13",
+    "vote_average": 6.5,
+    "poster_path": "/iEdh2CkSyDXBTAPlNS6uLF9yTTH.jpg",
+    "genre_ids": [
+      18,
+      10402
+    ],
+    "cached_at": "2025-12-05T06:24:15.773739"
+  },
+  "354251": {
+    "id": 354251,
+    "title": "Southbound - Autostrada per l'inferno",
+    "release_date": "2015-09-17",
+    "vote_average": 5.942,
+    "poster_path": "/5mWmxHUxbbFB8AfAooHZZJVTZgE.jpg",
+    "genre_ids": [
+      14,
+      53,
+      27,
+      878
+    ],
+    "cached_at": "2025-12-05T06:24:15.774961"
+  },
+  "291151": {
+    "id": 291151,
+    "title": "The Stranger",
+    "release_date": "2014-06-12",
+    "vote_average": 4.728,
+    "poster_path": "/knrfKrHeu1LmtiVHSEQc47RLsi3.jpg",
+    "genre_ids": [
+      53,
+      27,
+      9648
+    ],
+    "cached_at": "2025-12-05T06:24:15.847837"
+  },
+  "352161": {
+    "id": 352161,
+    "title": "Il clan",
+    "release_date": "2015-08-13",
+    "vote_average": 6.758,
+    "poster_path": "/ee3Aqqlm13cGFRNxpKTd1HW1DcT.jpg",
+    "genre_ids": [
+      18,
+      36,
+      80
+    ],
+    "cached_at": "2025-12-05T06:24:15.906921"
+  },
+  "359364": {
+    "id": 359364,
+    "title": "Human",
+    "release_date": "2015-09-12",
+    "vote_average": 8.5,
+    "poster_path": "/jVUEwgjET7Zhzx9xJTwihmd69BZ.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-12-05T06:24:15.920147"
+  },
+  "377275": {
+    "id": 377275,
+    "title": "Tutti gli uomini di Victoria",
+    "release_date": "2016-09-14",
+    "vote_average": 5.9,
+    "poster_path": "/nps1mPRJT5aZA653hwOF02c0ulK.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "cached_at": "2025-12-05T06:24:15.924812"
+  },
+  "331190": {
+    "id": 331190,
+    "title": "Captive",
+    "release_date": "2015-09-17",
+    "vote_average": 5.655,
+    "poster_path": "/rKOY6QwmnuZYPaMIvdmZQHjxDLI.jpg",
+    "genre_ids": [
+      80,
+      18,
+      53
+    ],
+    "cached_at": "2025-12-05T06:24:15.971492"
+  },
+  "346808": {
+    "id": 346808,
+    "title": "Momentum",
+    "release_date": "2015-10-15",
+    "vote_average": 5.658,
+    "poster_path": "/a8DJr4PgtymL4weiwbt6oY74FAX.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "cached_at": "2025-12-05T06:24:15.996411"
+  },
+  "362560": {
+    "id": 362560,
+    "title": "Landraub",
+    "release_date": "2015-09-18",
+    "vote_average": 7.0,
+    "poster_path": "/wk3HgXHhxhgIib5FrCFqQpeTq3z.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-12-05T06:24:16.061748"
   }
 }

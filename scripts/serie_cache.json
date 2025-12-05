@@ -60311,5 +60311,43 @@
       35
     ],
     "cached_at": "2025-12-04T06:24:01.523742"
+  },
+  "81241": {
+    "id": 81241,
+    "name": "Messaggi da Elsewhere",
+    "original_name": "Dispatches from Elsewhere",
+    "first_air_date": "2020-03-01",
+    "vote_average": 6.7,
+    "poster_path": "/zwcyJGQD4MtmMOVevbMUHPSn5AF.jpg",
+    "genre_ids": [
+      18,
+      9648
+    ],
+    "cached_at": "2025-12-05T06:24:21.495658"
+  },
+  "63246": {
+    "id": 63246,
+    "name": "당신을 주문합니다",
+    "original_name": "당신을 주문합니다",
+    "first_air_date": "2015-07-06",
+    "vote_average": 5.0,
+    "poster_path": "/kWvLd9adXngItG5yNaZG8NJYA62.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-12-05T06:24:21.566319"
+  },
+  "223300": {
+    "id": 223300,
+    "name": "The Abandons",
+    "original_name": "The Abandons",
+    "first_air_date": "2025-12-04",
+    "vote_average": 4.917,
+    "poster_path": "/rQRzdfc0IlyiwM5HdzHdSYag9FG.jpg",
+    "genre_ids": [
+      37,
+      18
+    ],
+    "cached_at": "2025-12-05T06:24:21.710129"
   }
 }
