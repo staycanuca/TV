@@ -2,46 +2,13 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="germanybundesligastuttgartvsbayernmünchen" tvg-name="All Soccer Events | Germany - Bundesliga : Stuttgart vs Bayern München (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Stuttgart_vs_Bayern München.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - Bundesliga : Stuttgart vs Bayern München (14:30)
-https://daddyhd.com/watch.php?id=462
-
-#EXTINF:-1 tvg-id="englandpremierleaguemanchestercityvssunderland" tvg-name="All Soccer Events | England - Premier League : Manchester City vs Sunderland (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Manchester City_vs_Sunderland.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Manchester City vs Sunderland (15:00)
-https://daddyhd.com/watch.php?id=870
-
-#EXTINF:-1 tvg-id="italyseriecbravscampobasso" tvg-name="All Soccer Events | Italy - Serie C : Bra vs Campobasso (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bra_vs_Campobasso.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Bra vs Campobasso (16:30)
-https://daddyhd.com/watch.php?id=22
-
-#EXTINF:-1 tvg-id="italyseriecbravscampobasso" tvg-name="All Soccer Events | Italy - Serie C : Bra vs Campobasso (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bra_vs_Campobasso.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Bra vs Campobasso (16:30)
-https://daddyhd.com/watch.php?id=462
-
-#EXTINF:-1 tvg-id="italyseriecgiuglianovsteamaltamura" tvg-name="All Soccer Events | Italy - Serie C : Giugliano vs Team Altamura (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Giugliano_vs_Team Altamura.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Giugliano vs Team Altamura (16:30)
-https://daddyhd.com/watch.php?id=169
-
-#EXTINF:-1 tvg-id="italyseriecgiuglianovsteamaltamura" tvg-name="All Soccer Events | Italy - Serie C : Giugliano vs Team Altamura (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Giugliano_vs_Team Altamura.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Giugliano vs Team Altamura (16:30)
-https://daddyhd.com/watch.php?id=870
-
-#EXTINF:-1 tvg-id="italyseriecgiuglianovsteamaltamura" tvg-name="All Soccer Events | Italy - Serie C : Giugliano vs Team Altamura (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Giugliano_vs_Team Altamura.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Giugliano vs Team Altamura (16:30)
-https://daddyhd.com/watch.php?id=460
-
-#EXTINF:-1 tvg-id="italyserieainternazionalevscomo" tvg-name="All Soccer Events | Italy - Serie A : Internazionale vs Como (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Internazionale_vs_Como.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Internazionale vs Como (17:00)
-https://daddyhd.com/watch.php?id=877
-
 #EXTINF:-1 tvg-id="italyserieahellasveronavsatalanta" tvg-name="All Soccer Events | Italy - Serie A : Hellas Verona vs Atalanta (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Hellas Verona_vs_Atalanta.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Hellas Verona vs Atalanta (19:45)
 https://daddyhd.com/watch.php?id=22
 
 #EXTINF:-1 tvg-id="italyserieahellasveronavsatalanta" tvg-name="All Soccer Events | Italy - Serie A : Hellas Verona vs Atalanta (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Hellas Verona_vs_Atalanta.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Hellas Verona vs Atalanta (19:45)
 https://daddyhd.com/watch.php?id=870
-
-#EXTINF:-1 tvg-id="formulaesaopaulorace" tvg-name="Motorsport | Formula E : Sao Paulo | Race (16:00)" tvg-logo="https://i.pinimg.com/originals/48/7a/cf/487acf60c75951c1de0116aa0fa7a4b6.png" group-title="Eventi Live DLHD",Motorsport | Formula E : Sao Paulo | Race (16:00)
-https://daddyhd.com/watch.php?id=879
-
-#EXTINF:-1 tvg-id="supergbeavercreekodermattmarcovsrogentinstefan" tvg-name="Alpine Ski | Super G, Beaver Creek : Odermatt, Marco vs. Rogentin, Stefan (17:15)" group-title="Eventi Live DLHD",Alpine Ski | Super G, Beaver Creek : Odermatt, Marco vs. Rogentin, Stefan (17:15)
-https://daddyhd.com/watch.php?id=878
 
 #EXTINF:-1 tvg-id="tremblantwomensgiantslalomworldcuprun2" tvg-name="Alpine Ski | Tremblant | Women's Giant Slalom World Cup | Run 2 (18:45)" tvg-logo="https://theluxuryvacationguide.com/wp-content/uploads/2017/08/tremblant-quebec-canada-13-1600x1200.jpg" group-title="Eventi Live DLHD",Alpine Ski | Tremblant | Women's Giant Slalom World Cup | Run 2 (18:45)
-https://daddyhd.com/watch.php?id=879
-
-#EXTINF:-1 tvg-id="mens10kmsprintcompetitionibuworldcupostersund" tvg-name="Biathlon | Men's 10 km Sprint Competition | IBU World Cup Ostersund (14:30)" tvg-logo="https://i.pinimg.com/originals/c2/d4/70/c2d470e0d0fef196cd31159fa7d64804.png" group-title="Eventi Live DLHD",Biathlon | Men's 10 km Sprint Competition | IBU World Cup Ostersund (14:30)
 https://daddyhd.com/watch.php?id=879
 
 #EXTINF:-1 tvg-id="solitudemixedrelayworldcup" tvg-name="Winter Sports | Solitude | Mixed Relay World Cup (20:00)" tvg-logo="https://framerusercontent.com/images/MeUTCoFjmc33B66XQVhbpNdmwW8.png" group-title="Eventi Live DLHD",Winter Sports | Solitude | Mixed Relay World Cup (20:00)
