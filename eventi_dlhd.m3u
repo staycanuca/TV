@@ -1,16 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
-https://example.com.m3u8
-
-#EXTINF:-1 tvg-id="italyserieahellasveronavsatalanta" tvg-name="All Soccer Events | Italy - Serie A : Hellas Verona vs Atalanta (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Hellas Verona_vs_Atalanta.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Hellas Verona vs Atalanta (19:45)
-https://daddyhd.com/watch.php?id=22
-
-#EXTINF:-1 tvg-id="italyserieahellasveronavsatalanta" tvg-name="All Soccer Events | Italy - Serie A : Hellas Verona vs Atalanta (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Hellas Verona_vs_Atalanta.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Hellas Verona vs Atalanta (19:45)
-https://daddyhd.com/watch.php?id=870
-
-#EXTINF:-1 tvg-id="tremblantwomensgiantslalomworldcuprun2" tvg-name="Alpine Ski | Tremblant | Women's Giant Slalom World Cup | Run 2 (18:45)" tvg-logo="https://theluxuryvacationguide.com/wp-content/uploads/2017/08/tremblant-quebec-canada-13-1600x1200.jpg" group-title="Eventi Live DLHD",Alpine Ski | Tremblant | Women's Giant Slalom World Cup | Run 2 (18:45)
-https://daddyhd.com/watch.php?id=879
-
-#EXTINF:-1 tvg-id="solitudemixedrelayworldcup" tvg-name="Winter Sports | Solitude | Mixed Relay World Cup (20:00)" tvg-logo="https://framerusercontent.com/images/MeUTCoFjmc33B66XQVhbpNdmwW8.png" group-title="Eventi Live DLHD",Winter Sports | Solitude | Mixed Relay World Cup (20:00)
-https://daddyhd.com/watch.php?id=878
-
