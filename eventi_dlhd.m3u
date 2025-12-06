@@ -2,9 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="germanybundesliga2paderbornvselversberg" tvg-name="All Soccer Events | Germany - Bundesliga 2 : Paderborn vs Elversberg (12:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Paderborn_vs_Elversberg.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - Bundesliga 2 : Paderborn vs Elversberg (12:00)
-https://daddyhd.com/watch.php?id=462
-
 #EXTINF:-1 tvg-id="englandpremierleagueastonvillavsarsenal" tvg-name="All Soccer Events | England - Premier League : Aston Villa vs Arsenal (12:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Aston Villa_vs_Arsenal.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Aston Villa vs Arsenal (12:30)
 https://daddyhd.com/watch.php?id=870
 
@@ -62,42 +59,27 @@ https://daddyhd.com/watch.php?id=22
 #EXTINF:-1 tvg-id="italyserieahellasveronavsatalanta" tvg-name="All Soccer Events | Italy - Serie A : Hellas Verona vs Atalanta (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Hellas Verona_vs_Atalanta.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Hellas Verona vs Atalanta (19:45)
 https://daddyhd.com/watch.php?id=870
 
-#EXTINF:-1 tvg-id="formula1etihadairwaysabudhabigppractice3" tvg-name="Motorsport | Formula 1 : Etihad Airways Abu Dhabi GP - Practice 3 (10:30)" tvg-logo="https://city-png.b-cdn.net/thumbnail/thumbnail_public/uploads/preview/formula-1-official-white-logo-hd-transparent-background-701751712229658jhzn4h9awp.png?v=2024071007" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Etihad Airways Abu Dhabi GP - Practice 3 (10:30)
+#EXTINF:-1 tvg-id="formula1etihadairwaysabudhabigpqualifying" tvg-name="Motorsport | Formula 1 : Etihad Airways Abu Dhabi GP - Qualifying (14:00)" tvg-logo="https://logolook.net/wp-content/uploads/2022/07/F1-Logo-history.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Etihad Airways Abu Dhabi GP - Qualifying (14:00)
 https://daddyhd.com/watch.php?id=577
 
-#EXTINF:-1 tvg-id="formula2abudhabisprintrace" tvg-name="Motorsport | Formula 2 : Abu Dhabi Sprint Race (12:15)" tvg-logo="https://i.pinimg.com/originals/48/7a/cf/487acf60c75951c1de0116aa0fa7a4b6.png" group-title="Eventi Live DLHD",Motorsport | Formula 2 : Abu Dhabi Sprint Race (12:15)
-https://daddyhd.com/watch.php?id=577
-
-#EXTINF:-1 tvg-id="formula1etihadairwaysabudhabigpqualifying" tvg-name="Motorsport | Formula 1 : Etihad Airways Abu Dhabi GP - Qualifying (14:00)" tvg-logo="https://city-png.b-cdn.net/thumbnail/thumbnail_public/uploads/preview/formula-1-official-white-logo-hd-transparent-background-701751712229658jhzn4h9awp.png?v=2024071007" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Etihad Airways Abu Dhabi GP - Qualifying (14:00)
-https://daddyhd.com/watch.php?id=577
-
-#EXTINF:-1 tvg-id="formulaesaopaulorace" tvg-name="Motorsport | Formula E : Sao Paulo | Race (16:00)" tvg-logo="https://i.pinimg.com/originals/48/7a/cf/487acf60c75951c1de0116aa0fa7a4b6.png" group-title="Eventi Live DLHD",Motorsport | Formula E : Sao Paulo | Race (16:00)
+#EXTINF:-1 tvg-id="formulaesaopaulorace" tvg-name="Motorsport | Formula E : Sao Paulo | Race (16:00)" tvg-logo="https://www.dtti.it/wp-content/uploads/2022/07/formula-1-logo-0.png" group-title="Eventi Live DLHD",Motorsport | Formula E : Sao Paulo | Race (16:00)
 https://daddyhd.com/watch.php?id=879
 
 #EXTINF:-1 tvg-id="supergbeavercreekodermattmarcovsrogentinstefan" tvg-name="Alpine Ski | Super G, Beaver Creek : Odermatt, Marco vs. Rogentin, Stefan (17:15)" group-title="Eventi Live DLHD",Alpine Ski | Super G, Beaver Creek : Odermatt, Marco vs. Rogentin, Stefan (17:15)
 https://daddyhd.com/watch.php?id=878
 
-#EXTINF:-1 tvg-id="tremblantwomensgiantslalomworldcuprun2" tvg-name="Alpine Ski | Tremblant | Women's Giant Slalom World Cup | Run 2 (18:45)" tvg-logo="https://theluxuryvacationguide.com/wp-content/uploads/2017/08/tremblant-quebec-canada-13-1600x1200.jpg" group-title="Eventi Live DLHD",Alpine Ski | Tremblant | Women's Giant Slalom World Cup | Run 2 (18:45)
+#EXTINF:-1 tvg-id="tremblantwomensgiantslalomworldcuprun2" tvg-name="Alpine Ski | Tremblant | Women's Giant Slalom World Cup | Run 2 (18:45)" tvg-logo="https://www.travelalerts.ca/wp-content/uploads/2017/11/ski.jpg" group-title="Eventi Live DLHD",Alpine Ski | Tremblant | Women's Giant Slalom World Cup | Run 2 (18:45)
 https://daddyhd.com/watch.php?id=879
 
-#EXTINF:-1 tvg-id="mens10kmsprintcompetitionibuworldcupostersund" tvg-name="Biathlon | Men's 10 km Sprint Competition | IBU World Cup Ostersund (14:30)" tvg-logo="https://menmagazine.com/wp-content/uploads/2023/11/NF.png" group-title="Eventi Live DLHD",Biathlon | Men's 10 km Sprint Competition | IBU World Cup Ostersund (14:30)
+#EXTINF:-1 tvg-id="mens10kmsprintcompetitionibuworldcupostersund" tvg-name="Biathlon | Men's 10 km Sprint Competition | IBU World Cup Ostersund (14:30)" tvg-logo="https://i.pinimg.com/originals/c8/55/91/c855911056662f96255400c6abe8e640.jpg" group-title="Eventi Live DLHD",Biathlon | Men's 10 km Sprint Competition | IBU World Cup Ostersund (14:30)
 https://daddyhd.com/watch.php?id=879
-
-#EXTINF:-1 tvg-id="trondheimmensskiathlonworldcup" tvg-name="Cross Country | Trondheim | Men's Skiathlon World Cup (10:00)" tvg-logo="https://www.pocruises.com/content/dam/po/inventory-assets/ports/TRD/TRD.jpg" group-title="Eventi Live DLHD",Cross Country | Trondheim | Men's Skiathlon World Cup (10:00)
-https://daddyhd.com/watch.php?id=878
 
 #EXTINF:-1 tvg-id="individualcompetitionwislahs134" tvg-name="Ski Jumping | Individual competition | Wisla HS134 (13:30)" tvg-logo="https://competitioncorner.net/file.aspx/mainFilesystem?Events%2frkp6njt87.png" group-title="Eventi Live DLHD",Ski Jumping | Individual competition | Wisla HS134 (13:30)
 https://daddyhd.com/watch.php?id=879
 
-#EXTINF:-1 tvg-id="trondheimmensmassstart10kmworldcup" tvg-name="Winter Sports | Trondheim | Men's Mass Start 10km World Cup (08:30)" tvg-logo="https://www.pocruises.com/content/dam/po/inventory-assets/ports/TRD/TRD.jpg" group-title="Eventi Live DLHD",Winter Sports | Trondheim | Men's Mass Start 10km World Cup (08:30)
+#EXTINF:-1 tvg-id="trondheimwomenshs102worldcupday2" tvg-name="Winter Sports | Trondheim | Women's HS 102 World Cup | Day 2 (13:40)" tvg-logo="https://gjenbruken.no/wp-content/uploads/2022/01/cropped-Gjenbruken_Social.png" group-title="Eventi Live DLHD",Winter Sports | Trondheim | Women's HS 102 World Cup | Day 2 (13:40)
 https://daddyhd.com/watch.php?id=878
 
-#EXTINF:-1 tvg-id="trondheimmensskiathlonworldcup" tvg-name="Winter Sports | Trondheim | Men's Skiathlon World Cup (10:00)" tvg-logo="https://www.pocruises.com/content/dam/po/inventory-assets/ports/TRD/TRD.jpg" group-title="Eventi Live DLHD",Winter Sports | Trondheim | Men's Skiathlon World Cup (10:00)
-https://daddyhd.com/watch.php?id=878
-
-#EXTINF:-1 tvg-id="trondheimwomenshs102worldcupday2" tvg-name="Winter Sports | Trondheim | Women's HS 102 World Cup | Day 2 (13:40)" tvg-logo="https://www.pocruises.com/content/dam/po/inventory-assets/ports/TRD/TRD.jpg" group-title="Eventi Live DLHD",Winter Sports | Trondheim | Women's HS 102 World Cup | Day 2 (13:40)
-https://daddyhd.com/watch.php?id=878
-
-#EXTINF:-1 tvg-id="solitudemixedrelayworldcup" tvg-name="Winter Sports | Solitude | Mixed Relay World Cup (20:00)" tvg-logo="https://www.ruahwoodsinstitute.org/wp-content/uploads/Solitude.png" group-title="Eventi Live DLHD",Winter Sports | Solitude | Mixed Relay World Cup (20:00)
+#EXTINF:-1 tvg-id="solitudemixedrelayworldcup" tvg-name="Winter Sports | Solitude | Mixed Relay World Cup (20:00)" tvg-logo="https://solitude.net/wp-content/uploads/2023/07/solitude-benefits-1024x434.png" group-title="Eventi Live DLHD",Winter Sports | Solitude | Mixed Relay World Cup (20:00)
 https://daddyhd.com/watch.php?id=878
 

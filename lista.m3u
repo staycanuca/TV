@@ -3,6 +3,8 @@
 https://vavoo.to/vavoo-iptv/play/160013981909ce6c338fef
 #EXTINF:-1 tvg-id="20mediasethd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Mediaset",20 MEDIASET (D)
 https://daddyhd.com/watch.php?id=857
+#EXTINF:-1 tvg-id="27.twentyseven.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/260px-Twentyseven_logo.svg.png" group-title="Mediaset",27 TWENTYSEVEN
+https://vavoo.to/vavoo-iptv/play/6087746837741766a74b3
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",8SKY CINEMA SUSPENSE (D)
 https://daddyhd.com/watch.php?id=868
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSdt3E_MmezXRKr7QOUEr0leEcErbaNGqbog&s" group-title="Altro",ALTO ADIGE TV
@@ -85,6 +87,10 @@ https://vavoo.to/vavoo-iptv/play/3802167244650eb7a51319
 https://vavoo.to/vavoo-iptv/play/355484191439d5194fc358
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini",DISCOVERY K2
 https://vavoo.to/vavoo-iptv/play/3037871903561253a95659
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari",DISCOVERY NOVE
+https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png" group-title="Film - Serie TV",DISNEY+ FILM
+https://vavoo.to/vavoo-iptv/play/1264775727d4145aa36927
 #EXTINF:-1 tvg-id="dmax.it" tvg-logo="https://cdn.cookielaw.org/logos/50417659-aa29-4f7f-b59d-f6e887deed53/a32be519-de41-40f4-abed-d2934ba6751b/9a44af24-5ca6-4098-aa95-594755bd7b2d/dmax_logo.png" group-title="Altro",DMAX
 https://vavoo.to/vavoo-iptv/play/3803638765756268d23edc
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/%C3%88_live_Brescia_logo.png" group-title="Altro",ELIVE TV BRESCIA
@@ -135,8 +141,6 @@ https://vavoo.to/vavoo-iptv/play/40604994550f228d5b9b59
 https://vavoo.to/vavoo-iptv/play/2116902817eb437d88bab6
 #EXTINF:-1 tvg-id="hgtv.it" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS" group-title="Altro",HGTV
 https://vavoo.to/vavoo-iptv/play/42489970292d2930202d0e
-#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
-https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.gruppoicaro.it/wp-content/uploads/2020/05/icarotv.png" group-title="Altro",ICARO TV
 https://vavoo.to/vavoo-iptv/play/2392139008947764078821
 #EXTINF:-1 tvg-id="iris.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS
@@ -245,8 +249,6 @@ https://vavoo.to/vavoo-iptv/play/2179822223e6f7fefa408e
 https://vavoo.to/vavoo-iptv/play/31633805432b7c33717323
 #EXTINF:-1 tvg-id="raigulp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-gulp-it.png" group-title="Rai",RAI GULP
 https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
-https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
 https://vavoo.to/vavoo-iptv/play/1925964148b9cb23cc2bce
 #EXTINF:-1 tvg-id="rainews24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Rai",RAI NEWS 24
@@ -273,6 +275,10 @@ https://vavoo.to/vavoo-iptv/play/441082840c9ecc6bf454e
 https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
 
 # NEWS
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN ACTION MOVIES
+https://vavoo.to/vavoo-iptv/play/30648111922089ed4a29cc
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN COMEDY MOVIES
+https://vavoo.to/vavoo-iptv/play/11093727783b90d83934c6
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN DRAMA
 https://vavoo.to/vavoo-iptv/play/209862439074120bb15132
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN FAMILY
@@ -331,6 +337,8 @@ https://vavoo.to/vavoo-iptv/play/11138532639c972f8c712f
 https://vavoo.to/vavoo-iptv/play/2002360508ebbced695f3c
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/senato-tv-it.png?raw=true" group-title="Altro",SENATO TV (2)
 https://vavoo.to/vavoo-iptv/play/28955495519a6e882c3db3
+#EXTINF:-1 tvg-id="sky.arte.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE
+https://vavoo.to/vavoo-iptv/play/1902695925283bcfc576b0
 #EXTINF:-1 tvg-id="sky.atlantic.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Film - Serie TV",SKY ATLANTIC
 https://vavoo.to/vavoo-iptv/play/1482866609814ff0b05ac7
 #EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film - Serie TV",SKY CINEMA ACTION
@@ -351,6 +359,8 @@ https://daddyhd.com/watch.php?id=862
 https://daddyhd.com/watch.php?id=867
 #EXTINF:-1 tvg-id="sky.cinema.due.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film - Serie TV",SKY CINEMA DUE
 https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174
+#EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA DUE +24
+https://vavoo.to/vavoo-iptv/play/1078650168cbe5484d34ad
 #EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA DUE +24 (D)
 https://daddyhd.com/watch.php?id=866
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY
@@ -407,8 +417,6 @@ https://daddyhd.com/watch.php?id=872
 https://daddyhd.com/watch.php?id=873
 #EXTINF:-1 tvg-id="sky.sport..254.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/2560px-Sky_Sport_-_Logo_2020.svg.png" group-title="Sport",SKY SPORT 254 (D)
 https://daddyhd.com/watch.php?id=874
-#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
-https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (D)
 https://daddyhd.com/watch.php?id=462
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",SKY SPORT BASKET (D)
@@ -455,10 +463,6 @@ https://vavoo.to/vavoo-iptv/play/32202484989ac14421915
 https://daddyhd.com/watch.php?id=881
 
 # RAI
-#EXTINF:-1 tvg-id="sportitalia.it" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport",SPORT ITALIA
-https://vavoo.to/vavoo-iptv/play/288173992763b00e6fdc82
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
-https://vavoo.to/vavoo-iptv/play/83094948658201829f87a
 #EXTINF:-1 tvg-id="supertennis.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport",SUPER TENNIS
 https://vavoo.to/vavoo-iptv/play/300937751365646200d097
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFBXh88zZx4IvyQKyYd5Hu2yeytO42zNQ4zA&s" group-title="Altro",SUPER TV ARISTANIS
@@ -468,7 +472,7 @@ https://vavoo.to/vavoo-iptv/play/2061826034c5ac3b5d7306
 #EXTINF:-1 tvg-id="super!.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/1024px-Super%21_logo_2021.svg.png" group-title="Bambini",SUPER!
 https://vavoo.to/vavoo-iptv/play/2900362153b8a056cb86c0
 
-# MEDIASET
+# FILM - SERIE TV
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_ebhZMV4eYibx6UpVDOt1KOlmhOPYBh0gKw&s" group-title="Altro",SUPERSIX LOMBARDIA
 https://vavoo.to/vavoo-iptv/play/8491244640295fc9ea282
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.abruzzi.tv/logo-abruzzi.png" group-title="Altro",TELE ABRUZZO
@@ -544,7 +548,7 @@ https://vavoo.to/vavoo-iptv/play/383554932681b8c3d5666a
 #EXTINF:-1 tvg-id="top.crime.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/top-crime-it.png" group-title="Mediaset",TOP CRIME
 https://vavoo.to/vavoo-iptv/play/3420407456fb80f4ceda0b
 
-# FILM - SERIE TV
+# DOCUMENTARI
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.trentinotv.it/images/resource/logo-trentino.png" group-title="Altro",TRENTINO TV (1)
 https://vavoo.to/vavoo-iptv/play/2764553737f817b6d4f583
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.trentinotv.it/images/resource/logo-trentino.png" group-title="Altro",TRENTINO TV (2)
@@ -594,13 +598,10 @@ https://vavoo.to/vavoo-iptv/play/201531251001a1e9936f4c
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg" group-title="Altro",WWE CHANNEL
 https://vavoo.to/vavoo-iptv/play/2989824407cb0184041b08
 
-# DOCUMENTARI
+# MEDIASET
 
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
-
-#EXTINF:-1 tvg-id="germanybundesliga2paderbornvselversberg" tvg-name="All Soccer Events | Germany - Bundesliga 2 : Paderborn vs Elversberg (12:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Paderborn_vs_Elversberg.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - Bundesliga 2 : Paderborn vs Elversberg (12:00)
-https://daddyhd.com/watch.php?id=462
 
 #EXTINF:-1 tvg-id="englandpremierleagueastonvillavsarsenal" tvg-name="All Soccer Events | England - Premier League : Aston Villa vs Arsenal (12:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Aston Villa_vs_Arsenal.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Aston Villa vs Arsenal (12:30)
 https://daddyhd.com/watch.php?id=870
@@ -659,43 +660,28 @@ https://daddyhd.com/watch.php?id=22
 #EXTINF:-1 tvg-id="italyserieahellasveronavsatalanta" tvg-name="All Soccer Events | Italy - Serie A : Hellas Verona vs Atalanta (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Hellas Verona_vs_Atalanta.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Hellas Verona vs Atalanta (19:45)
 https://daddyhd.com/watch.php?id=870
 
-#EXTINF:-1 tvg-id="formula1etihadairwaysabudhabigppractice3" tvg-name="Motorsport | Formula 1 : Etihad Airways Abu Dhabi GP - Practice 3 (10:30)" tvg-logo="https://city-png.b-cdn.net/thumbnail/thumbnail_public/uploads/preview/formula-1-official-white-logo-hd-transparent-background-701751712229658jhzn4h9awp.png?v=2024071007" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Etihad Airways Abu Dhabi GP - Practice 3 (10:30)
+#EXTINF:-1 tvg-id="formula1etihadairwaysabudhabigpqualifying" tvg-name="Motorsport | Formula 1 : Etihad Airways Abu Dhabi GP - Qualifying (14:00)" tvg-logo="https://logolook.net/wp-content/uploads/2022/07/F1-Logo-history.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Etihad Airways Abu Dhabi GP - Qualifying (14:00)
 https://daddyhd.com/watch.php?id=577
 
-#EXTINF:-1 tvg-id="formula2abudhabisprintrace" tvg-name="Motorsport | Formula 2 : Abu Dhabi Sprint Race (12:15)" tvg-logo="https://i.pinimg.com/originals/48/7a/cf/487acf60c75951c1de0116aa0fa7a4b6.png" group-title="Eventi Live DLHD",Motorsport | Formula 2 : Abu Dhabi Sprint Race (12:15)
-https://daddyhd.com/watch.php?id=577
-
-#EXTINF:-1 tvg-id="formula1etihadairwaysabudhabigpqualifying" tvg-name="Motorsport | Formula 1 : Etihad Airways Abu Dhabi GP - Qualifying (14:00)" tvg-logo="https://city-png.b-cdn.net/thumbnail/thumbnail_public/uploads/preview/formula-1-official-white-logo-hd-transparent-background-701751712229658jhzn4h9awp.png?v=2024071007" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Etihad Airways Abu Dhabi GP - Qualifying (14:00)
-https://daddyhd.com/watch.php?id=577
-
-#EXTINF:-1 tvg-id="formulaesaopaulorace" tvg-name="Motorsport | Formula E : Sao Paulo | Race (16:00)" tvg-logo="https://i.pinimg.com/originals/48/7a/cf/487acf60c75951c1de0116aa0fa7a4b6.png" group-title="Eventi Live DLHD",Motorsport | Formula E : Sao Paulo | Race (16:00)
+#EXTINF:-1 tvg-id="formulaesaopaulorace" tvg-name="Motorsport | Formula E : Sao Paulo | Race (16:00)" tvg-logo="https://www.dtti.it/wp-content/uploads/2022/07/formula-1-logo-0.png" group-title="Eventi Live DLHD",Motorsport | Formula E : Sao Paulo | Race (16:00)
 https://daddyhd.com/watch.php?id=879
 
 #EXTINF:-1 tvg-id="supergbeavercreekodermattmarcovsrogentinstefan" tvg-name="Alpine Ski | Super G, Beaver Creek : Odermatt, Marco vs. Rogentin, Stefan (17:15)" group-title="Eventi Live DLHD",Alpine Ski | Super G, Beaver Creek : Odermatt, Marco vs. Rogentin, Stefan (17:15)
 https://daddyhd.com/watch.php?id=878
 
-#EXTINF:-1 tvg-id="tremblantwomensgiantslalomworldcuprun2" tvg-name="Alpine Ski | Tremblant | Women's Giant Slalom World Cup | Run 2 (18:45)" tvg-logo="https://theluxuryvacationguide.com/wp-content/uploads/2017/08/tremblant-quebec-canada-13-1600x1200.jpg" group-title="Eventi Live DLHD",Alpine Ski | Tremblant | Women's Giant Slalom World Cup | Run 2 (18:45)
+#EXTINF:-1 tvg-id="tremblantwomensgiantslalomworldcuprun2" tvg-name="Alpine Ski | Tremblant | Women's Giant Slalom World Cup | Run 2 (18:45)" tvg-logo="https://www.travelalerts.ca/wp-content/uploads/2017/11/ski.jpg" group-title="Eventi Live DLHD",Alpine Ski | Tremblant | Women's Giant Slalom World Cup | Run 2 (18:45)
 https://daddyhd.com/watch.php?id=879
 
-#EXTINF:-1 tvg-id="mens10kmsprintcompetitionibuworldcupostersund" tvg-name="Biathlon | Men's 10 km Sprint Competition | IBU World Cup Ostersund (14:30)" tvg-logo="https://menmagazine.com/wp-content/uploads/2023/11/NF.png" group-title="Eventi Live DLHD",Biathlon | Men's 10 km Sprint Competition | IBU World Cup Ostersund (14:30)
+#EXTINF:-1 tvg-id="mens10kmsprintcompetitionibuworldcupostersund" tvg-name="Biathlon | Men's 10 km Sprint Competition | IBU World Cup Ostersund (14:30)" tvg-logo="https://i.pinimg.com/originals/c8/55/91/c855911056662f96255400c6abe8e640.jpg" group-title="Eventi Live DLHD",Biathlon | Men's 10 km Sprint Competition | IBU World Cup Ostersund (14:30)
 https://daddyhd.com/watch.php?id=879
-
-#EXTINF:-1 tvg-id="trondheimmensskiathlonworldcup" tvg-name="Cross Country | Trondheim | Men's Skiathlon World Cup (10:00)" tvg-logo="https://www.pocruises.com/content/dam/po/inventory-assets/ports/TRD/TRD.jpg" group-title="Eventi Live DLHD",Cross Country | Trondheim | Men's Skiathlon World Cup (10:00)
-https://daddyhd.com/watch.php?id=878
 
 #EXTINF:-1 tvg-id="individualcompetitionwislahs134" tvg-name="Ski Jumping | Individual competition | Wisla HS134 (13:30)" tvg-logo="https://competitioncorner.net/file.aspx/mainFilesystem?Events%2frkp6njt87.png" group-title="Eventi Live DLHD",Ski Jumping | Individual competition | Wisla HS134 (13:30)
 https://daddyhd.com/watch.php?id=879
 
-#EXTINF:-1 tvg-id="trondheimmensmassstart10kmworldcup" tvg-name="Winter Sports | Trondheim | Men's Mass Start 10km World Cup (08:30)" tvg-logo="https://www.pocruises.com/content/dam/po/inventory-assets/ports/TRD/TRD.jpg" group-title="Eventi Live DLHD",Winter Sports | Trondheim | Men's Mass Start 10km World Cup (08:30)
+#EXTINF:-1 tvg-id="trondheimwomenshs102worldcupday2" tvg-name="Winter Sports | Trondheim | Women's HS 102 World Cup | Day 2 (13:40)" tvg-logo="https://gjenbruken.no/wp-content/uploads/2022/01/cropped-Gjenbruken_Social.png" group-title="Eventi Live DLHD",Winter Sports | Trondheim | Women's HS 102 World Cup | Day 2 (13:40)
 https://daddyhd.com/watch.php?id=878
 
-#EXTINF:-1 tvg-id="trondheimmensskiathlonworldcup" tvg-name="Winter Sports | Trondheim | Men's Skiathlon World Cup (10:00)" tvg-logo="https://www.pocruises.com/content/dam/po/inventory-assets/ports/TRD/TRD.jpg" group-title="Eventi Live DLHD",Winter Sports | Trondheim | Men's Skiathlon World Cup (10:00)
-https://daddyhd.com/watch.php?id=878
-
-#EXTINF:-1 tvg-id="trondheimwomenshs102worldcupday2" tvg-name="Winter Sports | Trondheim | Women's HS 102 World Cup | Day 2 (13:40)" tvg-logo="https://www.pocruises.com/content/dam/po/inventory-assets/ports/TRD/TRD.jpg" group-title="Eventi Live DLHD",Winter Sports | Trondheim | Women's HS 102 World Cup | Day 2 (13:40)
-https://daddyhd.com/watch.php?id=878
-
-#EXTINF:-1 tvg-id="solitudemixedrelayworldcup" tvg-name="Winter Sports | Solitude | Mixed Relay World Cup (20:00)" tvg-logo="https://www.ruahwoodsinstitute.org/wp-content/uploads/Solitude.png" group-title="Eventi Live DLHD",Winter Sports | Solitude | Mixed Relay World Cup (20:00)
+#EXTINF:-1 tvg-id="solitudemixedrelayworldcup" tvg-name="Winter Sports | Solitude | Mixed Relay World Cup (20:00)" tvg-logo="https://solitude.net/wp-content/uploads/2023/07/solitude-benefits-1024x434.png" group-title="Eventi Live DLHD",Winter Sports | Solitude | Mixed Relay World Cup (20:00)
 https://daddyhd.com/watch.php?id=878
 
 
