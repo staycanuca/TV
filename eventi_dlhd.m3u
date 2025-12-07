@@ -2,37 +2,10 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyseriecnovaravsvicenza" tvg-name="All Soccer Events | Italy - Serie C : Novara vs Vicenza (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Novara_vs_Vicenza.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Novara vs Vicenza (13:30)
-https://daddyhd.com/watch.php?id=69
-
-#EXTINF:-1 tvg-id="italyseriecperugiavsternana" tvg-name="All Soccer Events | Italy - Serie C : Perugia vs Ternana (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Perugia_vs_Ternana.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Perugia vs Ternana (13:30)
-https://daddyhd.com/watch.php?id=16
-
-#EXTINF:-1 tvg-id="italyseriecsassaritorresvspineto" tvg-name="All Soccer Events | Italy - Serie C : Sassari Torres vs Pineto (13:30)" tvg-logo="https://www.pineto.com/img/slider/bg/b1_lunik_logo.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Sassari Torres vs Pineto (13:30)
-https://daddyhd.com/watch.php?id=76
-
-#EXTINF:-1 tvg-id="italyseriecsalernitanavstrapani1905" tvg-name="All Soccer Events | Italy - Serie C : Salernitana vs Trapani 1905 (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Salernitana_vs_Trapani 1905.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Salernitana vs Trapani 1905 (13:30)
-https://daddyhd.com/watch.php?id=77
-
-#EXTINF:-1 tvg-id="italyseriecsalernitanavstrapani1905" tvg-name="All Soccer Events | Italy - Serie C : Salernitana vs Trapani 1905 (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Salernitana_vs_Trapani 1905.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Salernitana vs Trapani 1905 (13:30)
-https://daddyhd.com/watch.php?id=870
-
-#EXTINF:-1 tvg-id="italyseriecmonopolivsatalantaii" tvg-name="All Soccer Events | Italy - Serie C : Monopoli vs Atalanta II (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Monopoli_vs_Atalanta II.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Monopoli vs Atalanta II (13:30)
-https://daddyhd.com/watch.php?id=86
-
-#EXTINF:-1 tvg-id="italyseriecunionbresciavslumezzane" tvg-name="All Soccer Events | Italy - Serie C : Union Brescia vs Lumezzane (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Union Brescia_vs_Lumezzane.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Union Brescia vs Lumezzane (13:30)
-https://daddyhd.com/watch.php?id=105
-
-#EXTINF:-1 tvg-id="englandpremierleaguebrightonamphovealbionvswesthamunited" tvg-name="All Soccer Events | England - Premier League : Brighton &amp; Hove Albion vs West Ham United (14:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Brighton &amp; Hove Albion_vs_West Ham United.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Brighton &amp; Hove Albion vs West Ham United (14:00)
-https://daddyhd.com/watch.php?id=462
-
-#EXTINF:-1 tvg-id="italyserieacagliarivsroma" tvg-name="All Soccer Events | Italy - Serie A : Cagliari vs Roma (14:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Cagliari_vs_Roma.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Cagliari vs Roma (14:00)
-https://daddyhd.com/watch.php?id=877
-
 #EXTINF:-1 tvg-id="germanybundesligahamburgersvvswerderbremen" tvg-name="All Soccer Events | Germany - Bundesliga : Hamburger SV vs Werder Bremen (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Hamburger SV_vs_Werder Bremen.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - Bundesliga : Hamburger SV vs Werder Bremen (14:30)
 https://daddyhd.com/watch.php?id=460
 
-#EXTINF:-1 tvg-id="italyseriecpropatriavsdolomitibellunesi" tvg-name="All Soccer Events | Italy - Serie C : Pro Patria vs Dolomiti Bellunesi (16:30)" tvg-logo="https://www.apple.com/newsroom/images/2023/09/apple-unveils-iphone-15-pro-and-iphone-15-pro-max/article/Apple-iPhone-15-Pro-lineup-color-lineup-geo-230912_big.jpg.large_2x.jpg" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Pro Patria vs Dolomiti Bellunesi (16:30)
+#EXTINF:-1 tvg-id="italyseriecpropatriavsdolomitibellunesi" tvg-name="All Soccer Events | Italy - Serie C : Pro Patria vs Dolomiti Bellunesi (16:30)" tvg-logo="https://static.androidplanet.nl/orca/products/26153/honor-400-pro.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Pro Patria vs Dolomiti Bellunesi (16:30)
 https://daddyhd.com/watch.php?id=76
 
 #EXTINF:-1 tvg-id="italyseriecravennavspontedera" tvg-name="All Soccer Events | Italy - Serie C : Ravenna vs Pontedera (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ravenna_vs_Pontedera.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Ravenna vs Pontedera (16:30)
@@ -68,29 +41,14 @@ https://daddyhd.com/watch.php?id=877
 #EXTINF:-1 tvg-id="franceligue1lorientvsolympiquelyonnais" tvg-name="All Soccer Events | France - Ligue 1 : Lorient vs Olympique Lyonnais (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lorient_vs_Olympique Lyonnais.png" group-title="Eventi Live DLHD",All Soccer Events | France - Ligue 1 : Lorient vs Olympique Lyonnais (19:45)
 https://daddyhd.com/watch.php?id=461
 
-#EXTINF:-1 tvg-id="formula1etihadairwaysabudhabigprace" tvg-name="Motorsport | Formula 1 : Etihad Airways Abu Dhabi GP - Race (13:00)" tvg-logo="https://logolook.net/wp-content/uploads/2022/07/F1-Logo-history.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Etihad Airways Abu Dhabi GP - Race (13:00)
-https://daddyhd.com/watch.php?id=577
-
-#EXTINF:-1 tvg-id="ukchampionshipfinal" tvg-name="Snooker | UK Championship | Final (12:30)" tvg-logo="https://www.classicalfinance.com/content/images/size/w1600/2022/09/mapof-theuk-1.png" group-title="Eventi Live DLHD",Snooker | UK Championship | Final (12:30)
-https://daddyhd.com/watch.php?id=878
-
 #EXTINF:-1 tvg-id="ukchampionshipfinal" tvg-name="Snooker | UK Championship | Final (18:45)" tvg-logo="https://www.classicalfinance.com/content/images/size/w1600/2022/09/mapof-theuk-1.png" group-title="Eventi Live DLHD",Snooker | UK Championship | Final (18:45)
 https://daddyhd.com/watch.php?id=878
 
-#EXTINF:-1 tvg-id="worldcupwomentremblantgiantslalomrun1" tvg-name="Alpine Ski | World Cup | Women Tremblant | Giant Slalom | Run 1 (14:45)" tvg-logo="https://www.worldatlas.com/r/w405/upload/f4/e0/49/shutterstock-1665254809.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup | Women Tremblant | Giant Slalom | Run 1 (14:45)
+#EXTINF:-1 tvg-id="worldcupwomentremblantgiantslalomrun1" tvg-name="Alpine Ski | World Cup | Women Tremblant | Giant Slalom | Run 1 (14:45)" tvg-logo="https://static.vecteezy.com/system/resources/previews/019/053/744/non_2x/world-globe-earth-map-png.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup | Women Tremblant | Giant Slalom | Run 1 (14:45)
 https://daddyhd.com/watch.php?id=879
 
-#EXTINF:-1 tvg-id="worldcupthemanbeavercreekgiantslalomrun2" tvg-name="Alpine Ski | World Cup | The Man Beaver Creek | Giant Slalom | Run 2 (19:45)" tvg-logo="https://www.worldatlas.com/r/w405/upload/f4/e0/49/shutterstock-1665254809.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup | The Man Beaver Creek | Giant Slalom | Run 2 (19:45)
+#EXTINF:-1 tvg-id="worldcupthemanbeavercreekgiantslalomrun2" tvg-name="Alpine Ski | World Cup | The Man Beaver Creek | Giant Slalom | Run 2 (19:45)" tvg-logo="https://static.vecteezy.com/system/resources/previews/019/053/744/non_2x/world-globe-earth-map-png.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup | The Man Beaver Creek | Giant Slalom | Run 2 (19:45)
 https://daddyhd.com/watch.php?id=879
-
-#EXTINF:-1 tvg-id="men125kmpursuitcompetitionibuworldcupostersund" tvg-name="Biathlon | Men 12.5 km Pursuit Competition | IBU World Cup Ostersund (14:10)" tvg-logo="https://menmagazine.com/wp-content/uploads/2023/11/NF.png" group-title="Eventi Live DLHD",Biathlon | Men 12.5 km Pursuit Competition | IBU World Cup Ostersund (14:10)
-https://daddyhd.com/watch.php?id=878
-
-#EXTINF:-1 tvg-id="ucicyclocrossworldcupterralbasardinia" tvg-name="Cycling | UCI Cyclo-Cross World Cup Terralba - Sardinia (12:30)" tvg-logo="https://www.sardiniasailingcup.it/wp-content/uploads/2024/07/cropped-SARDINIA-SAILING-CUP-2024-LOGO.png" group-title="Eventi Live DLHD",Cycling | UCI Cyclo-Cross World Cup Terralba - Sardinia (12:30)
-https://daddyhd.com/watch.php?id=879
-
-#EXTINF:-1 tvg-id="individualcompetitionwislahs134" tvg-name="Ski Jumping | Individual competition | Wisla HS134 (13:05)" tvg-logo="https://talking-english.net/wp-content/uploads/2022/09/nice.png" group-title="Eventi Live DLHD",Ski Jumping | Individual competition | Wisla HS134 (13:05)
-https://daddyhd.com/watch.php?id=878
 
 #EXTINF:-1 tvg-id="ismfworldcupsolitudesprinthf" tvg-name="Winter Sports | ISMF World Cup Solitude | Sprint (H/F) (19:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Winter Sports | ISMF World Cup Solitude | Sprint (H/F) (19:00)
 https://daddyhd.com/watch.php?id=878
