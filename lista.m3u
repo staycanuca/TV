@@ -139,6 +139,8 @@ https://vavoo.to/vavoo-iptv/play/40604994550f228d5b9b59
 https://vavoo.to/vavoo-iptv/play/2116902817eb437d88bab6
 #EXTINF:-1 tvg-id="hgtv.it" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS" group-title="Altro",HGTV
 https://vavoo.to/vavoo-iptv/play/42489970292d2930202d0e
+#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
+https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.gruppoicaro.it/wp-content/uploads/2020/05/icarotv.png" group-title="Altro",ICARO TV
 https://vavoo.to/vavoo-iptv/play/2392139008947764078821
 #EXTINF:-1 tvg-id="iris.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS
@@ -149,8 +151,12 @@ https://vavoo.to/vavoo-iptv/play/633342961994dc5083ad5
 https://daddyhd.com/watch.php?id=854
 
 # ALTRO
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3 (1)
+https://vavoo.to/vavoo-iptv/play/1565298794daace40d1b60
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3 (2)
 https://vavoo.to/vavoo-iptv/play/1200985239ceccd12c8a54
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.upmagazinearezzo.it/atladv/wp-content/uploads/2017/07/atlantide-adv-logo-italian-fishing-tv.jpg" group-title="Altro",ITALIAN FISHING TV
+https://vavoo.to/vavoo-iptv/play/477083716dc642d622f68
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Iunior_tv.png" group-title="Altro",IUNIOR TV
 https://vavoo.to/vavoo-iptv/play/803540254d5a6317673b3
 #EXTINF:-1 tvg-id="k2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini",K2
@@ -361,8 +367,6 @@ https://daddyhd.com/watch.php?id=866
 https://vavoo.to/vavoo-iptv/play/32165161175e13c1d3f56a
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY (D)
 https://daddyhd.com/watch.php?id=865
-#EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film - Serie TV",SKY CINEMA ROMANCE
-https://vavoo.to/vavoo-iptv/play/128126488561be9a87267f
 #EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film - Serie TV",SKY CINEMA ROMANCE (D)
 https://daddyhd.com/watch.php?id=864
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film - Serie TV",SKY CINEMA SUSPENSE
@@ -413,6 +417,8 @@ https://daddyhd.com/watch.php?id=872
 https://daddyhd.com/watch.php?id=873
 #EXTINF:-1 tvg-id="sky.sport..254.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/2560px-Sky_Sport_-_Logo_2020.svg.png" group-title="Sport",SKY SPORT 254 (D)
 https://daddyhd.com/watch.php?id=874
+#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
+https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (D)
 https://daddyhd.com/watch.php?id=462
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",SKY SPORT BASKET (D)
@@ -597,6 +603,57 @@ https://vavoo.to/vavoo-iptv/play/201531251001a1e9936f4c
 https://vavoo.to/vavoo-iptv/play/2989824407cb0184041b08
 
 # MEDIASET
+
+#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
+https://example.com.m3u8
+
+#EXTINF:-1 tvg-id="italyseriecalbinoleffevsospitaletto" tvg-name="Soccer | Italy - Serie C : AlbinoLeffe vs Ospitaletto (13:30)" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/08/Leffe-Logo-Vector.svg-.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : AlbinoLeffe vs Ospitaletto (13:30)
+https://daddyhd.com/watch.php?id=3
+
+#EXTINF:-1 tvg-id="italyseriecleccovsalcione" tvg-name="Soccer | Italy - Serie C : Lecco vs Alcione (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lecco_vs_Alcione.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Lecco vs Alcione (13:30)
+https://daddyhd.com/watch.php?id=4
+
+#EXTINF:-1 tvg-id="italyseriecvirtusveronavspergolettese" tvg-name="Soccer | Italy - Serie C : Virtus Verona vs Pergolettese (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Virtus Verona_vs_Pergolettese.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Virtus Verona vs Pergolettese (13:30)
+https://daddyhd.com/watch.php?id=5
+
+#EXTINF:-1 tvg-id="italyseriecvirtusveronavspergolettese" tvg-name="Soccer | Italy - Serie C : Virtus Verona vs Pergolettese (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Virtus Verona_vs_Pergolettese.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Virtus Verona vs Pergolettese (13:30)
+https://daddyhd.com/watch.php?id=462
+
+#EXTINF:-1 tvg-id="italyseriecascolivsforlì" tvg-name="Soccer | Italy - Serie C : Ascoli vs Forlì (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ascoli_vs_Forlì.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Ascoli vs Forlì (13:30)
+https://daddyhd.com/watch.php?id=6
+
+#EXTINF:-1 tvg-id="italyseriecathleticcarpivsvispesaro" tvg-name="Soccer | Italy - Serie C : Athletic Carpi vs Vis Pesaro (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Athletic Carpi_vs_Vis Pesaro.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Athletic Carpi vs Vis Pesaro (13:30)
+https://daddyhd.com/watch.php?id=7
+
+#EXTINF:-1 tvg-id="italyseriecgianaerminiovstriestina" tvg-name="Soccer | Italy - Serie C : Giana Erminio vs Triestina (14:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Giana Erminio_vs_Triestina.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Giana Erminio vs Triestina (14:00)
+https://daddyhd.com/watch.php?id=8
+
+#EXTINF:-1 tvg-id="italyseriecgianaerminiovstriestina" tvg-name="Soccer | Italy - Serie C : Giana Erminio vs Triestina (14:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Giana Erminio_vs_Triestina.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Giana Erminio vs Triestina (14:00)
+https://daddyhd.com/watch.php?id=460
+
+#EXTINF:-1 tvg-id="italyserieapisavsparma" tvg-name="Soccer | Italy - Serie A : Pisa vs Parma (14:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pisa_vs_Parma.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Pisa vs Parma (14:00)
+https://daddyhd.com/watch.php?id=877
+
+#EXTINF:-1 tvg-id="italyserieaudinesevsgenoa" tvg-name="Soccer | Italy - Serie A : Udinese vs Genoa (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Udinese_vs_Genoa.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Udinese vs Genoa (17:00)
+https://daddyhd.com/watch.php?id=877
+
+#EXTINF:-1 tvg-id="italyserieatorinovsmilan" tvg-name="Soccer | Italy - Serie A : Torino vs Milan (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Torino_vs_Milan.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Torino vs Milan (19:45)
+https://daddyhd.com/watch.php?id=6
+
+#EXTINF:-1 tvg-id="italyserieatorinovsmilan" tvg-name="Soccer | Italy - Serie A : Torino vs Milan (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Torino_vs_Milan.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Torino vs Milan (19:45)
+https://daddyhd.com/watch.php?id=870
+
+#EXTINF:-1 tvg-id="englandpremierleaguewolverhamptonwanderersvsmanchesterunited" tvg-name="Soccer | England - Premier League : Wolverhampton Wanderers vs Manchester United (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Wolverhampton Wanderers_vs_Manchester United.png" group-title="Eventi Live DLHD",Soccer | England - Premier League : Wolverhampton Wanderers vs Manchester United (20:00)
+https://daddyhd.com/watch.php?id=462
+
+#EXTINF:-1 tvg-id="italyseriea2pallacanestro2015forlivsaspistoiabasket2000" tvg-name="Basketball | Italy, Serie A2 : Pallacanestro 2.015 Forli vs. AS Pistoia Basket 2000 (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pallacanestro 2.015 Forli_vs_AS Pistoia Basket 2000.png" group-title="Eventi Live DLHD",Basketball | Italy, Serie A2 : Pallacanestro 2.015 Forli vs. AS Pistoia Basket 2000 (19:45)
+https://daddyhd.com/watch.php?id=882
+
+#EXTINF:-1 tvg-id="italysuperlegapallavolopadovavsvvmonza" tvg-name="Volleyball | Italy, SuperLega : Pallavolo Padova vs. VV Monza (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pallavolo Padova_vs_VV Monza.png" group-title="Eventi Live DLHD",Volleyball | Italy, SuperLega : Pallavolo Padova vs. VV Monza (16:30)
+https://daddyhd.com/watch.php?id=882
+
+#EXTINF:-1 tvg-id="handmogulsworldcupwomenmenday2" tvg-name="Winter Sports | Hand | Moguls World Cup | Women Men | Day 2 (14:20)" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/207/325/original/open-the-palm-of-the-hand-isolated-png.png" group-title="Eventi Live DLHD",Winter Sports | Hand | Moguls World Cup | Women Men | Day 2 (14:20)
+https://daddyhd.com/watch.php?id=878
 
 
 #EXTINF:-1 group-title="Eventi Live SPORTSONLINE",Juventus x Udinese 21:00
