@@ -1,16 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
-https://example.com.m3u8
-
-#EXTINF:-1 tvg-id="italyserieatorinovsmilan" tvg-name="Soccer | Italy - Serie A : Torino vs Milan (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Torino_vs_Milan.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Torino vs Milan (19:45)
-https://daddyhd.com/watch.php?id=6
-
-#EXTINF:-1 tvg-id="italyserieatorinovsmilan" tvg-name="Soccer | Italy - Serie A : Torino vs Milan (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Torino_vs_Milan.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Torino vs Milan (19:45)
-https://daddyhd.com/watch.php?id=870
-
-#EXTINF:-1 tvg-id="englandpremierleaguewolverhamptonwanderersvsmanchesterunited" tvg-name="Soccer | England - Premier League : Wolverhampton Wanderers vs Manchester United (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Wolverhampton Wanderers_vs_Manchester United.png" group-title="Eventi Live DLHD",Soccer | England - Premier League : Wolverhampton Wanderers vs Manchester United (20:00)
-https://daddyhd.com/watch.php?id=462
-
-#EXTINF:-1 tvg-id="italyseriea2pallacanestro2015forlivsaspistoiabasket2000" tvg-name="Basketball | Italy, Serie A2 : Pallacanestro 2.015 Forli vs. AS Pistoia Basket 2000 (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pallacanestro 2.015 Forli_vs_AS Pistoia Basket 2000.png" group-title="Eventi Live DLHD",Basketball | Italy, Serie A2 : Pallacanestro 2.015 Forli vs. AS Pistoia Basket 2000 (19:45)
-https://daddyhd.com/watch.php?id=882
-
