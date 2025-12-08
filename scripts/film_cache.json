@@ -139564,5 +139564,208 @@
       99
     ],
     "cached_at": "2025-12-07T06:20:56.803589"
+  },
+  "226458": {
+    "id": 226458,
+    "title": "Exeter",
+    "release_date": "2015-01-16",
+    "vote_average": 4.732,
+    "poster_path": "/AwhFI88HW2BE62E6kEsTGPliZKB.jpg",
+    "genre_ids": [
+      53,
+      27
+    ],
+    "cached_at": "2025-12-08T06:26:24.458348"
+  },
+  "288158": {
+    "id": 288158,
+    "title": "L'angelo della morte",
+    "release_date": "2014-12-30",
+    "vote_average": 5.252,
+    "poster_path": "/99FwjOZffGXhApREYm0YrpXElRg.jpg",
+    "genre_ids": [
+      53,
+      27,
+      18
+    ],
+    "cached_at": "2025-12-08T06:26:24.472777"
+  },
+  "300706": {
+    "id": 300706,
+    "title": "Let's Kill Ward's Wife",
+    "release_date": "2014-12-23",
+    "vote_average": 5.5,
+    "poster_path": "/A6jwjS9mS4qBzhaA6ob4PUd9PJ0.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-12-08T06:26:24.504724"
+  },
+  "290764": {
+    "id": 290764,
+    "title": "Tracers",
+    "release_date": "2015-01-15",
+    "vote_average": 6.032,
+    "poster_path": "/2XoazCkD4gRlqkJK7q6TOTUx1ta.jpg",
+    "genre_ids": [
+      28
+    ],
+    "cached_at": "2025-12-08T06:26:24.526096"
+  },
+  "299847": {
+    "id": 299847,
+    "title": "Confusi e felici",
+    "release_date": "2014-10-30",
+    "vote_average": 6.138,
+    "poster_path": "/5xDDVnfrSDTMXgdnH5m9kY8qE09.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-12-08T06:26:24.574463"
+  },
+  "9587": {
+    "id": 9587,
+    "title": "Piccole donne",
+    "release_date": "1994-12-21",
+    "vote_average": 7.279,
+    "poster_path": "/ofmpUgBctH3Y7p5s9GNExTcURSC.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2025-12-08T06:26:24.598460"
+  },
+  "313108": {
+    "id": 313108,
+    "title": "Ode to My Father",
+    "release_date": "2014-12-17",
+    "vote_average": 7.461,
+    "poster_path": "/rmZ4qkpDVdTgjwliJ84aJ43hStt.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-12-08T06:26:24.616590"
+  },
+  "68737": {
+    "id": 68737,
+    "title": "Il settimo figlio",
+    "release_date": "2014-12-12",
+    "vote_average": 5.519,
+    "poster_path": "/cD21yBSmwKhrTM5G232V0YcwAHS.jpg",
+    "genre_ids": [
+      12,
+      14
+    ],
+    "cached_at": "2025-12-08T06:26:24.687834"
+  },
+  "203834": {
+    "id": 203834,
+    "title": "Oscure presenze",
+    "release_date": "2014-11-07",
+    "vote_average": 5.428,
+    "poster_path": "/a7z2W22EgxzeU4umOX8ijuPoK9g.jpg",
+    "genre_ids": [
+      53,
+      27
+    ],
+    "cached_at": "2025-12-08T06:26:24.716835"
+  },
+  "302828": {
+    "id": 302828,
+    "title": "Against the Sun",
+    "release_date": "2014-11-22",
+    "vote_average": 7.0,
+    "poster_path": "/dFtfIBvdJP0kvNnL7tJv3MA8tnr.jpg",
+    "genre_ids": [
+      10752,
+      12
+    ],
+    "cached_at": "2025-12-08T06:26:24.741050"
+  },
+  "282069": {
+    "id": 282069,
+    "title": "Parasyte: Parte 1",
+    "release_date": "2014-11-29",
+    "vote_average": 7.1,
+    "poster_path": "/wtoY42w17HExDkjIMj9IGLbhMRC.jpg",
+    "genre_ids": [
+      878,
+      27,
+      28,
+      18
+    ],
+    "cached_at": "2025-12-08T06:26:24.761061"
+  },
+  "11812": {
+    "id": 11812,
+    "title": "La cosa più dolce...",
+    "release_date": "2002-04-12",
+    "vote_average": 5.595,
+    "poster_path": "/vHYcnzg3MXdKakHWzIXNt8aGRtd.jpg",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "cached_at": "2025-12-08T06:26:24.812233"
+  },
+  "9574": {
+    "id": 9574,
+    "title": "Flubber - Un professore fra le nuvole",
+    "release_date": "1997-11-26",
+    "vote_average": 5.661,
+    "poster_path": "/g3mxcBpp7NDRO1gtdl0Nv1BolJq.jpg",
+    "genre_ids": [
+      35,
+      10751,
+      878
+    ],
+    "cached_at": "2025-12-08T06:26:24.827455"
+  },
+  "318044": {
+    "id": 318044,
+    "title": "What Happened, Miss Simone?",
+    "release_date": "2015-01-22",
+    "vote_average": 7.399,
+    "poster_path": "/8XpM91NVq6IyCnDkiWf4xjHpewK.jpg",
+    "genre_ids": [
+      10402,
+      99
+    ],
+    "cached_at": "2025-12-08T06:26:24.957049"
+  },
+  "264337": {
+    "id": 264337,
+    "title": "Spare Parts",
+    "release_date": "2015-01-16",
+    "vote_average": 7.221,
+    "poster_path": "/r2bMAt51027Pm3sjvfDuRXs9IHW.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-12-08T06:26:25.034522"
+  },
+  "305932": {
+    "id": 305932,
+    "title": "Expelled",
+    "release_date": "2014-12-12",
+    "vote_average": 5.793,
+    "poster_path": "/9p7VzMhvchlA4WdpgAXBnFg7l2I.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-12-08T06:26:25.172899"
+  },
+  "276908": {
+    "id": 276908,
+    "title": "Comet",
+    "release_date": "2014-12-05",
+    "vote_average": 6.663,
+    "poster_path": "/4zOOSa5zyJDvqDDKFwUQVMK6eDe.jpg",
+    "genre_ids": [
+      878,
+      35,
+      10749
+    ],
+    "cached_at": "2025-12-08T06:26:25.243097"
   }
 }

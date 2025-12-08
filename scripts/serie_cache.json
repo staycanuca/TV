@@ -60517,5 +60517,59 @@
       10759
     ],
     "cached_at": "2025-12-07T06:21:01.907876"
+  },
+  "281005": {
+    "id": 281005,
+    "name": "경도를 기다리며",
+    "original_name": "경도를 기다리며",
+    "first_air_date": "2025-12-06",
+    "vote_average": 0.0,
+    "poster_path": "/pkEq1AhKKkUzYomIw5hhz4exWFv.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-12-08T06:26:30.323428"
+  },
+  "284744": {
+    "id": 284744,
+    "name": "프로보노",
+    "original_name": "프로보노",
+    "first_air_date": "2025-12-06",
+    "vote_average": 6.0,
+    "poster_path": "/sNGKN7Nvdi85gj75pnSvqzMF3MC.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2025-12-08T06:26:30.393058"
+  },
+  "61174": {
+    "id": 61174,
+    "name": "Bee e PuppyCat",
+    "original_name": "Bee and PuppyCat",
+    "first_air_date": "2014-11-06",
+    "vote_average": 8.2,
+    "poster_path": "/2qwIq9Dqceine5TPwf50iQdqL3G.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10765,
+      10751
+    ],
+    "cached_at": "2025-12-08T06:26:30.431693"
+  },
+  "81425": {
+    "id": 81425,
+    "name": "Talking Tom and Friends",
+    "original_name": "Talking Tom and Friends",
+    "first_air_date": "2014-12-23",
+    "vote_average": 7.1,
+    "poster_path": "/u6We7ht3z8bSIaUF8P7DEwopOPi.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10762
+    ],
+    "cached_at": "2025-12-08T06:26:30.452613"
   }
 }
