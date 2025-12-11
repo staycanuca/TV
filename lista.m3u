@@ -13,8 +13,6 @@ https://vavoo.to/vavoo-iptv/play/68845853044f9c95e43e
 https://vavoo.to/vavoo-iptv/play/190887752614ef25f5e1fd
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.omceo.bg.it/images/loghi/antenna-2.png" group-title="Altro",ANTENNA 2
 https://vavoo.to/vavoo-iptv/play/30140012609b4bf5e8d3b7
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",ANTENNA SICILIA
-https://vavoo.to/vavoo-iptv/play/3309975829c0cd274e96f4
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.antennasud.com/media/2022/08/cropped-LOGO_ANTENNA_SUD_ROSSO_FORATO.png" group-title="Altro",ANTENNA SUD
 https://vavoo.to/vavoo-iptv/play/4084059868fd82d62442e9
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.arte.tv/sites/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png" group-title="Documentari",ARTE NETWORK
@@ -77,10 +75,10 @@ https://vavoo.to/vavoo-iptv/play/12254846645cb5a95a1f30
 https://vavoo.to/vavoo-iptv/play/4137427510ef362e6435fc
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",CRIME + INV
 https://vavoo.to/vavoo-iptv/play/196833914960066715a573
-#EXTINF:-1 tvg-id="dazn.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN
-https://vavoo.to/vavoo-iptv/play/2745635299ab0cc043a143
 #EXTINF:-1 tvg-id="dazn.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN (D)
 https://daddyhd.com/watch.php?id=877
+#EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV
+https://vavoo.to/vavoo-iptv/play/3802167244650eb7a51319
 #EXTINF:-1 tvg-id="discovery.channel.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari",DISCOVERY CHANNEL
 https://vavoo.to/vavoo-iptv/play/355484191439d5194fc358
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini",DISCOVERY K2
@@ -139,6 +137,8 @@ https://vavoo.to/vavoo-iptv/play/40604994550f228d5b9b59
 https://vavoo.to/vavoo-iptv/play/2116902817eb437d88bab6
 #EXTINF:-1 tvg-id="hgtv.it" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS" group-title="Altro",HGTV
 https://vavoo.to/vavoo-iptv/play/42489970292d2930202d0e
+#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
+https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.gruppoicaro.it/wp-content/uploads/2020/05/icarotv.png" group-title="Altro",ICARO TV
 https://vavoo.to/vavoo-iptv/play/2392139008947764078821
 #EXTINF:-1 tvg-id="iris.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS
@@ -320,7 +320,7 @@ https://vavoo.to/vavoo-iptv/play/639406775e0288e6772cc
 #EXTINF:-1 tvg-id="rtl.102.5.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rtl-1025-it.png" group-title="Musica",RTL 102.5
 https://vavoo.to/vavoo-iptv/play/1729811452a70dafd8f6ba
 
-# RAI
+# SPORT
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",RTP (RETE TELEVISIVA)
 https://vavoo.to/vavoo-iptv/play/4136045815a19e851236a3
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tvdream.net/img/rtr99-cover.jpg" group-title="Altro",RTR 99 TV
@@ -402,7 +402,7 @@ https://vavoo.to/vavoo-iptv/play/14407790614bc8041c450d
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 9
 https://vavoo.to/vavoo-iptv/play/17532606771304e2497369
 
-# SPORT
+# MUSICA
 #EXTINF:-1 tvg-id="sky.serie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Film - Serie TV",SKY SERIE (D)
 https://daddyhd.com/watch.php?id=880
 #EXTINF:-1 tvg-id="skysport.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-it.png" group-title="Sport",SKY SPORT
@@ -467,8 +467,6 @@ https://vavoo.to/vavoo-iptv/play/32202484989ac14421915
 https://daddyhd.com/watch.php?id=881
 
 # RAI
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
-https://vavoo.to/vavoo-iptv/play/83094948658201829f87a
 #EXTINF:-1 tvg-id="supertennis.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport",SUPER TENNIS
 https://vavoo.to/vavoo-iptv/play/300937751365646200d097
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFBXh88zZx4IvyQKyYd5Hu2yeytO42zNQ4zA&s" group-title="Altro",SUPER TV ARISTANIS
@@ -562,7 +560,7 @@ https://vavoo.to/vavoo-iptv/play/27978570454e40f7218cf4
 #EXTINF:-1 tvg-id="" tvg-logo="https://teleromagna.it/Images/logo-tr-sport.jpg" group-title="Sport",TRSPORT
 https://vavoo.to/vavoo-iptv/play/3613140620a139097e4b5
 
-# MUSICA
+# RAI
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQpzqT0DLXv-md7VU-fTF5BeaEashocwHUdw&s" group-title="Altro",TT TELETUTTO
 https://vavoo.to/vavoo-iptv/play/3709706813e7a46de6436d
 #EXTINF:-1 tvg-id="tv8.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/tv8-it.png" group-title="Altro",TV 8
@@ -605,6 +603,63 @@ https://vavoo.to/vavoo-iptv/play/201531251001a1e9936f4c
 https://vavoo.to/vavoo-iptv/play/2989824407cb0184041b08
 
 # MEDIASET
+
+#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
+https://example.com.m3u8
+
+#EXTINF:-1 tvg-id="uefaeuropaleagueferencvárosvsrangers" tvg-name="All Soccer Events | UEFA Europa League : Ferencváros vs Rangers (17:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ferencváros_vs_Rangers.png" group-title="Eventi Live DLHD",All Soccer Events | UEFA Europa League : Ferencváros vs Rangers (17:45)
+https://daddyhd.com/watch.php?id=2
+
+#EXTINF:-1 tvg-id="uefaeuropaleaguenicevssportingbraga" tvg-name="All Soccer Events | UEFA Europa League : Nice vs Sporting Braga (17:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Nice_vs_Sporting Braga.png" group-title="Eventi Live DLHD",All Soccer Events | UEFA Europa League : Nice vs Sporting Braga (17:45)
+https://daddyhd.com/watch.php?id=11
+
+#EXTINF:-1 tvg-id="uefaeuropaleagueutrechtvsnottinghamforest" tvg-name="All Soccer Events | UEFA Europa League : Utrecht vs Nottingham Forest (17:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Utrecht_vs_Nottingham Forest.png" group-title="Eventi Live DLHD",All Soccer Events | UEFA Europa League : Utrecht vs Nottingham Forest (17:45)
+https://daddyhd.com/watch.php?id=460
+
+#EXTINF:-1 tvg-id="uefaeuropaleagueutrechtvsnottinghamforest" tvg-name="All Soccer Events | UEFA Europa League : Utrecht vs Nottingham Forest (17:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Utrecht_vs_Nottingham Forest.png" group-title="Eventi Live DLHD",All Soccer Events | UEFA Europa League : Utrecht vs Nottingham Forest (17:45)
+https://daddyhd.com/watch.php?id=13
+
+#EXTINF:-1 tvg-id="uefaconferenceleaguefiorentinavsdynamokyiv" tvg-name="All Soccer Events | UEFA Conference League : Fiorentina vs Dynamo Kyiv (17:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Fiorentina_vs_Dynamo Kyiv.png" group-title="Eventi Live DLHD",All Soccer Events | UEFA Conference League : Fiorentina vs Dynamo Kyiv (17:45)
+https://daddyhd.com/watch.php?id=15
+
+#EXTINF:-1 tvg-id="uefaconferenceleaguefiorentinavsdynamokyiv" tvg-name="All Soccer Events | UEFA Conference League : Fiorentina vs Dynamo Kyiv (17:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Fiorentina_vs_Dynamo Kyiv.png" group-title="Eventi Live DLHD",All Soccer Events | UEFA Conference League : Fiorentina vs Dynamo Kyiv (17:45)
+https://daddyhd.com/watch.php?id=461
+
+#EXTINF:-1 tvg-id="uefaeuropaleaguecelticvsroma" tvg-name="All Soccer Events | UEFA Europa League : Celtic vs Roma (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Celtic_vs_Roma.png" group-title="Eventi Live DLHD",All Soccer Events | UEFA Europa League : Celtic vs Roma (20:00)
+https://daddyhd.com/watch.php?id=15
+
+#EXTINF:-1 tvg-id="uefaeuropaleaguecelticvsroma" tvg-name="All Soccer Events | UEFA Europa League : Celtic vs Roma (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Celtic_vs_Roma.png" group-title="Eventi Live DLHD",All Soccer Events | UEFA Europa League : Celtic vs Roma (20:00)
+https://daddyhd.com/watch.php?id=461
+
+#EXTINF:-1 tvg-id="uefaeuropaleagueceltadevigovsbologna" tvg-name="All Soccer Events | UEFA Europa League : Celta de Vigo vs Bologna (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Celta de Vigo_vs_Bologna.png" group-title="Eventi Live DLHD",All Soccer Events | UEFA Europa League : Celta de Vigo vs Bologna (20:00)
+https://daddyhd.com/watch.php?id=870
+
+#EXTINF:-1 tvg-id="uefaeuropaleagueceltadevigovsbologna" tvg-name="All Soccer Events | UEFA Europa League : Celta de Vigo vs Bologna (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Celta de Vigo_vs_Bologna.png" group-title="Eventi Live DLHD",All Soccer Events | UEFA Europa League : Celta de Vigo vs Bologna (20:00)
+https://daddyhd.com/watch.php?id=13
+
+#EXTINF:-1 tvg-id="uefaeuropaleaguebaselvsastonvilla" tvg-name="All Soccer Events | UEFA Europa League : Basel vs Aston Villa (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Basel_vs_Aston Villa.png" group-title="Eventi Live DLHD",All Soccer Events | UEFA Europa League : Basel vs Aston Villa (20:00)
+https://daddyhd.com/watch.php?id=18
+
+#EXTINF:-1 tvg-id="uefaeuropaleaguebaselvsastonvilla" tvg-name="All Soccer Events | UEFA Europa League : Basel vs Aston Villa (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Basel_vs_Aston Villa.png" group-title="Eventi Live DLHD",All Soccer Events | UEFA Europa League : Basel vs Aston Villa (20:00)
+https://daddyhd.com/watch.php?id=2
+
+#EXTINF:-1 tvg-id="uefaeuropaleaguebaselvsastonvilla" tvg-name="All Soccer Events | UEFA Europa League : Basel vs Aston Villa (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Basel_vs_Aston Villa.png" group-title="Eventi Live DLHD",All Soccer Events | UEFA Europa League : Basel vs Aston Villa (20:00)
+https://daddyhd.com/watch.php?id=460
+
+#EXTINF:-1 tvg-id="uefaeuropaleaguefreiburgvssalzburg" tvg-name="All Soccer Events | UEFA Europa League : Freiburg vs Salzburg (20:00)" tvg-logo="https://www.reisroutes.nl/userfiles/fotos/salzburg_3142_xl.jpg" group-title="Eventi Live DLHD",All Soccer Events | UEFA Europa League : Freiburg vs Salzburg (20:00)
+https://daddyhd.com/watch.php?id=11
+
+#EXTINF:-1 tvg-id="uefaeuropaleagueolympiquelyonnaisvsgoaheadeagles" tvg-name="All Soccer Events | UEFA Europa League : Olympique Lyonnais vs Go Ahead Eagles (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Olympique Lyonnais_vs_Go Ahead Eagles.png" group-title="Eventi Live DLHD",All Soccer Events | UEFA Europa League : Olympique Lyonnais vs Go Ahead Eagles (20:00)
+https://daddyhd.com/watch.php?id=172
+
+#EXTINF:-1 tvg-id="shootouttournamentday2" tvg-name="Snooker | Shoot Out Tournament Day 2 (12:45)" tvg-logo="https://www.vedantu.com/seo/content-images/b6a719e2-cf5a-411c-ab1e-d924bd69e6bc.png" group-title="Eventi Live DLHD",Snooker | Shoot Out Tournament Day 2 (12:45)
+https://daddyhd.com/watch.php?id=878
+
+#EXTINF:-1 tvg-id="championsleaguetrentinovolleyvsvolleyljubljana" tvg-name="Volleyball | Champions League : Trentino Volley vs. Volley Ljubljana (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Trentino Volley_vs_Volley Ljubljana.png" group-title="Eventi Live DLHD",Volleyball | Champions League : Trentino Volley vs. Volley Ljubljana (19:30)
+https://daddyhd.com/watch.php?id=462
+
+#EXTINF:-1 tvg-id="worldcupvalthorensskicross" tvg-name="Winter Sports | World Cup Val Thorens | Ski Cross (12:30)" tvg-logo="https://cdn.pixabay.com/photo/2016/04/01/22/32/world-1301744_1280.png" group-title="Eventi Live DLHD",Winter Sports | World Cup Val Thorens | Ski Cross (12:30)
+https://daddyhd.com/watch.php?id=879
 
 
 #EXTINF:-1 group-title="Eventi Live SPORTSONLINE",Juventus x Udinese 21:00
