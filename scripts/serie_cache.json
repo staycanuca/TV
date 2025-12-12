@@ -60670,5 +60670,70 @@
       18
     ],
     "cached_at": "2025-12-11T06:25:43.191833"
+  },
+  "279601": {
+    "id": 279601,
+    "name": "Man vs Baby",
+    "original_name": "Man vs Baby",
+    "first_air_date": "2025-12-11",
+    "vote_average": 8.2,
+    "poster_path": "/dkG5u99wOpZDQuzs5MA29mi9o9N.jpg",
+    "genre_ids": [
+      35,
+      10751
+    ],
+    "cached_at": "2025-12-12T06:24:52.575647"
+  },
+  "61865": {
+    "id": 61865,
+    "name": "Quando chiama il cuore",
+    "original_name": "When Calls the Heart",
+    "first_air_date": "2014-01-11",
+    "vote_average": 8.208,
+    "poster_path": "/2loWjw1Vm7vOuy7J0ssiqzZ4QLh.jpg",
+    "genre_ids": [
+      18,
+      37
+    ],
+    "cached_at": "2025-12-12T06:24:52.581263"
+  },
+  "278100": {
+    "id": 278100,
+    "name": "The Town",
+    "original_name": "Kasaba",
+    "first_air_date": "2025-12-11",
+    "vote_average": 7.0,
+    "poster_path": "/uFiVVvUAvCuoXOAvwKGxzNjvsIK.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "cached_at": "2025-12-12T06:24:52.643934"
+  },
+  "56017": {
+    "id": 56017,
+    "name": "Shtisel",
+    "original_name": "שטיסל",
+    "first_air_date": "2013-06-29",
+    "vote_average": 8.0,
+    "poster_path": "/6rfDIX6pRUrRZ7z1jJu7wPHQZUS.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-12-12T06:24:52.785276"
+  },
+  "57961": {
+    "id": 57961,
+    "name": "Mighty Med - Pronto soccorso eroi",
+    "original_name": "Mighty Med",
+    "first_air_date": "2013-10-07",
+    "vote_average": 7.455,
+    "poster_path": "/xQePBuuuEUQ72Zbmimznb67qfok.jpg",
+    "genre_ids": [
+      35,
+      10762,
+      10765
+    ],
+    "cached_at": "2025-12-12T06:24:52.786495"
   }
 }
