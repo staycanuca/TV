@@ -141563,5 +141563,43 @@
       35
     ],
     "cached_at": "2025-12-13T06:21:55.519187"
+  },
+  "174321": {
+    "id": 174321,
+    "title": "The English Teacher",
+    "release_date": "2013-05-16",
+    "vote_average": 5.6,
+    "poster_path": "/6qsSEI91BtaspXmR9bMVW2k6RlW.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "cached_at": "2025-12-14T06:22:06.702552"
+  },
+  "1465711": {
+    "id": 1465711,
+    "title": "Depeche Mode: M",
+    "release_date": "2025-10-28",
+    "vote_average": 8.3,
+    "poster_path": "/qz0EgfYwfrqhC2yTIqNkSY4P2Jo.jpg",
+    "genre_ids": [
+      99,
+      10402
+    ],
+    "cached_at": "2025-12-14T06:22:06.912969"
+  },
+  "184125": {
+    "id": 184125,
+    "title": "Assalto a Wall Street",
+    "release_date": "2013-06-30",
+    "vote_average": 5.9,
+    "poster_path": "/rYOhIpzj5q8Jm7CMeA6PsO0W0xG.jpg",
+    "genre_ids": [
+      18,
+      53,
+      28
+    ],
+    "cached_at": "2025-12-14T06:22:06.919556"
   }
 }
