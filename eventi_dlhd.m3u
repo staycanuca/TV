@@ -2,39 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="germanybundesliga2schalke04vsnürnberg" tvg-name="All Soccer Events | Germany - Bundesliga 2 : Schalke 04 vs Nürnberg (12:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Schalke 04_vs_Nürnberg.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - Bundesliga 2 : Schalke 04 vs Nürnberg (12:30)
-https://daddyhd.com/watch.php?id=460
-
-#EXTINF:-1 tvg-id="italyserieccittadellavsnovara" tvg-name="All Soccer Events | Italy - Serie C : Cittadella vs Novara (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Cittadella_vs_Novara.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Cittadella vs Novara (13:30)
-https://daddyhd.com/watch.php?id=110
-
-#EXTINF:-1 tvg-id="italyseriecpergolettesevsvicenza" tvg-name="All Soccer Events | Italy - Serie C : Pergolettese vs Vicenza (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pergolettese_vs_Vicenza.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Pergolettese vs Vicenza (13:30)
-https://daddyhd.com/watch.php?id=151
-
-#EXTINF:-1 tvg-id="italyseriecternanavsbra" tvg-name="All Soccer Events | Italy - Serie C : Ternana vs Bra (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ternana_vs_Bra.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Ternana vs Bra (13:30)
-https://daddyhd.com/watch.php?id=152
-
-#EXTINF:-1 tvg-id="italyseriecpontederavssambenedettese" tvg-name="All Soccer Events | Italy - Serie C : Pontedera vs Sambenedettese (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pontedera_vs_Sambenedettese.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Pontedera vs Sambenedettese (13:30)
-https://daddyhd.com/watch.php?id=153
-
-#EXTINF:-1 tvg-id="italyseriecpotenzacalciovscatania" tvg-name="All Soccer Events | Italy - Serie C : Potenza Calcio vs Catania (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Potenza Calcio_vs_Catania.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Potenza Calcio vs Catania (13:30)
-https://daddyhd.com/watch.php?id=154
-
-#EXTINF:-1 tvg-id="italyseriecpotenzacalciovscatania" tvg-name="All Soccer Events | Italy - Serie C : Potenza Calcio vs Catania (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Potenza Calcio_vs_Catania.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Potenza Calcio vs Catania (13:30)
-https://daddyhd.com/watch.php?id=870
-
-#EXTINF:-1 tvg-id="italyseriecdolomitibellunesivsunionbrescia" tvg-name="All Soccer Events | Italy - Serie C : Dolomiti Bellunesi vs Union Brescia (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Dolomiti Bellunesi_vs_Union Brescia.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Dolomiti Bellunesi vs Union Brescia (13:30)
-https://daddyhd.com/watch.php?id=155
-
-#EXTINF:-1 tvg-id="englandpremierleaguenottinghamforestvstottenhamhotspur" tvg-name="All Soccer Events | England - Premier League : Nottingham Forest vs Tottenham Hotspur (14:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Nottingham Forest_vs_Tottenham Hotspur.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Nottingham Forest vs Tottenham Hotspur (14:00)
-https://daddyhd.com/watch.php?id=462
-
-#EXTINF:-1 tvg-id="italyserieafiorentinavshellasverona" tvg-name="All Soccer Events | Italy - Serie A : Fiorentina vs Hellas Verona (14:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Fiorentina_vs_Hellas Verona.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Fiorentina vs Hellas Verona (14:00)
-https://daddyhd.com/watch.php?id=105
-
-#EXTINF:-1 tvg-id="italyserieaudinesevsnapoli" tvg-name="All Soccer Events | Italy - Serie A : Udinese vs Napoli (14:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Udinese_vs_Napoli.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Udinese vs Napoli (14:00)
-https://daddyhd.com/watch.php?id=877
-
 #EXTINF:-1 tvg-id="germanybundesligafreiburgvsborussiadortmund" tvg-name="All Soccer Events | Germany - Bundesliga : Freiburg vs Borussia Dortmund (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Freiburg_vs_Borussia Dortmund.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - Bundesliga : Freiburg vs Borussia Dortmund (14:30)
 https://daddyhd.com/watch.php?id=460
 
@@ -80,15 +47,6 @@ https://daddyhd.com/watch.php?id=877
 #EXTINF:-1 tvg-id="franceligue1olympiquemarseillevsmonaco" tvg-name="All Soccer Events | France - Ligue 1 : Olympique Marseille vs Monaco (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Olympique Marseille_vs_Monaco.png" group-title="Eventi Live DLHD",All Soccer Events | France - Ligue 1 : Olympique Marseille vs Monaco (19:45)
 https://daddyhd.com/watch.php?id=870
 
-#EXTINF:-1 tvg-id="ucicyclocrossworldcupnamur" tvg-name="Cycling | UCI Cyclo-Cross World Cup Namur (12:30)" tvg-logo="https://www.howtowatchchannel.com/wp-content/uploads/2023/07/how-to-watch-uci-championship-in-usa-on-sbs.png" group-title="Eventi Live DLHD",Cycling | UCI Cyclo-Cross World Cup Namur (12:30)
-https://daddyhd.com/watch.php?id=879
-
-#EXTINF:-1 tvg-id="qualificationklingentalhs140" tvg-name="Ski Jumping | Qualification | Klingental HS140 (13:00)" tvg-logo="https://cdn-icons-png.flaticon.com/512/8386/8386400.png" group-title="Eventi Live DLHD",Ski Jumping | Qualification | Klingental HS140 (13:00)
-https://daddyhd.com/watch.php?id=878
-
-#EXTINF:-1 tvg-id="individualcompetitionklingentalhs140" tvg-name="Ski Jumping | Individual competition | Klingental HS140 (14:30)" tvg-logo="https://www.simplinotes.com/wp-content/uploads/2019/04/individual.png" group-title="Eventi Live DLHD",Ski Jumping | Individual competition | Klingental HS140 (14:30)
-https://daddyhd.com/watch.php?id=878
-
-#EXTINF:-1 tvg-id="davos10kmwomenstlworldcup" tvg-name="Winter Sports | Davos | 10km women's TL World Cup (13:00)" tvg-logo="https://images.handelsblatt.com/mghRvsMSWfG7/cover/800/533/74/126/0/0/0.5/0.5/das-world-economic-forum-findet-traditionell-im-schweizer-ort-davos-statt.png" group-title="Eventi Live DLHD",Winter Sports | Davos | 10km women's TL World Cup (13:00)
+#EXTINF:-1 tvg-id="individualcompetitionklingentalhs140" tvg-name="Ski Jumping | Individual competition | Klingental HS140 (14:30)" tvg-logo="https://cdn2.iconfinder.com/data/icons/sport-competition-linear-outline/4000/21-08-26-Paralympic-games-editable-stroke-31-512.png" group-title="Eventi Live DLHD",Ski Jumping | Individual competition | Klingental HS140 (14:30)
 https://daddyhd.com/watch.php?id=878
 
