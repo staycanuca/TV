@@ -2,15 +2,12 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="scottishopenround2" tvg-name="Snooker | Scottish Open | Round 2 (15:00)" tvg-logo="https://handluggageonly.co.uk/wp-content/uploads/2016/09/Torridon.jpg" group-title="Eventi Live DLHD",Snooker | Scottish Open | Round 2 (15:00)
-https://daddyhd.com/watch.php?id=878
-
-#EXTINF:-1 tvg-id="scottishopenround2" tvg-name="Snooker | Scottish Open | Round 2 (19:00)" tvg-logo="https://handluggageonly.co.uk/wp-content/uploads/2016/09/Torridon.jpg" group-title="Eventi Live DLHD",Snooker | Scottish Open | Round 2 (19:00)
+#EXTINF:-1 tvg-id="scottishopenround2" tvg-name="Snooker | Scottish Open | Round 2 (19:00)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/1920px-Flag_of_Scotland.svg.png" group-title="Eventi Live DLHD",Snooker | Scottish Open | Round 2 (19:00)
 https://daddyhd.com/watch.php?id=878
 
 #EXTINF:-1 tvg-id="euroleaguewomenpfschiovszvvzuskpraha" tvg-name="Basketball | Euroleague Women : PF Schio vs. ZVVZ USK Praha (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/PF Schio_vs_ZVVZ USK Praha.png" group-title="Eventi Live DLHD",Basketball | Euroleague Women : PF Schio vs. ZVVZ USK Praha (19:00)
 https://daddyhd.com/watch.php?id=882
 
-#EXTINF:-1 tvg-id="freestyleskiingworldcupcompetitioninarosa" tvg-name="Winter Sports | Freestyle Skiing: World Cup Competition in Arosa (18:15)" tvg-logo="https://myehcs.com/wp-content/uploads/FreestyleLibre2.png" group-title="Eventi Live DLHD",Winter Sports | Freestyle Skiing: World Cup Competition in Arosa (18:15)
+#EXTINF:-1 tvg-id="freestyleskiingworldcupcompetitioninarosa" tvg-name="Winter Sports | Freestyle Skiing: World Cup Competition in Arosa (18:15)" tvg-logo="https://cdn.pixabay.com/photo/2012/04/24/18/14/skiing-40764_960_720.png" group-title="Eventi Live DLHD",Winter Sports | Freestyle Skiing: World Cup Competition in Arosa (18:15)
 https://daddyhd.com/watch.php?id=879
 
