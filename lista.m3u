@@ -153,7 +153,9 @@ https://vavoo.to/vavoo-iptv/play/633342961994dc5083ad5
 https://daddyhd.com/watch.php?id=854
 
 # ALTRO
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3 (1)
+https://vavoo.to/vavoo-iptv/play/1565298794daace40d1b60
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3 (2)
 https://vavoo.to/vavoo-iptv/play/1200985239ceccd12c8a54
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.upmagazinearezzo.it/atladv/wp-content/uploads/2017/07/atlantide-adv-logo-italian-fishing-tv.jpg" group-title="Altro",ITALIAN FISHING TV
 https://vavoo.to/vavoo-iptv/play/477083716dc642d622f68
@@ -469,8 +471,8 @@ https://vavoo.to/vavoo-iptv/play/32202484989ac14421915
 https://daddyhd.com/watch.php?id=881
 
 # RAI
-#EXTINF:-1 tvg-id="sportitalia.it" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport",SPORT ITALIA
-https://vavoo.to/vavoo-iptv/play/288173992763b00e6fdc82
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport",SPORT ITALIA (BACKUP)
+https://vavoo.to/vavoo-iptv/play/3165086929ad0bcbc4fc19
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/83094948658201829f87a
 #EXTINF:-1 tvg-id="supertennis.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport",SUPER TENNIS
@@ -625,17 +627,8 @@ https://daddyhd.com/watch.php?id=15
 #EXTINF:-1 tvg-id="europeuefaconferenceleaguelausannesportvsfiorentina" tvg-name="Soccer | Europe - UEFA Conference League : Lausanne Sport vs Fiorentina (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lausanne Sport_vs_Fiorentina.png" group-title="Eventi Live DLHD",Soccer | Europe - UEFA Conference League : Lausanne Sport vs Fiorentina (20:00)
 https://daddyhd.com/watch.php?id=461
 
-#EXTINF:-1 tvg-id="scottishopenround3" tvg-name="Snooker | Scottish Open | Round 3 (13:00)" tvg-logo="https://expertvagabond.com/wp-content/uploads/scottish-highlands-travel-guide.jpg" group-title="Eventi Live DLHD",Snooker | Scottish Open | Round 3 (13:00)
+#EXTINF:-1 tvg-id="scottishopenround3" tvg-name="Snooker | Scottish Open | Round 3 (19:00)" tvg-logo="https://static.wixstatic.com/media/91f3e5_810f9e2bf47a4f86a5277b35ed1e2044~mv2.png/v1/fit/w_2500,h_1330,al_c/91f3e5_810f9e2bf47a4f86a5277b35ed1e2044~mv2.png" group-title="Eventi Live DLHD",Snooker | Scottish Open | Round 3 (19:00)
 https://daddyhd.com/watch.php?id=878
-
-#EXTINF:-1 tvg-id="scottishopenround3" tvg-name="Snooker | Scottish Open | Round 3 (19:00)" tvg-logo="https://expertvagabond.com/wp-content/uploads/scottish-highlands-travel-guide.jpg" group-title="Eventi Live DLHD",Snooker | Scottish Open | Round 3 (19:00)
-https://daddyhd.com/watch.php?id=878
-
-#EXTINF:-1 tvg-id="legrandbornandsprintworldcupwomen" tvg-name="Biathlon | Le Grand Bornand | Sprint World Cup | Women (13:00)" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e6/df/10/e6df10ec-20e2-4fc8-51a1-cb923ce992c4/196922680779_Cover.jpg/1200x1200bf-60.jpg" group-title="Eventi Live DLHD",Biathlon | Le Grand Bornand | Sprint World Cup | Women (13:00)
-https://daddyhd.com/watch.php?id=879
-
-#EXTINF:-1 tvg-id="fivbclubworldchampionshipssadacruzeirovsperugia" tvg-name="Volleyball | FIVB Club World Championships : Sada Cruzeiro vs Perugia (13:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sada Cruzeiro_vs_Perugia.png" group-title="Eventi Live DLHD",Volleyball | FIVB Club World Championships : Sada Cruzeiro vs Perugia (13:00)
-https://daddyhd.com/watch.php?id=877
 
 
 #EXTINF:-1 group-title="Eventi Live SPORTSONLINE",Juventus x Udinese 21:00
