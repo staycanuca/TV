@@ -1,1 +1,34 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
+https://example.com.m3u8
+
+#EXTINF:-1 tvg-id="italysupercoppaitaliananapolivsmilan" tvg-name="Soccer | Italy - Supercoppa Italiana : Napoli vs Milan (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Napoli_vs_Milan.png" group-title="Eventi Live DLHD",Soccer | Italy - Supercoppa Italiana : Napoli vs Milan (19:00)
+https://daddyhd.com/watch.php?id=854
+
+#EXTINF:-1 tvg-id="europeuefaconferenceleaguerayovallecanovsdrita" tvg-name="Soccer | Europe - UEFA Conference League : Rayo Vallecano vs Drita (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Rayo Vallecano_vs_Drita.png" group-title="Eventi Live DLHD",Soccer | Europe - UEFA Conference League : Rayo Vallecano vs Drita (20:00)
+https://daddyhd.com/watch.php?id=161
+
+#EXTINF:-1 tvg-id="europeuefaconferenceleaguelausannesportvsfiorentina" tvg-name="Soccer | Europe - UEFA Conference League : Lausanne Sport vs Fiorentina (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lausanne Sport_vs_Fiorentina.png" group-title="Eventi Live DLHD",Soccer | Europe - UEFA Conference League : Lausanne Sport vs Fiorentina (20:00)
+https://daddyhd.com/watch.php?id=15
+
+#EXTINF:-1 tvg-id="europeuefaconferenceleaguelausannesportvsfiorentina" tvg-name="Soccer | Europe - UEFA Conference League : Lausanne Sport vs Fiorentina (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lausanne Sport_vs_Fiorentina.png" group-title="Eventi Live DLHD",Soccer | Europe - UEFA Conference League : Lausanne Sport vs Fiorentina (20:00)
+https://daddyhd.com/watch.php?id=461
+
+#EXTINF:-1 tvg-id="scottishopenround3" tvg-name="Snooker | Scottish Open | Round 3 (13:00)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/1920px-Flag_of_Scotland.svg.png" group-title="Eventi Live DLHD",Snooker | Scottish Open | Round 3 (13:00)
+https://daddyhd.com/watch.php?id=878
+
+#EXTINF:-1 tvg-id="scottishopenround3" tvg-name="Snooker | Scottish Open | Round 3 (19:00)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/1920px-Flag_of_Scotland.svg.png" group-title="Eventi Live DLHD",Snooker | Scottish Open | Round 3 (19:00)
+https://daddyhd.com/watch.php?id=878
+
+#EXTINF:-1 tvg-id="valgardenamensdownhillworldcup" tvg-name="Alpine Ski | Val Gardena | Men's Downhill World Cup (10:30)" tvg-logo="https://www.valgardenaskimap.com/img/weather.png" group-title="Eventi Live DLHD",Alpine Ski | Val Gardena | Men's Downhill World Cup (10:30)
+https://daddyhd.com/watch.php?id=878
+
+#EXTINF:-1 tvg-id="legrandbornandsprintworldcupwomen" tvg-name="Biathlon | Le Grand Bornand | Sprint World Cup | Women (13:00)" tvg-logo="https://www.abbreviationfinder.org/images/acronym/en/le/85/le.png" group-title="Eventi Live DLHD",Biathlon | Le Grand Bornand | Sprint World Cup | Women (13:00)
+https://daddyhd.com/watch.php?id=879
+
+#EXTINF:-1 tvg-id="fivbclubworldchampionshipssadacruzeirovsperugia" tvg-name="Volleyball | FIVB Club World Championships : Sada Cruzeiro vs Perugia (13:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sada Cruzeiro_vs_Perugia.png" group-title="Eventi Live DLHD",Volleyball | FIVB Club World Championships : Sada Cruzeiro vs Perugia (13:00)
+https://daddyhd.com/watch.php?id=877
+
+#EXTINF:-1 tvg-id="carezzaparallelgiantslalomworldcup" tvg-name="Winter Sports | Carezza | Parallel Giant Slalom World Cup (11:15)" tvg-logo="http://profumiamoprofumiamo.com/cdn/shop/files/carezza.png?v=1740126193" group-title="Eventi Live DLHD",Winter Sports | Carezza | Parallel Giant Slalom World Cup (11:15)
+https://daddyhd.com/watch.php?id=879
+

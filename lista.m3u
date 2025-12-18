@@ -157,6 +157,8 @@ https://daddyhd.com/watch.php?id=854
 https://vavoo.to/vavoo-iptv/play/1565298794daace40d1b60
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3 (2)
 https://vavoo.to/vavoo-iptv/play/1200985239ceccd12c8a54
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.upmagazinearezzo.it/atladv/wp-content/uploads/2017/07/atlantide-adv-logo-italian-fishing-tv.jpg" group-title="Altro",ITALIAN FISHING TV
+https://vavoo.to/vavoo-iptv/play/477083716dc642d622f68
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Iunior_tv.png" group-title="Altro",IUNIOR TV
 https://vavoo.to/vavoo-iptv/play/803540254d5a6317673b3
 #EXTINF:-1 tvg-id="k2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini",K2
@@ -303,6 +305,8 @@ https://vavoo.to/vavoo-iptv/play/3075118500c67364486aa6
 https://vavoo.to/vavoo-iptv/play/22357320045f329c720096
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkE5wuUMIVAtANMfpSL4T5bIO73owXBhpvEg&s" group-title="Altro",RETE ORO
 https://vavoo.to/vavoo-iptv/play/3351863213ae83540f4e1e
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",RETE SOLE
+https://vavoo.to/vavoo-iptv/play/36929275131676477efa1e
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.retetvitalia.it/news/wp-content/uploads/2019/07/cropped-RTI-L.png" group-title="Altro",RETE TV ITALIA
 https://vavoo.to/vavoo-iptv/play/413105501853266fc8e1b9
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/d/df/Logo_Rete_Veneta.png" group-title="Altro",RETE VENETA
@@ -607,6 +611,39 @@ https://vavoo.to/vavoo-iptv/play/201531251001a1e9936f4c
 https://vavoo.to/vavoo-iptv/play/2989824407cb0184041b08
 
 # MEDIASET
+
+#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
+https://example.com.m3u8
+
+#EXTINF:-1 tvg-id="italysupercoppaitaliananapolivsmilan" tvg-name="Soccer | Italy - Supercoppa Italiana : Napoli vs Milan (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Napoli_vs_Milan.png" group-title="Eventi Live DLHD",Soccer | Italy - Supercoppa Italiana : Napoli vs Milan (19:00)
+https://daddyhd.com/watch.php?id=854
+
+#EXTINF:-1 tvg-id="europeuefaconferenceleaguerayovallecanovsdrita" tvg-name="Soccer | Europe - UEFA Conference League : Rayo Vallecano vs Drita (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Rayo Vallecano_vs_Drita.png" group-title="Eventi Live DLHD",Soccer | Europe - UEFA Conference League : Rayo Vallecano vs Drita (20:00)
+https://daddyhd.com/watch.php?id=161
+
+#EXTINF:-1 tvg-id="europeuefaconferenceleaguelausannesportvsfiorentina" tvg-name="Soccer | Europe - UEFA Conference League : Lausanne Sport vs Fiorentina (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lausanne Sport_vs_Fiorentina.png" group-title="Eventi Live DLHD",Soccer | Europe - UEFA Conference League : Lausanne Sport vs Fiorentina (20:00)
+https://daddyhd.com/watch.php?id=15
+
+#EXTINF:-1 tvg-id="europeuefaconferenceleaguelausannesportvsfiorentina" tvg-name="Soccer | Europe - UEFA Conference League : Lausanne Sport vs Fiorentina (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lausanne Sport_vs_Fiorentina.png" group-title="Eventi Live DLHD",Soccer | Europe - UEFA Conference League : Lausanne Sport vs Fiorentina (20:00)
+https://daddyhd.com/watch.php?id=461
+
+#EXTINF:-1 tvg-id="scottishopenround3" tvg-name="Snooker | Scottish Open | Round 3 (13:00)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/1920px-Flag_of_Scotland.svg.png" group-title="Eventi Live DLHD",Snooker | Scottish Open | Round 3 (13:00)
+https://daddyhd.com/watch.php?id=878
+
+#EXTINF:-1 tvg-id="scottishopenround3" tvg-name="Snooker | Scottish Open | Round 3 (19:00)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/1920px-Flag_of_Scotland.svg.png" group-title="Eventi Live DLHD",Snooker | Scottish Open | Round 3 (19:00)
+https://daddyhd.com/watch.php?id=878
+
+#EXTINF:-1 tvg-id="valgardenamensdownhillworldcup" tvg-name="Alpine Ski | Val Gardena | Men's Downhill World Cup (10:30)" tvg-logo="https://www.valgardenaskimap.com/img/weather.png" group-title="Eventi Live DLHD",Alpine Ski | Val Gardena | Men's Downhill World Cup (10:30)
+https://daddyhd.com/watch.php?id=878
+
+#EXTINF:-1 tvg-id="legrandbornandsprintworldcupwomen" tvg-name="Biathlon | Le Grand Bornand | Sprint World Cup | Women (13:00)" tvg-logo="https://www.abbreviationfinder.org/images/acronym/en/le/85/le.png" group-title="Eventi Live DLHD",Biathlon | Le Grand Bornand | Sprint World Cup | Women (13:00)
+https://daddyhd.com/watch.php?id=879
+
+#EXTINF:-1 tvg-id="fivbclubworldchampionshipssadacruzeirovsperugia" tvg-name="Volleyball | FIVB Club World Championships : Sada Cruzeiro vs Perugia (13:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sada Cruzeiro_vs_Perugia.png" group-title="Eventi Live DLHD",Volleyball | FIVB Club World Championships : Sada Cruzeiro vs Perugia (13:00)
+https://daddyhd.com/watch.php?id=877
+
+#EXTINF:-1 tvg-id="carezzaparallelgiantslalomworldcup" tvg-name="Winter Sports | Carezza | Parallel Giant Slalom World Cup (11:15)" tvg-logo="http://profumiamoprofumiamo.com/cdn/shop/files/carezza.png?v=1740126193" group-title="Eventi Live DLHD",Winter Sports | Carezza | Parallel Giant Slalom World Cup (11:15)
+https://daddyhd.com/watch.php?id=879
 
 
 #EXTINF:-1 group-title="Eventi Live SPORTSONLINE",Juventus x Udinese 21:00
