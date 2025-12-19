@@ -1,1 +1,52 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
+https://example.com.m3u8
+
+#EXTINF:-1 tvg-id="italysupercoppaitalianabolognavsinternazionale" tvg-name="All Soccer Events | Italy - Supercoppa Italiana : Bologna vs Internazionale (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bologna_vs_Internazionale.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Supercoppa Italiana : Bologna vs Internazionale (19:00)
+https://daddyhd.com/watch.php?id=854
+
+#EXTINF:-1 tvg-id="germanybundesligaborussiadortmundvsborussiamgladbach" tvg-name="All Soccer Events | Germany - Bundesliga : Borussia Dortmund vs Borussia M'gladbach (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Borussia Dortmund_vs_Borussia M'gladbach.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - Bundesliga : Borussia Dortmund vs Borussia M'gladbach (19:30)
+https://daddyhd.com/watch.php?id=870
+
+#EXTINF:-1 tvg-id="italyseriecaudacecerignolavsbenevento" tvg-name="All Soccer Events | Italy - Serie C : Audace Cerignola vs Benevento (19:30)" tvg-logo="https://www.atuttocalcio.tv/wp-content/uploads/2024/12/cropped-logo147x80.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Audace Cerignola vs Benevento (19:30)
+https://daddyhd.com/watch.php?id=24
+
+#EXTINF:-1 tvg-id="italyseriecaudacecerignolavsbenevento" tvg-name="All Soccer Events | Italy - Serie C : Audace Cerignola vs Benevento (19:30)" tvg-logo="https://www.atuttocalcio.tv/wp-content/uploads/2024/12/cropped-logo147x80.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Audace Cerignola vs Benevento (19:30)
+https://daddyhd.com/watch.php?id=462
+
+#EXTINF:-1 tvg-id="italyserieccosenzavscavese" tvg-name="All Soccer Events | Italy - Serie C : Cosenza vs Cavese (19:30)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/cosenza-calcio-logo-png-transparent.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Cosenza vs Cavese (19:30)
+https://daddyhd.com/watch.php?id=25
+
+#EXTINF:-1 tvg-id="italyserieccosenzavscavese" tvg-name="All Soccer Events | Italy - Serie C : Cosenza vs Cavese (19:30)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/cosenza-calcio-logo-png-transparent.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Cosenza vs Cavese (19:30)
+https://daddyhd.com/watch.php?id=460
+
+#EXTINF:-1 tvg-id="italyseriecgiuglianovscasertana" tvg-name="All Soccer Events | Italy - Serie C : Giugliano vs Casertana (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Giugliano_vs_Casertana.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Giugliano vs Casertana (19:30)
+https://daddyhd.com/watch.php?id=26
+
+#EXTINF:-1 tvg-id="scottishopenquarterfinal" tvg-name="Snooker | Scottish Open | Quarter-Final (13:00)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/1920px-Flag_of_Scotland.svg.png" group-title="Eventi Live DLHD",Snooker | Scottish Open | Quarter-Final (13:00)
+https://daddyhd.com/watch.php?id=878
+
+#EXTINF:-1 tvg-id="scottishopenquarterfinal" tvg-name="Snooker | Scottish Open | Quarter-Final (19:00)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/1920px-Flag_of_Scotland.svg.png" group-title="Eventi Live DLHD",Snooker | Scottish Open | Quarter-Final (19:00)
+https://daddyhd.com/watch.php?id=878
+
+#EXTINF:-1 tvg-id="valgardenathemansupergworldcup" tvg-name="Alpine Ski | Val Gardena | The Man Super-G World Cup (10:30)" tvg-logo="https://64.media.tumblr.com/18efcc86c7be393b5c634b9bae4d2937/30634e6b8ee0d33e-93/s500x750/3af8c586770ebd75fe7289b5a5efc8fe8370a3b1.png" group-title="Eventi Live DLHD",Alpine Ski | Val Gardena | The Man Super-G World Cup (10:30)
+https://daddyhd.com/watch.php?id=878
+
+#EXTINF:-1 tvg-id="seriea2libertaslivornovsmestre" tvg-name="Basketball | Serie A2 : Libertas Livorno vs Mestre (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Libertas Livorno_vs_Mestre.png" group-title="Eventi Live DLHD",Basketball | Serie A2 : Libertas Livorno vs Mestre (19:30)
+https://daddyhd.com/watch.php?id=882
+
+#EXTINF:-1 tvg-id="worldcupdavosmens10kmfreestyle" tvg-name="Cross Country | World Cup - Davos: Men's 10 km - Freestyle (08:30)" tvg-logo="https://miro.medium.com/max/2400/1*khBmQoTMMvHi4aHkzrVS7g.png" group-title="Eventi Live DLHD",Cross Country | World Cup - Davos: Men's 10 km - Freestyle (08:30)
+https://daddyhd.com/watch.php?id=882
+
+#EXTINF:-1 tvg-id="engelbergmenshs140worldcupqualifyingday1" tvg-name="Ski Jumping | Engelberg | Men's HS 140 World Cup | Qualifying | Day 1 (14:40)" tvg-logo="https://images.volleyballworld.com/image/upload/t_q_eco/v1748954371/assets/v2/competitions/road-to-paris-logo.png" group-title="Eventi Live DLHD",Ski Jumping | Engelberg | Men's HS 140 World Cup | Qualifying | Day 1 (14:40)
+https://daddyhd.com/watch.php?id=879
+
+#EXTINF:-1 tvg-id="ramsauwomens5kmmassstartworldcup" tvg-name="Winter Sports | Ramsau | Women's 5km Mass Start World Cup (09:00)" tvg-logo="https://petersmann.at/wp-content/uploads/2024/03/cropped-favicon-ramsau.png" group-title="Eventi Live DLHD",Winter Sports | Ramsau | Women's 5km Mass Start World Cup (09:00)
+https://daddyhd.com/watch.php?id=878
+
+#EXTINF:-1 tvg-id="ramsaumens10kmmassstartworldcup" tvg-name="Winter Sports | Ramsau | Men's 10km Mass Start World Cup (09:45)" tvg-logo="https://petersmann.at/wp-content/uploads/2024/03/cropped-favicon-ramsau.png" group-title="Eventi Live DLHD",Winter Sports | Ramsau | Men's 10km Mass Start World Cup (09:45)
+https://daddyhd.com/watch.php?id=878
+
+#EXTINF:-1 tvg-id="ramsauwomenshs98worldcupday1" tvg-name="Winter Sports | Ramsau | Women's HS 98 World Cup | Day 1 (11:15)" tvg-logo="https://petersmann.at/wp-content/uploads/2024/03/cropped-favicon-ramsau.png" group-title="Eventi Live DLHD",Winter Sports | Ramsau | Women's HS 98 World Cup | Day 1 (11:15)
+https://daddyhd.com/watch.php?id=879
+
