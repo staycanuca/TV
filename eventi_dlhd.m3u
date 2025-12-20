@@ -2,9 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="englandpremierleaguemanchestercityvswesthamunited" tvg-name="All Soccer Events | England - Premier League : Manchester City vs West Ham United (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Manchester City_vs_West Ham United.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Manchester City vs West Ham United (15:00)
-https://daddyhd.com/watch.php?id=461
-
 #EXTINF:-1 tvg-id="italyseriecpropatriavsrenate" tvg-name="All Soccer Events | Italy - Serie C : Pro Patria vs Renate (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pro Patria_vs_Renate.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Pro Patria vs Renate (16:30)
 https://daddyhd.com/watch.php?id=157
 
@@ -46,12 +43,6 @@ https://daddyhd.com/watch.php?id=460
 
 #EXTINF:-1 tvg-id="scottishopensemifinal" tvg-name="Snooker | Scottish Open | Semi-Final (18:45)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Snooker | Scottish Open | Semi-Final (18:45)
 https://daddyhd.com/watch.php?id=878
-
-#EXTINF:-1 tvg-id="unitedrugbychampionshipsharksvsbulls" tvg-name="Rugby Union | United Rugby Championship : Sharks vs Bulls (16:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sharks_vs_Bulls.png" group-title="Eventi Live DLHD",Rugby Union | United Rugby Championship : Sharks vs Bulls (16:00)
-https://daddyhd.com/watch.php?id=460
-
-#EXTINF:-1 tvg-id="engelbergmenshs140worldcupday1" tvg-name="Ski Jumping | Engelberg | Men's HS 140 World Cup | Day 1 (15:00)" tvg-logo="https://eteyecare.com/wp-content/uploads/2023/07/Engelberg-1-1024x1024.png" group-title="Eventi Live DLHD",Ski Jumping | Engelberg | Men's HS 140 World Cup | Day 1 (15:00)
-https://daddyhd.com/watch.php?id=879
 
 #EXTINF:-1 tvg-id="italysuperlegagassalespiacenzavsvolleyverona" tvg-name="Volleyball | Italy, SuperLega : Gas Sales Piacenza vs. Volley Verona (17:00)" tvg-logo="https://store.verovolley.com/store/wp-content/uploads/2023/11/3.png" group-title="Eventi Live DLHD",Volleyball | Italy, SuperLega : Gas Sales Piacenza vs. Volley Verona (17:00)
 https://daddyhd.com/watch.php?id=882
