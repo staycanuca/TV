@@ -2,36 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyseriecnovaravsospitaletto" tvg-name="All Soccer Events | Italy - Serie C : Novara vs Ospitaletto (16:30)" tvg-logo="https://www.albergoitalia.novara.it/wp-content/uploads/2020/07/Logo-g-Albergo-Italia-Novara.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Novara vs Ospitaletto (16:30)
-https://daddyhd.com/watch.php?id=14
-
-#EXTINF:-1 tvg-id="italyseriecleccovspergolettese" tvg-name="All Soccer Events | Italy - Serie C : Lecco vs Pergolettese (16:30)" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.opencity.opencontent.it/var/lecco/storage/images/3780-84-ita-IT/Homepage_header_logo.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Lecco vs Pergolettese (16:30)
-https://daddyhd.com/watch.php?id=15
-
-#EXTINF:-1 tvg-id="italyseriecleccovspergolettese" tvg-name="All Soccer Events | Italy - Serie C : Lecco vs Pergolettese (16:30)" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.opencity.opencontent.it/var/lecco/storage/images/3780-84-ita-IT/Homepage_header_logo.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Lecco vs Pergolettese (16:30)
-https://daddyhd.com/watch.php?id=460
-
-#EXTINF:-1 tvg-id="italyseriecgianaerminiovscittadella" tvg-name="All Soccer Events | Italy - Serie C : Giana Erminio vs Cittadella (16:30)" tvg-logo="https://png.pngtree.com/png-clipart/20221230/original/pngtree-logo-pengadilan-vector-png-image_8826709.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Giana Erminio vs Cittadella (16:30)
-https://daddyhd.com/watch.php?id=16
-
-#EXTINF:-1 tvg-id="italyseriecperugiavsforlì" tvg-name="All Soccer Events | Italy - Serie C : Perugia vs Forlì (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Perugia_vs_Forlì.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Perugia vs Forlì (16:30)
-https://daddyhd.com/watch.php?id=18
-
-#EXTINF:-1 tvg-id="italyseriecmonopolivspotenzacalcio" tvg-name="All Soccer Events | Italy - Serie C : Monopoli vs Potenza Calcio (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Monopoli_vs_Potenza Calcio.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Monopoli vs Potenza Calcio (16:30)
-https://daddyhd.com/watch.php?id=17
-
-#EXTINF:-1 tvg-id="englandpremierleagueastonvillavsmanchesterunited" tvg-name="All Soccer Events | England - Premier League : Aston Villa vs Manchester United (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Aston Villa_vs_Manchester United.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Aston Villa vs Manchester United (16:30)
-https://daddyhd.com/watch.php?id=461
-
-#EXTINF:-1 tvg-id="germanybundesligaheidenheimvsbayernmünchen" tvg-name="All Soccer Events | Germany - Bundesliga : Heidenheim vs Bayern München (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Heidenheim_vs_Bayern München.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - Bundesliga : Heidenheim vs Bayern München (16:30)
-https://daddyhd.com/watch.php?id=462
-
-#EXTINF:-1 tvg-id="italyserieafiorentinavsudinese" tvg-name="All Soccer Events | Italy - Serie A : Fiorentina vs Udinese (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Fiorentina_vs_Udinese.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Fiorentina vs Udinese (17:00)
-https://daddyhd.com/watch.php?id=20
-
-#EXTINF:-1 tvg-id="italyserieafiorentinavsudinese" tvg-name="All Soccer Events | Italy - Serie A : Fiorentina vs Udinese (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Fiorentina_vs_Udinese.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Fiorentina vs Udinese (17:00)
-https://daddyhd.com/watch.php?id=870
-
 #EXTINF:-1 tvg-id="italyseriecvirtuscasaranovsteamaltamura" tvg-name="All Soccer Events | Italy - Serie C : Virtus Casarano vs Team Altamura (19:30)" tvg-logo="https://cmsv2-assets.apptegy.net/uploads/20340/logo/23168/logo_Northbridge-web.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Virtus Casarano vs Team Altamura (19:30)
 https://daddyhd.com/watch.php?id=18
 
@@ -44,7 +14,7 @@ https://daddyhd.com/watch.php?id=15
 #EXTINF:-1 tvg-id="italyseriecsiracusavstrapani1905" tvg-name="All Soccer Events | Italy - Serie C : Siracusa vs Trapani 1905 (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Siracusa_vs_Trapani 1905.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Siracusa vs Trapani 1905 (19:30)
 https://daddyhd.com/watch.php?id=461
 
-#EXTINF:-1 tvg-id="italyserieagenoavsatalanta" tvg-name="All Soccer Events | Italy - Serie A : Genoa vs Atalanta (19:45)" tvg-logo="https://brandslogos.com/wp-content/uploads/thumbs/atalanta-logo-black-and-white.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Genoa vs Atalanta (19:45)
+#EXTINF:-1 tvg-id="italyserieagenoavsatalanta" tvg-name="All Soccer Events | Italy - Serie A : Genoa vs Atalanta (19:45)" tvg-logo="https://images.seeklogo.com/logo-png/50/2/atalanta-logo-png_seeklogo-503108.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Genoa vs Atalanta (19:45)
 https://daddyhd.com/watch.php?id=877
 
 #EXTINF:-1 tvg-id="scottishopenfinal" tvg-name="Snooker | Scottish Open | Final (18:45)" tvg-logo="https://asllearn.com/wp-content/uploads/2023/01/ASLlearnFinalLogo.png" group-title="Eventi Live DLHD",Snooker | Scottish Open | Final (18:45)
