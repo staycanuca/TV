@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyserieacagliarivspisa" tvg-name="All Soccer Events | Italy - Serie A : Cagliari vs Pisa (11:30)" tvg-logo="https://static.sky.it/images/skysport/it/calcio/squadre/team_logo_124.png.transform/original/1754388000000/img.jpg" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Cagliari vs Pisa (11:30)
+#EXTINF:-1 tvg-id="italyserieacagliarivspisa" tvg-name="All Soccer Events | Italy - Serie A : Cagliari vs Pisa (11:30)" tvg-logo="http://www.cagliari1943.it/assets/images/cagliari-43-logo.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Cagliari vs Pisa (11:30)
 https://daddyhd.com/watch.php?id=877
 
 #EXTINF:-1 tvg-id="italyseriecascolivscampobasso" tvg-name="All Soccer Events | Italy - Serie C : Ascoli vs Campobasso (11:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ascoli_vs_Campobasso.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Ascoli vs Campobasso (11:30)
@@ -77,10 +77,10 @@ https://daddyhd.com/watch.php?id=20
 #EXTINF:-1 tvg-id="italyserieafiorentinavsudinese" tvg-name="All Soccer Events | Italy - Serie A : Fiorentina vs Udinese (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Fiorentina_vs_Udinese.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Fiorentina vs Udinese (17:00)
 https://daddyhd.com/watch.php?id=870
 
-#EXTINF:-1 tvg-id="italyseriecvirtuscasaranovsteamaltamura" tvg-name="All Soccer Events | Italy - Serie C : Virtus Casarano vs Team Altamura (19:30)" tvg-logo="https://cmsv2-assets.apptegy.net/uploads/20340/logo/23168/logo_Northbridge-web.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Virtus Casarano vs Team Altamura (19:30)
+#EXTINF:-1 tvg-id="italyseriecvirtuscasaranovsteamaltamura" tvg-name="All Soccer Events | Italy - Serie C : Virtus Casarano vs Team Altamura (19:30)" tvg-logo="https://static.wixstatic.com/media/68e06d_ebfafe0896fe45549d84994679dee931~mv2.png/v1/crop/x_10,y_0,w_2622,h_2622/fill/w_240,h_240,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/aimee.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Virtus Casarano vs Team Altamura (19:30)
 https://daddyhd.com/watch.php?id=18
 
-#EXTINF:-1 tvg-id="italyseriecvirtuscasaranovsteamaltamura" tvg-name="All Soccer Events | Italy - Serie C : Virtus Casarano vs Team Altamura (19:30)" tvg-logo="https://cmsv2-assets.apptegy.net/uploads/20340/logo/23168/logo_Northbridge-web.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Virtus Casarano vs Team Altamura (19:30)
+#EXTINF:-1 tvg-id="italyseriecvirtuscasaranovsteamaltamura" tvg-name="All Soccer Events | Italy - Serie C : Virtus Casarano vs Team Altamura (19:30)" tvg-logo="https://static.wixstatic.com/media/68e06d_ebfafe0896fe45549d84994679dee931~mv2.png/v1/crop/x_10,y_0,w_2622,h_2622/fill/w_240,h_240,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/aimee.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Virtus Casarano vs Team Altamura (19:30)
 https://daddyhd.com/watch.php?id=460
 
 #EXTINF:-1 tvg-id="italyseriecsiracusavstrapani1905" tvg-name="All Soccer Events | Italy - Serie C : Siracusa vs Trapani 1905 (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Siracusa_vs_Trapani 1905.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Siracusa vs Trapani 1905 (19:30)
@@ -89,7 +89,7 @@ https://daddyhd.com/watch.php?id=15
 #EXTINF:-1 tvg-id="italyseriecsiracusavstrapani1905" tvg-name="All Soccer Events | Italy - Serie C : Siracusa vs Trapani 1905 (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Siracusa_vs_Trapani 1905.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Siracusa vs Trapani 1905 (19:30)
 https://daddyhd.com/watch.php?id=461
 
-#EXTINF:-1 tvg-id="italyserieagenoavsatalanta" tvg-name="All Soccer Events | Italy - Serie A : Genoa vs Atalanta (19:45)" tvg-logo="https://brandslogos.com/wp-content/uploads/thumbs/atalanta-logo-black-and-white.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Genoa vs Atalanta (19:45)
+#EXTINF:-1 tvg-id="italyserieagenoavsatalanta" tvg-name="All Soccer Events | Italy - Serie A : Genoa vs Atalanta (19:45)" tvg-logo="https://images.seeklogo.com/logo-png/50/2/atalanta-logo-png_seeklogo-503108.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Genoa vs Atalanta (19:45)
 https://daddyhd.com/watch.php?id=877
 
 #EXTINF:-1 tvg-id="scottishopenfinal" tvg-name="Snooker | Scottish Open | Final (12:30)" tvg-logo="https://asllearn.com/wp-content/uploads/2023/01/ASLlearnFinalLogo.png" group-title="Eventi Live DLHD",Snooker | Scottish Open | Final (12:30)
@@ -98,22 +98,16 @@ https://daddyhd.com/watch.php?id=878
 #EXTINF:-1 tvg-id="scottishopenfinal" tvg-name="Snooker | Scottish Open | Final (18:45)" tvg-logo="https://asllearn.com/wp-content/uploads/2023/01/ASLlearnFinalLogo.png" group-title="Eventi Live DLHD",Snooker | Scottish Open | Final (18:45)
 https://daddyhd.com/watch.php?id=878
 
-#EXTINF:-1 tvg-id="worldcupcompetitioninaltabadia1strunofmensgiantslalom" tvg-name="Alpine Ski | World Cup Competition in Alta Badia 1st run of men's giant slalom (08:35)" tvg-logo="http://clipart-library.com/images/6Ty5nMx6c.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup Competition in Alta Badia 1st run of men's giant slalom (08:35)
-https://daddyhd.com/watch.php?id=878
-
-#EXTINF:-1 tvg-id="worldcupcompetitioninaltabadia2ndrunofmensgiantslalom" tvg-name="Alpine Ski | World Cup Competition in Alta Badia 2nd run of men's giant slalom (12:00)" tvg-logo="http://clipart-library.com/images/6Ty5nMx6c.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup Competition in Alta Badia 2nd run of men's giant slalom (12:00)
-https://daddyhd.com/watch.php?id=878
-
-#EXTINF:-1 tvg-id="ibuworldcuplegrandbornandwomen125kmmassstartcompetition" tvg-name="Biathlon | IBU World Cup Le Grand Bornand | Women 12.5 km Mass Start Competition (10:15)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Biathlon | IBU World Cup Le Grand Bornand | Women 12.5 km Mass Start Competition (10:15)
+#EXTINF:-1 tvg-id="worldcupcompetitioninaltabadia2ndrunofmensgiantslalom" tvg-name="Alpine Ski | World Cup Competition in Alta Badia 2nd run of men's giant slalom (12:00)" tvg-logo="https://png.pngtree.com/thumb_back/fw800/background/20240801/pngtree-environmental-concept-rainforest-lakes-in-the-shape-of-world-continents-image_16122907.jpg" group-title="Eventi Live DLHD",Alpine Ski | World Cup Competition in Alta Badia 2nd run of men's giant slalom (12:00)
 https://daddyhd.com/watch.php?id=878
 
 #EXTINF:-1 tvg-id="ibuworldcuplegrandbornandmen15kmmassstartcompetition" tvg-name="Biathlon | IBU World Cup Le Grand Bornand | Men 15 km Mass Start Competition (12:45)" tvg-logo="https://fiocchi.ovh/wp-content/uploads/2023/05/mail.png" group-title="Eventi Live DLHD",Biathlon | IBU World Cup Le Grand Bornand | Men 15 km Mass Start Competition (12:45)
 https://daddyhd.com/watch.php?id=879
 
-#EXTINF:-1 tvg-id="worldcupkoksijdewomen" tvg-name="Cycling | World Cup | Koksijde | Women (12:30)" tvg-logo="http://clipart-library.com/images/6Ty5nMx6c.png" group-title="Eventi Live DLHD",Cycling | World Cup | Koksijde | Women (12:30)
+#EXTINF:-1 tvg-id="worldcupkoksijdewomen" tvg-name="Cycling | World Cup | Koksijde | Women (12:30)" tvg-logo="https://sabongworldcup.com/wp-content/uploads/2023/12/Kais-logo-1.png" group-title="Eventi Live DLHD",Cycling | World Cup | Koksijde | Women (12:30)
 https://daddyhd.com/watch.php?id=879
 
-#EXTINF:-1 tvg-id="worldcupkoksijdemen" tvg-name="Cycling | World Cup | Koksijde Men (14:00)" tvg-logo="http://clipart-library.com/images/6Ty5nMx6c.png" group-title="Eventi Live DLHD",Cycling | World Cup | Koksijde Men (14:00)
+#EXTINF:-1 tvg-id="worldcupkoksijdemen" tvg-name="Cycling | World Cup | Koksijde Men (14:00)" tvg-logo="https://png.pngtree.com/thumb_back/fw800/background/20240801/pngtree-environmental-concept-rainforest-lakes-in-the-shape-of-world-continents-image_16122907.jpg" group-title="Eventi Live DLHD",Cycling | World Cup | Koksijde Men (14:00)
 https://daddyhd.com/watch.php?id=879
 
 #EXTINF:-1 tvg-id="top14bordeauxbeglesvstoulon" tvg-name="Rugby Union | Top 14 : Bordeaux Begles vs Toulon (20:05)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bordeaux Begles_vs_Toulon.png" group-title="Eventi Live DLHD",Rugby Union | Top 14 : Bordeaux Begles vs Toulon (20:05)
@@ -122,9 +116,9 @@ https://daddyhd.com/watch.php?id=462
 #EXTINF:-1 tvg-id="qualificationengelberghs140" tvg-name="Ski Jumping | Qualification | Engelberg HS140 (13:30)" tvg-logo="https://section125qualification.com/wp-content/uploads/2025/01/s125-cc-logo.png" group-title="Eventi Live DLHD",Ski Jumping | Qualification | Engelberg HS140 (13:30)
 https://daddyhd.com/watch.php?id=878
 
-#EXTINF:-1 tvg-id="individualcompetitonengelberghs140" tvg-name="Ski Jumping | Individual competiton | Engelberg HS140 (14:45)" tvg-logo="https://0.academia-photos.com/attachment_thumbnails/81405897/mini_magick20220226-21120-1fjt2sx.png?1645890709" group-title="Eventi Live DLHD",Ski Jumping | Individual competiton | Engelberg HS140 (14:45)
+#EXTINF:-1 tvg-id="individualcompetitonengelberghs140" tvg-name="Ski Jumping | Individual competiton | Engelberg HS140 (14:45)" tvg-logo="https://ioda.inetintel.cc.gatech.edu/apple-touch-icon.png" group-title="Eventi Live DLHD",Ski Jumping | Individual competiton | Engelberg HS140 (14:45)
 https://daddyhd.com/watch.php?id=878
 
-#EXTINF:-1 tvg-id="innichenskicrossworldcupday2" tvg-name="Winter Sports | Innichen | Ski Cross World Cup | Day 2 (11:00)" tvg-logo="https://innichen.bz/wp-content/uploads/2021/09/marktgemeinde-innichen-wappen.png" group-title="Eventi Live DLHD",Winter Sports | Innichen | Ski Cross World Cup | Day 2 (11:00)
+#EXTINF:-1 tvg-id="innichenskicrossworldcupday2" tvg-name="Winter Sports | Innichen | Ski Cross World Cup | Day 2 (11:00)" tvg-logo="https://api-weather.services.siag.it/api/v2/graphics/icons/imgsource/wetter/icon_2.png" group-title="Eventi Live DLHD",Winter Sports | Innichen | Ski Cross World Cup | Day 2 (11:00)
 https://daddyhd.com/watch.php?id=879
 
