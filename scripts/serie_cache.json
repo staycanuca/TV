@@ -61091,5 +61091,31 @@
       99
     ],
     "cached_at": "2025-12-20T06:23:01.645947"
+  },
+  "260647": {
+    "id": 260647,
+    "name": "Titanic in Colour",
+    "original_name": "Titanic in Colour",
+    "first_air_date": "2024-08-04",
+    "vote_average": 7.0,
+    "poster_path": "/jdtuyoVs99R3kbqg1C8ujNay2MH.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-12-22T06:26:50.892719"
+  },
+  "39346": {
+    "id": 39346,
+    "name": "City Hunter",
+    "original_name": "시티헌터",
+    "first_air_date": "2011-05-25",
+    "vote_average": 7.474,
+    "poster_path": "/qv8tf25OqGICqafZJWTfF5FlU0U.jpg",
+    "genre_ids": [
+      10759,
+      18,
+      80
+    ],
+    "cached_at": "2025-12-22T06:26:50.911945"
   }
 }
