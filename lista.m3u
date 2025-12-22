@@ -145,8 +145,6 @@ https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 https://vavoo.to/vavoo-iptv/play/2392139008947764078821
 #EXTINF:-1 tvg-id="iris.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS
 https://vavoo.to/vavoo-iptv/play/23919988fc371eea2329
-#EXTINF:-1 tvg-id="italia.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Mediaset",ITALIA 1
-https://vavoo.to/vavoo-iptv/play/633342961994dc5083ad5
 #EXTINF:-1 tvg-id="italia.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Mediaset",ITALIA 1 (D)
 https://daddyhd.com/watch.php?id=854
 
@@ -361,6 +359,8 @@ https://daddyhd.com/watch.php?id=862
 https://daddyhd.com/watch.php?id=867
 #EXTINF:-1 tvg-id="sky.cinema.due.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film - Serie TV",SKY CINEMA DUE
 https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174
+#EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA DUE +24
+https://vavoo.to/vavoo-iptv/play/1078650168cbe5484d34ad
 #EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA DUE +24 (D)
 https://daddyhd.com/watch.php?id=866
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY
@@ -405,8 +405,6 @@ https://vavoo.to/vavoo-iptv/play/17532606771304e2497369
 # SPORT
 #EXTINF:-1 tvg-id="sky.serie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Film - Serie TV",SKY SERIE (D)
 https://daddyhd.com/watch.php?id=880
-#EXTINF:-1 tvg-id="skysport.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-it.png" group-title="Sport",SKY SPORT
-https://vavoo.to/vavoo-iptv/play/92466165981ba6f81de20
 #EXTINF:-1 tvg-id="sky.sport.24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 (D)
 https://daddyhd.com/watch.php?id=869
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY]
@@ -601,6 +599,8 @@ https://vavoo.to/vavoo-iptv/play/1249978054d9101729f51f
 https://vavoo.to/vavoo-iptv/play/24994885846c204e8b0b86
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kAZM1WRzE6qfQx90xPJ3v1Jz1gaJwn6BbrZcewu6eTcQ=s900-c-k-c0x00ffffff-no-rj" group-title="Altro",VIDEOTOLENTINO
 https://vavoo.to/vavoo-iptv/play/201531251001a1e9936f4c
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg" group-title="Altro",WWE CHANNEL
+https://vavoo.to/vavoo-iptv/play/2989824407cb0184041b08
 
 # MEDIASET
 
@@ -622,11 +622,8 @@ https://daddyhd.com/watch.php?id=854
 #EXTINF:-1 tvg-id="englandpremierleaguefulhamvsnottinghamforest" tvg-name="Soccer | England - Premier League : Fulham vs Nottingham Forest (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Fulham_vs_Nottingham Forest.png" group-title="Eventi Live DLHD",Soccer | England - Premier League : Fulham vs Nottingham Forest (20:00)
 https://daddyhd.com/watch.php?id=462
 
-#EXTINF:-1 tvg-id="spainlaligaathleticclubvsespanyol" tvg-name="Soccer | Spain - La Liga : Athletic Club vs Espanyol (20:00)" tvg-logo="https://www.footballkitarchive.com/static/logos/1ZYvh3jcX126D99/athletic-club-1941-1942-logo.png" group-title="Eventi Live DLHD",Soccer | Spain - La Liga : Athletic Club vs Espanyol (20:00)
+#EXTINF:-1 tvg-id="spainlaligaathleticclubvsespanyol" tvg-name="Soccer | Spain - La Liga : Athletic Club vs Espanyol (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Athletic Club_vs_Espanyol.png" group-title="Eventi Live DLHD",Soccer | Spain - La Liga : Athletic Club vs Espanyol (20:00)
 https://daddyhd.com/watch.php?id=877
-
-#EXTINF:-1 tvg-id="altabadiamensslalomworldcuprun1" tvg-name="Alpine Ski | Alta Badia | Men's Slalom World Cup | Run 1 (08:45)" tvg-logo="https://www.visitaltabadia.it/images/logo.png" group-title="Eventi Live DLHD",Alpine Ski | Alta Badia | Men's Slalom World Cup | Run 1 (08:45)
-https://daddyhd.com/watch.php?id=878
 
 #EXTINF:-1 tvg-id="altabadiamensslalomworldcuprun2" tvg-name="Alpine Ski | Alta Badia | Men's Slalom World Cup | Run 2 (12:05)" tvg-logo="https://www.visitaltabadia.it/images/logo.png" group-title="Eventi Live DLHD",Alpine Ski | Alta Badia | Men's Slalom World Cup | Run 2 (12:05)
 https://daddyhd.com/watch.php?id=878
