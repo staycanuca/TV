@@ -142887,5 +142887,284 @@
       14
     ],
     "cached_at": "2025-12-22T06:26:46.007320"
+  },
+  "18971": {
+    "id": 18971,
+    "title": "Rosencrantz e Guildenstern sono morti",
+    "release_date": "1991-02-08",
+    "vote_average": 6.902,
+    "poster_path": "/lJosMFzc1nMaqay46YLkPasDfOM.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2025-12-23T06:25:15.244087"
+  },
+  "1033148": {
+    "id": 1033148,
+    "title": "Die My Love",
+    "release_date": "2025-10-06",
+    "vote_average": 6.435,
+    "poster_path": "/kajpShbFhOdpl6yCrLezMrr9tB4.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "cached_at": "2025-12-23T06:25:15.268199"
+  },
+  "619954": {
+    "id": 619954,
+    "title": "Due amici e la roccia magica",
+    "release_date": "2020-09-25",
+    "vote_average": 5.7,
+    "poster_path": "/rG927XNqd7ViTK25B20LlDh2ODw.jpg",
+    "genre_ids": [
+      10751,
+      12,
+      16
+    ],
+    "cached_at": "2025-12-23T06:25:15.334472"
+  },
+  "561362": {
+    "id": 561362,
+    "title": "Rust Creek",
+    "release_date": "2019-01-04",
+    "vote_average": 6.301,
+    "poster_path": "/lrsPIRkKZWTKbd3C0sSj7a3lMES.jpg",
+    "genre_ids": [
+      53,
+      18,
+      28,
+      80
+    ],
+    "cached_at": "2025-12-23T06:25:15.358073"
+  },
+  "11596": {
+    "id": 11596,
+    "title": "Nightmare - Nuovo incubo",
+    "release_date": "1994-10-13",
+    "vote_average": 6.464,
+    "poster_path": "/d2hfHMph60igL1xqkHEKgfxxnKJ.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      14
+    ],
+    "cached_at": "2025-12-23T06:25:15.408546"
+  },
+  "57361": {
+    "id": 57361,
+    "title": "The Yellow Sea",
+    "release_date": "2010-12-22",
+    "vote_average": 7.339,
+    "poster_path": "/fNHaXEWX9IQrGNrA47Ibc5Sc8Il.jpg",
+    "genre_ids": [
+      18,
+      53,
+      80
+    ],
+    "cached_at": "2025-12-23T06:25:15.424364"
+  },
+  "2007": {
+    "id": 2007,
+    "title": "L'olio di Lorenzo",
+    "release_date": "1992-12-30",
+    "vote_average": 7.1,
+    "poster_path": "/azH50OVNYD4bju717ggIRDKeVLG.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-12-23T06:25:15.476626"
+  },
+  "1584619": {
+    "id": 1584619,
+    "title": "Murder in Monaco - Il caso Edmond Safra",
+    "release_date": "2025-12-17",
+    "vote_average": 6.6,
+    "poster_path": "/hW93OYJnnHwGaGa4S2mNxlEhgsF.jpg",
+    "genre_ids": [
+      99,
+      80
+    ],
+    "cached_at": "2025-12-23T06:25:15.479971"
+  },
+  "92182": {
+    "id": 92182,
+    "title": "Silent House",
+    "release_date": "2011-01-21",
+    "vote_average": 5.399,
+    "poster_path": "/mbkvYlx1scovMi80rOOkNBvgU11.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      18
+    ],
+    "cached_at": "2025-12-23T06:25:15.560990"
+  },
+  "49950": {
+    "id": 49950,
+    "title": "The Roommate - Il terrore ti dorme accanto",
+    "release_date": "2011-02-04",
+    "vote_average": 5.377,
+    "poster_path": "/227ot5sgsDzLsOKXMGSIFgfq2Ck.jpg",
+    "genre_ids": [
+      53,
+      18,
+      27
+    ],
+    "cached_at": "2025-12-23T06:25:15.562223"
+  },
+  "11719": {
+    "id": 11719,
+    "title": "Un piede in paradiso",
+    "release_date": "1991-03-15",
+    "vote_average": 6.009,
+    "poster_path": "/eNwAuN6YuW2hHdZmFQckl4aHoWd.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-12-23T06:25:15.617783"
+  },
+  "255343": {
+    "id": 255343,
+    "title": "Escobar",
+    "release_date": "2014-10-11",
+    "vote_average": 6.269,
+    "poster_path": "/qQmo9mznRacdGIe0vKBXP6xtRHM.jpg",
+    "genre_ids": [
+      53,
+      10749
+    ],
+    "cached_at": "2025-12-23T06:25:15.632717"
+  },
+  "38527": {
+    "id": 38527,
+    "title": "I fichissimi",
+    "release_date": "1981-11-21",
+    "vote_average": 5.7,
+    "poster_path": "/pltELBB1XvRRYlMBWu4Znv8LYGF.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-12-23T06:25:15.690210"
+  },
+  "1874": {
+    "id": 1874,
+    "title": "Il colore della libertà",
+    "release_date": "2007-02-11",
+    "vote_average": 6.9,
+    "poster_path": "/jeFVC8GJPbOYFi1w0qYH8gGD61k.jpg",
+    "genre_ids": [
+      36,
+      18
+    ],
+    "cached_at": "2025-12-23T06:25:15.763796"
+  },
+  "1159799": {
+    "id": 1159799,
+    "title": "Il mio amico pinguino",
+    "release_date": "2024-08-07",
+    "vote_average": 7.486,
+    "poster_path": "/bk4xNPEJOZPNu6uGLs2gCvD0VLD.jpg",
+    "genre_ids": [
+      10751,
+      12,
+      18
+    ],
+    "cached_at": "2025-12-23T06:25:15.765271"
+  },
+  "474433": {
+    "id": 474433,
+    "title": "Cuba and the Cameraman",
+    "release_date": "2017-09-08",
+    "vote_average": 7.5,
+    "poster_path": "/qaHgQmUAAsB7FzMFQZUp6MfG1r2.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-12-23T06:25:15.778410"
+  },
+  "198189": {
+    "id": 198189,
+    "title": "Ogni volta che te ne vai",
+    "release_date": "2004-04-23",
+    "vote_average": 5.1,
+    "poster_path": "/xNDkWw9BACdl6ezhAgsfgk8MAQD.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-12-23T06:25:15.833608"
+  },
+  "61979": {
+    "id": 61979,
+    "title": "Tre passi sopra il cielo",
+    "release_date": "2010-12-03",
+    "vote_average": 7.723,
+    "poster_path": "/nNoMfNPnvEzGADXDkP6eJAP81KB.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "cached_at": "2025-12-23T06:25:15.836851"
+  },
+  "1214931": {
+    "id": 1214931,
+    "title": "Norimberga",
+    "release_date": "2025-11-06",
+    "vote_average": 7.103,
+    "poster_path": "/iXmfBDpY568Hz8xa021eFoU62jA.jpg",
+    "genre_ids": [
+      36,
+      18
+    ],
+    "cached_at": "2025-12-23T06:25:15.850577"
+  },
+  "1006141": {
+    "id": 1006141,
+    "title": "Laggiù qualcuno mi ama",
+    "release_date": "2023-02-23",
+    "vote_average": 7.8,
+    "poster_path": "/eqQtYt3RuGavwFQhcLZf2meiQkk.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-12-23T06:25:15.903593"
+  },
+  "1438969": {
+    "id": 1438969,
+    "title": "Unicorni",
+    "release_date": "2025-07-18",
+    "vote_average": 6.625,
+    "poster_path": "/7Tq7wUhJOtLgHyWkfjBo6TwyVHl.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-12-23T06:25:15.919454"
+  },
+  "1554": {
+    "id": 1554,
+    "title": "Daunbailò",
+    "release_date": "1986-09-20",
+    "vote_average": 7.331,
+    "poster_path": "/h5Y9JH78vLI7so0sRczf0dNfuW9.jpg",
+    "genre_ids": [
+      80,
+      18,
+      35
+    ],
+    "cached_at": "2025-12-23T06:25:16.063120"
+  },
+  "80662": {
+    "id": 80662,
+    "title": "Guilty of Romance",
+    "release_date": "2011-09-30",
+    "vote_average": 6.908,
+    "poster_path": "/h71Nlh5EcOm5uiui4HGmEswK7Mc.jpg",
+    "genre_ids": [
+      53,
+      27,
+      9648
+    ],
+    "cached_at": "2025-12-23T06:25:16.134144"
   }
 }

@@ -61117,5 +61117,78 @@
       80
     ],
     "cached_at": "2025-12-22T06:26:50.911945"
+  },
+  "130842": {
+    "id": 130842,
+    "name": "The Newsreader",
+    "original_name": "The Newsreader",
+    "first_air_date": "2021-08-15",
+    "vote_average": 7.6,
+    "poster_path": "/aHl6HgHcFLfe68E7uiq8NRDCXOv.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-12-23T06:25:21.658906"
+  },
+  "211564": {
+    "id": 211564,
+    "name": "Sullivan's Crossing",
+    "original_name": "Sullivan's Crossing",
+    "first_air_date": "2023-03-19",
+    "vote_average": 8.8,
+    "poster_path": "/y07aaUa07t6ro6Y62teg4GHo45b.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-12-23T06:25:21.671673"
+  },
+  "246864": {
+    "id": 246864,
+    "name": "Amadeus",
+    "original_name": "Amadeus",
+    "first_air_date": "2025-12-21",
+    "vote_average": 0.0,
+    "poster_path": "/eQCB7nytNXlUfaeKStXB9q9PcJk.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-12-23T06:25:21.725678"
+  },
+  "304949": {
+    "id": 304949,
+    "name": "Miss Sophie – Same Procedure as Every Year",
+    "original_name": "Miss Sophie – Same Procedure as Every Year",
+    "first_air_date": "2025-12-22",
+    "vote_average": 6.0,
+    "poster_path": "/p2W8tG9yy01ylYUt7gdh7uBmO81.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-12-23T06:25:21.748958"
+  },
+  "285970": {
+    "id": 285970,
+    "name": "Mafia: Most Wanted",
+    "original_name": "Mafia: Most Wanted",
+    "first_air_date": "2025-03-07",
+    "vote_average": 5.25,
+    "poster_path": "/jY1K2VZjE1fijbm2nRFQSfpbGrl.jpg",
+    "genre_ids": [
+      99,
+      80
+    ],
+    "cached_at": "2025-12-23T06:25:21.820450"
+  },
+  "205995": {
+    "id": 205995,
+    "name": "Il delitto di Perugia - Chi ha ucciso Meredith?",
+    "original_name": "Il delitto di Perugia - Chi ha ucciso Meredith?",
+    "first_air_date": "2021-05-29",
+    "vote_average": 6.125,
+    "poster_path": "/ozfqp8tjv6qwjBwseApLwJGdR4N.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-12-23T06:25:22.082481"
   }
 }
