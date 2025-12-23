@@ -1,1 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
+https://example.com.m3u8
+
+#EXTINF:-1 tvg-id="zoldertelenetsuperprestige" tvg-name="Cycling | Zolder Telenet Superprestige (12:30)" tvg-logo="https://companieslogo.com/img/orig/TNET.BR-f6958bf4.png?download=true" group-title="Eventi Live DLHD",Cycling | Zolder Telenet Superprestige (12:30)
+https://daddyhd.com/watch.php?id=878
+
+#EXTINF:-1 tvg-id="seriea1womenvallefogliawvsmonzaw" tvg-name="Volleyball | Serie A1 Women : Vallefoglia W vs Monza W (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Vallefoglia W_vs_Monza W.png" group-title="Eventi Live DLHD",Volleyball | Serie A1 Women : Vallefoglia W vs Monza W (19:00)
+https://daddyhd.com/watch.php?id=877
+
+#EXTINF:-1 tvg-id="seriea1womenpinerolowvsperugiaw" tvg-name="Volleyball | Serie A1 Women : Pinerolo W vs Perugia W (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pinerolo W_vs_Perugia W.png" group-title="Eventi Live DLHD",Volleyball | Serie A1 Women : Pinerolo W vs Perugia W (19:30)
+https://daddyhd.com/watch.php?id=882
+
