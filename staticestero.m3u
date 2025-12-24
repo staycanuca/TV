@@ -1,0 +1,171 @@
+#EXTM3U url-tvg="https://github.com/nzo66/TV/raw/refs/heads/main/epg.xml.gz"
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/512px-Canale_5_-_2018_logo.svg.png" group-title="Mediaset",CANALE 5 (Static)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000
+#EXTVLCOPT:decryption_key=0000
+https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo.png" group-title="Documentari",DISCOVERY (Static)
+https://d24aqelmrau4kx.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/f9506ac3-80c6-41de-858c-a27a877155d8/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1280px-DMAX_-_Logo_2016.svg.png" group-title="Altro",DMAX (Static)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000
+#EXTVLCOPT:decryption_key=0000
+https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
+#EXTINF:-1 tvg-id="eurosport.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1 (Static)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=46e559c2f9f645ce8d80c7fa20446bdb:597d214d66342ee042bccffeb165e750
+#EXTVLCOPT:decryption_key=46e559c2f9f645ce8d80c7fa20446bdb:597d214d66342ee042bccffeb165e750
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport1)/manifest.mpd
+#EXTINF:-1 tvg-id="eurosport.2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2 (Static)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e8372283a523444c84646c4172b1bc0f:969a90e1a1a6424a68fe4b5d776368ec
+#EXTVLCOPT:decryption_key=e8372283a523444c84646c4172b1bc0f:969a90e1a1a6424a68fe4b5d776368ec
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport2)/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/30/Logo_Italia_1.svg/512px-Logo_Italia_1.svg.png" group-title="Mediaset",ITALIA 1 (Static)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000
+#EXTVLCOPT:decryption_key=0000
+https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/512px-LA7_-_Logo_2011.svg.png" group-title="Altro",LA7 (Static)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000
+#EXTVLCOPT:decryption_key=0000
+https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://magtv.altervista.org/wp-content/uploads/2025/09/La7-cinema-320x245.png" group-title="Film - Serie TV",LA7 CINEMA (Static)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000
+#EXTVLCOPT:decryption_key=0000
+https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Nove_-_Logo_2017.svg/512px-Nove_-_Logo_2017.svg.png" group-title="Altro",NOVE (Static)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000
+#EXTVLCOPT:decryption_key=0000
+https://viamotionhsi.netplus.ch/live/eds/nove/browser-dash/nove.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/R101_-_Logo_2015.svg/512px-R101_-_Logo_2015.svg.png" group-title="Altro",R101 TV (Static)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000
+#EXTVLCOPT:decryption_key=0000
+https://live03-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/manifest_hr.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/0/01/105.png" group-title="Musica",RADIO 105 (Static)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000
+#EXTVLCOPT:decryption_key=0000
+https://live03-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/manifest_hr.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/4/4e/RMC1_Logo.png" group-title="Musica",RADIO MONTE CARLO (Static)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000
+#EXTVLCOPT:decryption_key=0000
+https://live03-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest_hr.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png" group-title="Rai",RAI 1 (Static)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000
+#EXTVLCOPT:decryption_key=0000
+https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/512px-Rai_2_-_Logo_2016.svg.png" group-title="Rai",RAI 2 (Static)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000
+#EXTVLCOPT:decryption_key=0000
+https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/512px-Rai_3_-_Logo_2016.svg.png" group-title="Rai",RAI 3 (Static)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000
+#EXTVLCOPT:decryption_key=0000
+https://viamotionhsi.netplus.ch/live/eds/rai3/browser-dash/rai3.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Rai_Gulp_-_Logo_2017.svg/512px-Rai_Gulp_-_Logo_2017.svg.png" group-title="Rai",RAI GULP (Static)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000
+#EXTVLCOPT:decryption_key=0000
+https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/512px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA (Static)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b02e6c916cc9453fa23a6a71da29fbff:5459f15c2c1190d95fe4976ec69ae875
+#EXTVLCOPT:decryption_key=b02e6c916cc9453fa23a6a71da29fbff:5459f15c2c1190d95fe4976ec69ae875
+https://idx1.karmakurama.com/firstlokal2/live/eds/RaiItalia/mpd/RaiItalia.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rai_News_24_logo_(2022).svg/512px-Rai_News_24_logo_(2022).svg.png" group-title="Rai",RAI NEWS (Static)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000
+#EXTVLCOPT:decryption_key=0000
+https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/512px-Rai_Scuola_-_Logo_2017.svg.png" group-title="Rai",RAI SCUOLA (Static)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000
+#EXTVLCOPT:decryption_key=0000
+https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-dash/raiscuola.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Rai_Sport_-_Logo_2022.svg/512px-Rai_Sport_-_Logo_2022.svg.png" group-title="Rai",RAI SPORT (Static)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000
+#EXTVLCOPT:decryption_key=0000
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/512px-Rai_Storia_-_Logo_2017.svg.png" group-title="Rai",RAI STORIA (Static)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000
+#EXTVLCOPT:decryption_key=0000
+https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-dash/raistoria.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rete_4_-_Logo_2018.svg/512px-Rete_4_-_Logo_2018.svg.png" group-title="Mediaset",RETE 4 (Static)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000
+#EXTVLCOPT:decryption_key=0000
+https://viamotionhsi.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/512px-RSI_La_1_2012.svg.png" group-title="Altro",RSI LA1 (Static)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000
+#EXTVLCOPT:decryption_key=0000
+https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/512px-RSI_La_2_2012.svg.png" group-title="Altro",RSI LA2 (Static)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000
+#EXTVLCOPT:decryption_key=0000
+https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Logo_virgin_radio_tv.png/512px-Logo_virgin_radio_tv.png" group-title="Musica",VIRGIN RADIO (Static)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000
+#EXTVLCOPT:decryption_key=0000
+https://live03-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest_hr.mpd
