@@ -143166,5 +143166,127 @@
       9648
     ],
     "cached_at": "2025-12-23T06:25:16.134144"
+  },
+  "46261": {
+    "id": 46261,
+    "title": "Non avere paura del buio",
+    "release_date": "2010-11-06",
+    "vote_average": 5.795,
+    "poster_path": "/cqSqBbYNtrm6dIWaeCQcAIey3pC.jpg",
+    "genre_ids": [
+      14,
+      27,
+      53
+    ],
+    "cached_at": "2025-12-24T06:25:17.003382"
+  },
+  "37964": {
+    "id": 37964,
+    "title": "Brown Sugar",
+    "release_date": "2002-10-05",
+    "vote_average": 6.593,
+    "poster_path": "/hKltNdfxKg28mOgFwizNyhIFkJ2.jpg",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "cached_at": "2025-12-24T06:25:17.077120"
+  },
+  "92472": {
+    "id": 92472,
+    "title": "গান্ডু",
+    "release_date": "2010-10-29",
+    "vote_average": 5.2,
+    "poster_path": "/ctAGjCNv3rg8BKM2RqIFbsKjaif.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-12-24T06:25:17.121072"
+  },
+  "553": {
+    "id": 553,
+    "title": "Dogville",
+    "release_date": "2003-05-21",
+    "vote_average": 7.758,
+    "poster_path": "/rGAeEgymOL7KYQHwJiOTTfEvdBe.jpg",
+    "genre_ids": [
+      80,
+      18,
+      53
+    ],
+    "cached_at": "2025-12-24T06:25:17.129466"
+  },
+  "83533": {
+    "id": 83533,
+    "title": "Avatar - Fuoco e cenere",
+    "release_date": "2025-12-17",
+    "vote_average": 7.357,
+    "poster_path": "/gqf4n5HrxbEcbcINC9254YKKgcE.jpg",
+    "genre_ids": [
+      878,
+      12,
+      14
+    ],
+    "cached_at": "2025-12-24T06:25:17.196081"
+  },
+  "14475": {
+    "id": 14475,
+    "title": "La fantastica sfida",
+    "release_date": "1980-07-11",
+    "vote_average": 6.396,
+    "poster_path": "/slSgbsrl6GhZ3kwM7KvzViZJwHS.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-12-24T06:25:17.201083"
+  },
+  "1224481": {
+    "id": 1224481,
+    "title": "AmicheMai",
+    "release_date": "2025-02-27",
+    "vote_average": 5.0,
+    "poster_path": "/nMxAe3hKaxVDAIZGpXClK1zjKBD.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-12-24T06:25:17.262366"
+  },
+  "30178": {
+    "id": 30178,
+    "title": "Stuart Little 3 - Un topolino nella foresta",
+    "release_date": "2005-07-14",
+    "vote_average": 5.2,
+    "poster_path": "/6ilAg4cS2XbJO2fNeWYYCLDFusy.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10751
+    ],
+    "cached_at": "2025-12-24T06:25:17.273002"
+  },
+  "11065": {
+    "id": 11065,
+    "title": "\"O\" come Otello",
+    "release_date": "2001-08-31",
+    "vote_average": 5.898,
+    "poster_path": "/62lNOazulOTKc4NgmYC7BoxsH5C.jpg",
+    "genre_ids": [
+      18,
+      10749,
+      53
+    ],
+    "cached_at": "2025-12-24T06:25:17.288744"
+  },
+  "6961": {
+    "id": 6961,
+    "title": "The Wedding Date - L'amore ha il suo prezzo",
+    "release_date": "2005-02-04",
+    "vote_average": 6.82,
+    "poster_path": "/6CgolFc5QN5omJ97wgprnxlSMIS.jpg",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "cached_at": "2025-12-24T06:25:17.430724"
   }
 }
