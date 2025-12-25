@@ -143288,5 +143288,155 @@
       35
     ],
     "cached_at": "2025-12-24T06:25:17.430724"
+  },
+  "22907": {
+    "id": 22907,
+    "title": "Takers",
+    "release_date": "2010-08-26",
+    "vote_average": 6.236,
+    "poster_path": "/s2zx7JA87rkQcmsV40k0vbVJ6oh.jpg",
+    "genre_ids": [
+      28,
+      80,
+      18,
+      53
+    ],
+    "cached_at": "2025-12-25T06:24:31.869209"
+  },
+  "1435092": {
+    "id": 1435092,
+    "title": "Goodbye June",
+    "release_date": "2025-12-12",
+    "vote_average": 7.0,
+    "poster_path": "/ygsMOnttVCekvJZgvmnvaemxPHA.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-12-25T06:24:31.904930"
+  },
+  "292828": {
+    "id": 292828,
+    "title": "D@bbe: Zehr-i Cin",
+    "release_date": "2014-09-12",
+    "vote_average": 5.4,
+    "poster_path": "/m4ODj8Vr2cIk5AwlAw9DLWwLrBq.jpg",
+    "genre_ids": [
+      27,
+      53,
+      14
+    ],
+    "cached_at": "2025-12-25T06:24:31.969792"
+  },
+  "32612": {
+    "id": 32612,
+    "title": "Mister Vendetta",
+    "release_date": "2010-11-15",
+    "vote_average": 5.4,
+    "poster_path": "/ckTcdgDDxpNPXFyI82bSg5PjgYp.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2025-12-25T06:24:31.994581"
+  },
+  "8291": {
+    "id": 8291,
+    "title": "Poetic Justice",
+    "release_date": "1993-07-23",
+    "vote_average": 6.799,
+    "poster_path": "/fOtMHxhYaCQcu3dwWpg7lz4Bqo0.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2025-12-25T06:24:32.035238"
+  },
+  "43593": {
+    "id": 43593,
+    "title": "Piranha 3D",
+    "release_date": "2010-08-20",
+    "vote_average": 5.408,
+    "poster_path": "/6YdJqfDOQekdOM8fggXlxBUUY87.jpg",
+    "genre_ids": [
+      35,
+      27
+    ],
+    "cached_at": "2025-12-25T06:24:32.044844"
+  },
+  "251232": {
+    "id": 251232,
+    "title": "Copenhagen",
+    "release_date": "2014-10-03",
+    "vote_average": 6.562,
+    "poster_path": "/1MSFfjvgf9auNANWcaGTvzf1TcW.jpg",
+    "genre_ids": [
+      12,
+      10749,
+      18
+    ],
+    "cached_at": "2025-12-25T06:24:32.106249"
+  },
+  "70695": {
+    "id": 70695,
+    "title": "Dirty Girl",
+    "release_date": "2010-09-12",
+    "vote_average": 6.0,
+    "poster_path": "/bQ6tNsVfa9DSGzmuvDdlOBZUexY.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "cached_at": "2025-12-25T06:24:32.184147"
+  },
+  "44639": {
+    "id": 44639,
+    "title": "Inside Job: chi ci ha rubato il futuro",
+    "release_date": "2010-10-08",
+    "vote_average": 7.7,
+    "poster_path": "/m69NgF9BPuEH3tOHIQvudMGcQ25.jpg",
+    "genre_ids": [
+      99,
+      80
+    ],
+    "cached_at": "2025-12-25T06:24:32.235602"
+  },
+  "10660": {
+    "id": 10660,
+    "title": "Può succedere anche a te",
+    "release_date": "1994-07-16",
+    "vote_average": 6.7,
+    "poster_path": "/8sWFR4QGytHUhY6rDDMiZaXBgnm.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "cached_at": "2025-12-25T06:24:32.257114"
+  },
+  "283350": {
+    "id": 283350,
+    "title": "Before We Go",
+    "release_date": "2014-09-04",
+    "vote_average": 6.739,
+    "poster_path": "/qBnkNKjbJV0E8GvEPidBS1nIRWD.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "cached_at": "2025-12-25T06:24:32.281202"
+  },
+  "393821": {
+    "id": 393821,
+    "title": "Dab6e",
+    "release_date": "2015-09-11",
+    "vote_average": 6.278,
+    "poster_path": "/bcnAy55U5oO6tGUmCJ9O8It5qZn.jpg",
+    "genre_ids": [
+      27,
+      53,
+      14
+    ],
+    "cached_at": "2025-12-25T06:24:32.423524"
   }
 }
