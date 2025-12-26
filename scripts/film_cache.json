@@ -143438,5 +143438,90 @@
       14
     ],
     "cached_at": "2025-12-25T06:24:32.423524"
+  },
+  "1583500": {
+    "id": 1583500,
+    "title": "Elway",
+    "release_date": "2025-12-21",
+    "vote_average": 7.0,
+    "poster_path": "/bPOEtWhI7lGpW0OxZZGjt545OXy.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-12-26T06:24:24.142474"
+  },
+  "44718": {
+    "id": 44718,
+    "title": "Get Low",
+    "release_date": "2010-07-30",
+    "vote_average": 6.712,
+    "poster_path": "/6uUaQ5zn9neK1VLqO2sGClbJrb9.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      35
+    ],
+    "cached_at": "2025-12-26T06:24:24.142497"
+  },
+  "51608": {
+    "id": 51608,
+    "title": "The Man from Nowhere",
+    "release_date": "2010-08-04",
+    "vote_average": 7.699,
+    "poster_path": "/n2FpGE3N2C7SJbLcsbNuMiZAoLY.jpg",
+    "genre_ids": [
+      28,
+      53,
+      80
+    ],
+    "cached_at": "2025-12-26T06:24:24.283802"
+  },
+  "1407345": {
+    "id": 1407345,
+    "title": "Doğulu",
+    "release_date": "2025-01-01",
+    "vote_average": 10.0,
+    "poster_path": "/jfCW2V8bOlBxhrOA59gxXjp30qT.jpg",
+    "genre_ids": [
+      28,
+      18
+    ],
+    "cached_at": "2025-12-26T06:24:24.294298"
+  },
+  "1588965": {
+    "id": 1588965,
+    "title": "Tom Segura: Teacher",
+    "release_date": "2025-12-24",
+    "vote_average": 6.0,
+    "poster_path": "/jny234URpLAYsnFKxfqadyQ0swz.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-12-26T06:24:24.366261"
+  },
+  "46064": {
+    "id": 46064,
+    "title": "Fratello scout",
+    "release_date": "2010-08-13",
+    "vote_average": 5.882,
+    "poster_path": "/jDYh6sSbSI9GA0ZOhcEYActS6Vh.jpg",
+    "genre_ids": [
+      35,
+      10751,
+      10749,
+      10770
+    ],
+    "cached_at": "2025-12-26T06:24:24.498945"
+  },
+  "915451": {
+    "id": 915451,
+    "title": "La última cena",
+    "release_date": "2021-12-10",
+    "vote_average": 5.3,
+    "poster_path": "/3z4iGRT5OcjJynf6YPnVCe8qMA.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-12-26T06:24:24.509382"
   }
 }
