@@ -61240,5 +61240,56 @@
       18
     ],
     "cached_at": "2025-12-25T06:24:38.711176"
+  },
+  "238458": {
+    "id": 238458,
+    "name": "Cashero",
+    "original_name": "캐셔로",
+    "first_air_date": "2025-12-26",
+    "vote_average": 8.0,
+    "poster_path": "/2t9o1zbMAxNePGwpvZF9BVs5x5e.jpg",
+    "genre_ids": [
+      10759,
+      18
+    ],
+    "cached_at": "2025-12-27T06:23:06.496636"
+  },
+  "33238": {
+    "id": 33238,
+    "name": "런닝맨",
+    "original_name": "런닝맨",
+    "first_air_date": "2010-07-11",
+    "vote_average": 8.3,
+    "poster_path": "/15SMnscZqd7HZ0bzruatOcKUlOV.jpg",
+    "genre_ids": [
+      35,
+      10764
+    ],
+    "cached_at": "2025-12-27T06:23:06.521045"
+  },
+  "88585": {
+    "id": 88585,
+    "name": "The Front Bar",
+    "original_name": "The Front Bar",
+    "first_air_date": "",
+    "vote_average": 0.0,
+    "poster_path": "/jv1dUkQO1QzSAiaOGN55c9L9fj2.jpg",
+    "genre_ids": [
+      35,
+      10767
+    ],
+    "cached_at": "2025-12-27T06:23:06.576432"
+  },
+  "40290": {
+    "id": 40290,
+    "name": "MasterChef",
+    "original_name": "MasterChef",
+    "first_air_date": "2010-07-27",
+    "vote_average": 7.1,
+    "poster_path": "/42gO1qCC6GPtHKNXvOdhunhzyS3.jpg",
+    "genre_ids": [
+      10764
+    ],
+    "cached_at": "2025-12-27T06:23:06.803632"
   }
 }

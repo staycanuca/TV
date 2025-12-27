@@ -143523,5 +143523,142 @@
       18
     ],
     "cached_at": "2025-12-26T06:24:24.509382"
+  },
+  "25196": {
+    "id": 25196,
+    "title": "Crazy Heart",
+    "release_date": "2009-12-16",
+    "vote_average": 6.918,
+    "poster_path": "/kwJ14d8IplwxzeDXQ32iBx1xe7P.jpg",
+    "genre_ids": [
+      18,
+      10402,
+      10749
+    ],
+    "cached_at": "2025-12-27T06:22:59.590326"
+  },
+  "10857": {
+    "id": 10857,
+    "title": "Quando soffia il vento",
+    "release_date": "1986-10-24",
+    "vote_average": 7.392,
+    "poster_path": "/heBaFjjHHHixKWLkyryWkS8EpCm.jpg",
+    "genre_ids": [
+      16,
+      10752,
+      18
+    ],
+    "cached_at": "2025-12-27T06:22:59.656780"
+  },
+  "13567": {
+    "id": 13567,
+    "title": "Sleepaway Camp",
+    "release_date": "1983-11-18",
+    "vote_average": 6.3,
+    "poster_path": "/sy2QoyiP58FhVSbyC8CQMPQ8lfn.jpg",
+    "genre_ids": [
+      27
+    ],
+    "cached_at": "2025-12-27T06:22:59.682983"
+  },
+  "8696": {
+    "id": 8696,
+    "title": "Calendar Girls",
+    "release_date": "2003-09-02",
+    "vote_average": 6.541,
+    "poster_path": "/yy2cPwrnUquMCmShrf8TbYu6emd.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "cached_at": "2025-12-27T06:22:59.700244"
+  },
+  "15045": {
+    "id": 15045,
+    "title": "Il mio grasso grosso amico Albert",
+    "release_date": "2004-12-25",
+    "vote_average": 5.1,
+    "poster_path": "/ps9xNCgzM98fjPwXpKDtPRxWPBZ.jpg",
+    "genre_ids": [
+      35,
+      10751,
+      14
+    ],
+    "cached_at": "2025-12-27T06:22:59.753815"
+  },
+  "11837": {
+    "id": 11837,
+    "title": "La collina dei conigli",
+    "release_date": "1978-10-14",
+    "vote_average": 7.197,
+    "poster_path": "/1KbZJtxET316GfCbaRKMcSXwcj.jpg",
+    "genre_ids": [
+      12,
+      16,
+      18
+    ],
+    "cached_at": "2025-12-27T06:22:59.770299"
+  },
+  "1507275": {
+    "id": 1507275,
+    "title": "PAW Patrol - Missione Natale",
+    "release_date": "2025-10-30",
+    "vote_average": 5.6,
+    "poster_path": "/AkRCHZjRjM4DksapKZ83nZwhbYH.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      12
+    ],
+    "cached_at": "2025-12-27T06:22:59.840758"
+  },
+  "11286": {
+    "id": 11286,
+    "title": "La corsa più pazza d'America",
+    "release_date": "1981-06-19",
+    "vote_average": 6.167,
+    "poster_path": "/8Y8d8ji5rniVstyKMG5GTfkIG15.jpg",
+    "genre_ids": [
+      28,
+      35,
+      10751
+    ],
+    "cached_at": "2025-12-27T06:22:59.896026"
+  },
+  "6844": {
+    "id": 6844,
+    "title": "I dieci comandamenti",
+    "release_date": "1956-10-05",
+    "vote_average": 7.765,
+    "poster_path": "/ivKH9Paa77qg4LIPtQDnXR7lZ6X.jpg",
+    "genre_ids": [
+      18,
+      36
+    ],
+    "cached_at": "2025-12-27T06:22:59.965740"
+  },
+  "499": {
+    "id": 499,
+    "title": "Cleo dalle 5 alle 7",
+    "release_date": "1962-04-11",
+    "vote_average": 7.653,
+    "poster_path": "/z50gvTngGZth0N3tiR972xuZyP2.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-12-27T06:23:00.011378"
+  },
+  "66193": {
+    "id": 66193,
+    "title": "Bad Cop - Polizia violenta",
+    "release_date": "2010-06-30",
+    "vote_average": 5.6,
+    "poster_path": "/UJxJhntlNmceBCxgbXDNi4gG5e.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "cached_at": "2025-12-27T06:23:00.046006"
   }
 }
