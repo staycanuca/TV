@@ -1,1 +1,55 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
+https://example.com.m3u8
+
+#EXTINF:-1 tvg-id="italyserieaparmavsfiorentina" tvg-name="All Soccer Events | Italy - Serie A : Parma vs Fiorentina (11:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Parma_vs_Fiorentina.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Parma vs Fiorentina (11:30)
+https://daddyhd.com/watch.php?id=877
+
+#EXTINF:-1 tvg-id="englandpremierleaguenottinghamforestvsmanchestercity" tvg-name="All Soccer Events | England - Premier League : Nottingham Forest vs Manchester City (12:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Nottingham Forest_vs_Manchester City.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Nottingham Forest vs Manchester City (12:30)
+https://daddyhd.com/watch.php?id=870
+
+#EXTINF:-1 tvg-id="italyseriealeccevscomo" tvg-name="All Soccer Events | Italy - Serie A : Lecce vs Como (14:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lecce_vs_Como.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Lecce vs Como (14:00)
+https://daddyhd.com/watch.php?id=877
+
+#EXTINF:-1 tvg-id="italyserieatorinovscagliari" tvg-name="All Soccer Events | Italy - Serie A : Torino vs Cagliari (14:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Torino_vs_Cagliari.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Torino vs Cagliari (14:00)
+https://daddyhd.com/watch.php?id=55
+
+#EXTINF:-1 tvg-id="englandpremierleaguebrentfordvsafcbournemouth" tvg-name="All Soccer Events | England - Premier League : Brentford vs AFC Bournemouth (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Brentford_vs_AFC Bournemouth.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Brentford vs AFC Bournemouth (15:00)
+https://daddyhd.com/watch.php?id=460
+
+#EXTINF:-1 tvg-id="englandpremierleagueliverpoolvswolverhamptonwanderers" tvg-name="All Soccer Events | England - Premier League : Liverpool vs Wolverhampton Wanderers (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Liverpool_vs_Wolverhampton Wanderers.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Liverpool vs Wolverhampton Wanderers (15:00)
+https://daddyhd.com/watch.php?id=870
+
+#EXTINF:-1 tvg-id="englandpremierleaguearsenalvsbrightonamphovealbion" tvg-name="All Soccer Events | England - Premier League : Arsenal vs Brighton &amp; Hove Albion (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Arsenal_vs_Brighton &amp; Hove Albion.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Arsenal vs Brighton &amp; Hove Albion (15:00)
+https://daddyhd.com/watch.php?id=461
+
+#EXTINF:-1 tvg-id="italyserieaudinesevslazio" tvg-name="All Soccer Events | Italy - Serie A : Udinese vs Lazio (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Udinese_vs_Lazio.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Udinese vs Lazio (17:00)
+https://daddyhd.com/watch.php?id=877
+
+#EXTINF:-1 tvg-id="englandpremierleaguechelseavsastonvilla" tvg-name="All Soccer Events | England - Premier League : Chelsea vs Aston Villa (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Chelsea_vs_Aston Villa.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Chelsea vs Aston Villa (17:30)
+https://daddyhd.com/watch.php?id=461
+
+#EXTINF:-1 tvg-id="englandpremierleaguechelseavsastonvilla" tvg-name="All Soccer Events | England - Premier League : Chelsea vs Aston Villa (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Chelsea_vs_Aston Villa.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Chelsea vs Aston Villa (17:30)
+https://daddyhd.com/watch.php?id=870
+
+#EXTINF:-1 tvg-id="italyserieapisavsjuventus" tvg-name="All Soccer Events | Italy - Serie A : Pisa vs Juventus (19:45)" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Pisa vs Juventus (19:45)
+https://daddyhd.com/watch.php?id=2
+
+#EXTINF:-1 tvg-id="italyserieapisavsjuventus" tvg-name="All Soccer Events | Italy - Serie A : Pisa vs Juventus (19:45)" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Pisa vs Juventus (19:45)
+https://daddyhd.com/watch.php?id=461
+
+#EXTINF:-1 tvg-id="italyserieapisavsjuventus" tvg-name="All Soccer Events | Italy - Serie A : Pisa vs Juventus (19:45)" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Pisa vs Juventus (19:45)
+https://daddyhd.com/watch.php?id=870
+
+#EXTINF:-1 tvg-id="semmeringwomensgiantslalomworldcuprun2" tvg-name="Alpine Ski | Semmering | Women's Giant Slalom World Cup | Run 2 (12:00)" tvg-logo="https://www.ferpress.it/wp-content/uploads/2022/02/spagna.png" group-title="Eventi Live DLHD",Alpine Ski | Semmering | Women's Giant Slalom World Cup | Run 2 (12:00)
+https://daddyhd.com/watch.php?id=878
+
+#EXTINF:-1 tvg-id="unitedrugbychampionshipzebrevstreviso" tvg-name="Rugby Union | United Rugby Championship : Zebre vs Treviso (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Zebre_vs_Treviso.png" group-title="Eventi Live DLHD",Rugby Union | United Rugby Championship : Zebre vs Treviso (14:30)
+https://daddyhd.com/watch.php?id=462
+
+#EXTINF:-1 tvg-id="unitedrugbychampionshipmunstervsleinster" tvg-name="Rugby Union | United Rugby Championship : Munster vs Leinster (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Munster_vs_Leinster.png" group-title="Eventi Live DLHD",Rugby Union | United Rugby Championship : Munster vs Leinster (19:45)
+https://daddyhd.com/watch.php?id=462
+
+#EXTINF:-1 tvg-id="seriea1womenvolleymonzavsvolleyconegliano" tvg-name="Volleyball | Serie A1 Women : Volley Monza vs. Volley Conegliano (17:00)" tvg-logo="https://volleybox.net/media/upload/teams/16829558776nkEz.png" group-title="Eventi Live DLHD",Volleyball | Serie A1 Women : Volley Monza vs. Volley Conegliano (17:00)
+https://daddyhd.com/watch.php?id=882
+

@@ -11,12 +11,18 @@ https://vavoo.to/vavoo-iptv/play/68845853044f9c95e43e
 https://vavoo.to/vavoo-iptv/play/190887752614ef25f5e1fd
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.omceo.bg.it/images/loghi/antenna-2.png" group-title="Altro",ANTENNA 2
 https://vavoo.to/vavoo-iptv/play/30140012609b4bf5e8d3b7
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",ANTENNA SICILIA
+https://vavoo.to/vavoo-iptv/play/3309975829c0cd274e96f4
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.antennasud.com/media/2022/08/cropped-LOGO_ANTENNA_SUD_ROSSO_FORATO.png" group-title="Altro",ANTENNA SUD
+https://vavoo.to/vavoo-iptv/play/4084059868fd82d62442e9
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.arte.tv/sites/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png" group-title="Documentari",ARTE NETWORK
 https://vavoo.to/vavoo-iptv/play/430570853d0b7479b224d
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.auroraarte.it/wp-content/uploads/2023/11/AURORA-ARTE-brand.png" group-title="Documentari",AURORA ARTE
 https://vavoo.to/vavoo-iptv/play/3267376899f976b1a231c0
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN8by3YXjCGJQaxT6b-cgZ872BjY_NLIrALA&s" group-title="Altro",AVENGERS GRIMM CHANNEL
 https://vavoo.to/vavoo-iptv/play/1506307932300e27c2fd43
+#EXTINF:-1 tvg-id="babytv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/baby-tv-es.png?raw=true" group-title="Bambini",BABY TV
+https://vavoo.to/vavoo-iptv/play/226572794257a18add58e4
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Logo_Ufficiale_Radio_Bellla_%26_Monella.png" group-title="Altro",BELLLA & MONELLA TV
 https://vavoo.to/vavoo-iptv/play/1611446752ef81feae9ae
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="Altro",BLOOMBERG TV
@@ -73,8 +79,6 @@ https://vavoo.to/vavoo-iptv/play/196833914960066715a573
 https://vavoo.to/vavoo-iptv/play/2745635299ab0cc043a143
 #EXTINF:-1 tvg-id="dazn.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN (D)
 https://daddyhd.com/watch.php?id=877
-#EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV
-https://vavoo.to/vavoo-iptv/play/3802167244650eb7a51319
 #EXTINF:-1 tvg-id="discovery.channel.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari",DISCOVERY CHANNEL
 https://vavoo.to/vavoo-iptv/play/355484191439d5194fc358
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini",DISCOVERY K2
@@ -223,6 +227,8 @@ https://vavoo.to/vavoo-iptv/play/2952884641015b63f29238
 https://vavoo.to/vavoo-iptv/play/233974719353ecd6eb8de1
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/Radio_Capital_-_Logo_2019.svg.png/revision/latest?cb=20190815181629" group-title="Musica",RADIO CAPITAL
 https://vavoo.to/vavoo-iptv/play/4214417458dc0729ae47d
+#EXTINF:-1 tvg-id="radiofreccia.hd.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/radio-freccia-it.png?raw=true" group-title="Musica",RADIO FRECCIA
+https://vavoo.to/vavoo-iptv/play/1711134994a4ab3e165de3
 #EXTINF:-1 tvg-id="rai1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai",RAI 1
 https://vavoo.to/vavoo-iptv/play/122565375973a967da4f03
 #EXTINF:-1 tvg-id="rai1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai",RAI 1 (D)
@@ -279,6 +285,8 @@ https://vavoo.to/vavoo-iptv/play/209862439074120bb15132
 https://vavoo.to/vavoo-iptv/play/3902650955a82543dc27a4
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN TOP FREE
 https://vavoo.to/vavoo-iptv/play/1572866962efea4ca22353
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN TV SHOWS
+https://vavoo.to/vavoo-iptv/play/860912269147f85ae7a8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/RDS-Logo.png/260px-RDS-Logo.png" group-title="Musica",RDS SOCIAL
 https://vavoo.to/vavoo-iptv/play/4031388312f5ebcfc7dc6d
 #EXTINF:-1 tvg-id="rdssocialtv.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/RDS-Logo.png/260px-RDS-Logo.png" group-title="Musica",RDS SOCIAL TV
@@ -597,6 +605,60 @@ https://vavoo.to/vavoo-iptv/play/201531251001a1e9936f4c
 https://vavoo.to/vavoo-iptv/play/2989824407cb0184041b08
 
 # DOCUMENTARI
+
+#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
+https://example.com.m3u8
+
+#EXTINF:-1 tvg-id="italyserieaparmavsfiorentina" tvg-name="All Soccer Events | Italy - Serie A : Parma vs Fiorentina (11:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Parma_vs_Fiorentina.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Parma vs Fiorentina (11:30)
+https://daddyhd.com/watch.php?id=877
+
+#EXTINF:-1 tvg-id="englandpremierleaguenottinghamforestvsmanchestercity" tvg-name="All Soccer Events | England - Premier League : Nottingham Forest vs Manchester City (12:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Nottingham Forest_vs_Manchester City.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Nottingham Forest vs Manchester City (12:30)
+https://daddyhd.com/watch.php?id=870
+
+#EXTINF:-1 tvg-id="italyseriealeccevscomo" tvg-name="All Soccer Events | Italy - Serie A : Lecce vs Como (14:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lecce_vs_Como.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Lecce vs Como (14:00)
+https://daddyhd.com/watch.php?id=877
+
+#EXTINF:-1 tvg-id="italyserieatorinovscagliari" tvg-name="All Soccer Events | Italy - Serie A : Torino vs Cagliari (14:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Torino_vs_Cagliari.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Torino vs Cagliari (14:00)
+https://daddyhd.com/watch.php?id=55
+
+#EXTINF:-1 tvg-id="englandpremierleaguebrentfordvsafcbournemouth" tvg-name="All Soccer Events | England - Premier League : Brentford vs AFC Bournemouth (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Brentford_vs_AFC Bournemouth.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Brentford vs AFC Bournemouth (15:00)
+https://daddyhd.com/watch.php?id=460
+
+#EXTINF:-1 tvg-id="englandpremierleagueliverpoolvswolverhamptonwanderers" tvg-name="All Soccer Events | England - Premier League : Liverpool vs Wolverhampton Wanderers (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Liverpool_vs_Wolverhampton Wanderers.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Liverpool vs Wolverhampton Wanderers (15:00)
+https://daddyhd.com/watch.php?id=870
+
+#EXTINF:-1 tvg-id="englandpremierleaguearsenalvsbrightonamphovealbion" tvg-name="All Soccer Events | England - Premier League : Arsenal vs Brighton &amp; Hove Albion (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Arsenal_vs_Brighton &amp; Hove Albion.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Arsenal vs Brighton &amp; Hove Albion (15:00)
+https://daddyhd.com/watch.php?id=461
+
+#EXTINF:-1 tvg-id="italyserieaudinesevslazio" tvg-name="All Soccer Events | Italy - Serie A : Udinese vs Lazio (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Udinese_vs_Lazio.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Udinese vs Lazio (17:00)
+https://daddyhd.com/watch.php?id=877
+
+#EXTINF:-1 tvg-id="englandpremierleaguechelseavsastonvilla" tvg-name="All Soccer Events | England - Premier League : Chelsea vs Aston Villa (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Chelsea_vs_Aston Villa.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Chelsea vs Aston Villa (17:30)
+https://daddyhd.com/watch.php?id=461
+
+#EXTINF:-1 tvg-id="englandpremierleaguechelseavsastonvilla" tvg-name="All Soccer Events | England - Premier League : Chelsea vs Aston Villa (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Chelsea_vs_Aston Villa.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Chelsea vs Aston Villa (17:30)
+https://daddyhd.com/watch.php?id=870
+
+#EXTINF:-1 tvg-id="italyserieapisavsjuventus" tvg-name="All Soccer Events | Italy - Serie A : Pisa vs Juventus (19:45)" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Pisa vs Juventus (19:45)
+https://daddyhd.com/watch.php?id=2
+
+#EXTINF:-1 tvg-id="italyserieapisavsjuventus" tvg-name="All Soccer Events | Italy - Serie A : Pisa vs Juventus (19:45)" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Pisa vs Juventus (19:45)
+https://daddyhd.com/watch.php?id=461
+
+#EXTINF:-1 tvg-id="italyserieapisavsjuventus" tvg-name="All Soccer Events | Italy - Serie A : Pisa vs Juventus (19:45)" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Pisa vs Juventus (19:45)
+https://daddyhd.com/watch.php?id=870
+
+#EXTINF:-1 tvg-id="semmeringwomensgiantslalomworldcuprun2" tvg-name="Alpine Ski | Semmering | Women's Giant Slalom World Cup | Run 2 (12:00)" tvg-logo="https://www.ferpress.it/wp-content/uploads/2022/02/spagna.png" group-title="Eventi Live DLHD",Alpine Ski | Semmering | Women's Giant Slalom World Cup | Run 2 (12:00)
+https://daddyhd.com/watch.php?id=878
+
+#EXTINF:-1 tvg-id="unitedrugbychampionshipzebrevstreviso" tvg-name="Rugby Union | United Rugby Championship : Zebre vs Treviso (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Zebre_vs_Treviso.png" group-title="Eventi Live DLHD",Rugby Union | United Rugby Championship : Zebre vs Treviso (14:30)
+https://daddyhd.com/watch.php?id=462
+
+#EXTINF:-1 tvg-id="unitedrugbychampionshipmunstervsleinster" tvg-name="Rugby Union | United Rugby Championship : Munster vs Leinster (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Munster_vs_Leinster.png" group-title="Eventi Live DLHD",Rugby Union | United Rugby Championship : Munster vs Leinster (19:45)
+https://daddyhd.com/watch.php?id=462
+
+#EXTINF:-1 tvg-id="seriea1womenvolleymonzavsvolleyconegliano" tvg-name="Volleyball | Serie A1 Women : Volley Monza vs. Volley Conegliano (17:00)" tvg-logo="https://volleybox.net/media/upload/teams/16829558776nkEz.png" group-title="Eventi Live DLHD",Volleyball | Serie A1 Women : Volley Monza vs. Volley Conegliano (17:00)
+https://daddyhd.com/watch.php?id=882
 
 
 #EXTINF:-1 group-title="Eventi Live SPORTSONLINE",Juventus x Udinese 21:00
