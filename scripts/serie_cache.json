@@ -61291,5 +61291,17 @@
       10764
     ],
     "cached_at": "2025-12-27T06:23:06.803632"
+  },
+  "309265": {
+    "id": 309265,
+    "name": "Minimarket",
+    "original_name": "Minimarket",
+    "first_air_date": "2025-12-26",
+    "vote_average": 0.0,
+    "poster_path": "/lPmZvCAMmRWQpUpL0xBvX8x0IFF.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-12-28T06:23:20.596878"
   }
 }

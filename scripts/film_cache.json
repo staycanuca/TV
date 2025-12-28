@@ -143660,5 +143660,129 @@
       53
     ],
     "cached_at": "2025-12-27T06:23:00.046006"
+  },
+  "46959": {
+    "id": 46959,
+    "title": "Un minuto a mezzanotte",
+    "release_date": "1990-01-17",
+    "vote_average": 6.0,
+    "poster_path": "/qhd8xJLtc2bcjj36dRObqQOyld9.jpg",
+    "genre_ids": [
+      53,
+      27,
+      28,
+      12
+    ],
+    "cached_at": "2025-12-28T06:23:14.997794"
+  },
+  "37725": {
+    "id": 37725,
+    "title": "BoyGirl - Questione di... sesso",
+    "release_date": "2006-07-15",
+    "vote_average": 6.515,
+    "poster_path": "/9fpExXoovOUxv3CfcMk5ghE91e6.jpg",
+    "genre_ids": [
+      35,
+      14,
+      10749
+    ],
+    "cached_at": "2025-12-28T06:23:15.019163"
+  },
+  "39578": {
+    "id": 39578,
+    "title": "Il club dei mostri",
+    "release_date": "1981-04-11",
+    "vote_average": 5.8,
+    "poster_path": "/PwtdpCZGycIQdc2qbylgp7rwsl.jpg",
+    "genre_ids": [
+      27,
+      35
+    ],
+    "cached_at": "2025-12-28T06:23:15.083502"
+  },
+  "279988": {
+    "id": 279988,
+    "title": "Extinction",
+    "release_date": "2014-08-24",
+    "vote_average": 3.8,
+    "poster_path": "/13LTZkxrAkswx2eidHK06XbVH8n.jpg",
+    "genre_ids": [
+      53,
+      12
+    ],
+    "cached_at": "2025-12-28T06:23:15.085348"
+  },
+  "186984": {
+    "id": 186984,
+    "title": "RazzaBastarda",
+    "release_date": "2013-04-18",
+    "vote_average": 5.9,
+    "poster_path": "/zsLUmTWe1sdRv3w46anMEEmilQa.jpg",
+    "genre_ids": [
+      53,
+      18
+    ],
+    "cached_at": "2025-12-28T06:23:15.137865"
+  },
+  "31542": {
+    "id": 31542,
+    "title": "L'albero degli zoccoli",
+    "release_date": "1978-08-28",
+    "vote_average": 7.6,
+    "poster_path": "/tJYP9DsJz5OMboAWj9dm3FRiZQR.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-12-28T06:23:15.280757"
+  },
+  "31606": {
+    "id": 31606,
+    "title": "Uccidete la colomba bianca",
+    "release_date": "1989-08-25",
+    "vote_average": 6.133,
+    "poster_path": "/8bEumEJHGZTg7DTm73jUV4pRoQ.jpg",
+    "genre_ids": [
+      80,
+      53,
+      28
+    ],
+    "cached_at": "2025-12-28T06:23:15.296666"
+  },
+  "1516391": {
+    "id": 1516391,
+    "title": "Cover-Up",
+    "release_date": "2025-12-19",
+    "vote_average": 8.3,
+    "poster_path": "/8I7fIZ4yVWrQldZ0yMv7DM0h9Kv.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-12-28T06:23:15.301965"
+  },
+  "339419": {
+    "id": 339419,
+    "title": "Loving - L'amore deve nascere libero",
+    "release_date": "2016-11-04",
+    "vote_average": 6.698,
+    "poster_path": "/sEkWKpkt5dS5ItV11JPGKc0jQ1D.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2025-12-28T06:23:15.371564"
+  },
+  "1259102": {
+    "id": 1259102,
+    "title": "Eternity",
+    "release_date": "2025-11-26",
+    "vote_average": 6.993,
+    "poster_path": "/o8pg20G67BGmQvRkXwstNre062J.jpg",
+    "genre_ids": [
+      10749,
+      35,
+      18,
+      14
+    ],
+    "cached_at": "2025-12-28T06:23:15.444844"
   }
 }
