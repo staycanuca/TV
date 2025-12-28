@@ -1,13 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
-https://example.com.m3u8
-
-#EXTINF:-1 tvg-id="italyserieaatalantavsinternazionale" tvg-name="Soccer | Italy - Serie A : Atalanta vs Internazionale (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Atalanta_vs_Internazionale.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Atalanta vs Internazionale (19:45)
-https://daddyhd.com/watch.php?id=877
-
-#EXTINF:-1 tvg-id="serieacittadicosenzavscapurso" tvg-name="Futsal | Serie A : Citta di Cosenza vs Capurso (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Citta di Cosenza_vs_Capurso.png" group-title="Eventi Live DLHD",Futsal | Serie A : Citta di Cosenza vs Capurso (19:45)
-https://daddyhd.com/watch.php?id=870
-
-#EXTINF:-1 tvg-id="top14stadetoulousainvslarochelle" tvg-name="Rugby Union | Top 14 : Stade Toulousain vs La Rochelle (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Stade Toulousain_vs_La Rochelle.png" group-title="Eventi Live DLHD",Rugby Union | Top 14 : Stade Toulousain vs La Rochelle (20:00)
-https://daddyhd.com/watch.php?id=462
-
