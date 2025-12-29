@@ -143784,5 +143784,128 @@
       14
     ],
     "cached_at": "2025-12-28T06:23:15.444844"
+  },
+  "11836": {
+    "id": 11836,
+    "title": "SpongeBob - Il film",
+    "release_date": "2004-11-19",
+    "vote_average": 7.062,
+    "poster_path": "/d4OEgVm2PEI63n83U58LerLUF07.jpg",
+    "genre_ids": [
+      10751,
+      35,
+      12,
+      16
+    ],
+    "cached_at": "2025-12-29T06:26:53.090616"
+  },
+  "21778": {
+    "id": 21778,
+    "title": "RRRrrrr!!!",
+    "release_date": "2004-01-28",
+    "vote_average": 6.3,
+    "poster_path": "/qsGU6myn85MfqpNAxzJtxJ3VgrM.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-12-29T06:26:53.148457"
+  },
+  "1313013": {
+    "id": 1313013,
+    "title": "Attitudini: Nessuna",
+    "release_date": "2025-12-04",
+    "vote_average": 7.44,
+    "poster_path": "/4U4X0ykGYTFxvxKT1VvWocRrBkJ.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-12-29T06:26:53.152866"
+  },
+  "1212742": {
+    "id": 1212742,
+    "title": "Le regole di Jenny Pen",
+    "release_date": "2025-03-07",
+    "vote_average": 5.9,
+    "poster_path": "/x8Sal5jPWCSzAvRvr1hxVHS1gHS.jpg",
+    "genre_ids": [
+      27,
+      53,
+      9648
+    ],
+    "cached_at": "2025-12-29T06:26:53.217413"
+  },
+  "6488": {
+    "id": 6488,
+    "title": "Aracnofobia",
+    "release_date": "1990-07-20",
+    "vote_average": 6.441,
+    "poster_path": "/aDXPeFIRhLcltGIiCMJZf8t8CfF.jpg",
+    "genre_ids": [
+      35,
+      27
+    ],
+    "cached_at": "2025-12-29T06:26:53.237921"
+  },
+  "44629": {
+    "id": 44629,
+    "title": "Animal Kingdom",
+    "release_date": "2010-06-03",
+    "vote_average": 6.8,
+    "poster_path": "/zhj8YPQKuRev5N3KoHacsPnF4mB.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "cached_at": "2025-12-29T06:26:53.309823"
+  },
+  "20289": {
+    "id": 20289,
+    "title": "Effetto allucinante",
+    "release_date": "1991-12-22",
+    "vote_average": 6.643,
+    "poster_path": "/dU3cXbFWq8qWquskJIjT1N0FohJ.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "cached_at": "2025-12-29T06:26:53.368992"
+  },
+  "1496553": {
+    "id": 1496553,
+    "title": "Da cosa nasce cosa",
+    "release_date": "2025-06-04",
+    "vote_average": 0.0,
+    "poster_path": "/nZSy2eXA2YZ6a7rTKFh6EA6mvt2.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-12-29T06:26:53.379779"
+  },
+  "4978": {
+    "id": 4978,
+    "title": "Fievel sbarca in America",
+    "release_date": "1986-11-21",
+    "vote_average": 6.7,
+    "poster_path": "/tCLLMVSFsOHKXbgIBZ22Xbu2lo1.jpg",
+    "genre_ids": [
+      16,
+      35,
+      12,
+      18,
+      10751
+    ],
+    "cached_at": "2025-12-29T06:26:53.509810"
+  },
+  "3870": {
+    "id": 3870,
+    "title": "Novecento",
+    "release_date": "1976-08-28",
+    "vote_average": 7.8,
+    "poster_path": "/5VOYbc5ZinBkwiUqePIc396pSI0.jpg",
+    "genre_ids": [
+      18,
+      36
+    ],
+    "cached_at": "2025-12-29T06:26:53.651163"
   }
 }
