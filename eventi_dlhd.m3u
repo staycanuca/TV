@@ -1,1 +1,31 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
+https://example.com.m3u8
+
+#EXTINF:-1 tvg-id="englandpremierleagueburnleyvsnewcastleunited" tvg-name="All Soccer Events | England - Premier League : Burnley vs Newcastle United (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Burnley_vs_Newcastle United.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Burnley vs Newcastle United (19:30)
+https://daddyhd.com/watch.php?id=12
+
+#EXTINF:-1 tvg-id="englandpremierleaguenottinghamforestvseverton" tvg-name="All Soccer Events | England - Premier League : Nottingham Forest vs Everton (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Nottingham Forest_vs_Everton.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Nottingham Forest vs Everton (19:30)
+https://daddyhd.com/watch.php?id=14
+
+#EXTINF:-1 tvg-id="englandpremierleaguewesthamunitedvsbrightonamphovealbion" tvg-name="All Soccer Events | England - Premier League : West Ham United vs Brighton &amp; Hove Albion (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/West Ham United_vs_Brighton &amp; Hove Albion.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : West Ham United vs Brighton &amp; Hove Albion (19:30)
+https://daddyhd.com/watch.php?id=16
+
+#EXTINF:-1 tvg-id="englandpremierleaguechelseavsafcbournemouth" tvg-name="All Soccer Events | England - Premier League : Chelsea vs AFC Bournemouth (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Chelsea_vs_AFC Bournemouth.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Chelsea vs AFC Bournemouth (19:30)
+https://daddyhd.com/watch.php?id=462
+
+#EXTINF:-1 tvg-id="englandpremierleaguearsenalvsastonvilla" tvg-name="All Soccer Events | England - Premier League : Arsenal vs Aston Villa (20:15)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Arsenal_vs_Aston Villa.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Arsenal vs Aston Villa (20:15)
+https://daddyhd.com/watch.php?id=870
+
+#EXTINF:-1 tvg-id="englandpremierleaguemanchesterunitedvswolverhamptonwanderers" tvg-name="All Soccer Events | England - Premier League : Manchester United vs Wolverhampton Wanderers (20:15)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Manchester United_vs_Wolverhampton Wanderers.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Manchester United vs Wolverhampton Wanderers (20:15)
+https://daddyhd.com/watch.php?id=20
+
+#EXTINF:-1 tvg-id="superprestigediegemwomen" tvg-name="Cycling | Superprestige | Diegem Women (17:30)" tvg-logo="https://www.poticap.com.br/manutencao.png" group-title="Eventi Live DLHD",Cycling | Superprestige | Diegem Women (17:30)
+https://daddyhd.com/watch.php?id=878
+
+#EXTINF:-1 tvg-id="superprestigediegemmen" tvg-name="Cycling | Superprestige | Diegem Men (19:00)" tvg-logo="https://i.pinimg.com/originals/19/a6/64/19a664e93e4a1ac0df504db6c3f40a02.png" group-title="Eventi Live DLHD",Cycling | Superprestige | Diegem Men (19:00)
+https://daddyhd.com/watch.php?id=878
+
+#EXTINF:-1 tvg-id="italycoppaitaliasuperlegaperugiaumbriavolleyvsvolleycivitanova" tvg-name="Volleyball | Italy, Coppa Italia Superlega : Perugia Umbria Volley vs. Volley Civitanova (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Perugia Umbria Volley_vs_Volley Civitanova.png" group-title="Eventi Live DLHD",Volleyball | Italy, Coppa Italia Superlega : Perugia Umbria Volley vs. Volley Civitanova (19:30)
+https://daddyhd.com/watch.php?id=882
+
