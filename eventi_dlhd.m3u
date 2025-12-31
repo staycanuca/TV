@@ -1,1 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
+https://example.com.m3u8
+
+#EXTINF:-1 tvg-id="garmischpartenkirchenhs142fourhillstournament" tvg-name="Ski Jumping | Garmisch-Partenkirchen HS142 Four Hills Tournament (22:45)" tvg-logo="https://fourhills.com.au/wp-content/uploads/2025/02/Green-Circle-Logo@8x.png" group-title="Eventi Live DLHD",Ski Jumping | Garmisch-Partenkirchen HS142 Four Hills Tournament (22:45)
+https://daddyhd.com/watch.php?id=882
+
