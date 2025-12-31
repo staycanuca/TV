@@ -144003,5 +144003,91 @@
       18
     ],
     "cached_at": "2025-12-30T06:24:48.571239"
+  },
+  "8316": {
+    "id": 8316,
+    "title": "La contessa",
+    "release_date": "2009-03-13",
+    "vote_average": 5.906,
+    "poster_path": "/5JhDTUGLCfLJiVDePW1FY3NvbX5.jpg",
+    "genre_ids": [
+      18,
+      36,
+      53,
+      9648,
+      27
+    ],
+    "cached_at": "2025-12-31T06:25:16.007945"
+  },
+  "16281": {
+    "id": 16281,
+    "title": "Creepshow",
+    "release_date": "1982-11-10",
+    "vote_average": 6.902,
+    "poster_path": "/tueTGyokGGG6FawuMuEo3ef6JR7.jpg",
+    "genre_ids": [
+      27,
+      35
+    ],
+    "cached_at": "2025-12-31T06:25:16.026170"
+  },
+  "1127192": {
+    "id": 1127192,
+    "title": "Avanzers: Italian Super Heroes",
+    "release_date": "2023-07-20",
+    "vote_average": 4.875,
+    "poster_path": "/hs9On8dP2sEq7PIZYqmBWB5QC1x.jpg",
+    "genre_ids": [
+      35,
+      14
+    ],
+    "cached_at": "2025-12-31T06:25:16.148826"
+  },
+  "1314129": {
+    "id": 1314129,
+    "title": "Preparativi per la prossima vita",
+    "release_date": "2025-09-05",
+    "vote_average": 6.0,
+    "poster_path": "/aYns9chkxCZnzEV1jykxor2il7E.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2025-12-31T06:25:16.167350"
+  },
+  "1594966": {
+    "id": 1594966,
+    "title": "Santa Claus 'Nzallanu' 2.0",
+    "release_date": "2024-12-09",
+    "vote_average": 0.0,
+    "poster_path": "/utUsAio0Vxh3TXz7jGq2pHwZCWC.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-12-31T06:25:16.241784"
+  },
+  "43194": {
+    "id": 43194,
+    "title": "Ulisse",
+    "release_date": "1954-10-06",
+    "vote_average": 6.5,
+    "poster_path": "/nqknbv59Rmrec1c6Wkf2PjcN20Z.jpg",
+    "genre_ids": [
+      12,
+      14
+    ],
+    "cached_at": "2025-12-31T06:25:16.293242"
+  },
+  "14636": {
+    "id": 14636,
+    "title": "The Condemned - L'isola della morte",
+    "release_date": "2007-04-27",
+    "vote_average": 6.107,
+    "poster_path": "/chr7iiitekJZydQv5CUvT3LnRRM.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "cached_at": "2025-12-31T06:25:16.385758"
   }
 }
