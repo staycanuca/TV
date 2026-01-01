@@ -147,6 +147,8 @@ https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 https://vavoo.to/vavoo-iptv/play/2392139008947764078821
 #EXTINF:-1 tvg-id="iris.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS
 https://vavoo.to/vavoo-iptv/play/23919988fc371eea2329
+#EXTINF:-1 tvg-id="italia.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Mediaset",ITALIA 1
+https://vavoo.to/vavoo-iptv/play/633342961994dc5083ad5
 #EXTINF:-1 tvg-id="italia.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Mediaset",ITALIA 1 (D)
 https://daddyhd.com/watch.php?id=854
 
@@ -359,6 +361,8 @@ https://vavoo.to/vavoo-iptv/play/3131104474771735b548ce
 https://daddyhd.com/watch.php?id=862
 #EXTINF:-1 tvg-id="sky.cinema.drama.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-drama-it.png" group-title="Film - Serie TV",SKY CINEMA DRAMA (D)
 https://daddyhd.com/watch.php?id=867
+#EXTINF:-1 tvg-id="sky.cinema.due.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film - Serie TV",SKY CINEMA DUE
+https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174
 #EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA DUE +24
 https://vavoo.to/vavoo-iptv/play/1078650168cbe5484d34ad
 #EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA DUE +24 (D)
@@ -367,8 +371,6 @@ https://daddyhd.com/watch.php?id=866
 https://vavoo.to/vavoo-iptv/play/32165161175e13c1d3f56a
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY (D)
 https://daddyhd.com/watch.php?id=865
-#EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film - Serie TV",SKY CINEMA ROMANCE
-https://vavoo.to/vavoo-iptv/play/128126488561be9a87267f
 #EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film - Serie TV",SKY CINEMA ROMANCE (D)
 https://daddyhd.com/watch.php?id=864
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film - Serie TV",SKY CINEMA SUSPENSE
@@ -433,8 +435,6 @@ https://daddyhd.com/watch.php?id=870
 https://daddyhd.com/watch.php?id=577
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/198930923100c09085a1ae
-#EXTINF:-1 tvg-id="sky.sport.golf.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Sport",SKY SPORT GOLF
-https://vavoo.to/vavoo-iptv/play/3897711086f5655aa4d5fb
 #EXTINF:-1 tvg-id="sky.sport.max.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-max-it.png" group-title="Sport",SKY SPORT MAX (D)
 https://daddyhd.com/watch.php?id=460
 #EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-motogp-hd-it.png" group-title="Sport",SKY SPORT MOTOGP
@@ -467,8 +467,6 @@ https://vavoo.to/vavoo-iptv/play/32202484989ac14421915
 https://daddyhd.com/watch.php?id=881
 
 # RAI
-#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport",SPORT ITALIA (BACKUP)
-https://vavoo.to/vavoo-iptv/play/3165086929ad0bcbc4fc19
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/83094948658201829f87a
 #EXTINF:-1 tvg-id="supertennis.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport",SUPER TENNIS
@@ -607,6 +605,45 @@ https://vavoo.to/vavoo-iptv/play/201531251001a1e9936f4c
 https://vavoo.to/vavoo-iptv/play/2989824407cb0184041b08
 
 # MEDIASET
+
+#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
+https://example.com.m3u8
+
+#EXTINF:-1 tvg-id="englandpremierleagueliverpoolvsleedsunited" tvg-name="All Soccer Events | England - Premier League : Liverpool vs Leeds United (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Liverpool_vs_Leeds United.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Liverpool vs Leeds United (17:30)
+https://daddyhd.com/watch.php?id=461
+
+#EXTINF:-1 tvg-id="englandpremierleaguecrystalpalacevsfulham" tvg-name="All Soccer Events | England - Premier League : Crystal Palace vs Fulham (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Crystal Palace_vs_Fulham.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Crystal Palace vs Fulham (17:30)
+https://daddyhd.com/watch.php?id=870
+
+#EXTINF:-1 tvg-id="englandpremierleaguebrentfordvstottenhamhotspur" tvg-name="All Soccer Events | England - Premier League : Brentford vs Tottenham Hotspur (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Brentford_vs_Tottenham Hotspur.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Brentford vs Tottenham Hotspur (20:00)
+https://daddyhd.com/watch.php?id=870
+
+#EXTINF:-1 tvg-id="englandpremierleaguesunderlandvsmanchestercity" tvg-name="All Soccer Events | England - Premier League : Sunderland vs Manchester City (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sunderland_vs_Manchester City.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Sunderland vs Manchester City (20:00)
+https://daddyhd.com/watch.php?id=461
+
+#EXTINF:-1 tvg-id="tourdeskiintoblachmens20kmclassicstylerace" tvg-name="Cross Country | Tour de Ski in Toblach men's 20 km classic style race (09:15)" tvg-logo="https://www.cisalpinaclassicrace.it/imgs/LOGO_BIANCO.png" group-title="Eventi Live DLHD",Cross Country | Tour de Ski in Toblach men's 20 km classic style race (09:15)
+https://daddyhd.com/watch.php?id=878
+
+#EXTINF:-1 tvg-id="tourdeskiintoblachwomens20kmclassicrace" tvg-name="Cross Country | Tour de Ski in Toblach women's 20 km classic race (11:15)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/CoA_civ_ITA_Toblach-Dobbiaco.svg/75px-CoA_civ_ITA_Toblach-Dobbiaco.svg.png" group-title="Eventi Live DLHD",Cross Country | Tour de Ski in Toblach women's 20 km classic race (11:15)
+https://daddyhd.com/watch.php?id=882
+
+#EXTINF:-1 tvg-id="tourdeskiintoblachwomens20kmclassicrace" tvg-name="Cross Country | Tour de Ski in Toblach women's 20 km classic race (11:15)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/CoA_civ_ITA_Toblach-Dobbiaco.svg/75px-CoA_civ_ITA_Toblach-Dobbiaco.svg.png" group-title="Eventi Live DLHD",Cross Country | Tour de Ski in Toblach women's 20 km classic race (11:15)
+https://daddyhd.com/watch.php?id=878
+
+#EXTINF:-1 tvg-id="x2obaalxobadkamerstrophy" tvg-name="Cycling | X2O Baal X?O Badkamers Trophy (12:45)" tvg-logo="https://static.vecteezy.com/system/resources/previews/024/555/698/original/trophy-cup-champion-trophy-free-png.png" group-title="Eventi Live DLHD",Cycling | X2O Baal X?O Badkamers Trophy (12:45)
+https://daddyhd.com/watch.php?id=879
+
+#EXTINF:-1 tvg-id="individualcompetitiongarmischpartenkirchenhs142" tvg-name="Ski Jumping | Individual competition | Garmisch-Partenkirchen HS142 (12:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Ski Jumping | Individual competition | Garmisch-Partenkirchen HS142 (12:30)
+https://daddyhd.com/watch.php?id=878
+
+#EXTINF:-1 tvg-id="individualcompetitionoberstdorfhs137women" tvg-name="Ski Jumping | Individual competition | Oberstdorf HS137 Women (15:15)" tvg-logo="https://www.meupedreiro.com/images/iconEasy.png" group-title="Eventi Live DLHD",Ski Jumping | Individual competition | Oberstdorf HS137 Women (15:15)
+https://daddyhd.com/watch.php?id=878
+
+#EXTINF:-1 tvg-id="garmischpartenkirchenhs142fourhillstournament" tvg-name="Ski Jumping | Garmisch-Partenkirchen HS142 Four Hills Tournament (22:45)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Vierschanzentournee_logo.png/70px-Vierschanzentournee_logo.png" group-title="Eventi Live DLHD",Ski Jumping | Garmisch-Partenkirchen HS142 Four Hills Tournament (22:45)
+https://daddyhd.com/watch.php?id=882
+
+#EXTINF:-1 tvg-id="tourdeskiworldcuptoblachmens15kmclassicpursuit" tvg-name="Winter Sports | Tour de Ski World Cup Toblach | Men's 15km Classic Pursuit (09:15)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Winter Sports | Tour de Ski World Cup Toblach | Men's 15km Classic Pursuit (09:15)
+https://daddyhd.com/watch.php?id=878
 
 
 #EXTINF:-1 group-title="Eventi Live SPORTSONLINE",Juventus x Udinese 21:00
