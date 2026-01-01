@@ -144089,5 +144089,91 @@
       53
     ],
     "cached_at": "2025-12-31T06:25:16.385758"
+  },
+  "39995": {
+    "id": 39995,
+    "title": "Long Weekend",
+    "release_date": "1979-03-29",
+    "vote_average": 6.097,
+    "poster_path": "/roZ7DGi30lA1O4zhtPwBh6q8JV6.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      53
+    ],
+    "cached_at": "2026-01-01T06:24:54.748348"
+  },
+  "9381": {
+    "id": 9381,
+    "title": "Babylon A.D.",
+    "release_date": "2008-08-20",
+    "vote_average": 5.665,
+    "poster_path": "/wuB77cGcrbKy4SEN2bU81PVwUvE.jpg",
+    "genre_ids": [
+      28,
+      12,
+      878,
+      53
+    ],
+    "cached_at": "2026-01-01T06:24:54.795403"
+  },
+  "14052": {
+    "id": 14052,
+    "title": "La rivincita dei nerds",
+    "release_date": "1984-07-20",
+    "vote_average": 6.463,
+    "poster_path": "/qR6MBqvvKyUq1C9srs1zbwS2z2t.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-01-01T06:24:54.807020"
+  },
+  "1500112": {
+    "id": 1500112,
+    "title": "Women & the Wind",
+    "release_date": "2025-04-19",
+    "vote_average": 8.0,
+    "poster_path": "/bixLLa0U1JV7qlwQLoRrdu2pGeu.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-01-01T06:24:54.819264"
+  },
+  "10750": {
+    "id": 10750,
+    "title": "Scuola di eroi",
+    "release_date": "1991-04-24",
+    "vote_average": 6.499,
+    "poster_path": "/lypMbJoQBUofat3XJZrNnqISCPa.jpg",
+    "genre_ids": [
+      28,
+      12,
+      53
+    ],
+    "cached_at": "2026-01-01T06:24:54.939605"
+  },
+  "35056": {
+    "id": 35056,
+    "title": "Notte folle a Manhattan",
+    "release_date": "2010-04-08",
+    "vote_average": 6.106,
+    "poster_path": "/5bYhy6FhZfQpHkpqGA8DMuPVdSv.jpg",
+    "genre_ids": [
+      35,
+      28,
+      12
+    ],
+    "cached_at": "2026-01-01T06:24:54.950072"
+  },
+  "1312150": {
+    "id": 1312150,
+    "title": "Ricky Gervais: Mortality",
+    "release_date": "2025-12-29",
+    "vote_average": 6.625,
+    "poster_path": "/u54OhdSaaLBh02Y4Nf5cETkh8Ku.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-01-01T06:24:55.163215"
   }
 }
