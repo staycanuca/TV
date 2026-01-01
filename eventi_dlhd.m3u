@@ -2,12 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="englandpremierleagueliverpoolvsleedsunited" tvg-name="All Soccer Events | England - Premier League : Liverpool vs Leeds United (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Liverpool_vs_Leeds United.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Liverpool vs Leeds United (17:30)
-https://daddyhd.com/watch.php?id=461
-
-#EXTINF:-1 tvg-id="englandpremierleaguecrystalpalacevsfulham" tvg-name="All Soccer Events | England - Premier League : Crystal Palace vs Fulham (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Crystal Palace_vs_Fulham.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Crystal Palace vs Fulham (17:30)
-https://daddyhd.com/watch.php?id=870
-
 #EXTINF:-1 tvg-id="englandpremierleaguebrentfordvstottenhamhotspur" tvg-name="All Soccer Events | England - Premier League : Brentford vs Tottenham Hotspur (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Brentford_vs_Tottenham Hotspur.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Brentford vs Tottenham Hotspur (20:00)
 https://daddyhd.com/watch.php?id=870
 
