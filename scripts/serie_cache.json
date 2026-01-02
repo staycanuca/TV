@@ -61341,5 +61341,54 @@
       18
     ],
     "cached_at": "2025-12-30T06:24:54.369840"
+  },
+  "290231": {
+    "id": 290231,
+    "name": "Amor de oficina",
+    "original_name": "Amor de oficina",
+    "first_air_date": "2026-01-01",
+    "vote_average": 4.75,
+    "poster_path": "/qNSFDLDaMhEvDTzOr1FOYeXopQz.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-01-02T06:25:01.312579"
+  },
+  "38409": {
+    "id": 38409,
+    "name": "RuPaul's Drag Race: Dietro le quinte!",
+    "original_name": "RuPaul's Drag Race: Untucked",
+    "first_air_date": "2010-02-01",
+    "vote_average": 6.1,
+    "poster_path": "/lTyGI1qd1xS5AuvpE5NW6AVWCdU.jpg",
+    "genre_ids": [
+      10764
+    ],
+    "cached_at": "2026-01-02T06:25:01.327366"
+  },
+  "244244": {
+    "id": 244244,
+    "name": "Fuga",
+    "original_name": "Run Away",
+    "first_air_date": "2026-01-01",
+    "vote_average": 7.333,
+    "poster_path": "/btmvtGsVZZUvJoWGGtzPaBOGEgr.jpg",
+    "genre_ids": [
+      18,
+      9648
+    ],
+    "cached_at": "2026-01-02T06:25:01.455205"
+  },
+  "308505": {
+    "id": 308505,
+    "name": "My Korean Boyfriend",
+    "original_name": "My Korean Boyfriend",
+    "first_air_date": "2026-01-01",
+    "vote_average": 0.0,
+    "poster_path": null,
+    "genre_ids": [
+      10764
+    ],
+    "cached_at": "2026-01-02T06:25:01.550867"
   }
 }

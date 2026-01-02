@@ -144175,5 +144175,155 @@
       35
     ],
     "cached_at": "2026-01-01T06:24:55.163215"
+  },
+  "27569": {
+    "id": 27569,
+    "title": "Misure straordinarie",
+    "release_date": "2010-01-21",
+    "vote_average": 6.292,
+    "poster_path": "/fxKUYkEikIkJ9U9eKLmZnOeYdcW.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-01-02T06:24:55.297599"
+  },
+  "100544": {
+    "id": 100544,
+    "title": "Officer Down",
+    "release_date": "2013-01-22",
+    "vote_average": 5.3,
+    "poster_path": "/ageNvAnhrwOrFjsB8mHqckee503.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "cached_at": "2026-01-02T06:24:55.354554"
+  },
+  "41211": {
+    "id": 41211,
+    "title": "Il truffacuori",
+    "release_date": "2010-03-17",
+    "vote_average": 6.631,
+    "poster_path": "/ofcIL2zG4H0NzII2AWcdHVgtUCK.jpg",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "cached_at": "2026-01-02T06:24:55.364984"
+  },
+  "628847": {
+    "id": 628847,
+    "title": "Trap House",
+    "release_date": "2025-11-14",
+    "vote_average": 6.244,
+    "poster_path": "/ctU9S47MoJDN9CB7SCaitcfyyIu.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "cached_at": "2026-01-02T06:24:55.424251"
+  },
+  "568637": {
+    "id": 568637,
+    "title": "Diablo - L'ultima corsa",
+    "release_date": "2019-01-18",
+    "vote_average": 4.949,
+    "poster_path": "/25UKwenbGoBydBSlTXfjHVkIqzg.jpg",
+    "genre_ids": [
+      28,
+      80
+    ],
+    "cached_at": "2026-01-02T06:24:55.433754"
+  },
+  "12201": {
+    "id": 12201,
+    "title": "Fuori controllo",
+    "release_date": "2010-01-28",
+    "vote_average": 6.388,
+    "poster_path": "/hFVc7fpU4yC1EmdnKvmnb0BVK3.jpg",
+    "genre_ids": [
+      80,
+      18,
+      9648,
+      53
+    ],
+    "cached_at": "2026-01-02T06:24:55.494466"
+  },
+  "38325": {
+    "id": 38325,
+    "title": "Как я провёл этим летом",
+    "release_date": "2010-04-01",
+    "vote_average": 6.447,
+    "poster_path": "/486DMMZ1h0URLyJQxvT8ibZkuBp.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "cached_at": "2026-01-02T06:24:55.503408"
+  },
+  "37414": {
+    "id": 37414,
+    "title": "The Killer Inside Me",
+    "release_date": "2010-02-19",
+    "vote_average": 5.824,
+    "poster_path": "/osuetNMPfUQraZD1cWhEsVkeit4.jpg",
+    "genre_ids": [
+      80,
+      18,
+      53
+    ],
+    "cached_at": "2026-01-02T06:24:55.706566"
+  },
+  "27586": {
+    "id": 27586,
+    "title": "The Runaways",
+    "release_date": "2010-03-19",
+    "vote_average": 6.452,
+    "poster_path": "/aqO3jz1VaunIloF17e3LvNqIkMl.jpg",
+    "genre_ids": [
+      10402,
+      18,
+      36
+    ],
+    "cached_at": "2026-01-02T06:24:55.718422"
+  },
+  "23742": {
+    "id": 23742,
+    "title": "Poliziotti fuori - Due sbirri a piede libero",
+    "release_date": "2010-02-26",
+    "vote_average": 5.547,
+    "poster_path": "/2I8qqgqiFUA7tNSsJC97xtCoZP6.jpg",
+    "genre_ids": [
+      28,
+      35,
+      80
+    ],
+    "cached_at": "2026-01-02T06:24:55.789364"
+  },
+  "34583": {
+    "id": 34583,
+    "title": "The Final",
+    "release_date": "2010-01-28",
+    "vote_average": 6.033,
+    "poster_path": "/ff7UI8q51sOArKafaaAOQnnfpne.jpg",
+    "genre_ids": [
+      53,
+      27
+    ],
+    "cached_at": "2026-01-02T06:24:55.866097"
+  },
+  "779057": {
+    "id": 779057,
+    "title": "The Survivalist",
+    "release_date": "2021-12-02",
+    "vote_average": 4.393,
+    "poster_path": "/yQwJWAexW98g309IsHcOdVu9yk7.jpg",
+    "genre_ids": [
+      28,
+      878,
+      53
+    ],
+    "cached_at": "2026-01-02T06:24:55.933368"
   }
 }
