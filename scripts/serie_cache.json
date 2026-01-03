@@ -61390,5 +61390,46 @@
       10764
     ],
     "cached_at": "2026-01-02T06:25:01.550867"
+  },
+  "244571": {
+    "id": 244571,
+    "name": "Satu",
+    "original_name": "สาธุ",
+    "first_air_date": "2024-03-27",
+    "vote_average": 7.7,
+    "poster_path": "/6ogE1yHtHwmJ6VRWKK1T5wrtlnL.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "cached_at": "2026-01-03T06:23:18.094311"
+  },
+  "285636": {
+    "id": 285636,
+    "name": "Il tempo delle mosche",
+    "original_name": "El tiempo de las moscas",
+    "first_air_date": "2026-01-01",
+    "vote_average": 6.0,
+    "poster_path": "/9n2HM0guy6Wn95EshDj7Uw6XWd2.jpg",
+    "genre_ids": [
+      18,
+      35,
+      80
+    ],
+    "cached_at": "2026-01-03T06:23:18.131027"
+  },
+  "272586": {
+    "id": 272586,
+    "name": "Synden",
+    "original_name": "Synden",
+    "first_air_date": "2026-01-02",
+    "vote_average": 7.3,
+    "poster_path": "/Hb0TgRRIrwC9qRo4UkT2ZmbFj0.jpg",
+    "genre_ids": [
+      80,
+      9648,
+      18
+    ],
+    "cached_at": "2026-01-03T06:23:18.203983"
   }
 }

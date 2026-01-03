@@ -144325,5 +144325,190 @@
       53
     ],
     "cached_at": "2026-01-02T06:24:55.933368"
+  },
+  "77174": {
+    "id": 77174,
+    "title": "ParaNorman",
+    "release_date": "2012-08-03",
+    "vote_average": 7.022,
+    "poster_path": "/qa8XcuqPCGhjjrww50IbEHzCYi0.jpg",
+    "genre_ids": [
+      10751,
+      16,
+      12,
+      35
+    ],
+    "cached_at": "2026-01-03T06:23:11.856516"
+  },
+  "24438": {
+    "id": 24438,
+    "title": "Che fine hanno fatto i Morgan?",
+    "release_date": "2009-12-17",
+    "vote_average": 5.385,
+    "poster_path": "/x4Pds4390kzDDVHOoefDLsq4ERc.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "cached_at": "2026-01-03T06:23:11.881624"
+  },
+  "77850": {
+    "id": 77850,
+    "title": "Anche i fantasmi lo fanno",
+    "release_date": "1985-10-30",
+    "vote_average": 4.4,
+    "poster_path": "/e32ycfsGllbghXstP3PMvDZfm6M.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-01-03T06:23:11.923941"
+  },
+  "14247": {
+    "id": 14247,
+    "title": "Sniper 3 - Ritorno in Vietnam",
+    "release_date": "2004-08-03",
+    "vote_average": 5.4,
+    "poster_path": "/pUOUOGL3aqKJ7IyBRYvmZQmsmr9.jpg",
+    "genre_ids": [
+      18,
+      28,
+      53
+    ],
+    "cached_at": "2026-01-03T06:23:11.945745"
+  },
+  "51442": {
+    "id": 51442,
+    "title": "La casa degli orrori - American gothic",
+    "release_date": "1987-08-17",
+    "vote_average": 5.855,
+    "poster_path": "/pBQyxw1w8BcxhCt4uV21xYkjBNJ.jpg",
+    "genre_ids": [
+      27
+    ],
+    "cached_at": "2026-01-03T06:23:11.997583"
+  },
+  "1304408": {
+    "id": 1304408,
+    "title": "Io non sono nessuno",
+    "release_date": "2025-03-06",
+    "vote_average": 0.0,
+    "poster_path": "/dPhdRH235b15ms7mxFzCY8lsdcN.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-01-03T06:23:12.018945"
+  },
+  "23514": {
+    "id": 23514,
+    "title": "The Rum Diary - Cronache di una passione",
+    "release_date": "2011-10-13",
+    "vote_average": 5.9,
+    "poster_path": "/wB12l8fk3VGDaMpdP78jawtOeFE.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-01-03T06:23:12.066679"
+  },
+  "36599": {
+    "id": 36599,
+    "title": "Non entrate in quella casa",
+    "release_date": "1980-07-18",
+    "vote_average": 5.715,
+    "poster_path": "/8wD09mf5N5r4wO14azwn5LopP5Q.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      53
+    ],
+    "cached_at": "2026-01-03T06:23:12.068786"
+  },
+  "11614": {
+    "id": 11614,
+    "title": "Bomber",
+    "release_date": "1982-08-05",
+    "vote_average": 6.382,
+    "poster_path": "/qcvIsvyBhaz0BlMjzYrx9fZ2mZ2.jpg",
+    "genre_ids": [
+      28,
+      35,
+      18
+    ],
+    "cached_at": "2026-01-03T06:23:12.090246"
+  },
+  "1356670": {
+    "id": 1356670,
+    "title": "L’ultimo turno",
+    "release_date": "2025-02-27",
+    "vote_average": 7.807,
+    "poster_path": "/5rdPS4URp6joVC0gOW5QF5TVkux.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-01-03T06:23:12.136584"
+  },
+  "116530": {
+    "id": 116530,
+    "title": "John Lennon: Love Is All You Need",
+    "release_date": "2010-07-19",
+    "vote_average": 2.0,
+    "poster_path": "/c4cq7uGk8uxFZifB4Eo7dPJohDF.jpg",
+    "genre_ids": [
+      99,
+      10402
+    ],
+    "cached_at": "2026-01-03T06:23:12.208252"
+  },
+  "30596": {
+    "id": 30596,
+    "title": "Bodyguards and Assassins",
+    "release_date": "2009-12-18",
+    "vote_average": 6.784,
+    "poster_path": "/hEqqA5pSm62IcJ4YJAuMByme3zr.jpg",
+    "genre_ids": [
+      18,
+      28,
+      36
+    ],
+    "cached_at": "2026-01-03T06:23:12.279222"
+  },
+  "27370": {
+    "id": 27370,
+    "title": "Paranormal Entity",
+    "release_date": "2009-12-22",
+    "vote_average": 5.136,
+    "poster_path": "/qEPhUiGz0jNTRIywdUVGWdRW9tM.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      53
+    ],
+    "cached_at": "2026-01-03T06:23:12.352959"
+  },
+  "947": {
+    "id": 947,
+    "title": "Lawrence d'Arabia",
+    "release_date": "1962-12-11",
+    "vote_average": 7.998,
+    "poster_path": "/sZITQe4lSbhLuG8Q9FjcT0iKnQk.jpg",
+    "genre_ids": [
+      12,
+      36,
+      10752
+    ],
+    "cached_at": "2026-01-03T06:23:12.354155"
+  },
+  "22897": {
+    "id": 22897,
+    "title": "È complicato",
+    "release_date": "2009-12-23",
+    "vote_average": 6.5,
+    "poster_path": "/7hJvAUIJEeBKvTg4PAwe9NxiiFf.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-01-03T06:23:12.421097"
   }
 }
