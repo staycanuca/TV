@@ -2,9 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyserieacomovsudinese" tvg-name="All Soccer Events | Italy - Serie A : Como vs Udinese (11:30)" tvg-logo="https://www.footballkitarchive.com/static/logos/jg7ChWhHx9uMqs6/como-1907-2019-logo.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Como vs Udinese (11:30)
-https://daddyhd.com/watch.php?id=877
-
 #EXTINF:-1 tvg-id="englandpremierleagueastonvillavsnottinghamforest" tvg-name="All Soccer Events | England - Premier League : Aston Villa vs Nottingham Forest (12:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Aston Villa_vs_Nottingham Forest.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Aston Villa vs Nottingham Forest (12:30)
 https://daddyhd.com/watch.php?id=461
 
@@ -17,7 +14,7 @@ https://daddyhd.com/watch.php?id=460
 #EXTINF:-1 tvg-id="italyseriectrentovsgianaerminio" tvg-name="All Soccer Events | Italy - Serie C : Trento vs Giana Erminio (13:30)" tvg-logo="https://www.liceodepero.blog/wp-content/uploads/2023/09/LOGO_Liceo_Vittoria_COLOR-1.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Trento vs Giana Erminio (13:30)
 https://daddyhd.com/watch.php?id=30
 
-#EXTINF:-1 tvg-id="italyseriecpontederavssassaritorres" tvg-name="All Soccer Events | Italy - Serie C : Pontedera vs Sassari Torres (13:30)" tvg-logo="https://www.ngmadv.it/wp-content/uploads/2018/05/pontedera_logo.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Pontedera vs Sassari Torres (13:30)
+#EXTINF:-1 tvg-id="italyseriecpontederavssassaritorres" tvg-name="All Soccer Events | Italy - Serie C : Pontedera vs Sassari Torres (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pontedera_vs_Sassari Torres.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Pontedera vs Sassari Torres (13:30)
 https://daddyhd.com/watch.php?id=106
 
 #EXTINF:-1 tvg-id="italyseriecjuventusiivsathleticcarpi" tvg-name="All Soccer Events | Italy - Serie C : Juventus II vs Athletic Carpi (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Juventus II_vs_Athletic Carpi.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Juventus II vs Athletic Carpi (13:30)
@@ -62,7 +59,7 @@ https://daddyhd.com/watch.php?id=870
 #EXTINF:-1 tvg-id="italyseriecpicernovsaudacecerignola" tvg-name="All Soccer Events | Italy - Serie C : Picerno vs Audace Cerignola (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Picerno_vs_Audace Cerignola.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Picerno vs Audace Cerignola (16:30)
 https://daddyhd.com/watch.php?id=107
 
-#EXTINF:-1 tvg-id="italyserieajuventusvslecce" tvg-name="All Soccer Events | Italy - Serie A : Juventus vs Lecce (17:00)" tvg-logo="https://lecce.tuttogare.it/src/img/logo-srl-bianco.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Juventus vs Lecce (17:00)
+#EXTINF:-1 tvg-id="italyserieajuventusvslecce" tvg-name="All Soccer Events | Italy - Serie A : Juventus vs Lecce (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Juventus_vs_Lecce.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Juventus vs Lecce (17:00)
 https://daddyhd.com/watch.php?id=877
 
 #EXTINF:-1 tvg-id="italyseriecvispesarovspineto" tvg-name="All Soccer Events | Italy - Serie C : Vis Pesaro vs Pineto (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Vis Pesaro_vs_Pineto.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Vis Pesaro vs Pineto (19:30)
@@ -83,12 +80,6 @@ https://daddyhd.com/watch.php?id=461
 #EXTINF:-1 tvg-id="italyserieaatalantavsroma" tvg-name="All Soccer Events | Italy - Serie A : Atalanta vs Roma (19:45)" tvg-logo="https://images.seeklogo.com/logo-png/50/2/atalanta-logo-png_seeklogo-503108.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Atalanta vs Roma (19:45)
 https://daddyhd.com/watch.php?id=870
 
-#EXTINF:-1 tvg-id="kranjskagorawomensgiantslalomworldcuprun2" tvg-name="Alpine Ski | Kranjska Gora | Women's Giant Slalom World Cup | Run 2 (11:45)" tvg-logo="https://kosobrin.eu/sites/default/files/qualitiy_certificate.png" group-title="Eventi Live DLHD",Alpine Ski | Kranjska Gora | Women's Giant Slalom World Cup | Run 2 (11:45)
-https://daddyhd.com/watch.php?id=878
-
-#EXTINF:-1 tvg-id="valdifiemmemixedclassicsprintworldcupqualifying" tvg-name="Cross Country | Val di Fiemme | Mixed Classic Sprint World Cup | Qualifying (11:10)" tvg-logo="https://www.dovesciare.it/themes/dovesciareb5/images/icons/search.png" group-title="Eventi Live DLHD",Cross Country | Val di Fiemme | Mixed Classic Sprint World Cup | Qualifying (11:10)
-https://daddyhd.com/watch.php?id=879
-
 #EXTINF:-1 tvg-id="valdifiemmemixedclassicsprintworldcup" tvg-name="Cross Country | Val di Fiemme | Mixed Classic Sprint World Cup (13:35)" tvg-logo="https://www.dovesciare.it/themes/dovesciareb5/images/icons/search.png" group-title="Eventi Live DLHD",Cross Country | Val di Fiemme | Mixed Classic Sprint World Cup (13:35)
 https://daddyhd.com/watch.php?id=879
 
@@ -107,6 +98,6 @@ https://daddyhd.com/watch.php?id=878
 #EXTINF:-1 tvg-id="seriea1trentinovslubecivitanova" tvg-name="Volleyball | Serie A1 : Trentino vs Lube Civitanova (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Trentino_vs_Lube Civitanova.png" group-title="Eventi Live DLHD",Volleyball | Serie A1 : Trentino vs Lube Civitanova (17:00)
 https://daddyhd.com/watch.php?id=882
 
-#EXTINF:-1 tvg-id="seriea1womenperugiawvssbernardocuneow" tvg-name="Volleyball | Serie A1 Women : Perugia W vs S. Bernardo Cuneo W (19:30)" tvg-logo="https://www.eurochocolate.com/perugia2025/src/EC25_logoN.png" group-title="Eventi Live DLHD",Volleyball | Serie A1 Women : Perugia W vs S. Bernardo Cuneo W (19:30)
+#EXTINF:-1 tvg-id="seriea1womenperugiawvssbernardocuneow" tvg-name="Volleyball | Serie A1 Women : Perugia W vs S. Bernardo Cuneo W (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Perugia W_vs_S. Bernardo Cuneo W.png" group-title="Eventi Live DLHD",Volleyball | Serie A1 Women : Perugia W vs S. Bernardo Cuneo W (19:30)
 https://daddyhd.com/watch.php?id=882
 
