@@ -144510,5 +144510,313 @@
       10749
     ],
     "cached_at": "2026-01-03T06:23:12.421097"
+  },
+  "8915": {
+    "id": 8915,
+    "title": "Amelia",
+    "release_date": "2009-10-22",
+    "vote_average": 5.684,
+    "poster_path": "/4juRN8MgLpoCiMClxnoMs4PbMuq.jpg",
+    "genre_ids": [
+      12,
+      18,
+      36
+    ],
+    "cached_at": "2026-01-04T06:23:23.222622"
+  },
+  "25376": {
+    "id": 25376,
+    "title": "Il segreto dei suoi occhi",
+    "release_date": "2009-08-13",
+    "vote_average": 8.0,
+    "poster_path": "/cC3Aon7DB2TT8pfDjqj5P3qB3RU.jpg",
+    "genre_ids": [
+      9648,
+      53,
+      18
+    ],
+    "cached_at": "2026-01-04T06:23:23.258620"
+  },
+  "17445": {
+    "id": 17445,
+    "title": "Lanterna Verde - Prima missione",
+    "release_date": "2009-07-28",
+    "vote_average": 6.953,
+    "poster_path": "/3AV1VcUryNTRnZ2iKIUvDno5hhf.jpg",
+    "genre_ids": [
+      28,
+      12,
+      14,
+      16,
+      878
+    ],
+    "cached_at": "2026-01-04T06:23:23.319337"
+  },
+  "34069": {
+    "id": 34069,
+    "title": "Cargo",
+    "release_date": "2009-09-24",
+    "vote_average": 5.907,
+    "poster_path": "/5CFTLlGbRMtNI0ZyfRL4YC1qD4f.jpg",
+    "genre_ids": [
+      53,
+      9648,
+      878
+    ],
+    "cached_at": "2026-01-04T06:23:23.331734"
+  },
+  "1048923": {
+    "id": 1048923,
+    "title": "Empire Waist",
+    "release_date": "2024-09-27",
+    "vote_average": 6.667,
+    "poster_path": "/cha9illdJQ5CEIrVjsmi57xMFt3.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-01-04T06:23:23.361496"
+  },
+  "38780": {
+    "id": 38780,
+    "title": "Rampage",
+    "release_date": "2009-09-27",
+    "vote_average": 5.95,
+    "poster_path": "/dFZzdiMJbvqwvNU8KRopTJllS4h.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "cached_at": "2026-01-04T06:23:23.389348"
+  },
+  "48955": {
+    "id": 48955,
+    "title": "Tutti a casa",
+    "release_date": "1960-10-27",
+    "vote_average": 7.6,
+    "poster_path": "/xD9VusieQYGabQgMtKn06ZKZSvn.jpg",
+    "genre_ids": [
+      35,
+      10752,
+      18
+    ],
+    "cached_at": "2026-01-04T06:23:23.404511"
+  },
+  "36970": {
+    "id": 36970,
+    "title": "La vita negli oceani",
+    "release_date": "2010-01-22",
+    "vote_average": 7.437,
+    "poster_path": "/mELsDrJaYENi5pw2UDyTqP88yJE.jpg",
+    "genre_ids": [
+      99,
+      10751
+    ],
+    "cached_at": "2026-01-04T06:23:23.432976"
+  },
+  "1144443": {
+    "id": 1144443,
+    "title": "Segui la mia voce",
+    "release_date": "2025-09-12",
+    "vote_average": 6.8,
+    "poster_path": "/abp7UjNegChUiciPgSBRC2acBCc.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "cached_at": "2026-01-04T06:23:23.458422"
+  },
+  "24881": {
+    "id": 24881,
+    "title": "Love Hurts",
+    "release_date": "2009-09-09",
+    "vote_average": 4.9,
+    "poster_path": "/2YKxwZMbbgwjvf9cDPgtFwyOdnJ.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-01-04T06:23:23.528826"
+  },
+  "28739": {
+    "id": 28739,
+    "title": "Cabin Fever 2 - Il contagio",
+    "release_date": "2009-08-11",
+    "vote_average": 4.506,
+    "poster_path": "/5JmvkpWqCc8pfNd8FnUytoQBkNO.jpg",
+    "genre_ids": [
+      27
+    ],
+    "cached_at": "2026-01-04T06:23:23.538294"
+  },
+  "1065661": {
+    "id": 1065661,
+    "title": "Chaperone",
+    "release_date": "2025-09-11",
+    "vote_average": 5.0,
+    "poster_path": "/rsMcTipQ6bM1OXgoCia3MTUGpjb.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-01-04T06:23:23.581989"
+  },
+  "34647": {
+    "id": 34647,
+    "title": "Enter the Void",
+    "release_date": "2010-05-05",
+    "vote_average": 7.3,
+    "poster_path": "/8wDYwDgyZcUyuxXBmeIq9qo98bm.jpg",
+    "genre_ids": [
+      14,
+      18
+    ],
+    "cached_at": "2026-01-04T06:23:23.645718"
+  },
+  "49392": {
+    "id": 49392,
+    "title": "Crazy Horse, Paris with Dita Von Teese",
+    "release_date": "2009-11-24",
+    "vote_average": 7.8,
+    "poster_path": "/2UWI1OebBVMu0qO8PxL6b2LVjNN.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-01-04T06:23:23.673374"
+  },
+  "1252037": {
+    "id": 1252037,
+    "title": "Der Tiger - Viaggio all'inferno",
+    "release_date": "2025-09-18",
+    "vote_average": 7.2,
+    "poster_path": "/3AZaRbAF0J8mHJKmu0iTaqmEtH8.jpg",
+    "genre_ids": [
+      10752,
+      28,
+      18
+    ],
+    "cached_at": "2026-01-04T06:23:23.716709"
+  },
+  "457712": {
+    "id": 457712,
+    "title": "The VelociPastor",
+    "release_date": "2018-09-28",
+    "vote_average": 5.233,
+    "poster_path": "/trSmNw63luh84MBy5XLH0UiN1BC.jpg",
+    "genre_ids": [
+      28,
+      27,
+      35
+    ],
+    "cached_at": "2026-01-04T06:23:23.742048"
+  },
+  "583": {
+    "id": 583,
+    "title": "Brian di Nazareth",
+    "release_date": "1979-08-17",
+    "vote_average": 7.758,
+    "poster_path": "/9NpfydvDXesC6xejGeKr6cBI4In.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-01-04T06:23:23.754728"
+  },
+  "42571": {
+    "id": 42571,
+    "title": "La doppia ora",
+    "release_date": "2009-10-09",
+    "vote_average": 6.111,
+    "poster_path": "/vbBQNvxgZk8BwyTfi9qKGrO1Qrz.jpg",
+    "genre_ids": [
+      80,
+      18,
+      9648,
+      10749,
+      53
+    ],
+    "cached_at": "2026-01-04T06:23:23.788506"
+  },
+  "19904": {
+    "id": 19904,
+    "title": "Il segreto di David - The Stepfather",
+    "release_date": "2009-10-16",
+    "vote_average": 5.818,
+    "poster_path": "/jMlEU386sKxHcospJCi6SUf5nAv.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2026-01-04T06:23:23.814080"
+  },
+  "13576": {
+    "id": 13576,
+    "title": "Michael Jackson's This Is It",
+    "release_date": "2009-10-28",
+    "vote_average": 7.199,
+    "poster_path": "/8GvQzHFSqr9KhyVxLEpB5dXPOWG.jpg",
+    "genre_ids": [
+      10402,
+      99
+    ],
+    "cached_at": "2026-01-04T06:23:23.885883"
+  },
+  "36811": {
+    "id": 36811,
+    "title": "The Last Station",
+    "release_date": "2009-09-04",
+    "vote_average": 6.352,
+    "poster_path": "/l5HD2R4ogdYh3oux2Gnu4FOkaDf.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-01-04T06:23:23.955816"
+  },
+  "10862": {
+    "id": 10862,
+    "title": "Bounce",
+    "release_date": "2000-11-15",
+    "vote_average": 5.796,
+    "poster_path": "/w7X4M14WV7KrkkvXd64lcLh79sR.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-01-04T06:23:24.006022"
+  },
+  "1092936": {
+    "id": 1092936,
+    "title": "La valle dei sorrisi",
+    "release_date": "2025-09-17",
+    "vote_average": 7.5,
+    "poster_path": "/fdmkwDCoVYLDgf7PqUzGmoQMnX3.jpg",
+    "genre_ids": [
+      27,
+      18
+    ],
+    "cached_at": "2026-01-04T06:23:24.027330"
+  },
+  "14254": {
+    "id": 14254,
+    "title": "The Uninvited",
+    "release_date": "2009-01-30",
+    "vote_average": 6.451,
+    "poster_path": "/6by9MQopcrcnH5co0fMkTV6FcwZ.jpg",
+    "genre_ids": [
+      27
+    ],
+    "cached_at": "2026-01-04T06:23:24.074200"
+  },
+  "4551": {
+    "id": 4551,
+    "title": "Be Cool",
+    "release_date": "2005-03-04",
+    "vote_average": 5.461,
+    "poster_path": "/ahVIOHKcPVUKQVJgmABS5pMt94W.jpg",
+    "genre_ids": [
+      35,
+      80
+    ],
+    "cached_at": "2026-01-04T06:23:24.099852"
   }
 }
