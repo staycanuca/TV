@@ -2,21 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyseriealaziovsnapoli" tvg-name="All Soccer Events | Italy - Serie A : Lazio vs Napoli (11:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lazio_vs_Napoli.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Lazio vs Napoli (11:30)
-https://daddyhd.com/watch.php?id=877
-
-#EXTINF:-1 tvg-id="italyseriecfoggiavscatania" tvg-name="All Soccer Events | Italy - Serie C : Foggia vs Catania (11:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Foggia_vs_Catania.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Foggia vs Catania (11:30)
-https://daddyhd.com/watch.php?id=6
-
-#EXTINF:-1 tvg-id="italyseriecfoggiavscatania" tvg-name="All Soccer Events | Italy - Serie C : Foggia vs Catania (11:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Foggia_vs_Catania.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Foggia vs Catania (11:30)
-https://daddyhd.com/watch.php?id=870
-
-#EXTINF:-1 tvg-id="italyseriecatalantaiivslatina" tvg-name="All Soccer Events | Italy - Serie C : Atalanta II vs Latina (11:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Atalanta II_vs_Latina.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Atalanta II vs Latina (11:30)
-https://daddyhd.com/watch.php?id=7
-
-#EXTINF:-1 tvg-id="italyseriecatalantaiivslatina" tvg-name="All Soccer Events | Italy - Serie C : Atalanta II vs Latina (11:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Atalanta II_vs_Latina.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Atalanta II vs Latina (11:30)
-https://daddyhd.com/watch.php?id=462
-
 #EXTINF:-1 tvg-id="englandpremierleagueleedsunitedvsmanchesterunited" tvg-name="All Soccer Events | England - Premier League : Leeds United vs Manchester United (12:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Leeds United_vs_Manchester United.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Leeds United vs Manchester United (12:30)
 https://daddyhd.com/watch.php?id=461
 
@@ -89,9 +74,6 @@ https://daddyhd.com/watch.php?id=870
 #EXTINF:-1 tvg-id="italyserieainternazionalevsbologna" tvg-name="All Soccer Events | Italy - Serie A : Internazionale vs Bologna (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Internazionale_vs_Bologna.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Internazionale vs Bologna (19:45)
 https://daddyhd.com/watch.php?id=877
 
-#EXTINF:-1 tvg-id="kranjskagorawomensslalomworldcuprun2" tvg-name="Alpine Ski | Kranjska Gora | Women's Slalom World Cup | Run 2 (11:00)" tvg-logo="https://kosobrin.eu/sites/default/files/qualitiy_certificate.png" group-title="Eventi Live DLHD",Alpine Ski | Kranjska Gora | Women's Slalom World Cup | Run 2 (11:00)
-https://daddyhd.com/watch.php?id=878
-
 #EXTINF:-1 tvg-id="worldcupvaldifiemme10kmfreestylemassstartwomens" tvg-name="Cross Country | World Cup | Val di Fiemme 10km Freestyle Mass Start | Women's (14:15)" tvg-logo="https://hackaday.com/wp-content/uploads/2017/10/2017-10-22-173951_533x546_scrot_thumbnail.png" group-title="Eventi Live DLHD",Cross Country | World Cup | Val di Fiemme 10km Freestyle Mass Start | Women's (14:15)
 https://daddyhd.com/watch.php?id=879
 
@@ -100,9 +82,6 @@ https://daddyhd.com/watch.php?id=878
 
 #EXTINF:-1 tvg-id="top14larochellevstoulon" tvg-name="Rugby Union | Top 14 : La Rochelle vs Toulon (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/La Rochelle_vs_Toulon.png" group-title="Eventi Live DLHD",Rugby Union | Top 14 : La Rochelle vs Toulon (20:00)
 https://daddyhd.com/watch.php?id=462
-
-#EXTINF:-1 tvg-id="skijumpingfourhillstournamentininnsbruckseries1" tvg-name="Ski Jumping | Ski Jumping: Four Hills Tournament in Innsbruck Series 1 (12:00)" tvg-logo="https://usaskijumping.com/wp-content/uploads/2024/11/USASJlogo.png" group-title="Eventi Live DLHD",Ski Jumping | Ski Jumping: Four Hills Tournament in Innsbruck Series 1 (12:00)
-https://daddyhd.com/watch.php?id=878
 
 #EXTINF:-1 tvg-id="seriea1womenconeglianowvsnovaraw" tvg-name="Volleyball | Serie A1 Women : Conegliano W vs Novara W (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Conegliano W_vs_Novara W.png" group-title="Eventi Live DLHD",Volleyball | Serie A1 Women : Conegliano W vs Novara W (17:00)
 https://daddyhd.com/watch.php?id=882
