@@ -1,1 +1,109 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
+https://example.com.m3u8
+
+#EXTINF:-1 tvg-id="italyseriealaziovsnapoli" tvg-name="All Soccer Events | Italy - Serie A : Lazio vs Napoli (11:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lazio_vs_Napoli.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Lazio vs Napoli (11:30)
+https://daddyhd.com/watch.php?id=877
+
+#EXTINF:-1 tvg-id="italyseriecfoggiavscatania" tvg-name="All Soccer Events | Italy - Serie C : Foggia vs Catania (11:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Foggia_vs_Catania.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Foggia vs Catania (11:30)
+https://daddyhd.com/watch.php?id=6
+
+#EXTINF:-1 tvg-id="italyseriecfoggiavscatania" tvg-name="All Soccer Events | Italy - Serie C : Foggia vs Catania (11:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Foggia_vs_Catania.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Foggia vs Catania (11:30)
+https://daddyhd.com/watch.php?id=870
+
+#EXTINF:-1 tvg-id="italyseriecatalantaiivslatina" tvg-name="All Soccer Events | Italy - Serie C : Atalanta II vs Latina (11:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Atalanta II_vs_Latina.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Atalanta II vs Latina (11:30)
+https://daddyhd.com/watch.php?id=7
+
+#EXTINF:-1 tvg-id="italyseriecatalantaiivslatina" tvg-name="All Soccer Events | Italy - Serie C : Atalanta II vs Latina (11:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Atalanta II_vs_Latina.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Atalanta II vs Latina (11:30)
+https://daddyhd.com/watch.php?id=462
+
+#EXTINF:-1 tvg-id="englandpremierleagueleedsunitedvsmanchesterunited" tvg-name="All Soccer Events | England - Premier League : Leeds United vs Manchester United (12:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Leeds United_vs_Manchester United.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Leeds United vs Manchester United (12:30)
+https://daddyhd.com/watch.php?id=461
+
+#EXTINF:-1 tvg-id="italyserieclumezzanevsvicenza" tvg-name="All Soccer Events | Italy - Serie C : Lumezzane vs Vicenza (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lumezzane_vs_Vicenza.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Lumezzane vs Vicenza (13:30)
+https://daddyhd.com/watch.php?id=28
+
+#EXTINF:-1 tvg-id="italyserieclumezzanevsvicenza" tvg-name="All Soccer Events | Italy - Serie C : Lumezzane vs Vicenza (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lumezzane_vs_Vicenza.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Lumezzane vs Vicenza (13:30)
+https://daddyhd.com/watch.php?id=460
+
+#EXTINF:-1 tvg-id="italyserieccampobassovsravenna" tvg-name="All Soccer Events | Italy - Serie C : Campobasso vs Ravenna (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Campobasso_vs_Ravenna.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Campobasso vs Ravenna (13:30)
+https://daddyhd.com/watch.php?id=29
+
+#EXTINF:-1 tvg-id="italyseriecpotenzacalciovsgiugliano" tvg-name="All Soccer Events | Italy - Serie C : Potenza Calcio vs Giugliano (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Potenza Calcio_vs_Giugliano.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Potenza Calcio vs Giugliano (13:30)
+https://daddyhd.com/watch.php?id=24
+
+#EXTINF:-1 tvg-id="italyseriecsiracusavssalernitana" tvg-name="All Soccer Events | Italy - Serie C : Siracusa vs Salernitana (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Siracusa_vs_Salernitana.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Siracusa vs Salernitana (13:30)
+https://daddyhd.com/watch.php?id=15
+
+#EXTINF:-1 tvg-id="italyseriecsiracusavssalernitana" tvg-name="All Soccer Events | Italy - Serie C : Siracusa vs Salernitana (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Siracusa_vs_Salernitana.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Siracusa vs Salernitana (13:30)
+https://daddyhd.com/watch.php?id=870
+
+#EXTINF:-1 tvg-id="italyseriecinteriivsnovara" tvg-name="All Soccer Events | Italy - Serie C : Inter II vs Novara (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Inter II_vs_Novara.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Inter II vs Novara (13:30)
+https://daddyhd.com/watch.php?id=26
+
+#EXTINF:-1 tvg-id="italyseriecunionarzignanochiampovsunionbrescia" tvg-name="All Soccer Events | Italy - Serie C : Union ArzignanoChiampo vs Union Brescia (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Union ArzignanoChiampo_vs_Union Brescia.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Union ArzignanoChiampo vs Union Brescia (13:30)
+https://daddyhd.com/watch.php?id=30
+
+#EXTINF:-1 tvg-id="italyserieafiorentinavscremonese" tvg-name="All Soccer Events | Italy - Serie A : Fiorentina vs Cremonese (14:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Fiorentina_vs_Cremonese.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Fiorentina vs Cremonese (14:00)
+https://daddyhd.com/watch.php?id=877
+
+#EXTINF:-1 tvg-id="englandpremierleaguefulhamvsliverpool" tvg-name="All Soccer Events | England - Premier League : Fulham vs Liverpool (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Fulham_vs_Liverpool.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Fulham vs Liverpool (15:00)
+https://daddyhd.com/watch.php?id=461
+
+#EXTINF:-1 tvg-id="englandpremierleaguetottenhamhotspurvssunderland" tvg-name="All Soccer Events | England - Premier League : Tottenham Hotspur vs Sunderland (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Tottenham Hotspur_vs_Sunderland.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Tottenham Hotspur vs Sunderland (15:00)
+https://daddyhd.com/watch.php?id=462
+
+#EXTINF:-1 tvg-id="italyseriecdolomitibellunesivsalbinoleffe" tvg-name="All Soccer Events | Italy - Serie C : Dolomiti Bellunesi vs AlbinoLeffe (16:30)" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/08/Leffe-Logo-Vector.svg-.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Dolomiti Bellunesi vs AlbinoLeffe (16:30)
+https://daddyhd.com/watch.php?id=29
+
+#EXTINF:-1 tvg-id="italyseriecbravssambenedettese" tvg-name="All Soccer Events | Italy - Serie C : Bra vs Sambenedettese (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bra_vs_Sambenedettese.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Bra vs Sambenedettese (16:30)
+https://daddyhd.com/watch.php?id=28
+
+#EXTINF:-1 tvg-id="italyseriecbravssambenedettese" tvg-name="All Soccer Events | Italy - Serie C : Bra vs Sambenedettese (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bra_vs_Sambenedettese.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Bra vs Sambenedettese (16:30)
+https://daddyhd.com/watch.php?id=460
+
+#EXTINF:-1 tvg-id="italyseriecnuovamonterosivsperugia" tvg-name="All Soccer Events | Italy - Serie C : Nuova Monterosi vs Perugia (16:30)" tvg-logo="https://www.tuttocampo.it/Web/Images/Teams/Original/1008279.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Nuova Monterosi vs Perugia (16:30)
+https://daddyhd.com/watch.php?id=30
+
+#EXTINF:-1 tvg-id="italyseriectrapani1905vsvirtuscasarano" tvg-name="All Soccer Events | Italy - Serie C : Trapani 1905 vs Virtus Casarano (16:30)" tvg-logo="https://www.pennantsmuseum.com/wp-content/uploads/2023/10/00000_Stemma-F.C.-Trapani-1905.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Trapani 1905 vs Virtus Casarano (16:30)
+https://daddyhd.com/watch.php?id=26
+
+#EXTINF:-1 tvg-id="italyserieaveronavstorino" tvg-name="All Soccer Events | Italy - Serie A : Verona vs Torino (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Verona_vs_Torino.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Verona vs Torino (17:00)
+https://daddyhd.com/watch.php?id=15
+
+#EXTINF:-1 tvg-id="italyserieaveronavstorino" tvg-name="All Soccer Events | Italy - Serie A : Verona vs Torino (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Verona_vs_Torino.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Verona vs Torino (17:00)
+https://daddyhd.com/watch.php?id=870
+
+#EXTINF:-1 tvg-id="englandpremierleaguemanchestercityvschelsea" tvg-name="All Soccer Events | England - Premier League : Manchester City vs Chelsea (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Manchester City_vs_Chelsea.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Manchester City vs Chelsea (17:30)
+https://daddyhd.com/watch.php?id=461
+
+#EXTINF:-1 tvg-id="italyseriecternanavslivorno" tvg-name="All Soccer Events | Italy - Serie C : Ternana vs Livorno (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ternana_vs_Livorno.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Ternana vs Livorno (19:30)
+https://daddyhd.com/watch.php?id=28
+
+#EXTINF:-1 tvg-id="italyseriecternanavslivorno" tvg-name="All Soccer Events | Italy - Serie C : Ternana vs Livorno (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ternana_vs_Livorno.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Ternana vs Livorno (19:30)
+https://daddyhd.com/watch.php?id=461
+
+#EXTINF:-1 tvg-id="franceligue1psgvsparis" tvg-name="All Soccer Events | France - Ligue 1 : PSG vs Paris (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/PSG_vs_Paris.png" group-title="Eventi Live DLHD",All Soccer Events | France - Ligue 1 : PSG vs Paris (19:45)
+https://daddyhd.com/watch.php?id=870
+
+#EXTINF:-1 tvg-id="italyserieainternazionalevsbologna" tvg-name="All Soccer Events | Italy - Serie A : Internazionale vs Bologna (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Internazionale_vs_Bologna.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Internazionale vs Bologna (19:45)
+https://daddyhd.com/watch.php?id=877
+
+#EXTINF:-1 tvg-id="kranjskagorawomensslalomworldcuprun2" tvg-name="Alpine Ski | Kranjska Gora | Women's Slalom World Cup | Run 2 (11:00)" tvg-logo="https://kosobrin.eu/sites/default/files/qualitiy_certificate.png" group-title="Eventi Live DLHD",Alpine Ski | Kranjska Gora | Women's Slalom World Cup | Run 2 (11:00)
+https://daddyhd.com/watch.php?id=878
+
+#EXTINF:-1 tvg-id="worldcupvaldifiemme10kmfreestylemassstartwomens" tvg-name="Cross Country | World Cup | Val di Fiemme 10km Freestyle Mass Start | Women's (14:15)" tvg-logo="https://hackaday.com/wp-content/uploads/2017/10/2017-10-22-173951_533x546_scrot_thumbnail.png" group-title="Eventi Live DLHD",Cross Country | World Cup | Val di Fiemme 10km Freestyle Mass Start | Women's (14:15)
+https://daddyhd.com/watch.php?id=879
+
+#EXTINF:-1 tvg-id="ucicyclocrossworldcupzonhoven" tvg-name="Cycling | UCI Cyclo-Cross World Cup Zonhoven (12:30)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Blason_Limburg_province_Belgique.svg/40px-Blason_Limburg_province_Belgique.svg.png" group-title="Eventi Live DLHD",Cycling | UCI Cyclo-Cross World Cup Zonhoven (12:30)
+https://daddyhd.com/watch.php?id=878
+
+#EXTINF:-1 tvg-id="top14larochellevstoulon" tvg-name="Rugby Union | Top 14 : La Rochelle vs Toulon (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/La Rochelle_vs_Toulon.png" group-title="Eventi Live DLHD",Rugby Union | Top 14 : La Rochelle vs Toulon (20:00)
+https://daddyhd.com/watch.php?id=462
+
+#EXTINF:-1 tvg-id="skijumpingfourhillstournamentininnsbruckseries1" tvg-name="Ski Jumping | Ski Jumping: Four Hills Tournament in Innsbruck Series 1 (12:00)" tvg-logo="https://usaskijumping.com/wp-content/uploads/2024/11/USASJlogo.png" group-title="Eventi Live DLHD",Ski Jumping | Ski Jumping: Four Hills Tournament in Innsbruck Series 1 (12:00)
+https://daddyhd.com/watch.php?id=878
+
+#EXTINF:-1 tvg-id="seriea1womenconeglianowvsnovaraw" tvg-name="Volleyball | Serie A1 Women : Conegliano W vs Novara W (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Conegliano W_vs_Novara W.png" group-title="Eventi Live DLHD",Volleyball | Serie A1 Women : Conegliano W vs Novara W (17:00)
+https://daddyhd.com/watch.php?id=882
+
