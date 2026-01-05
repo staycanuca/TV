@@ -144818,5 +144818,489 @@
       80
     ],
     "cached_at": "2026-01-04T06:23:24.099852"
+  },
+  "73645": {
+    "id": 73645,
+    "title": "Pacco, doppio pacco e contropaccotto",
+    "release_date": "1993-01-22",
+    "vote_average": 5.8,
+    "poster_path": "/SVzbRTSvdCjOfNANFUNbddaLN.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-01-05T06:30:33.189012"
+  },
+  "1202496": {
+    "id": 1202496,
+    "title": "Et?",
+    "release_date": "2023-11-08",
+    "vote_average": 7.8,
+    "poster_path": "/pSpGHkpnK8dY3soUgeWnOlSfzWa.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-01-05T06:30:33.216939"
+  },
+  "17667": {
+    "id": 17667,
+    "title": "Beat Street",
+    "release_date": "1984-06-08",
+    "vote_average": 6.844,
+    "poster_path": "/89xduLVtdkIiJZGHjAkveUItC4P.jpg",
+    "genre_ids": [
+      18,
+      10402
+    ],
+    "cached_at": "2026-01-05T06:30:33.267437"
+  },
+  "991494": {
+    "id": 991494,
+    "title": "SpongeBob - Un’avventura da pirati",
+    "release_date": "2025-12-16",
+    "vote_average": 6.8,
+    "poster_path": "/9p9hIUmyC0jitTqWijiH6MzTPCc.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      35,
+      12
+    ],
+    "cached_at": "2026-01-05T06:30:33.301095"
+  },
+  "10210": {
+    "id": 10210,
+    "title": "Sogno di una notte di mezza estate",
+    "release_date": "1999-05-20",
+    "vote_average": 6.393,
+    "poster_path": "/7TeACuyQH2lwiUAE5OM9EibXQOH.jpg",
+    "genre_ids": [
+      14,
+      35,
+      10749
+    ],
+    "cached_at": "2026-01-05T06:30:33.313544"
+  },
+  "3116": {
+    "id": 3116,
+    "title": "Un uomo da marciapiede",
+    "release_date": "1969-05-25",
+    "vote_average": 7.499,
+    "poster_path": "/2L8VBtCq1otRf1iGArGCm6Pvk41.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-01-05T06:30:33.330756"
+  },
+  "18647": {
+    "id": 18647,
+    "title": "I due volti della vendetta",
+    "release_date": "1961-03-30",
+    "vote_average": 6.741,
+    "poster_path": "/2X2TtZSZvcFQPrTRdwkx5TJlIh.jpg",
+    "genre_ids": [
+      37,
+      18
+    ],
+    "cached_at": "2026-01-05T06:30:33.377082"
+  },
+  "8740": {
+    "id": 8740,
+    "title": "Il mistero della donna scomparsa",
+    "release_date": "1988-10-27",
+    "vote_average": 7.437,
+    "poster_path": "/iUsMvN4vgrjdTfYYxBHvkCvKJH4.jpg",
+    "genre_ids": [
+      53,
+      9648
+    ],
+    "cached_at": "2026-01-05T06:30:33.383610"
+  },
+  "23049": {
+    "id": 23049,
+    "title": "Le mie grosse grasse vacanze greche",
+    "release_date": "2009-06-05",
+    "vote_average": 6.1,
+    "poster_path": "/aFm1raDzvSMKBMpNCFiE0OgPd9N.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-01-05T06:30:33.403076"
+  },
+  "24182": {
+    "id": 24182,
+    "title": "Parenti serpenti",
+    "release_date": "1992-03-26",
+    "vote_average": 7.399,
+    "poster_path": "/tDksTwkXNSTx7aO7cqG3oAZSO9X.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-01-05T06:30:33.454343"
+  },
+  "928344": {
+    "id": 928344,
+    "title": "Weird - La storia di Al Yankovic",
+    "release_date": "2022-09-08",
+    "vote_average": 6.72,
+    "poster_path": "/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
+    "genre_ids": [
+      10402,
+      35
+    ],
+    "cached_at": "2026-01-05T06:30:33.471694"
+  },
+  "18898": {
+    "id": 18898,
+    "title": "Il mio amico Eric",
+    "release_date": "2009-05-27",
+    "vote_average": 6.529,
+    "poster_path": "/3MQ22zglqM4cJDt5qBzrzdcUb3n.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "cached_at": "2026-01-05T06:30:33.517632"
+  },
+  "15660": {
+    "id": 15660,
+    "title": "Mammina cara",
+    "release_date": "1981-09-16",
+    "vote_average": 6.342,
+    "poster_path": "/c0jKgEU6RS30eY4apBwx0Im9pB3.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-01-05T06:30:33.589155"
+  },
+  "11300": {
+    "id": 11300,
+    "title": "Qualcosa di travolgente",
+    "release_date": "1986-11-07",
+    "vote_average": 6.6,
+    "poster_path": "/6MJHWzM0JxSTyLLdtmZHOjtxfmv.jpg",
+    "genre_ids": [
+      80,
+      35,
+      10749
+    ],
+    "cached_at": "2026-01-05T06:30:33.616731"
+  },
+  "27346": {
+    "id": 27346,
+    "title": "Maniac",
+    "release_date": "1980-05-10",
+    "vote_average": 6.4,
+    "poster_path": "/pvJyzaV6YRz2Sax3T1kqNaWZlQf.jpg",
+    "genre_ids": [
+      27
+    ],
+    "cached_at": "2026-01-05T06:30:33.657999"
+  },
+  "1245": {
+    "id": 1245,
+    "title": "Quel che resta del giorno",
+    "release_date": "1993-11-05",
+    "vote_average": 7.4,
+    "poster_path": "/A89EmdesgJcU2GkiMhsOifPDvjy.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-01-05T06:30:33.668297"
+  },
+  "17474": {
+    "id": 17474,
+    "title": "L'uomo della luna",
+    "release_date": "1991-09-30",
+    "vote_average": 7.3,
+    "poster_path": "/85TrRY17yKHdnsbbpQW29AuMXs8.jpg",
+    "genre_ids": [
+      18,
+      10751,
+      10749
+    ],
+    "cached_at": "2026-01-05T06:30:33.732666"
+  },
+  "698885": {
+    "id": 698885,
+    "title": "Mother",
+    "release_date": "2009-04-01",
+    "vote_average": 8.0,
+    "poster_path": "/lkcYWbWC2hlOyiaC649Br4qLjoW.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-01-05T06:30:33.737854"
+  },
+  "1532959": {
+    "id": 1532959,
+    "title": "None",
+    "release_date": "2025-05-06",
+    "vote_average": 10.0,
+    "poster_path": "/3bLnqOHJActZJVxdn2oxayXCEeL.jpg",
+    "genre_ids": [
+      10402,
+      36,
+      99,
+      9648
+    ],
+    "cached_at": "2026-01-05T06:30:33.759932"
+  },
+  "61798": {
+    "id": 61798,
+    "title": "Cuori nella tormenta",
+    "release_date": "1984-10-19",
+    "vote_average": 5.5,
+    "poster_path": "/au3aAAeFnQa1IjCHyWWl5uhFmja.jpg",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "cached_at": "2026-01-05T06:30:33.802523"
+  },
+  "27769": {
+    "id": 27769,
+    "title": "A volte ritornano",
+    "release_date": "1991-05-07",
+    "vote_average": 5.88,
+    "poster_path": "/wDaeYfMnfUPdfQUFxTReFsFkFvC.jpg",
+    "genre_ids": [
+      27,
+      10770
+    ],
+    "cached_at": "2026-01-05T06:30:33.809863"
+  },
+  "2690": {
+    "id": 2690,
+    "title": "Irma la dolce",
+    "release_date": "1963-06-05",
+    "vote_average": 7.404,
+    "poster_path": "/xk2m42ntmlUs5Rg3RJiBAf3mw5V.jpg",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "cached_at": "2026-01-05T06:30:33.828346"
+  },
+  "10654": {
+    "id": 10654,
+    "title": "Hair",
+    "release_date": "1979-03-15",
+    "vote_average": 7.3,
+    "poster_path": "/i6S2Aov0D7mAm1fnRPQcTZJlCBe.jpg",
+    "genre_ids": [
+      10402,
+      18,
+      35
+    ],
+    "cached_at": "2026-01-05T06:30:33.873604"
+  },
+  "11649": {
+    "id": 11649,
+    "title": "I dominatori dell'universo",
+    "release_date": "1987-08-07",
+    "vote_average": 5.73,
+    "poster_path": "/opgeYzyA2CC0Lr0YzAkUPCSk3ZM.jpg",
+    "genre_ids": [
+      28,
+      14,
+      878,
+      12,
+      53
+    ],
+    "cached_at": "2026-01-05T06:30:33.900790"
+  },
+  "1427833": {
+    "id": 1427833,
+    "title": "Un topolino sotto l’albero",
+    "release_date": "2025-11-06",
+    "vote_average": 6.7,
+    "poster_path": "/bWgvTgcStRka2FO8kXI9isj2Imd.jpg",
+    "genre_ids": [
+      35,
+      10751,
+      16
+    ],
+    "cached_at": "2026-01-05T06:30:33.942154"
+  },
+  "14838": {
+    "id": 14838,
+    "title": "Hit and Run",
+    "release_date": "2009-01-13",
+    "vote_average": 4.4,
+    "poster_path": "/13bMTJ1juZcfgBweJY6wqv9l9iq.jpg",
+    "genre_ids": [
+      27
+    ],
+    "cached_at": "2026-01-05T06:30:33.952953"
+  },
+  "2759": {
+    "id": 2759,
+    "title": "Priscilla - La regina del deserto",
+    "release_date": "1994-05-31",
+    "vote_average": 7.266,
+    "poster_path": "/sAh5FJqAuokzNcMYXoWjltjdSTA.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "cached_at": "2026-01-05T06:30:34.015521"
+  },
+  "27023": {
+    "id": 27023,
+    "title": "Saint John of Las Vegas",
+    "release_date": "2010-01-29",
+    "vote_average": 5.6,
+    "poster_path": "/haWRw5SpjshGDlcJNOaCkTR84Cc.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-01-05T06:30:34.023055"
+  },
+  "2149": {
+    "id": 2149,
+    "title": "Body of Evidence - Il corpo del reato",
+    "release_date": "1993-01-15",
+    "vote_average": 4.992,
+    "poster_path": "/u5XP6XKNe5zjuevQ6XXuD320OQR.jpg",
+    "genre_ids": [
+      18,
+      53,
+      10749
+    ],
+    "cached_at": "2026-01-05T06:30:34.055774"
+  },
+  "244063": {
+    "id": 244063,
+    "title": "Boys",
+    "release_date": "2014-01-08",
+    "vote_average": 7.68,
+    "poster_path": "/6vd4dO3XQ7Q0QEK3rQSovvOPxxm.jpg",
+    "genre_ids": [
+      18,
+      10749,
+      10770
+    ],
+    "cached_at": "2026-01-05T06:30:34.087557"
+  },
+  "1548655": {
+    "id": 1548655,
+    "title": "AG4IN - Il film del quarto scudetto del Napoli",
+    "release_date": "2025-09-24",
+    "vote_average": 7.5,
+    "poster_path": "/zaJLAY4BGERz5wwJQm3OyHRUCKD.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-01-05T06:30:34.094812"
+  },
+  "82060": {
+    "id": 82060,
+    "title": "Il moralista",
+    "release_date": "1959-06-30",
+    "vote_average": 6.4,
+    "poster_path": "/wzjeJS2tTpKg4iRGffULkM6puKl.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-01-05T06:30:34.115617"
+  },
+  "869166": {
+    "id": 869166,
+    "title": "Venuseffekten",
+    "release_date": "2021-11-18",
+    "vote_average": 6.643,
+    "poster_path": "/dfOaBDQbr3wMLYkRTnlG5BBVA5g.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-01-05T06:30:34.157948"
+  },
+  "71538": {
+    "id": 71538,
+    "title": "Al tropico del cancro",
+    "release_date": "1972-09-30",
+    "vote_average": 4.813,
+    "poster_path": "/pMHO0uYi37HRo9GLhzfVmfkY0tT.jpg",
+    "genre_ids": [
+      53,
+      27
+    ],
+    "cached_at": "2026-01-05T06:30:34.230358"
+  },
+  "10169": {
+    "id": 10169,
+    "title": "Il giallo del bidone giallo",
+    "release_date": "1990-08-24",
+    "vote_average": 5.683,
+    "poster_path": "/hwE0WjuS2TYeglokxoud2bD0eE7.jpg",
+    "genre_ids": [
+      35,
+      80
+    ],
+    "cached_at": "2026-01-05T06:30:34.258094"
+  },
+  "1847": {
+    "id": 1847,
+    "title": "Il lungo addio",
+    "release_date": "1973-03-08",
+    "vote_average": 7.4,
+    "poster_path": "/u0YvoIHgKWGpGkKJQZ5uTHqLaO1.jpg",
+    "genre_ids": [
+      9648,
+      18,
+      80
+    ],
+    "cached_at": "2026-01-05T06:30:34.302204"
+  },
+  "4104": {
+    "id": 4104,
+    "title": "Benny & Joon",
+    "release_date": "1993-04-16",
+    "vote_average": 7.0,
+    "poster_path": "/lbyRokVwmWETUwMTtpcR2pq1aOq.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-01-05T06:30:34.330211"
+  },
+  "38171": {
+    "id": 38171,
+    "title": "Anastasia",
+    "release_date": "1956-12-13",
+    "vote_average": 6.8,
+    "poster_path": "/2IkU3dHcMb0xIyFZZNdOSUpTHrk.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-01-05T06:30:34.371972"
+  },
+  "10349": {
+    "id": 10349,
+    "title": "La metà oscura",
+    "release_date": "1993-04-23",
+    "vote_average": 5.963,
+    "poster_path": "/xyfqnGHSkous6T4lsOEy0AI7YYE.jpg",
+    "genre_ids": [
+      9648,
+      27
+    ],
+    "cached_at": "2026-01-05T06:30:34.399290"
+  },
+  "26333": {
+    "id": 26333,
+    "title": "Qualcuno da amare",
+    "release_date": "1993-02-12",
+    "vote_average": 6.9,
+    "poster_path": "/kx0f6LfCxkvN5wxoUCRPA1eN1RA.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-01-05T06:30:34.469890"
   }
 }

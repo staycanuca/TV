@@ -61443,5 +61443,70 @@
       35
     ],
     "cached_at": "2026-01-04T06:23:29.633335"
+  },
+  "292493": {
+    "id": 292493,
+    "name": "Meu Namorado Coreano",
+    "original_name": "Meu Namorado Coreano",
+    "first_air_date": "2026-01-01",
+    "vote_average": 10.0,
+    "poster_path": "/aiI3uREUvRGa7vawCG58yd4jJz8.jpg",
+    "genre_ids": [
+      10764
+    ],
+    "cached_at": "2026-01-05T06:30:40.031786"
+  },
+  "303155": {
+    "id": 303155,
+    "name": "Zabić Miss",
+    "original_name": "Zabić Miss",
+    "first_air_date": "2025-12-17",
+    "vote_average": 0.0,
+    "poster_path": "/93BUvaRQA83akLm1Yown5NsIbzE.jpg",
+    "genre_ids": [
+      99,
+      80
+    ],
+    "cached_at": "2026-01-05T06:30:40.086954"
+  },
+  "301886": {
+    "id": 301886,
+    "name": "은애하는 도적님아",
+    "original_name": "은애하는 도적님아",
+    "first_air_date": "2026-01-03",
+    "vote_average": 10.0,
+    "poster_path": "/ggpOBHqEiAmkwoFQfVYhB2ToBE9.jpg",
+    "genre_ids": [
+      10765,
+      35
+    ],
+    "cached_at": "2026-01-05T06:30:40.114233"
+  },
+  "67743": {
+    "id": 67743,
+    "name": "Cardinal",
+    "original_name": "Cardinal",
+    "first_air_date": "2017-01-25",
+    "vote_average": 6.941,
+    "poster_path": "/c1ZSmaRsqV8WSgwkWkeW3E1vFbg.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "cached_at": "2026-01-05T06:30:40.159701"
+  },
+  "34967": {
+    "id": 34967,
+    "name": "Falling Skies",
+    "original_name": "Falling Skies",
+    "first_air_date": "2011-06-19",
+    "vote_average": 7.107,
+    "poster_path": "/uP6p0aWcIpYwA0HjY4bYR4naz5g.jpg",
+    "genre_ids": [
+      10759,
+      10765,
+      18
+    ],
+    "cached_at": "2026-01-05T06:30:40.229564"
   }
 }
