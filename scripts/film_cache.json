@@ -145302,5 +145302,301 @@
       10749
     ],
     "cached_at": "2026-01-05T06:30:34.469890"
+  },
+  "58187": {
+    "id": 58187,
+    "title": "Che ora è",
+    "release_date": "1989-09-27",
+    "vote_average": 7.412,
+    "poster_path": "/4G8WFzsWHxIot5ezkgj3OX26UkD.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-01-06T06:26:04.572830"
+  },
+  "1472638": {
+    "id": 1472638,
+    "title": "Buen Camino",
+    "release_date": "2025-12-25",
+    "vote_average": 6.565,
+    "poster_path": "/5sHyD2AEaaX9tzRkBdWM5G9NeJ8.jpg",
+    "genre_ids": [
+      35,
+      10751,
+      12
+    ],
+    "cached_at": "2026-01-06T06:26:04.640725"
+  },
+  "571489": {
+    "id": 571489,
+    "title": "Villetta con ospiti",
+    "release_date": "2020-01-30",
+    "vote_average": 5.9,
+    "poster_path": "/wIKJUMaCCdHD25WKawTnLdQ4Txi.jpg",
+    "genre_ids": [
+      18,
+      9648
+    ],
+    "cached_at": "2026-01-06T06:26:04.658976"
+  },
+  "105410": {
+    "id": 105410,
+    "title": "Pappa e ciccia",
+    "release_date": "1983-04-14",
+    "vote_average": 5.595,
+    "poster_path": "/s4aiPMLsrjD2GIq6OxZ0J0RosYp.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-01-06T06:26:04.692819"
+  },
+  "168705": {
+    "id": 168705,
+    "title": "BloodRayne",
+    "release_date": "2005-10-22",
+    "vote_average": 4.167,
+    "poster_path": "/1Xy9uu5INNMnyF7W6BTEQkkGOZC.jpg",
+    "genre_ids": [
+      14,
+      27
+    ],
+    "cached_at": "2026-01-06T06:26:04.706493"
+  },
+  "29812": {
+    "id": 29812,
+    "title": "L'ora della violenza 2",
+    "release_date": "1998-08-01",
+    "vote_average": 6.081,
+    "poster_path": "/2o8ptrGxvLgIDeHHyBaf3BAxZjE.jpg",
+    "genre_ids": [
+      28,
+      9648,
+      53,
+      80,
+      10770
+    ],
+    "cached_at": "2026-01-06T06:26:04.726476"
+  },
+  "15138": {
+    "id": 15138,
+    "title": "Piccoli mostri",
+    "release_date": "1989-08-25",
+    "vote_average": 5.8,
+    "poster_path": "/ynQT9NA4SBfoswIRkyrwqHe4aBz.jpg",
+    "genre_ids": [
+      12,
+      14,
+      35,
+      10751
+    ],
+    "cached_at": "2026-01-06T06:26:04.765189"
+  },
+  "10247": {
+    "id": 10247,
+    "title": "Un uomo qualunque",
+    "release_date": "2007-11-23",
+    "vote_average": 6.385,
+    "poster_path": "/A7HaN6k5gmKqDsiOKTXxFWpWEGV.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "cached_at": "2026-01-06T06:26:04.798380"
+  },
+  "61016": {
+    "id": 61016,
+    "title": "Fashion Crimes",
+    "release_date": "2001-04-08",
+    "vote_average": 4.667,
+    "poster_path": "/nQFxZ0MuOrArMDYDgLId69rkEZR.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-01-06T06:26:04.820900"
+  },
+  "1601082": {
+    "id": 1601082,
+    "title": "Cheetahs Up Close with Bertie Gregory",
+    "release_date": "2026-01-01",
+    "vote_average": 8.0,
+    "poster_path": "/pSmSgFb1cnRQep0OzcuKWMYWeqR.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-01-06T06:26:04.838075"
+  },
+  "124324": {
+    "id": 124324,
+    "title": "Il ladro di Bagdad",
+    "release_date": "1961-03-23",
+    "vote_average": 5.0,
+    "poster_path": "/wOKGdzI2L9KpaexWYLLS2hrsvHt.jpg",
+    "genre_ids": [
+      12,
+      14,
+      10751
+    ],
+    "cached_at": "2026-01-06T06:26:04.872531"
+  },
+  "103370": {
+    "id": 103370,
+    "title": "Madea protezione testimoni",
+    "release_date": "2012-06-29",
+    "vote_average": 6.1,
+    "poster_path": "/uKNm2chGziHlguR8niejmw0bYk2.jpg",
+    "genre_ids": [
+      18,
+      35,
+      80
+    ],
+    "cached_at": "2026-01-06T06:26:04.892166"
+  },
+  "14383": {
+    "id": 14383,
+    "title": "Una moglie ideale",
+    "release_date": "1999-05-15",
+    "vote_average": 5.2,
+    "poster_path": "/k8XYY01bMnkGn9zaliNmnFKzAK2.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-01-06T06:26:04.938468"
+  },
+  "70868": {
+    "id": 70868,
+    "title": "Ma come fa a far tutto",
+    "release_date": "2011-09-16",
+    "vote_average": 5.2,
+    "poster_path": "/cWL1EOzK2EtuTQMb6yuEs6WGvE4.jpg",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "cached_at": "2026-01-06T06:26:04.964190"
+  },
+  "807862": {
+    "id": 807862,
+    "title": "Peter von Kant",
+    "release_date": "2022-07-06",
+    "vote_average": 5.7,
+    "poster_path": "/eYaxSkwbB8qm3IbrNIajPIaJEf7.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-01-06T06:26:05.010240"
+  },
+  "244761": {
+    "id": 244761,
+    "title": "The Captive: Scomparsa",
+    "release_date": "2014-09-05",
+    "vote_average": 5.838,
+    "poster_path": "/l1oiQVImJ3SVJFF9zCt2IANbhM8.jpg",
+    "genre_ids": [
+      18,
+      53,
+      80
+    ],
+    "cached_at": "2026-01-06T06:26:05.051285"
+  },
+  "10652": {
+    "id": 10652,
+    "title": "Hamburger Hill - Collina 937",
+    "release_date": "1987-08-07",
+    "vote_average": 6.5,
+    "poster_path": "/cBEinKPFzCJBJIHMOFPcy2r5B7d.jpg",
+    "genre_ids": [
+      10752,
+      28,
+      18
+    ],
+    "cached_at": "2026-01-06T06:26:05.081166"
+  },
+  "186759": {
+    "id": 186759,
+    "title": "Get a Job",
+    "release_date": "2016-03-17",
+    "vote_average": 5.305,
+    "poster_path": "/oFgnD5mf7ek7j0iRp3kHDr5CBds.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "cached_at": "2026-01-06T06:26:05.110388"
+  },
+  "42332": {
+    "id": 42332,
+    "title": "Chi sono io? Babbo natale?",
+    "release_date": "2000-12-03",
+    "vote_average": 5.512,
+    "poster_path": "/b9LkB0ABxBOmPMWgbgF5ZXqKmN2.jpg",
+    "genre_ids": [
+      35,
+      14
+    ],
+    "cached_at": "2026-01-06T06:26:05.122895"
+  },
+  "83105": {
+    "id": 83105,
+    "title": "Nato per vincere",
+    "release_date": "1986-01-17",
+    "vote_average": 4.8,
+    "poster_path": "/27TfYayt4iBQ69nJUBZXp2ocQPR.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-01-06T06:26:05.151623"
+  },
+  "1289936": {
+    "id": 1289936,
+    "title": "Downton Abbey - Il gran finale",
+    "release_date": "2025-09-10",
+    "vote_average": 7.173,
+    "poster_path": "/5zULdRh1vTqqC52TNnubG1DO9P8.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-01-06T06:26:05.178213"
+  },
+  "13610": {
+    "id": 13610,
+    "title": "Christmas Cottage",
+    "release_date": "2008-10-15",
+    "vote_average": 6.296,
+    "poster_path": "/xgVxmbD4mLtvelP8U5jbT7Rxjiv.jpg",
+    "genre_ids": [
+      18,
+      10749,
+      10751
+    ],
+    "cached_at": "2026-01-06T06:26:05.250172"
+  },
+  "363": {
+    "id": 363,
+    "title": "La sposa turca",
+    "release_date": "2004-03-11",
+    "vote_average": 7.481,
+    "poster_path": "/2pSJVOS9zvTCYjjyMXp9bzYy8gm.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-01-06T06:26:05.294778"
+  },
+  "17202": {
+    "id": 17202,
+    "title": "Why Did I Get Married?",
+    "release_date": "2007-10-12",
+    "vote_average": 6.488,
+    "poster_path": "/9kmqgVuELTEoMt0dqRt3H48VcOM.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-01-06T06:26:05.510506"
   }
 }
