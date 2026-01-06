@@ -1,13 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
-https://example.com.m3u8
-
-#EXTINF:-1 tvg-id="italyserieasassuolovsjuventus" tvg-name="All Soccer Events | Italy - Serie A : Sassuolo vs Juventus (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sassuolo_vs_Juventus.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Sassuolo vs Juventus (19:45)
-https://daddyhd.com/watch.php?id=877
-
-#EXTINF:-1 tvg-id="englandpremierleaguewesthamunitedvsnottinghamforest" tvg-name="All Soccer Events | England - Premier League : West Ham United vs Nottingham Forest (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/West Ham United_vs_Nottingham Forest.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : West Ham United vs Nottingham Forest (20:00)
-https://daddyhd.com/watch.php?id=870
-
-#EXTINF:-1 tvg-id="championsleaguetoursvstrentino" tvg-name="Volleyball | Champions League : Tours vs Trentino (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Tours_vs_Trentino.png" group-title="Eventi Live DLHD",Volleyball | Champions League : Tours vs Trentino (19:00)
-https://daddyhd.com/watch.php?id=462
-
