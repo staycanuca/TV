@@ -2,9 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyserieapisavscomo" tvg-name="All Soccer Events | Italy - Serie A : Pisa vs Como (14:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pisa_vs_Como.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Pisa vs Como (14:00)
-https://daddyhd.com/watch.php?id=877
-
 #EXTINF:-1 tvg-id="italyseriealeccevsroma" tvg-name="All Soccer Events | Italy - Serie A : Lecce vs Roma (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lecce_vs_Roma.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Lecce vs Roma (17:00)
 https://daddyhd.com/watch.php?id=5
 
@@ -22,9 +19,6 @@ https://daddyhd.com/watch.php?id=870
 
 #EXTINF:-1 tvg-id="friendlyinternationalitalyvsromania" tvg-name="Handball | Friendly International : Italy vs Romania (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Italy_vs_Romania.png" group-title="Eventi Live DLHD",Handball | Friendly International : Italy vs Romania (17:00)
 https://daddyhd.com/watch.php?id=460
-
-#EXTINF:-1 tvg-id="qualificationvillachhs98ladies" tvg-name="Ski Jumping | Qualification | Villach HS98 Ladies (13:10)" tvg-logo="https://section125qualification.com/wp-content/uploads/2025/01/s125-cc-logo.png" group-title="Eventi Live DLHD",Ski Jumping | Qualification | Villach HS98 Ladies (13:10)
-https://daddyhd.com/watch.php?id=878
 
 #EXTINF:-1 tvg-id="championsleaguetoursvstrentino" tvg-name="Volleyball | Champions League : Tours vs Trentino (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Tours_vs_Trentino.png" group-title="Eventi Live DLHD",Volleyball | Champions League : Tours vs Trentino (19:00)
 https://daddyhd.com/watch.php?id=462
