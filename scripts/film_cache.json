@@ -145598,5 +145598,154 @@
       18
     ],
     "cached_at": "2026-01-06T06:26:05.510506"
+  },
+  "15357": {
+    "id": 15357,
+    "title": "B13-U - Banlieue 13 - Ultimatum",
+    "release_date": "2009-02-18",
+    "vote_average": 6.376,
+    "poster_path": "/4h51jzERA2e47Oa2on0o4H1pwNV.jpg",
+    "genre_ids": [
+      28,
+      53,
+      80
+    ],
+    "cached_at": "2026-01-07T06:25:52.246808"
+  },
+  "9696": {
+    "id": 9696,
+    "title": "Ichi the Killer",
+    "release_date": "2001-12-22",
+    "vote_average": 7.001,
+    "poster_path": "/gtqkEgS7fhvgKmSCt9EqTdQt6t9.jpg",
+    "genre_ids": [
+      28,
+      80,
+      27
+    ],
+    "cached_at": "2026-01-07T06:25:52.383529"
+  },
+  "832": {
+    "id": 832,
+    "title": "M - Il mostro di Düsseldorf",
+    "release_date": "1931-05-11",
+    "vote_average": 8.065,
+    "poster_path": "/9tzahfmcb8GyYtqOMSSfTr9Lium.jpg",
+    "genre_ids": [
+      18,
+      53,
+      80
+    ],
+    "cached_at": "2026-01-07T06:25:52.389544"
+  },
+  "30018": {
+    "id": 30018,
+    "title": "Madre",
+    "release_date": "2009-05-28",
+    "vote_average": 7.706,
+    "poster_path": "/e62P6mfbvohpfahZLasB46iyc0D.jpg",
+    "genre_ids": [
+      80,
+      18,
+      9648
+    ],
+    "cached_at": "2026-01-07T06:25:52.401243"
+  },
+  "848483": {
+    "id": 848483,
+    "title": "Piove",
+    "release_date": "2022-10-21",
+    "vote_average": 6.254,
+    "poster_path": "/ebXBf5FTdk8Hr86coAVDEVeSh8s.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2026-01-07T06:25:52.454774"
+  },
+  "1509661": {
+    "id": 1509661,
+    "title": "Olympiacos: The Legend",
+    "release_date": "2025-06-28",
+    "vote_average": 9.0,
+    "poster_path": "/cHAeaP2vG2AitYlfiq7r5D71UBh.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-01-07T06:25:52.472303"
+  },
+  "756681": {
+    "id": 756681,
+    "title": "Veneciafrenia - Follia e morte a Venezia",
+    "release_date": "2022-04-22",
+    "vote_average": 6.002,
+    "poster_path": "/5S8lEFRV6YkRCK5FTH6RDsMHTCI.jpg",
+    "genre_ids": [
+      27
+    ],
+    "cached_at": "2026-01-07T06:25:52.526170"
+  },
+  "42236": {
+    "id": 42236,
+    "title": "Il Casanova di Federico Fellini",
+    "release_date": "1976-12-10",
+    "vote_average": 6.9,
+    "poster_path": "/vhJbfZybkw8UljqUuaFfne3zEGi.jpg",
+    "genre_ids": [
+      18,
+      36
+    ],
+    "cached_at": "2026-01-07T06:25:52.530611"
+  },
+  "10045": {
+    "id": 10045,
+    "title": "B13 - Banlieue 13",
+    "release_date": "2004-11-09",
+    "vote_average": 6.803,
+    "poster_path": "/ra8F9UlsNd1Y6uIKSrUZbATdCjz.jpg",
+    "genre_ids": [
+      28,
+      53,
+      878
+    ],
+    "cached_at": "2026-01-07T06:25:52.543327"
+  },
+  "9912": {
+    "id": 9912,
+    "title": "Indian - La grande sfida",
+    "release_date": "2005-10-12",
+    "vote_average": 7.7,
+    "poster_path": "/7vctM5ITPgHxDLV1VD0mZnm2eBf.jpg",
+    "genre_ids": [
+      18,
+      12,
+      36
+    ],
+    "cached_at": "2026-01-07T06:25:52.598238"
+  },
+  "1263649": {
+    "id": 1263649,
+    "title": "The Stix",
+    "release_date": "2024-10-10",
+    "vote_average": 0.0,
+    "poster_path": "/3p2QcNjvvXkdQuIAGKVMsuVw2ra.jpg",
+    "genre_ids": [
+      80
+    ],
+    "cached_at": "2026-01-07T06:25:52.616475"
+  },
+  "1610971": {
+    "id": 1610971,
+    "title": "The Dummy Detective",
+    "release_date": "2025-11-18",
+    "vote_average": 0.0,
+    "poster_path": "/vDUx8yq9cGcL9tJaXmkPJcV6hso.jpg",
+    "genre_ids": [
+      53,
+      9648,
+      80,
+      35
+    ],
+    "cached_at": "2026-01-07T06:25:52.673804"
   }
 }
