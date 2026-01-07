@@ -1,1 +1,61 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
+https://example.com.m3u8
+
+#EXTINF:-1 tvg-id="italyserieanapolivsverona" tvg-name="Soccer | Italy - Serie A : Napoli vs Verona (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Napoli_vs_Verona.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Napoli vs Verona (17:30)
+https://daddyhd.com/watch.php?id=877
+
+#EXTINF:-1 tvg-id="italyserieabolognavsatalanta" tvg-name="Soccer | Italy - Serie A : Bologna vs Atalanta (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bologna_vs_Atalanta.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Bologna vs Atalanta (17:30)
+https://daddyhd.com/watch.php?id=1
+
+#EXTINF:-1 tvg-id="italyserieabolognavsatalanta" tvg-name="Soccer | Italy - Serie A : Bologna vs Atalanta (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bologna_vs_Atalanta.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Bologna vs Atalanta (17:30)
+https://daddyhd.com/watch.php?id=870
+
+#EXTINF:-1 tvg-id="englandpremierleaguemanchestercityvsbrightonamphovealbion" tvg-name="Soccer | England - Premier League : Manchester City vs Brighton &amp; Hove Albion (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Manchester City_vs_Brighton &amp; Hove Albion.png" group-title="Eventi Live DLHD",Soccer | England - Premier League : Manchester City vs Brighton &amp; Hove Albion (19:30)
+https://daddyhd.com/watch.php?id=108
+
+#EXTINF:-1 tvg-id="englandpremierleaguefulhamvschelsea" tvg-name="Soccer | England - Premier League : Fulham vs Chelsea (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Fulham_vs_Chelsea.png" group-title="Eventi Live DLHD",Soccer | England - Premier League : Fulham vs Chelsea (19:30)
+https://daddyhd.com/watch.php?id=13
+
+#EXTINF:-1 tvg-id="englandpremierleaguecrystalpalacevsastonvilla" tvg-name="Soccer | England - Premier League : Crystal Palace vs Aston Villa (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Crystal Palace_vs_Aston Villa.png" group-title="Eventi Live DLHD",Soccer | England - Premier League : Crystal Palace vs Aston Villa (19:30)
+https://daddyhd.com/watch.php?id=16
+
+#EXTINF:-1 tvg-id="englandpremierleaguebrentfordvssunderland" tvg-name="Soccer | England - Premier League : Brentford vs Sunderland (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Brentford_vs_Sunderland.png" group-title="Eventi Live DLHD",Soccer | England - Premier League : Brentford vs Sunderland (19:30)
+https://daddyhd.com/watch.php?id=152
+
+#EXTINF:-1 tvg-id="englandpremierleagueafcbournemouthvstottenhamhotspur" tvg-name="Soccer | England - Premier League : AFC Bournemouth vs Tottenham Hotspur (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/AFC Bournemouth_vs_Tottenham Hotspur.png" group-title="Eventi Live DLHD",Soccer | England - Premier League : AFC Bournemouth vs Tottenham Hotspur (19:30)
+https://daddyhd.com/watch.php?id=154
+
+#EXTINF:-1 tvg-id="italyseriealaziovsfiorentina" tvg-name="Soccer | Italy - Serie A : Lazio vs Fiorentina (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lazio_vs_Fiorentina.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Lazio vs Fiorentina (19:45)
+https://daddyhd.com/watch.php?id=156
+
+#EXTINF:-1 tvg-id="italyserieaparmavsinternazionale" tvg-name="Soccer | Italy - Serie A : Parma vs Internazionale (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Parma_vs_Internazionale.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Parma vs Internazionale (19:45)
+https://daddyhd.com/watch.php?id=1
+
+#EXTINF:-1 tvg-id="italyserieaparmavsinternazionale" tvg-name="Soccer | Italy - Serie A : Parma vs Internazionale (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Parma_vs_Internazionale.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Parma vs Internazionale (19:45)
+https://daddyhd.com/watch.php?id=870
+
+#EXTINF:-1 tvg-id="italyserieaparmavsinternazionale" tvg-name="Soccer | Italy - Serie A : Parma vs Internazionale (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Parma_vs_Internazionale.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Parma vs Internazionale (19:45)
+https://daddyhd.com/watch.php?id=461
+
+#EXTINF:-1 tvg-id="italyserieatorinovsudinese" tvg-name="Soccer | Italy - Serie A : Torino vs Udinese (19:45)" tvg-logo="https://torino.wordcamp.org/2023/files/2022/12/WCTRN_color_palette.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Torino vs Udinese (19:45)
+https://daddyhd.com/watch.php?id=157
+
+#EXTINF:-1 tvg-id="englandpremierleaguenewcastleunitedvsleedsunited" tvg-name="Soccer | England - Premier League : Newcastle United vs Leeds United (20:15)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Newcastle United_vs_Leeds United.png" group-title="Eventi Live DLHD",Soccer | England - Premier League : Newcastle United vs Leeds United (20:15)
+https://daddyhd.com/watch.php?id=20
+
+#EXTINF:-1 tvg-id="madonnadicampigliomensslalomworldcuprun1" tvg-name="Alpine Ski | Madonna di Campiglio | Men's Slalom World Cup | Run 1 (16:45)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwsna-q6Ns5SJmmSbDSjcwQCLZjZNdk100xCeqJHuFddmjhE3texPunEx9kELRZ1x0WF_XBFSAsLbkAUJRwHzU_pNuEACi0Xp00UvP9nghJif_PglSA9hAp8T8b0m7rQ44e10bFIzZrA8/w1200-h630-p-k-no-nu/Madonnaexpress.png" group-title="Eventi Live DLHD",Alpine Ski | Madonna di Campiglio | Men's Slalom World Cup | Run 1 (16:45)
+https://daddyhd.com/watch.php?id=878
+
+#EXTINF:-1 tvg-id="madonnadicampigliomensslalomworldcuprun2" tvg-name="Alpine Ski | Madonna di Campiglio | Men's Slalom World Cup | Run 2 (19:45)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwsna-q6Ns5SJmmSbDSjcwQCLZjZNdk100xCeqJHuFddmjhE3texPunEx9kELRZ1x0WF_XBFSAsLbkAUJRwHzU_pNuEACi0Xp00UvP9nghJif_PglSA9hAp8T8b0m7rQ44e10bFIzZrA8/w1200-h630-p-k-no-nu/Madonnaexpress.png" group-title="Eventi Live DLHD",Alpine Ski | Madonna di Campiglio | Men's Slalom World Cup | Run 2 (19:45)
+https://daddyhd.com/watch.php?id=878
+
+#EXTINF:-1 tvg-id="championsleaguewomeneczacibasiwvsmonzaw" tvg-name="Volleyball | Champions League Women : Eczacibasi W vs Monza W (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Eczacibasi W_vs_Monza W.png" group-title="Eventi Live DLHD",Volleyball | Champions League Women : Eczacibasi W vs Monza W (16:30)
+https://daddyhd.com/watch.php?id=462
+
+#EXTINF:-1 tvg-id="championsleagueguaguasvsperugia" tvg-name="Volleyball | Champions League : Guaguas vs Perugia (18:30)" tvg-logo="https://cdn-icons-png.freepik.com/512/17704/17704399.png" group-title="Eventi Live DLHD",Volleyball | Champions League : Guaguas vs Perugia (18:30)
+https://daddyhd.com/watch.php?id=460
+
+#EXTINF:-1 tvg-id="fisworldcuplacbeauportaerialsrace1" tvg-name="Winter Sports | FIS World Cup - Lac Beauport: Aerials - Race 1 (13:40)" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/fis-world-cup-logo.png" group-title="Eventi Live DLHD",Winter Sports | FIS World Cup - Lac Beauport: Aerials - Race 1 (13:40)
+https://daddyhd.com/watch.php?id=882
+
