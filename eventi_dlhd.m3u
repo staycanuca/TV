@@ -1,1 +1,25 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
+https://example.com.m3u8
+
+#EXTINF:-1 tvg-id="italyserieacremonesevscagliari" tvg-name="Soccer | Italy - Serie A : Cremonese vs Cagliari (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Cremonese_vs_Cagliari.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Cremonese vs Cagliari (17:30)
+https://daddyhd.com/watch.php?id=877
+
+#EXTINF:-1 tvg-id="italyserieamilanvsgenoa" tvg-name="Soccer | Italy - Serie A : Milan vs Genoa (19:45)" tvg-logo="https://www.spaziomilan.it/wp-content/uploads/2024/07/spazio_milan_logo2024.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Milan vs Genoa (19:45)
+https://daddyhd.com/watch.php?id=877
+
+#EXTINF:-1 tvg-id="englandpremierleaguearsenalvsliverpool" tvg-name="Soccer | England - Premier League : Arsenal vs Liverpool (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Arsenal_vs_Liverpool.png" group-title="Eventi Live DLHD",Soccer | England - Premier League : Arsenal vs Liverpool (20:00)
+https://daddyhd.com/watch.php?id=461
+
+#EXTINF:-1 tvg-id="englandpremierleaguearsenalvsliverpool" tvg-name="Soccer | England - Premier League : Arsenal vs Liverpool (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Arsenal_vs_Liverpool.png" group-title="Eventi Live DLHD",Soccer | England - Premier League : Arsenal vs Liverpool (20:00)
+https://daddyhd.com/watch.php?id=870
+
+#EXTINF:-1 tvg-id="oberhofsprinttrainingworldcupmen" tvg-name="Biathlon | Oberhof | Sprint | Training World Cup | Men (12:40)" tvg-logo="https://falsecreeksprint.com/wp-content/uploads/2024/04/FCRCC-Flatwater.png" group-title="Eventi Live DLHD",Biathlon | Oberhof | Sprint | Training World Cup | Men (12:40)
+https://daddyhd.com/watch.php?id=878
+
+#EXTINF:-1 tvg-id="championsleaguewomenscandicciwvsvakifbankw" tvg-name="Volleyball | Champions League Women : Scandicci W vs Vakifbank W (19:00)" tvg-logo="https://png.pngtree.com/png-clipart/20221011/original/pngtree-letter-w-logo-icon-png-image_8675088.png" group-title="Eventi Live DLHD",Volleyball | Champions League Women : Scandicci W vs Vakifbank W (19:00)
+https://daddyhd.com/watch.php?id=462
+
+#EXTINF:-1 tvg-id="championsleaguewomenbenficawvsnovaraw" tvg-name="Volleyball | Champions League Women : Benfica W vs Novara W (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Benfica W_vs_Novara W.png" group-title="Eventi Live DLHD",Volleyball | Champions League Women : Benfica W vs Novara W (20:00)
+https://daddyhd.com/watch.php?id=460
+
