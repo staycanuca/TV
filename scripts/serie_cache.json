@@ -61543,5 +61543,28 @@
       18
     ],
     "cached_at": "2026-01-07T06:25:57.710357"
+  },
+  "70445": {
+    "id": 70445,
+    "name": "Playboy americano: la storia di Hugh Hefner",
+    "original_name": "American Playboy: The Hugh Hefner Story",
+    "first_air_date": "2017-04-07",
+    "vote_average": 5.697,
+    "poster_path": "/y4SnAInc7QqEHn95ENMnoWNS12T.jpg",
+    "genre_ids": [
+      99,
+      18
+    ],
+    "cached_at": "2026-01-08T06:26:05.006473"
+  },
+  "309959": {
+    "id": 309959,
+    "name": "MrBeast: Extreme Survival!",
+    "original_name": "MrBeast: Extreme Survival!",
+    "first_air_date": "2026-01-01",
+    "vote_average": 0.0,
+    "poster_path": "/fvMyl5tkharQk66qACEu9RBZRNl.jpg",
+    "genre_ids": [],
+    "cached_at": "2026-01-08T06:26:05.070452"
   }
 }

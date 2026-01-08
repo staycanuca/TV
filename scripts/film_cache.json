@@ -145747,5 +145747,198 @@
       35
     ],
     "cached_at": "2026-01-07T06:25:52.673804"
+  },
+  "16614": {
+    "id": 16614,
+    "title": "Adventureland",
+    "release_date": "2009-04-03",
+    "vote_average": 6.4,
+    "poster_path": "/9bijAjCwGspjzNDoJojFWfI0miW.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "cached_at": "2026-01-08T06:25:59.715304"
+  },
+  "15268": {
+    "id": 15268,
+    "title": "Street Fighter - La leggenda",
+    "release_date": "2009-02-27",
+    "vote_average": 4.279,
+    "poster_path": "/fZ7uKZNXgjZ7EliCwjenuYlrtmG.jpg",
+    "genre_ids": [
+      28,
+      12
+    ],
+    "cached_at": "2026-01-08T06:25:59.748849"
+  },
+  "15359": {
+    "id": 15359,
+    "title": "Wonder Woman",
+    "release_date": "2009-03-03",
+    "vote_average": 7.2,
+    "poster_path": "/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg",
+    "genre_ids": [
+      28,
+      12,
+      16,
+      14,
+      878
+    ],
+    "cached_at": "2026-01-08T06:25:59.762483"
+  },
+  "9682": {
+    "id": 9682,
+    "title": "Pulse",
+    "release_date": "2006-08-11",
+    "vote_average": 5.047,
+    "poster_path": "/9ePdNzKVvGHsMMphfS3HeoMvuEX.jpg",
+    "genre_ids": [
+      27,
+      878,
+      9648,
+      18
+    ],
+    "cached_at": "2026-01-08T06:25:59.778172"
+  },
+  "30966": {
+    "id": 30966,
+    "title": "Facing Ali",
+    "release_date": "2009-05-29",
+    "vote_average": 7.337,
+    "poster_path": "/cvGflJpxYX4tK6WOTFGiwS5BXPD.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-01-08T06:25:59.827483"
+  },
+  "30508": {
+    "id": 30508,
+    "title": "Berlin Calling",
+    "release_date": "2008-10-01",
+    "vote_average": 6.8,
+    "poster_path": "/lh3tF3V9LnzAWA6PeND6qIEtMY2.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10402
+    ],
+    "cached_at": "2026-01-08T06:25:59.847746"
+  },
+  "93457": {
+    "id": 93457,
+    "title": "Boxe",
+    "release_date": "1988-06-11",
+    "vote_average": 4.979,
+    "poster_path": "/7pKZmcbByBcTK8JwsMt0cfsI37N.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-01-08T06:25:59.882239"
+  },
+  "11894": {
+    "id": 11894,
+    "title": "La tenera canaglia",
+    "release_date": "1991-10-25",
+    "vote_average": 6.375,
+    "poster_path": "/24ImbkqoOchQhNR9HGZ0Fes1u6F.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10751,
+      10749
+    ],
+    "cached_at": "2026-01-08T06:25:59.899279"
+  },
+  "1315988": {
+    "id": 1315988,
+    "title": "White Raid - Colpo nella tormenta",
+    "release_date": "2025-01-31",
+    "vote_average": 6.253,
+    "poster_path": "/dbTLWkspRO5n6Wf105Oa68m2lAZ.jpg",
+    "genre_ids": [
+      28,
+      53,
+      12
+    ],
+    "cached_at": "2026-01-08T06:25:59.920978"
+  },
+  "9410": {
+    "id": 9410,
+    "title": "Paradiso perduto",
+    "release_date": "1998-01-30",
+    "vote_average": 6.623,
+    "poster_path": "/jg3kneTgA8qm615lrIs2BYu4SEN.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "cached_at": "2026-01-08T06:25:59.963960"
+  },
+  "10431": {
+    "id": 10431,
+    "title": "Rogue - Il solitario",
+    "release_date": "2007-08-24",
+    "vote_average": 6.391,
+    "poster_path": "/mWuR0bKqAxPfuzTKHTVDl4Ihbtq.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "cached_at": "2026-01-08T06:26:00.028961"
+  },
+  "8088": {
+    "id": 8088,
+    "title": "Gli abbracci spezzati",
+    "release_date": "2009-03-18",
+    "vote_average": 7.1,
+    "poster_path": "/vpdMXqlOyC89ZpMCot7GbP4WWqK.jpg",
+    "genre_ids": [
+      18,
+      10749,
+      53
+    ],
+    "cached_at": "2026-01-08T06:26:00.114824"
+  },
+  "504605": {
+    "id": 504605,
+    "title": "L'ultimo amore di Casanova",
+    "release_date": "2019-03-20",
+    "vote_average": 4.8,
+    "poster_path": "/14r9xkcPiWrbltmjFUl2iHye3tW.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-01-08T06:26:00.134292"
+  },
+  "691": {
+    "id": 691,
+    "title": "La spia che mi amava",
+    "release_date": "1977-07-07",
+    "vote_average": 6.826,
+    "poster_path": "/7ajbpC4pnbtntLj87va2mo1ILfz.jpg",
+    "genre_ids": [
+      12,
+      28,
+      53
+    ],
+    "cached_at": "2026-01-08T06:26:00.207048"
+  },
+  "253": {
+    "id": 253,
+    "title": "Agente 007 - Vivi e lascia morire",
+    "release_date": "1973-06-27",
+    "vote_average": 6.508,
+    "poster_path": "/plLV2nNWV2Agk7fQu5x0CqTcb7n.jpg",
+    "genre_ids": [
+      12,
+      28,
+      53
+    ],
+    "cached_at": "2026-01-08T06:26:00.349769"
   }
 }
