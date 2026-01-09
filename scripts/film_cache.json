@@ -145940,5 +145940,159 @@
       53
     ],
     "cached_at": "2026-01-08T06:26:00.349769"
+  },
+  "19833": {
+    "id": 19833,
+    "title": "In the Loop",
+    "release_date": "2009-01-22",
+    "vote_average": 7.038,
+    "poster_path": "/jL6txnziFSeEifQkqnPBtaPaiXU.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-01-09T06:25:41.247647"
+  },
+  "27297": {
+    "id": 27297,
+    "title": "Grotesque",
+    "release_date": "2009-01-17",
+    "vote_average": 5.711,
+    "poster_path": "/vBPgFJEHoHJqNdYOX3a8d8qMcCb.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2026-01-09T06:25:41.283415"
+  },
+  "13056": {
+    "id": 13056,
+    "title": "Punisher - Zona di guerra",
+    "release_date": "2008-12-05",
+    "vote_average": 5.825,
+    "poster_path": "/dG9R4qwOYPOrpFatgDiiIZQs2lV.jpg",
+    "genre_ids": [
+      28,
+      80
+    ],
+    "cached_at": "2026-01-09T06:25:41.314702"
+  },
+  "22084": {
+    "id": 22084,
+    "title": "Un papà da salvare",
+    "release_date": "2009-02-16",
+    "vote_average": 5.313,
+    "poster_path": "/uH9y1SUIbZZzXnJNaco4zj0sELt.jpg",
+    "genre_ids": [
+      35,
+      12,
+      28,
+      10751,
+      10770,
+      80
+    ],
+    "cached_at": "2026-01-09T06:25:41.385891"
+  },
+  "20263": {
+    "id": 20263,
+    "title": "An American Affair",
+    "release_date": "2008-11-27",
+    "vote_average": 5.9,
+    "poster_path": "/qvvxmZJich3ai0f8T65PAXPMeYi.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-01-09T06:25:41.417580"
+  },
+  "64831": {
+    "id": 64831,
+    "title": "The Boys: La storia dei fratelli Sherman",
+    "release_date": "2009-04-24",
+    "vote_average": 7.3,
+    "poster_path": "/bGd99QVvShsMoACWBbYO5DEImQl.jpg",
+    "genre_ids": [
+      99,
+      10402
+    ],
+    "cached_at": "2026-01-09T06:25:41.452776"
+  },
+  "16409": {
+    "id": 16409,
+    "title": "Oggi è già domani",
+    "release_date": "2008-12-25",
+    "vote_average": 6.287,
+    "poster_path": "/8dgIBWiNyZii47dfPYuIKe4vBze.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-01-09T06:25:41.456873"
+  },
+  "101907": {
+    "id": 101907,
+    "title": "Hulk vs. Thor",
+    "release_date": "2009-01-27",
+    "vote_average": 6.8,
+    "poster_path": "/4NS7L9xtGEOsZA0gnqdQBI7QiXu.jpg",
+    "genre_ids": [
+      28,
+      16,
+      14,
+      878
+    ],
+    "cached_at": "2026-01-09T06:25:41.524387"
+  },
+  "11348": {
+    "id": 11348,
+    "title": "Fragile - A ghost story",
+    "release_date": "2005-10-14",
+    "vote_average": 6.535,
+    "poster_path": "/iy2iwgAHy8DoUDuQBJP5cMETptI.jpg",
+    "genre_ids": [
+      27,
+      53,
+      9648
+    ],
+    "cached_at": "2026-01-09T06:25:41.527816"
+  },
+  "4689": {
+    "id": 4689,
+    "title": "Mr. Vendetta",
+    "release_date": "2002-03-29",
+    "vote_average": 7.467,
+    "poster_path": "/jlwrTN38asdSfDPD9jb4uGrK5gr.jpg",
+    "genre_ids": [
+      28,
+      18,
+      53
+    ],
+    "cached_at": "2026-01-09T06:25:41.596152"
+  },
+  "15257": {
+    "id": 15257,
+    "title": "Hulk vs. Wolverine",
+    "release_date": "2009-01-27",
+    "vote_average": 7.112,
+    "poster_path": "/p8PZfkrCuXanfYr3k6xAS6WzN8Y.jpg",
+    "genre_ids": [
+      16,
+      28,
+      878,
+      12,
+      14
+    ],
+    "cached_at": "2026-01-09T06:25:41.601458"
+  },
+  "11683": {
+    "id": 11683,
+    "title": "La terra dei morti viventi",
+    "release_date": "2005-06-18",
+    "vote_average": 6.202,
+    "poster_path": "/6xQEtLUKdt7097n76WmNz9vW7Yt.jpg",
+    "genre_ids": [
+      27,
+      878,
+      53
+    ],
+    "cached_at": "2026-01-09T06:25:41.633125"
   }
 }
