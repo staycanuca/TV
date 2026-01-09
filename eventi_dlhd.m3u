@@ -1,19 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
-https://example.com.m3u8
-
-#EXTINF:-1 tvg-id="bundesligaeintrachtfrankfurtvsborussiadortmund" tvg-name="Soccer | Bundesliga : Eintracht Frankfurt vs Borussia Dortmund (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Eintracht Frankfurt_vs_Borussia Dortmund.png" group-title="Eventi Live DLHD",Soccer | Bundesliga : Eintracht Frankfurt vs Borussia Dortmund (19:30)
-https://daddyhd.com/watch.php?id=462
-
-#EXTINF:-1 tvg-id="italyseriecaudacecerignolavspotenza" tvg-name="Soccer | Italy - Serie C - : Audace Cerignola vs Potenza (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Audace Cerignola_vs_Potenza.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C - : Audace Cerignola vs Potenza (19:30)
-https://daddyhd.com/watch.php?id=26
-
-#EXTINF:-1 tvg-id="italyseriecascolivsternana" tvg-name="Soccer | Italy - Serie C - : Ascoli vs Ternana (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ascoli_vs_Ternana.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C - : Ascoli vs Ternana (19:30)
-https://daddyhd.com/watch.php?id=27
-
-#EXTINF:-1 tvg-id="italyseriecascolivsternana" tvg-name="Soccer | Italy - Serie C - : Ascoli vs Ternana (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ascoli_vs_Ternana.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C - : Ascoli vs Ternana (19:30)
-https://daddyhd.com/watch.php?id=870
-
-#EXTINF:-1 tvg-id="seriea2sebastianivscividale" tvg-name="Basketball | Serie A2 : Sebastiani vs Cividale (20:00)" tvg-logo="https://i.pinimg.com/originals/37/24/d9/3724d966065fdc87bbd188501eb33aea.png" group-title="Eventi Live DLHD",Basketball | Serie A2 : Sebastiani vs Cividale (20:00)
-https://daddyhd.com/watch.php?id=882
-
