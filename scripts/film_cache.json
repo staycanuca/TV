@@ -146094,5 +146094,167 @@
       53
     ],
     "cached_at": "2026-01-09T06:25:41.633125"
+  },
+  "335866": {
+    "id": 335866,
+    "title": "Circle",
+    "release_date": "2015-05-28",
+    "vote_average": 6.012,
+    "poster_path": "/hbIL53MdZFJXsgxXaSOVuApWTs8.jpg",
+    "genre_ids": [
+      27,
+      878,
+      9648,
+      53
+    ],
+    "cached_at": "2026-01-10T06:22:30.962435"
+  },
+  "339": {
+    "id": 339,
+    "title": "Taxisti di notte",
+    "release_date": "1991-12-12",
+    "vote_average": 7.5,
+    "poster_path": "/tzMv1sTdcDdbMfG2Waym7xtRPKc.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-01-10T06:22:30.964240"
+  },
+  "10436": {
+    "id": 10436,
+    "title": "L'età dell'innocenza",
+    "release_date": "1993-09-10",
+    "vote_average": 6.969,
+    "poster_path": "/84hjKPx3uqZoEGpdR9ewueNcvzD.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-01-10T06:22:31.022559"
+  },
+  "1040": {
+    "id": 1040,
+    "title": "Il gattopardo",
+    "release_date": "1963-03-27",
+    "vote_average": 7.7,
+    "poster_path": "/oWOxb6FhkVXaUTt5pO2CQ6crvig.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-01-10T06:22:31.034508"
+  },
+  "2637": {
+    "id": 2637,
+    "title": "The Mothman Prophecies - Voci dall'ombra",
+    "release_date": "2002-01-25",
+    "vote_average": 6.223,
+    "poster_path": "/2iJjWjXaAg1VaqxX6qcFIi58wXL.jpg",
+    "genre_ids": [
+      18,
+      27,
+      9648
+    ],
+    "cached_at": "2026-01-10T06:22:31.097850"
+  },
+  "1034716": {
+    "id": 1034716,
+    "title": "People we meet on vacation - Un amore in vacanza",
+    "release_date": "2026-01-06",
+    "vote_average": 7.087,
+    "poster_path": "/xzZaU0MN6L9oc1pl0RUXSB7hWwD.jpg",
+    "genre_ids": [
+      10749,
+      35,
+      18
+    ],
+    "cached_at": "2026-01-10T06:22:31.102211"
+  },
+  "1255": {
+    "id": 1255,
+    "title": "The Host",
+    "release_date": "2006-07-27",
+    "vote_average": 7.0,
+    "poster_path": "/nzXcVJnOXYwfFjHlPcB4n9NyAYc.jpg",
+    "genre_ids": [
+      27,
+      18,
+      878
+    ],
+    "cached_at": "2026-01-10T06:22:31.156287"
+  },
+  "1291202": {
+    "id": 1291202,
+    "title": "Duse",
+    "release_date": "2025-09-11",
+    "vote_average": 6.917,
+    "poster_path": "/5PJ4DfW9T2uG9Bj6X20i2R3yW3A.jpg",
+    "genre_ids": [
+      18,
+      36
+    ],
+    "cached_at": "2026-01-10T06:22:31.166663"
+  },
+  "205": {
+    "id": 205,
+    "title": "Hotel Rwanda",
+    "release_date": "2004-12-22",
+    "vote_average": 7.713,
+    "poster_path": "/p3pHw85UMZPegfMZBA6dZ06yarm.jpg",
+    "genre_ids": [
+      18,
+      36,
+      10752
+    ],
+    "cached_at": "2026-01-10T06:22:31.175735"
+  },
+  "42848": {
+    "id": 42848,
+    "title": "Lulu on the Bridge",
+    "release_date": "1998-09-06",
+    "vote_average": 5.75,
+    "poster_path": "/9wcqbfKtZtbpRPO2ymldubnUnSH.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      10749,
+      53
+    ],
+    "cached_at": "2026-01-10T06:22:31.230567"
+  },
+  "6521": {
+    "id": 6521,
+    "title": "The Contender",
+    "release_date": "2000-10-13",
+    "vote_average": 6.7,
+    "poster_path": "/meks3UUbH6q3FvMP8Yu6REwG56b.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "cached_at": "2026-01-10T06:22:31.240609"
+  },
+  "25748": {
+    "id": 25748,
+    "title": "Grano rosso sangue 2 - Sacrificio finale",
+    "release_date": "1992-01-29",
+    "vote_average": 4.732,
+    "poster_path": "/kNilFveT9ozzna4FKeGKDFWIM4B.jpg",
+    "genre_ids": [
+      27
+    ],
+    "cached_at": "2026-01-10T06:22:31.298937"
+  },
+  "10823": {
+    "id": 10823,
+    "title": "Grano rosso sangue",
+    "release_date": "1984-03-09",
+    "vote_average": 5.725,
+    "poster_path": "/3Y7V2nlIaa2gxsXoVsZKx2FxEcr.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2026-01-10T06:22:31.601784"
   }
 }

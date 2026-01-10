@@ -61656,5 +61656,27 @@
       10764
     ],
     "cached_at": "2026-01-09T06:25:47.444003"
+  },
+  "298786": {
+    "id": 298786,
+    "name": "Pillow Talk with Butt King",
+    "original_name": "Pillow Talk with Butt King",
+    "first_air_date": "2025-09-10",
+    "vote_average": 10.0,
+    "poster_path": "/fFW4u7XjrRrg4ArvlaxSscDd5wD.jpg",
+    "genre_ids": [],
+    "cached_at": "2026-01-10T06:22:37.976550"
+  },
+  "308558": {
+    "id": 308558,
+    "name": "Fabrizio Corona: Io sono notizia",
+    "original_name": "Fabrizio Corona: Io sono notizia",
+    "first_air_date": "2026-01-09",
+    "vote_average": 0.0,
+    "poster_path": "/2CN5nRXONI8INaLqveNgrf8vvxn.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-01-10T06:22:38.114172"
   }
 }
