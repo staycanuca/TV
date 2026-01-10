@@ -15,14 +15,14 @@ https://vavoo.to/vavoo-iptv/play/190887752614ef25f5e1fd
 https://vavoo.to/vavoo-iptv/play/30140012609b4bf5e8d3b7
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",ANTENNA SICILIA
 https://vavoo.to/vavoo-iptv/play/3309975829c0cd274e96f4
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.antennasud.com/media/2022/08/cropped-LOGO_ANTENNA_SUD_ROSSO_FORATO.png" group-title="Altro",ANTENNA SUD
-https://vavoo.to/vavoo-iptv/play/4084059868fd82d62442e9
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.arte.tv/sites/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png" group-title="Documentari",ARTE NETWORK
 https://vavoo.to/vavoo-iptv/play/430570853d0b7479b224d
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.auroraarte.it/wp-content/uploads/2023/11/AURORA-ARTE-brand.png" group-title="Documentari",AURORA ARTE
 https://vavoo.to/vavoo-iptv/play/3267376899f976b1a231c0
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN8by3YXjCGJQaxT6b-cgZ872BjY_NLIrALA&s" group-title="Altro",AVENGERS GRIMM CHANNEL
 https://vavoo.to/vavoo-iptv/play/1506307932300e27c2fd43
+#EXTINF:-1 tvg-id="babytv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/baby-tv-es.png?raw=true" group-title="Bambini",BABY TV
+https://vavoo.to/vavoo-iptv/play/226572794257a18add58e4
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Logo_Ufficiale_Radio_Bellla_%26_Monella.png" group-title="Altro",BELLLA & MONELLA TV
 https://vavoo.to/vavoo-iptv/play/1611446752ef81feae9ae
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="Altro",BLOOMBERG TV
@@ -249,6 +249,8 @@ https://vavoo.to/vavoo-iptv/play/2179822223e6f7fefa408e
 https://vavoo.to/vavoo-iptv/play/31633805432b7c33717323
 #EXTINF:-1 tvg-id="raigulp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-gulp-it.png" group-title="Rai",RAI GULP
 https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
+https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
 https://vavoo.to/vavoo-iptv/play/1925964148b9cb23cc2bce
 #EXTINF:-1 tvg-id="rainews24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Rai",RAI NEWS 24
@@ -287,10 +289,10 @@ https://vavoo.to/vavoo-iptv/play/3902650955a82543dc27a4
 https://vavoo.to/vavoo-iptv/play/1572866962efea4ca22353
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN TV SHOWS
 https://vavoo.to/vavoo-iptv/play/860912269147f85ae7a8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/RDS-Logo.png/260px-RDS-Logo.png" group-title="Musica",RDS SOCIAL
-https://vavoo.to/vavoo-iptv/play/4031388312f5ebcfc7dc6d
 #EXTINF:-1 tvg-id="rdssocialtv.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/RDS-Logo.png/260px-RDS-Logo.png" group-title="Musica",RDS SOCIAL TV
 https://vavoo.to/vavoo-iptv/play/36560804080912cdf76cbf
+#EXTINF:-1 tvg-id="real.time.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Altro",REAL TIME
+https://vavoo.to/vavoo-iptv/play/2251241999722578d55332
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Reggio_TV_logo.png/640px-Reggio_TV_logo.png" group-title="Altro",REGGIO TV
 https://vavoo.to/vavoo-iptv/play/216554978929adb39fe170
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/rei-tv-it.png?raw=true" group-title="Altro",REI TV
@@ -403,6 +405,8 @@ https://vavoo.to/vavoo-iptv/play/17532606771304e2497369
 # SPORT
 #EXTINF:-1 tvg-id="sky.serie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Film - Serie TV",SKY SERIE (D)
 https://daddyhd.com/watch.php?id=880
+#EXTINF:-1 tvg-id="skysport.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-it.png" group-title="Sport",SKY SPORT
+https://vavoo.to/vavoo-iptv/play/92466165981ba6f81de20
 #EXTINF:-1 tvg-id="sky.sport.24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 (D)
 https://daddyhd.com/watch.php?id=869
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY]
@@ -607,30 +611,6 @@ https://vavoo.to/vavoo-iptv/play/2989824407cb0184041b08
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyserieclatinavstrapani" tvg-name="All Soccer Events | Italy - Serie C : Latina vs Trapani (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Latina_vs_Trapani.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Latina vs Trapani (13:30)
-https://daddyhd.com/watch.php?id=9
-
-#EXTINF:-1 tvg-id="italyseriecvicenzavsospitaletto" tvg-name="All Soccer Events | Italy - Serie C : Vicenza vs Ospitaletto (13:30)" tvg-logo="https://logodix.com/logo/2035272.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Vicenza vs Ospitaletto (13:30)
-https://daddyhd.com/watch.php?id=10
-
-#EXTINF:-1 tvg-id="italyseriecvicenzavsospitaletto" tvg-name="All Soccer Events | Italy - Serie C : Vicenza vs Ospitaletto (13:30)" tvg-logo="https://www.footballkitarchive.com/static/logos/6139i0od0DfSwhN/vicenza-2018-logo.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Vicenza vs Ospitaletto (13:30)
-https://daddyhd.com/watch.php?id=460
-
-#EXTINF:-1 tvg-id="italyseriecgianaerminiovsrenate" tvg-name="All Soccer Events | Italy - Serie C : Giana Erminio vs Renate (13:30)" tvg-logo="https://uploads.minesite.org/sites/119/uploads/151/general/644c3d00-388c-d790-087e-827f60e55ee9/default/renatelogo2.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Giana Erminio vs Renate (13:30)
-https://daddyhd.com/watch.php?id=11
-
-#EXTINF:-1 tvg-id="italyseriecalbinoleffevsprovercelli" tvg-name="All Soccer Events | Italy - Serie C : AlbinoLeffe vs Pro Vercelli (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/AlbinoLeffe_vs_Pro Vercelli.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : AlbinoLeffe vs Pro Vercelli (13:30)
-https://daddyhd.com/watch.php?id=12
-
-#EXTINF:-1 tvg-id="italyseriecunionbresciavstrento" tvg-name="All Soccer Events | Italy - Serie C : Union Brescia vs Trento (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Union Brescia_vs_Trento.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Union Brescia vs Trento (13:30)
-https://daddyhd.com/watch.php?id=13
-
-#EXTINF:-1 tvg-id="italyserieaudinesevspisa" tvg-name="All Soccer Events | Italy - Serie A : Udinese vs Pisa (14:00)" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Udinese vs Pisa (14:00)
-https://daddyhd.com/watch.php?id=55
-
-#EXTINF:-1 tvg-id="italyserieacomovsbologna" tvg-name="All Soccer Events | Italy - Serie A : Como vs Bologna (14:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Como_vs_Bologna.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Como vs Bologna (14:00)
-https://daddyhd.com/watch.php?id=877
-
 #EXTINF:-1 tvg-id="germanybundesligastpaulivsrbleipzig" tvg-name="All Soccer Events | Germany - Bundesliga : St. Pauli vs RB Leipzig (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/St. Pauli_vs_RB Leipzig.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - Bundesliga : St. Pauli vs RB Leipzig (14:30)
 https://daddyhd.com/watch.php?id=870
 
@@ -670,20 +650,11 @@ https://daddyhd.com/watch.php?id=870
 #EXTINF:-1 tvg-id="mondialicrosscountry2025datallahassee" tvg-name="Cycling | Mondiali Cross Country 2025-da Tallahassee (16:00)" tvg-logo="https://cmsv2-assets.apptegy.net/uploads/13581/logo/15109/Fostoria-Logo.png" group-title="Eventi Live DLHD",Cycling | Mondiali Cross Country 2025-da Tallahassee (16:00)
 https://daddyhd.com/watch.php?id=882
 
-#EXTINF:-1 tvg-id="serieaeliterovigovsviadana" tvg-name="Rugby Union | Serie A Elite : Rovigo vs Viadana (13:30)" tvg-logo="https://www.censer.rovigo.it/wp-content/uploads/2018/06/20180618_Logo_Poplab.png" group-title="Eventi Live DLHD",Rugby Union | Serie A Elite : Rovigo vs Viadana (13:30)
-https://daddyhd.com/watch.php?id=882
-
-#EXTINF:-1 tvg-id="zakopanemenshs140worldcupqualifying" tvg-name="Ski Jumping | Zakopane | Men's HS 140 World Cup | Qualifying (13:10)" tvg-logo="https://taxizakopanerysy.pl/wp-content/uploads/2024/04/cropped-2380-kopia.png" group-title="Eventi Live DLHD",Ski Jumping | Zakopane | Men's HS 140 World Cup | Qualifying (13:10)
-https://daddyhd.com/watch.php?id=879
-
 #EXTINF:-1 tvg-id="zakopanemenssuperteamhs140worldcup" tvg-name="Ski Jumping | Zakopane | Men's Super Team HS 140 World Cup (15:00)" tvg-logo="https://taxizakopanerysy.pl/wp-content/uploads/2024/04/cropped-2380-kopia.png" group-title="Eventi Live DLHD",Ski Jumping | Zakopane | Men's Super Team HS 140 World Cup (15:00)
 https://daddyhd.com/watch.php?id=878
 
 #EXTINF:-1 tvg-id="seriea1cuneovolleyvsgrottazzolina" tvg-name="Volleyball | Serie A1 : Cuneo Volley vs Grottazzolina (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Cuneo Volley_vs_Grottazzolina.png" group-title="Eventi Live DLHD",Volleyball | Serie A1 : Cuneo Volley vs Grottazzolina (17:30)
 https://daddyhd.com/watch.php?id=882
-
-#EXTINF:-1 tvg-id="winterbergmenssinglesworldcuprun1" tvg-name="Winter Sports | Winterberg | Men's Singles World Cup | Run 1 (13:23)" tvg-logo="https://2.bp.blogspot.com/-mM-UANdE8lY/T0k6TUqZyNI/AAAAAAAAHIA/P7hYsBDO5SY/s1600/gruppo.png" group-title="Eventi Live DLHD",Winter Sports | Winterberg | Men's Singles World Cup | Run 1 (13:23)
-https://daddyhd.com/watch.php?id=879
 
 #EXTINF:-1 tvg-id="winterbergmenssinglesworldcuprun2" tvg-name="Winter Sports | Winterberg | Men's Singles World Cup | Run 2 (14:45)" tvg-logo="https://2.bp.blogspot.com/-mM-UANdE8lY/T0k6TUqZyNI/AAAAAAAAHIA/P7hYsBDO5SY/s1600/gruppo.png" group-title="Eventi Live DLHD",Winter Sports | Winterberg | Men's Singles World Cup | Run 2 (14:45)
 https://daddyhd.com/watch.php?id=879
