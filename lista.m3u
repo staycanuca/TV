@@ -157,6 +157,8 @@ https://daddyhd.com/watch.php?id=854
 https://vavoo.to/vavoo-iptv/play/1565298794daace40d1b60
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3 (2)
 https://vavoo.to/vavoo-iptv/play/1200985239ceccd12c8a54
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.upmagazinearezzo.it/atladv/wp-content/uploads/2017/07/atlantide-adv-logo-italian-fishing-tv.jpg" group-title="Altro",ITALIAN FISHING TV
+https://vavoo.to/vavoo-iptv/play/477083716dc642d622f68
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Iunior_tv.png" group-title="Altro",IUNIOR TV
 https://vavoo.to/vavoo-iptv/play/803540254d5a6317673b3
 #EXTINF:-1 tvg-id="k2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini",K2
@@ -169,6 +171,8 @@ https://vavoo.to/vavoo-iptv/play/13708692992eeb9b07f00d
 https://vavoo.to/vavoo-iptv/play/30279032788f9f7870557e
 #EXTINF:-1 tvg-id="la.5.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la5-it.png" group-title="Mediaset",LA 5
 https://vavoo.to/vavoo-iptv/play/14256673753de6371f2c50
+#EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7
+https://vavoo.to/vavoo-iptv/play/7755300630832713e7adb
 #EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="" group-title="Altro",LA7 (D)
 https://daddyhd.com/watch.php?id=855
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",LA7D HD+ (D)
@@ -405,8 +409,6 @@ https://vavoo.to/vavoo-iptv/play/17532606771304e2497369
 # SPORT
 #EXTINF:-1 tvg-id="sky.serie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Film - Serie TV",SKY SERIE (D)
 https://daddyhd.com/watch.php?id=880
-#EXTINF:-1 tvg-id="skysport.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-it.png" group-title="Sport",SKY SPORT
-https://vavoo.to/vavoo-iptv/play/92466165981ba6f81de20
 #EXTINF:-1 tvg-id="sky.sport.24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 (D)
 https://daddyhd.com/watch.php?id=869
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY]
@@ -617,7 +619,7 @@ https://daddyhd.com/watch.php?id=9
 #EXTINF:-1 tvg-id="italyseriecvicenzavsospitaletto" tvg-name="All Soccer Events | Italy - Serie C : Vicenza vs Ospitaletto (13:30)" tvg-logo="https://logodix.com/logo/2035272.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Vicenza vs Ospitaletto (13:30)
 https://daddyhd.com/watch.php?id=10
 
-#EXTINF:-1 tvg-id="italyseriecvicenzavsospitaletto" tvg-name="All Soccer Events | Italy - Serie C : Vicenza vs Ospitaletto (13:30)" tvg-logo="https://www.footballkitarchive.com/static/logos/6139i0od0DfSwhN/vicenza-2018-logo.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Vicenza vs Ospitaletto (13:30)
+#EXTINF:-1 tvg-id="italyseriecvicenzavsospitaletto" tvg-name="All Soccer Events | Italy - Serie C : Vicenza vs Ospitaletto (13:30)" tvg-logo="https://logodix.com/logo/2035272.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Vicenza vs Ospitaletto (13:30)
 https://daddyhd.com/watch.php?id=460
 
 #EXTINF:-1 tvg-id="italyseriecgianaerminiovsrenate" tvg-name="All Soccer Events | Italy - Serie C : Giana Erminio vs Renate (13:30)" tvg-logo="https://uploads.minesite.org/sites/119/uploads/151/general/644c3d00-388c-d790-087e-827f60e55ee9/default/renatelogo2.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Giana Erminio vs Renate (13:30)
@@ -671,10 +673,7 @@ https://daddyhd.com/watch.php?id=461
 #EXTINF:-1 tvg-id="italyserieaatalantavstorino" tvg-name="All Soccer Events | Italy - Serie A : Atalanta vs Torino (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Atalanta_vs_Torino.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Atalanta vs Torino (19:45)
 https://daddyhd.com/watch.php?id=870
 
-#EXTINF:-1 tvg-id="worldcupcompetitioninadelboden1strunofmensgiantslalom" tvg-name="Alpine Ski | World Cup Competition in Adelboden 1st run of men's giant slalom (09:00)" tvg-logo="https://sn00p.files.wordpress.com/2007/05/revworld.gif" group-title="Eventi Live DLHD",Alpine Ski | World Cup Competition in Adelboden 1st run of men's giant slalom (09:00)
-https://daddyhd.com/watch.php?id=878
-
-#EXTINF:-1 tvg-id="worldcupcompetitioninadelboden2ndrunofmensgiantslalom" tvg-name="Alpine Ski | World Cup Competition in Adelboden 2nd run of men's giant slalom (12:15)" tvg-logo="https://sn00p.files.wordpress.com/2007/05/revworld.gif" group-title="Eventi Live DLHD",Alpine Ski | World Cup Competition in Adelboden 2nd run of men's giant slalom (12:15)
+#EXTINF:-1 tvg-id="worldcupcompetitioninadelboden2ndrunofmensgiantslalom" tvg-name="Alpine Ski | World Cup Competition in Adelboden 2nd run of men's giant slalom (12:15)" tvg-logo="https://iconape.com/wp-content/png_logo_vector/adelboden-fis-ski-world-cup-2006-logo.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup Competition in Adelboden 2nd run of men's giant slalom (12:15)
 https://daddyhd.com/watch.php?id=878
 
 #EXTINF:-1 tvg-id="ibuworldcupoberhofwomen4x6kmrelaycompetition" tvg-name="Biathlon | IBU World Cup Oberhof Women 4x6 km Relay Competition (10:45)" tvg-logo="https://scope.ibu.at/IBUofficiallogo.svg.png" group-title="Eventi Live DLHD",Biathlon | IBU World Cup Oberhof Women 4x6 km Relay Competition (10:45)
@@ -694,9 +693,6 @@ https://daddyhd.com/watch.php?id=878
 
 #EXTINF:-1 tvg-id="seriea1cuneovolleyvsgrottazzolina" tvg-name="Volleyball | Serie A1 : Cuneo Volley vs Grottazzolina (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Cuneo Volley_vs_Grottazzolina.png" group-title="Eventi Live DLHD",Volleyball | Serie A1 : Cuneo Volley vs Grottazzolina (17:30)
 https://daddyhd.com/watch.php?id=882
-
-#EXTINF:-1 tvg-id="otepaawomenshs97worldcupday2" tvg-name="Winter Sports | Otepaa | Women's HS97 World Cup | Day 2 (09:30)" tvg-logo="https://biathlonazzurro.it/wp-content/uploads/2021/01/WhatsApp-Image-2021-01-09-at-11.36.22-1.png" group-title="Eventi Live DLHD",Winter Sports | Otepaa | Women's HS97 World Cup | Day 2 (09:30)
-https://daddyhd.com/watch.php?id=879
 
 #EXTINF:-1 tvg-id="winterbergmenssinglesworldcuprun1" tvg-name="Winter Sports | Winterberg | Men's Singles World Cup | Run 1 (13:23)" tvg-logo="https://2.bp.blogspot.com/-mM-UANdE8lY/T0k6TUqZyNI/AAAAAAAAHIA/P7hYsBDO5SY/s1600/gruppo.png" group-title="Eventi Live DLHD",Winter Sports | Winterberg | Men's Singles World Cup | Run 1 (13:23)
 https://daddyhd.com/watch.php?id=879
