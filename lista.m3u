@@ -23,8 +23,6 @@ https://vavoo.to/vavoo-iptv/play/430570853d0b7479b224d
 https://vavoo.to/vavoo-iptv/play/3267376899f976b1a231c0
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN8by3YXjCGJQaxT6b-cgZ872BjY_NLIrALA&s" group-title="Altro",AVENGERS GRIMM CHANNEL
 https://vavoo.to/vavoo-iptv/play/1506307932300e27c2fd43
-#EXTINF:-1 tvg-id="babytv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/baby-tv-es.png?raw=true" group-title="Bambini",BABY TV
-https://vavoo.to/vavoo-iptv/play/226572794257a18add58e4
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Logo_Ufficiale_Radio_Bellla_%26_Monella.png" group-title="Altro",BELLLA & MONELLA TV
 https://vavoo.to/vavoo-iptv/play/1611446752ef81feae9ae
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="Altro",BLOOMBERG TV
@@ -251,8 +249,6 @@ https://vavoo.to/vavoo-iptv/play/2179822223e6f7fefa408e
 https://vavoo.to/vavoo-iptv/play/31633805432b7c33717323
 #EXTINF:-1 tvg-id="raigulp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-gulp-it.png" group-title="Rai",RAI GULP
 https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
-https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
 https://vavoo.to/vavoo-iptv/play/1925964148b9cb23cc2bce
 #EXTINF:-1 tvg-id="rainews24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Rai",RAI NEWS 24
@@ -295,8 +291,6 @@ https://vavoo.to/vavoo-iptv/play/860912269147f85ae7a8
 https://vavoo.to/vavoo-iptv/play/4031388312f5ebcfc7dc6d
 #EXTINF:-1 tvg-id="rdssocialtv.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/RDS-Logo.png/260px-RDS-Logo.png" group-title="Musica",RDS SOCIAL TV
 https://vavoo.to/vavoo-iptv/play/36560804080912cdf76cbf
-#EXTINF:-1 tvg-id="real.time.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Altro",REAL TIME
-https://vavoo.to/vavoo-iptv/play/2251241999722578d55332
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Reggio_TV_logo.png/640px-Reggio_TV_logo.png" group-title="Altro",REGGIO TV
 https://vavoo.to/vavoo-iptv/play/216554978929adb39fe170
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/rei-tv-it.png?raw=true" group-title="Altro",REI TV
@@ -619,7 +613,7 @@ https://daddyhd.com/watch.php?id=9
 #EXTINF:-1 tvg-id="italyseriecvicenzavsospitaletto" tvg-name="All Soccer Events | Italy - Serie C : Vicenza vs Ospitaletto (13:30)" tvg-logo="https://logodix.com/logo/2035272.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Vicenza vs Ospitaletto (13:30)
 https://daddyhd.com/watch.php?id=10
 
-#EXTINF:-1 tvg-id="italyseriecvicenzavsospitaletto" tvg-name="All Soccer Events | Italy - Serie C : Vicenza vs Ospitaletto (13:30)" tvg-logo="https://logodix.com/logo/2035272.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Vicenza vs Ospitaletto (13:30)
+#EXTINF:-1 tvg-id="italyseriecvicenzavsospitaletto" tvg-name="All Soccer Events | Italy - Serie C : Vicenza vs Ospitaletto (13:30)" tvg-logo="https://www.footballkitarchive.com/static/logos/6139i0od0DfSwhN/vicenza-2018-logo.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Vicenza vs Ospitaletto (13:30)
 https://daddyhd.com/watch.php?id=460
 
 #EXTINF:-1 tvg-id="italyseriecgianaerminiovsrenate" tvg-name="All Soccer Events | Italy - Serie C : Giana Erminio vs Renate (13:30)" tvg-logo="https://uploads.minesite.org/sites/119/uploads/151/general/644c3d00-388c-d790-087e-827f60e55ee9/default/renatelogo2.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Giana Erminio vs Renate (13:30)
@@ -672,12 +666,6 @@ https://daddyhd.com/watch.php?id=461
 
 #EXTINF:-1 tvg-id="italyserieaatalantavstorino" tvg-name="All Soccer Events | Italy - Serie A : Atalanta vs Torino (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Atalanta_vs_Torino.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Atalanta vs Torino (19:45)
 https://daddyhd.com/watch.php?id=870
-
-#EXTINF:-1 tvg-id="worldcupcompetitioninadelboden2ndrunofmensgiantslalom" tvg-name="Alpine Ski | World Cup Competition in Adelboden 2nd run of men's giant slalom (12:15)" tvg-logo="https://iconape.com/wp-content/png_logo_vector/adelboden-fis-ski-world-cup-2006-logo.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup Competition in Adelboden 2nd run of men's giant slalom (12:15)
-https://daddyhd.com/watch.php?id=878
-
-#EXTINF:-1 tvg-id="ibuworldcupoberhofwomen4x6kmrelaycompetition" tvg-name="Biathlon | IBU World Cup Oberhof Women 4x6 km Relay Competition (10:45)" tvg-logo="https://scope.ibu.at/IBUofficiallogo.svg.png" group-title="Eventi Live DLHD",Biathlon | IBU World Cup Oberhof Women 4x6 km Relay Competition (10:45)
-https://daddyhd.com/watch.php?id=879
 
 #EXTINF:-1 tvg-id="mondialicrosscountry2025datallahassee" tvg-name="Cycling | Mondiali Cross Country 2025-da Tallahassee (16:00)" tvg-logo="https://cmsv2-assets.apptegy.net/uploads/13581/logo/15109/Fostoria-Logo.png" group-title="Eventi Live DLHD",Cycling | Mondiali Cross Country 2025-da Tallahassee (16:00)
 https://daddyhd.com/watch.php?id=882
