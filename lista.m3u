@@ -157,8 +157,6 @@ https://daddyhd.com/watch.php?id=854
 https://vavoo.to/vavoo-iptv/play/1565298794daace40d1b60
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3 (2)
 https://vavoo.to/vavoo-iptv/play/1200985239ceccd12c8a54
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.upmagazinearezzo.it/atladv/wp-content/uploads/2017/07/atlantide-adv-logo-italian-fishing-tv.jpg" group-title="Altro",ITALIAN FISHING TV
-https://vavoo.to/vavoo-iptv/play/477083716dc642d622f68
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Iunior_tv.png" group-title="Altro",IUNIOR TV
 https://vavoo.to/vavoo-iptv/play/803540254d5a6317673b3
 #EXTINF:-1 tvg-id="k2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini",K2
@@ -171,8 +169,6 @@ https://vavoo.to/vavoo-iptv/play/13708692992eeb9b07f00d
 https://vavoo.to/vavoo-iptv/play/30279032788f9f7870557e
 #EXTINF:-1 tvg-id="la.5.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la5-it.png" group-title="Mediaset",LA 5
 https://vavoo.to/vavoo-iptv/play/14256673753de6371f2c50
-#EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7
-https://vavoo.to/vavoo-iptv/play/7755300630832713e7adb
 #EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="" group-title="Altro",LA7 (D)
 https://daddyhd.com/watch.php?id=855
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",LA7D HD+ (D)
@@ -423,8 +419,6 @@ https://daddyhd.com/watch.php?id=872
 https://daddyhd.com/watch.php?id=873
 #EXTINF:-1 tvg-id="sky.sport..254.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/2560px-Sky_Sport_-_Logo_2020.svg.png" group-title="Sport",SKY SPORT 254 (D)
 https://daddyhd.com/watch.php?id=874
-#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
-https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (D)
 https://daddyhd.com/watch.php?id=462
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",SKY SPORT BASKET (D)
@@ -613,6 +607,102 @@ https://vavoo.to/vavoo-iptv/play/201531251001a1e9936f4c
 https://vavoo.to/vavoo-iptv/play/2989824407cb0184041b08
 
 # MEDIASET
+
+#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
+https://example.com.m3u8
+
+#EXTINF:-1 tvg-id="italyserieclatinavstrapani" tvg-name="All Soccer Events | Italy - Serie C : Latina vs Trapani (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Latina_vs_Trapani.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Latina vs Trapani (13:30)
+https://daddyhd.com/watch.php?id=9
+
+#EXTINF:-1 tvg-id="italyseriecvicenzavsospitaletto" tvg-name="All Soccer Events | Italy - Serie C : Vicenza vs Ospitaletto (13:30)" tvg-logo="https://logodix.com/logo/2035272.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Vicenza vs Ospitaletto (13:30)
+https://daddyhd.com/watch.php?id=10
+
+#EXTINF:-1 tvg-id="italyseriecvicenzavsospitaletto" tvg-name="All Soccer Events | Italy - Serie C : Vicenza vs Ospitaletto (13:30)" tvg-logo="https://www.footballkitarchive.com/static/logos/6139i0od0DfSwhN/vicenza-2018-logo.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Vicenza vs Ospitaletto (13:30)
+https://daddyhd.com/watch.php?id=460
+
+#EXTINF:-1 tvg-id="italyseriecgianaerminiovsrenate" tvg-name="All Soccer Events | Italy - Serie C : Giana Erminio vs Renate (13:30)" tvg-logo="https://uploads.minesite.org/sites/119/uploads/151/general/644c3d00-388c-d790-087e-827f60e55ee9/default/renatelogo2.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Giana Erminio vs Renate (13:30)
+https://daddyhd.com/watch.php?id=11
+
+#EXTINF:-1 tvg-id="italyseriecalbinoleffevsprovercelli" tvg-name="All Soccer Events | Italy - Serie C : AlbinoLeffe vs Pro Vercelli (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/AlbinoLeffe_vs_Pro Vercelli.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : AlbinoLeffe vs Pro Vercelli (13:30)
+https://daddyhd.com/watch.php?id=12
+
+#EXTINF:-1 tvg-id="italyseriecunionbresciavstrento" tvg-name="All Soccer Events | Italy - Serie C : Union Brescia vs Trento (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Union Brescia_vs_Trento.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Union Brescia vs Trento (13:30)
+https://daddyhd.com/watch.php?id=13
+
+#EXTINF:-1 tvg-id="italyserieaudinesevspisa" tvg-name="All Soccer Events | Italy - Serie A : Udinese vs Pisa (14:00)" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Udinese vs Pisa (14:00)
+https://daddyhd.com/watch.php?id=55
+
+#EXTINF:-1 tvg-id="italyserieacomovsbologna" tvg-name="All Soccer Events | Italy - Serie A : Como vs Bologna (14:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Como_vs_Bologna.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Como vs Bologna (14:00)
+https://daddyhd.com/watch.php?id=877
+
+#EXTINF:-1 tvg-id="germanybundesligastpaulivsrbleipzig" tvg-name="All Soccer Events | Germany - Bundesliga : St. Pauli vs RB Leipzig (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/St. Pauli_vs_RB Leipzig.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - Bundesliga : St. Pauli vs RB Leipzig (14:30)
+https://daddyhd.com/watch.php?id=870
+
+#EXTINF:-1 tvg-id="italyseriecpergolettesevslumezzane" tvg-name="All Soccer Events | Italy - Serie C : Pergolettese vs Lumezzane (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pergolettese_vs_Lumezzane.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Pergolettese vs Lumezzane (16:30)
+https://daddyhd.com/watch.php?id=11
+
+#EXTINF:-1 tvg-id="italyseriecpropatriavsinterii" tvg-name="All Soccer Events | Italy - Serie C : Pro Patria vs Inter II (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pro Patria_vs_Inter II.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Pro Patria vs Inter II (16:30)
+https://daddyhd.com/watch.php?id=10
+
+#EXTINF:-1 tvg-id="italyserieccrotonevsaltamura" tvg-name="All Soccer Events | Italy - Serie C : Crotone vs Altamura (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Crotone_vs_Altamura.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Crotone vs Altamura (16:30)
+https://daddyhd.com/watch.php?id=22
+
+#EXTINF:-1 tvg-id="italyseriecsorrentovsfoggia" tvg-name="All Soccer Events | Italy - Serie C : Sorrento vs Foggia (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sorrento_vs_Foggia.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Sorrento vs Foggia (16:30)
+https://daddyhd.com/watch.php?id=9
+
+#EXTINF:-1 tvg-id="italyseriecravennavsforli" tvg-name="All Soccer Events | Italy - Serie C : Ravenna vs Forli (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ravenna_vs_Forli.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Ravenna vs Forli (16:30)
+https://daddyhd.com/watch.php?id=13
+
+#EXTINF:-1 tvg-id="italyseriecravennavsforli" tvg-name="All Soccer Events | Italy - Serie C : Ravenna vs Forli (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ravenna_vs_Forli.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Ravenna vs Forli (16:30)
+https://daddyhd.com/watch.php?id=460
+
+#EXTINF:-1 tvg-id="italyseriearomavssassuolo" tvg-name="All Soccer Events | Italy - Serie A : Roma vs Sassuolo (17:00)" tvg-logo="https://images.seeklogo.com/logo-png/38/3/us-sassuolo-calcio-logo-png_seeklogo-382997.png?v=1955330637314597368" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Roma vs Sassuolo (17:00)
+https://daddyhd.com/watch.php?id=877
+
+#EXTINF:-1 tvg-id="germanybundesligabayerleverkusenvsstuttgart" tvg-name="All Soccer Events | Germany - Bundesliga : Bayer Leverkusen vs Stuttgart (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bayer Leverkusen_vs_Stuttgart.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - Bundesliga : Bayer Leverkusen vs Stuttgart (17:30)
+https://daddyhd.com/watch.php?id=870
+
+#EXTINF:-1 tvg-id="italyserieaatalantavstorino" tvg-name="All Soccer Events | Italy - Serie A : Atalanta vs Torino (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Atalanta_vs_Torino.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Atalanta vs Torino (19:45)
+https://daddyhd.com/watch.php?id=13
+
+#EXTINF:-1 tvg-id="italyserieaatalantavstorino" tvg-name="All Soccer Events | Italy - Serie A : Atalanta vs Torino (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Atalanta_vs_Torino.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Atalanta vs Torino (19:45)
+https://daddyhd.com/watch.php?id=461
+
+#EXTINF:-1 tvg-id="italyserieaatalantavstorino" tvg-name="All Soccer Events | Italy - Serie A : Atalanta vs Torino (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Atalanta_vs_Torino.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Atalanta vs Torino (19:45)
+https://daddyhd.com/watch.php?id=870
+
+#EXTINF:-1 tvg-id="worldcupcompetitioninadelboden1strunofmensgiantslalom" tvg-name="Alpine Ski | World Cup Competition in Adelboden 1st run of men's giant slalom (09:00)" tvg-logo="https://sn00p.files.wordpress.com/2007/05/revworld.gif" group-title="Eventi Live DLHD",Alpine Ski | World Cup Competition in Adelboden 1st run of men's giant slalom (09:00)
+https://daddyhd.com/watch.php?id=878
+
+#EXTINF:-1 tvg-id="worldcupcompetitioninadelboden2ndrunofmensgiantslalom" tvg-name="Alpine Ski | World Cup Competition in Adelboden 2nd run of men's giant slalom (12:15)" tvg-logo="https://sn00p.files.wordpress.com/2007/05/revworld.gif" group-title="Eventi Live DLHD",Alpine Ski | World Cup Competition in Adelboden 2nd run of men's giant slalom (12:15)
+https://daddyhd.com/watch.php?id=878
+
+#EXTINF:-1 tvg-id="ibuworldcupoberhofwomen4x6kmrelaycompetition" tvg-name="Biathlon | IBU World Cup Oberhof Women 4x6 km Relay Competition (10:45)" tvg-logo="https://scope.ibu.at/IBUofficiallogo.svg.png" group-title="Eventi Live DLHD",Biathlon | IBU World Cup Oberhof Women 4x6 km Relay Competition (10:45)
+https://daddyhd.com/watch.php?id=879
+
+#EXTINF:-1 tvg-id="mondialicrosscountry2025datallahassee" tvg-name="Cycling | Mondiali Cross Country 2025-da Tallahassee (16:00)" tvg-logo="https://cmsv2-assets.apptegy.net/uploads/13581/logo/15109/Fostoria-Logo.png" group-title="Eventi Live DLHD",Cycling | Mondiali Cross Country 2025-da Tallahassee (16:00)
+https://daddyhd.com/watch.php?id=882
+
+#EXTINF:-1 tvg-id="serieaeliterovigovsviadana" tvg-name="Rugby Union | Serie A Elite : Rovigo vs Viadana (13:30)" tvg-logo="https://www.censer.rovigo.it/wp-content/uploads/2018/06/20180618_Logo_Poplab.png" group-title="Eventi Live DLHD",Rugby Union | Serie A Elite : Rovigo vs Viadana (13:30)
+https://daddyhd.com/watch.php?id=882
+
+#EXTINF:-1 tvg-id="zakopanemenshs140worldcupqualifying" tvg-name="Ski Jumping | Zakopane | Men's HS 140 World Cup | Qualifying (13:10)" tvg-logo="https://taxizakopanerysy.pl/wp-content/uploads/2024/04/cropped-2380-kopia.png" group-title="Eventi Live DLHD",Ski Jumping | Zakopane | Men's HS 140 World Cup | Qualifying (13:10)
+https://daddyhd.com/watch.php?id=879
+
+#EXTINF:-1 tvg-id="zakopanemenssuperteamhs140worldcup" tvg-name="Ski Jumping | Zakopane | Men's Super Team HS 140 World Cup (15:00)" tvg-logo="https://taxizakopanerysy.pl/wp-content/uploads/2024/04/cropped-2380-kopia.png" group-title="Eventi Live DLHD",Ski Jumping | Zakopane | Men's Super Team HS 140 World Cup (15:00)
+https://daddyhd.com/watch.php?id=878
+
+#EXTINF:-1 tvg-id="seriea1cuneovolleyvsgrottazzolina" tvg-name="Volleyball | Serie A1 : Cuneo Volley vs Grottazzolina (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Cuneo Volley_vs_Grottazzolina.png" group-title="Eventi Live DLHD",Volleyball | Serie A1 : Cuneo Volley vs Grottazzolina (17:30)
+https://daddyhd.com/watch.php?id=882
+
+#EXTINF:-1 tvg-id="otepaawomenshs97worldcupday2" tvg-name="Winter Sports | Otepaa | Women's HS97 World Cup | Day 2 (09:30)" tvg-logo="https://biathlonazzurro.it/wp-content/uploads/2021/01/WhatsApp-Image-2021-01-09-at-11.36.22-1.png" group-title="Eventi Live DLHD",Winter Sports | Otepaa | Women's HS97 World Cup | Day 2 (09:30)
+https://daddyhd.com/watch.php?id=879
+
+#EXTINF:-1 tvg-id="winterbergmenssinglesworldcuprun1" tvg-name="Winter Sports | Winterberg | Men's Singles World Cup | Run 1 (13:23)" tvg-logo="https://2.bp.blogspot.com/-mM-UANdE8lY/T0k6TUqZyNI/AAAAAAAAHIA/P7hYsBDO5SY/s1600/gruppo.png" group-title="Eventi Live DLHD",Winter Sports | Winterberg | Men's Singles World Cup | Run 1 (13:23)
+https://daddyhd.com/watch.php?id=879
+
+#EXTINF:-1 tvg-id="winterbergmenssinglesworldcuprun2" tvg-name="Winter Sports | Winterberg | Men's Singles World Cup | Run 2 (14:45)" tvg-logo="https://2.bp.blogspot.com/-mM-UANdE8lY/T0k6TUqZyNI/AAAAAAAAHIA/P7hYsBDO5SY/s1600/gruppo.png" group-title="Eventi Live DLHD",Winter Sports | Winterberg | Men's Singles World Cup | Run 2 (14:45)
+https://daddyhd.com/watch.php?id=879
 
 
 #EXTINF:-1 group-title="Eventi Live SPORTSONLINE",Juventus x Udinese 21:00
