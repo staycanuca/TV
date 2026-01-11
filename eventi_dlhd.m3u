@@ -2,18 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyseriealeccevsparma" tvg-name="Soccer | Italy - Serie A : Lecce vs Parma (11:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lecce_vs_Parma.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Lecce vs Parma (11:30)
-https://daddyhd.com/watch.php?id=877
-
-#EXTINF:-1 tvg-id="italyserieclivornovsjuventusii" tvg-name="Soccer | Italy - Serie C : Livorno vs Juventus II (11:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Livorno_vs_Juventus II.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Livorno vs Juventus II (11:30)
-https://daddyhd.com/watch.php?id=5
-
-#EXTINF:-1 tvg-id="italyseriecvirtuscasaranovsatalantaii" tvg-name="Soccer | Italy - Serie C : Virtus Casarano vs Atalanta II (11:30)" tvg-logo="https://www.bettipsfootball.com/logos/teams/atalanta-ii.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Virtus Casarano vs Atalanta II (11:30)
-https://daddyhd.com/watch.php?id=6
-
-#EXTINF:-1 tvg-id="italyseriecvirtuscasaranovsatalantaii" tvg-name="Soccer | Italy - Serie C : Virtus Casarano vs Atalanta II (11:30)" tvg-logo="https://www.bettipsfootball.com/logos/teams/atalanta-ii.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Virtus Casarano vs Atalanta II (11:30)
-https://daddyhd.com/watch.php?id=870
-
 #EXTINF:-1 tvg-id="italyseriecvirtusveronavsunionarzignanochiampo" tvg-name="Soccer | Italy - Serie C : Virtus Verona vs Union ArzignanoChiampo (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Virtus Verona_vs_Union ArzignanoChiampo.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Virtus Verona vs Union ArzignanoChiampo (13:30)
 https://daddyhd.com/watch.php?id=9
 
@@ -23,13 +11,13 @@ https://daddyhd.com/watch.php?id=10
 #EXTINF:-1 tvg-id="italyseriecnovaravsdolomitibellunesi" tvg-name="Soccer | Italy - Serie C : Novara vs Dolomiti Bellunesi (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Novara_vs_Dolomiti Bellunesi.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Novara vs Dolomiti Bellunesi (13:30)
 https://daddyhd.com/watch.php?id=11
 
-#EXTINF:-1 tvg-id="italyseriecathleticcarpivspianese" tvg-name="Soccer | Italy - Serie C : Athletic Carpi vs Pianese (13:30)" tvg-logo="https://cmsv2-assets.apptegy.net/uploads/22372/logo/25185/logo_Caldwell-updated.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Athletic Carpi vs Pianese (13:30)
+#EXTINF:-1 tvg-id="italyseriecathleticcarpivspianese" tvg-name="Soccer | Italy - Serie C : Athletic Carpi vs Pianese (13:30)" tvg-logo="https://cmsv2-assets.apptegy.net/uploads/24469/logo/27282/Springfield_MS_Logo.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Athletic Carpi vs Pianese (13:30)
 https://daddyhd.com/watch.php?id=12
 
-#EXTINF:-1 tvg-id="italyserieccataniavscavese" tvg-name="Soccer | Italy - Serie C : Catania vs Cavese (13:30)" tvg-logo="https://bootflare.com/wp-content/uploads/2025/08/Calcio-Catania-Logo.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Catania vs Cavese (13:30)
+#EXTINF:-1 tvg-id="italyserieccataniavscavese" tvg-name="Soccer | Italy - Serie C : Catania vs Cavese (13:30)" tvg-logo="https://www.shuttledirect.com/blog/wp-content/uploads/2017/12/Catania_Plaza-Principal.jpg" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Catania vs Cavese (13:30)
 https://daddyhd.com/watch.php?id=13
 
-#EXTINF:-1 tvg-id="italyserieccataniavscavese" tvg-name="Soccer | Italy - Serie C : Catania vs Cavese (13:30)" tvg-logo="https://bootflare.com/wp-content/uploads/2025/08/Calcio-Catania-Logo.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Catania vs Cavese (13:30)
+#EXTINF:-1 tvg-id="italyserieccataniavscavese" tvg-name="Soccer | Italy - Serie C : Catania vs Cavese (13:30)" tvg-logo="https://www.shuttledirect.com/blog/wp-content/uploads/2017/12/Catania_Plaza-Principal.jpg" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Catania vs Cavese (13:30)
 https://daddyhd.com/watch.php?id=870
 
 #EXTINF:-1 tvg-id="italyseriecmonopolivssiracusa" tvg-name="Soccer | Italy - Serie C : Monopoli vs Siracusa (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Monopoli_vs_Siracusa.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Monopoli vs Siracusa (13:30)
@@ -80,19 +68,13 @@ https://daddyhd.com/watch.php?id=879
 #EXTINF:-1 tvg-id="londonmastersmarkselbyvsxiaoguodong" tvg-name="Snooker | London Masters : Mark Selby vs Xiao Guodong (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Mark Selby_vs_Xiao Guodong.png" group-title="Eventi Live DLHD",Snooker | London Masters : Mark Selby vs Xiao Guodong (19:00)
 https://daddyhd.com/watch.php?id=878
 
-#EXTINF:-1 tvg-id="worldcupcompetitioninaltenmarktzauchenseewomenssuperg" tvg-name="Alpine Ski | World Cup Competition in Altenmarkt-Zauchensee women's super-G (10:45)" tvg-logo="https://static.wixstatic.com/media/ad3aa5_cb17e61b728b45cc928b3249edd1f6b4~mv2.png/v1/crop/x_18,y_0,w_977,h_1000/fill/w_957,h_980,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/ad3aa5_cb17e61b728b45cc928b3249edd1f6b4~mv2.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup Competition in Altenmarkt-Zauchensee women's super-G (10:45)
+#EXTINF:-1 tvg-id="worldcupoberhofwomenspursuit" tvg-name="Biathlon | World Cup Oberhof | Women's Pursuit (13:20)" tvg-logo="https://static.wikia.nocookie.net/space-tycoon-r/images/d/d7/Earth(1).png/revision/latest?cb=20230427042657" group-title="Eventi Live DLHD",Biathlon | World Cup Oberhof | Women's Pursuit (13:20)
 https://daddyhd.com/watch.php?id=878
 
-#EXTINF:-1 tvg-id="worldcupcompetitioninadelboden2ndrunofthemensslalom" tvg-name="Alpine Ski | World Cup Competition in Adelboden 2nd run of the men's slalom (12:15)" tvg-logo="https://cdn-icons-png.flaticon.com/512/3677/3677551.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup Competition in Adelboden 2nd run of the men's slalom (12:15)
-https://daddyhd.com/watch.php?id=878
-
-#EXTINF:-1 tvg-id="worldcupoberhofwomenspursuit" tvg-name="Biathlon | World Cup Oberhof | Women's Pursuit (13:20)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Biathlon | World Cup Oberhof | Women's Pursuit (13:20)
-https://daddyhd.com/watch.php?id=878
-
-#EXTINF:-1 tvg-id="frenchchampionshipseliteracewomentroyes" tvg-name="Cycling | French Championships | Elite Race (Women) Troyes (13:10)" tvg-logo="https://static.vecteezy.com/system/resources/previews/015/309/655/original/france-waving-flag-realistic-transparent-background-free-png.png" group-title="Eventi Live DLHD",Cycling | French Championships | Elite Race (Women) Troyes (13:10)
+#EXTINF:-1 tvg-id="frenchchampionshipseliteracewomentroyes" tvg-name="Cycling | French Championships | Elite Race (Women) Troyes (13:10)" tvg-logo="https://volleybox.net/media/upload/tournament_types/1595634714Exq5y.png" group-title="Eventi Live DLHD",Cycling | French Championships | Elite Race (Women) Troyes (13:10)
 https://daddyhd.com/watch.php?id=879
 
-#EXTINF:-1 tvg-id="frenchchampionshipseliteracementroyes" tvg-name="Cycling | French Championships | Elite Race (Men) Troyes (14:25)" tvg-logo="https://static.vecteezy.com/system/resources/previews/015/309/655/original/france-waving-flag-realistic-transparent-background-free-png.png" group-title="Eventi Live DLHD",Cycling | French Championships | Elite Race (Men) Troyes (14:25)
+#EXTINF:-1 tvg-id="frenchchampionshipseliteracementroyes" tvg-name="Cycling | French Championships | Elite Race (Men) Troyes (14:25)" tvg-logo="https://volleybox.net/media/upload/tournament_types/1595634714Exq5y.png" group-title="Eventi Live DLHD",Cycling | French Championships | Elite Race (Men) Troyes (14:25)
 https://daddyhd.com/watch.php?id=879
 
 #EXTINF:-1 tvg-id="seriea1trentinovsverona" tvg-name="Volleyball | Serie A1 : Trentino vs Verona (16:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Trentino_vs_Verona.png" group-title="Eventi Live DLHD",Volleyball | Serie A1 : Trentino vs Verona (16:00)
