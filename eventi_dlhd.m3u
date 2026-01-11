@@ -2,30 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="bundesligabayernmünchenvswolfsburg" tvg-name="Soccer | Bundesliga : Bayern München vs Wolfsburg (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bayern München_vs_Wolfsburg.png" group-title="Eventi Live DLHD",Soccer | Bundesliga : Bayern München vs Wolfsburg (16:30)
-https://daddyhd.com/watch.php?id=460
-
-#EXTINF:-1 tvg-id="italyseriecleccovstriestina" tvg-name="Soccer | Italy - Serie C : Lecco vs Triestina (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lecco_vs_Triestina.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Lecco vs Triestina (16:30)
-https://daddyhd.com/watch.php?id=12
-
-#EXTINF:-1 tvg-id="italyseriecperugiavsbra" tvg-name="Soccer | Italy - Serie C : Perugia vs Bra (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Perugia_vs_Bra.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Perugia vs Bra (16:30)
-https://daddyhd.com/watch.php?id=11
-
-#EXTINF:-1 tvg-id="italyseriecarezzovspontedera" tvg-name="Soccer | Italy - Serie C : Arezzo vs Pontedera (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Arezzo_vs_Pontedera.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Arezzo vs Pontedera (16:30)
-https://daddyhd.com/watch.php?id=10
-
-#EXTINF:-1 tvg-id="italyseriecsambenedettesevsgubbio" tvg-name="Soccer | Italy - Serie C : Sambenedettese vs Gubbio (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sambenedettese_vs_Gubbio.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Sambenedettese vs Gubbio (16:30)
-https://daddyhd.com/watch.php?id=9
-
-#EXTINF:-1 tvg-id="italyserieccasertanavsbenevento" tvg-name="Soccer | Italy - Serie C : Casertana vs Benevento (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Casertana_vs_Benevento.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Casertana vs Benevento (16:30)
-https://daddyhd.com/watch.php?id=14
-
-#EXTINF:-1 tvg-id="italyserieaveronavslazio" tvg-name="Soccer | Italy - Serie A : Verona vs Lazio (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Verona_vs_Lazio.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Verona vs Lazio (17:00)
-https://daddyhd.com/watch.php?id=13
-
-#EXTINF:-1 tvg-id="italyserieaveronavslazio" tvg-name="Soccer | Italy - Serie A : Verona vs Lazio (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Verona_vs_Lazio.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Verona vs Lazio (17:00)
-https://daddyhd.com/watch.php?id=870
-
 #EXTINF:-1 tvg-id="italyseriecpinetovsnuovamonterosi" tvg-name="Soccer | Italy - Serie C : Pineto vs Nuova Monterosi (19:30)" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Pineto vs Nuova Monterosi (19:30)
 https://daddyhd.com/watch.php?id=14
 
@@ -37,7 +13,4 @@ https://daddyhd.com/watch.php?id=576
 
 #EXTINF:-1 tvg-id="londonmastersmarkselbyvsxiaoguodong" tvg-name="Snooker | London Masters : Mark Selby vs Xiao Guodong (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Mark Selby_vs_Xiao Guodong.png" group-title="Eventi Live DLHD",Snooker | London Masters : Mark Selby vs Xiao Guodong (19:00)
 https://daddyhd.com/watch.php?id=878
-
-#EXTINF:-1 tvg-id="seriea1perugiavsmodena" tvg-name="Volleyball | Serie A1 : Perugia vs Modena (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Perugia_vs_Modena.png" group-title="Eventi Live DLHD",Volleyball | Serie A1 : Perugia vs Modena (17:00)
-https://daddyhd.com/watch.php?id=882
 
