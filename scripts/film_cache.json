@@ -146256,5 +146256,56 @@
       53
     ],
     "cached_at": "2026-01-10T06:22:31.601784"
+  },
+  "6537": {
+    "id": 6537,
+    "title": "The Orphanage",
+    "release_date": "2007-05-20",
+    "vote_average": 7.228,
+    "poster_path": "/ccbiVLk3Mjv9JWBE91vyKj6sTkT.jpg",
+    "genre_ids": [
+      27,
+      18,
+      53
+    ],
+    "cached_at": "2026-01-11T06:23:49.770854"
+  },
+  "1609002": {
+    "id": 1609002,
+    "title": "Troppa Famiglia!",
+    "release_date": "2022-06-22",
+    "vote_average": 6.0,
+    "poster_path": "/9R07HdHLYcGNV9qshi1pYenSEjO.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10751
+    ],
+    "cached_at": "2026-01-11T06:23:49.783626"
+  },
+  "11822": {
+    "id": 11822,
+    "title": "Nekromantik",
+    "release_date": "1988-01-29",
+    "vote_average": 5.1,
+    "poster_path": "/m2dyPmBc96fd5NfaaxnE09I5Iwb.jpg",
+    "genre_ids": [
+      18,
+      27
+    ],
+    "cached_at": "2026-01-11T06:23:49.855613"
+  },
+  "926606": {
+    "id": 926606,
+    "title": "The Home - Il segreto del quarto piano",
+    "release_date": "2025-07-24",
+    "vote_average": 6.486,
+    "poster_path": "/lixw8nq5UWOQE1SOQkkIEWrPRYw.jpg",
+    "genre_ids": [
+      9648,
+      27,
+      53
+    ],
+    "cached_at": "2026-01-11T06:23:49.904979"
   }
 }
