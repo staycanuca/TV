@@ -2,27 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyseriecsalernitanavscosenza" tvg-name="Soccer | Italy - Serie C : Salernitana vs Cosenza (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Salernitana_vs_Cosenza.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Salernitana vs Cosenza (19:30)
-https://daddyhd.com/watch.php?id=4
-
-#EXTINF:-1 tvg-id="italyseriecsalernitanavscosenza" tvg-name="Soccer | Italy - Serie C : Salernitana vs Cosenza (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Salernitana_vs_Cosenza.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Salernitana vs Cosenza (19:30)
-https://daddyhd.com/watch.php?id=462
-
-#EXTINF:-1 tvg-id="italyseriecsalernitanavscosenza" tvg-name="Soccer | Italy - Serie C : Salernitana vs Cosenza (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Salernitana_vs_Cosenza.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Salernitana vs Cosenza (19:30)
-https://daddyhd.com/watch.php?id=882
-
-#EXTINF:-1 tvg-id="italyseriecgiuglianovspicerno" tvg-name="Soccer | Italy - Serie C : Giugliano vs Picerno (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Giugliano_vs_Picerno.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Giugliano vs Picerno (19:30)
-https://daddyhd.com/watch.php?id=5
-
-#EXTINF:-1 tvg-id="italyseriecgiuglianovspicerno" tvg-name="Soccer | Italy - Serie C : Giugliano vs Picerno (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Giugliano_vs_Picerno.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Giugliano vs Picerno (19:30)
-https://daddyhd.com/watch.php?id=460
-
-#EXTINF:-1 tvg-id="italyserieajuventusvscremonese" tvg-name="Soccer | Italy - Serie A : Juventus vs Cremonese (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Juventus_vs_Cremonese.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Juventus vs Cremonese (19:45)
-https://daddyhd.com/watch.php?id=6
-
-#EXTINF:-1 tvg-id="italyserieajuventusvscremonese" tvg-name="Soccer | Italy - Serie A : Juventus vs Cremonese (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Juventus_vs_Cremonese.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Juventus vs Cremonese (19:45)
-https://daddyhd.com/watch.php?id=870
-
-#EXTINF:-1 tvg-id="londonmasterszhaoxintongvsgarywilson" tvg-name="Snooker | London Masters : Zhao Xintong vs Gary Wilson (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Zhao Xintong_vs_Gary Wilson.png" group-title="Eventi Live DLHD",Snooker | London Masters : Zhao Xintong vs Gary Wilson (19:00)
-https://daddyhd.com/watch.php?id=878
+#EXTINF:-1 tvg-id="australianopenqualifyingday3" tvg-name="Tennis | Australian Open | Qualifying | Day 3 (23:00)" tvg-logo="https://english-battle.com/images/page/x_white.png" group-title="Eventi Live DLHD",Tennis | Australian Open | Qualifying | Day 3 (23:00)
+https://daddyhd.com/watch.php?id=576
 
