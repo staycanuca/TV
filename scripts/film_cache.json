@@ -146307,5 +146307,103 @@
       53
     ],
     "cached_at": "2026-01-11T06:23:49.904979"
+  },
+  "11030": {
+    "id": 11030,
+    "title": "Zelig",
+    "release_date": "1983-07-15",
+    "vote_average": 7.4,
+    "poster_path": "/4y6DF0T3UPdAK8O1DQ7NM5Bf9vx.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-01-12T06:28:26.283882"
+  },
+  "31150": {
+    "id": 31150,
+    "title": "Terrore senza volto",
+    "release_date": "1989-01-27",
+    "vote_average": 6.248,
+    "poster_path": "/x580uR771238pf8Hvz8v0R3yuUU.jpg",
+    "genre_ids": [
+      27,
+      9648
+    ],
+    "cached_at": "2026-01-12T06:28:26.301312"
+  },
+  "17834": {
+    "id": 17834,
+    "title": "Un semplice desiderio",
+    "release_date": "1997-07-11",
+    "vote_average": 5.515,
+    "poster_path": "/uqgqZs6bLy0yIzyzslkR7FUP29w.jpg",
+    "genre_ids": [
+      12,
+      35,
+      10751,
+      14
+    ],
+    "cached_at": "2026-01-12T06:28:26.353331"
+  },
+  "9846": {
+    "id": 9846,
+    "title": "Vivere e morire a Los Angeles",
+    "release_date": "1985-11-01",
+    "vote_average": 7.122,
+    "poster_path": "/aTSzSh5akKjayqq95CViJxGqRUj.jpg",
+    "genre_ids": [
+      80,
+      53,
+      28
+    ],
+    "cached_at": "2026-01-12T06:28:26.425952"
+  },
+  "203": {
+    "id": 203,
+    "title": "Mean Streets - Domenica in chiesa, lunedì all'inferno",
+    "release_date": "1973-10-14",
+    "vote_average": 7.065,
+    "poster_path": "/lDLrdYfbyCm5UrOgfFGxzRsXSzC.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "cached_at": "2026-01-12T06:28:26.498960"
+  },
+  "1640": {
+    "id": 1640,
+    "title": "Crash - Contatto fisico",
+    "release_date": "2005-05-06",
+    "vote_average": 7.217,
+    "poster_path": "/pMB2xCbKs12WOssSDJah6zlI470.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-01-12T06:28:26.521209"
+  },
+  "2440": {
+    "id": 2440,
+    "title": "J.S.A. - Joint Security Area",
+    "release_date": "2000-09-09",
+    "vote_average": 7.822,
+    "poster_path": "/6pZw6KFwrADsS4HYfJe8AHMwpQh.jpg",
+    "genre_ids": [
+      18,
+      53,
+      28
+    ],
+    "cached_at": "2026-01-12T06:28:26.641072"
+  },
+  "1365049": {
+    "id": 1365049,
+    "title": "Il monaco che vinse l'Apocalisse",
+    "release_date": "2024-12-05",
+    "vote_average": 0.0,
+    "poster_path": "/omVfxQLF9Hzp2ZHFJT8UYIXu713.jpg",
+    "genre_ids": [
+      18,
+      36
+    ],
+    "cached_at": "2026-01-12T06:28:26.664425"
   }
 }
