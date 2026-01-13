@@ -151,9 +151,7 @@ https://vavoo.to/vavoo-iptv/play/633342961994dc5083ad5
 https://daddyhd.com/watch.php?id=854
 
 # ALTRO
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3 (1)
-https://vavoo.to/vavoo-iptv/play/1565298794daace40d1b60
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3 (2)
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3
 https://vavoo.to/vavoo-iptv/play/1200985239ceccd12c8a54
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.upmagazinearezzo.it/atladv/wp-content/uploads/2017/07/atlantide-adv-logo-italian-fishing-tv.jpg" group-title="Altro",ITALIAN FISHING TV
 https://vavoo.to/vavoo-iptv/play/477083716dc642d622f68
@@ -169,8 +167,6 @@ https://vavoo.to/vavoo-iptv/play/13708692992eeb9b07f00d
 https://vavoo.to/vavoo-iptv/play/30279032788f9f7870557e
 #EXTINF:-1 tvg-id="la.5.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la5-it.png" group-title="Mediaset",LA 5
 https://vavoo.to/vavoo-iptv/play/14256673753de6371f2c50
-#EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7
-https://vavoo.to/vavoo-iptv/play/7755300630832713e7adb
 #EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="" group-title="Altro",LA7 (D)
 https://daddyhd.com/watch.php?id=855
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",LA7D HD+ (D)
@@ -269,8 +265,6 @@ https://vavoo.to/vavoo-iptv/play/55173022458f32c70e30a
 https://vavoo.to/vavoo-iptv/play/843891896d79f7a764c19
 #EXTINF:-1 tvg-id="raistoria.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-storia-it.png" group-title="Rai",RAI STORIA
 https://vavoo.to/vavoo-iptv/play/57338653b83f61385a9f
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Rai",RAI SÜDTIROL
-https://vavoo.to/vavoo-iptv/play/441082840c9ecc6bf454e
 #EXTINF:-1 tvg-id="raiyoyo.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-yoyo-it.png" group-title="Rai",RAI YOYO
 https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
 
@@ -331,8 +325,6 @@ https://vavoo.to/vavoo-iptv/play/3799362189218b541a9c76
 https://vavoo.to/vavoo-iptv/play/179187969291f776663d1e
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rtv-san-marino-it.png" group-title="Altro",RTV SAN MARINO
 https://vavoo.to/vavoo-iptv/play/2343767125eb4977361e91
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/internationaltelevision/images/7/79/San_Marino_RTV_Sport_-_logo.png/revision/latest?cb=20221207153729" group-title="Sport",RTV SAN MARINO SPORT
-https://vavoo.to/vavoo-iptv/play/11138532639c972f8c712f
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/senato-tv-it.png?raw=true" group-title="Altro",SENATO TV (1)
 https://vavoo.to/vavoo-iptv/play/2002360508ebbced695f3c
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/senato-tv-it.png?raw=true" group-title="Altro",SENATO TV (2)
@@ -359,8 +351,6 @@ https://daddyhd.com/watch.php?id=862
 https://daddyhd.com/watch.php?id=867
 #EXTINF:-1 tvg-id="sky.cinema.due.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film - Serie TV",SKY CINEMA DUE
 https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174
-#EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA DUE +24
-https://vavoo.to/vavoo-iptv/play/1078650168cbe5484d34ad
 #EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA DUE +24 (D)
 https://daddyhd.com/watch.php?id=866
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY
@@ -373,6 +363,8 @@ https://vavoo.to/vavoo-iptv/play/128126488561be9a87267f
 https://daddyhd.com/watch.php?id=864
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film - Serie TV",SKY CINEMA SUSPENSE
 https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06
+#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO
+https://vavoo.to/vavoo-iptv/play/17596257388e83c18bb676
 #EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO (D)
 https://daddyhd.com/watch.php?id=860
 #EXTINF:-1 tvg-id="sky.cinema.uno.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA UNO +24
@@ -427,6 +419,8 @@ https://daddyhd.com/watch.php?id=870
 https://daddyhd.com/watch.php?id=577
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/198930923100c09085a1ae
+#EXTINF:-1 tvg-id="sky.sport.golf.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Sport",SKY SPORT GOLF
+https://vavoo.to/vavoo-iptv/play/3897711086f5655aa4d5fb
 #EXTINF:-1 tvg-id="sky.sport.max.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-max-it.png" group-title="Sport",SKY SPORT MAX (D)
 https://daddyhd.com/watch.php?id=460
 #EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-motogp-hd-it.png" group-title="Sport",SKY SPORT MOTOGP
@@ -585,9 +579,7 @@ https://vavoo.to/vavoo-iptv/play/797328723f4292436afc4
 https://vavoo.to/vavoo-iptv/play/3765504418d7a4047993c
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Logo_VCO_Azzurra_TV.png" group-title="Altro",VCO AZZURRA TV
 https://vavoo.to/vavoo-iptv/play/20700707550e841728d807
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/vera-tv-it.png?raw=true" group-title="Altro",VERA TV (1)
-https://vavoo.to/vavoo-iptv/play/4271554009266077884615
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/vera-tv-it.png?raw=true" group-title="Altro",VERA TV (2)
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/vera-tv-it.png?raw=true" group-title="Altro",VERA TV
 https://vavoo.to/vavoo-iptv/play/24719022349f15509238ee
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1PvoHpnx0hNKtt435CUaJza2e_qsm5B87Cg&s" group-title="Altro",VIDEO NOVARA
 https://vavoo.to/vavoo-iptv/play/27917814213e17be842a1b
@@ -605,16 +597,13 @@ https://vavoo.to/vavoo-iptv/play/2989824407cb0184041b08
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="germanybundesligastuttgartvseintrachtfrankfurt" tvg-name="All Soccer Events | Germany - Bundesliga : Stuttgart vs Eintracht Frankfurt (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Stuttgart_vs_Eintracht Frankfurt.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - Bundesliga : Stuttgart vs Eintracht Frankfurt (17:30)
-https://daddyhd.com/watch.php?id=870
-
 #EXTINF:-1 tvg-id="germanybundesligaborussiadortmundvswerderbremen" tvg-name="All Soccer Events | Germany - Bundesliga : Borussia Dortmund vs Werder Bremen (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Borussia Dortmund_vs_Werder Bremen.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - Bundesliga : Borussia Dortmund vs Werder Bremen (19:30)
 https://daddyhd.com/watch.php?id=460
 
 #EXTINF:-1 tvg-id="germanybundesligaborussiadortmundvswerderbremen" tvg-name="All Soccer Events | Germany - Bundesliga : Borussia Dortmund vs Werder Bremen (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Borussia Dortmund_vs_Werder Bremen.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - Bundesliga : Borussia Dortmund vs Werder Bremen (19:30)
 https://daddyhd.com/watch.php?id=870
 
-#EXTINF:-1 tvg-id="italycoppaitaliaromavstorino" tvg-name="All Soccer Events | Italy - Coppa Italia : Roma vs Torino (20:00)" group-title="Eventi Live DLHD",All Soccer Events | Italy - Coppa Italia : Roma vs Torino (20:00)
+#EXTINF:-1 tvg-id="italycoppaitaliaromavstorino" tvg-name="All Soccer Events | Italy - Coppa Italia : Roma vs Torino (20:00)" tvg-logo="https://torino.wordcamp.org/2023/files/2022/12/WCTRN_color_palette.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Coppa Italia : Roma vs Torino (20:00)
 https://daddyhd.com/watch.php?id=854
 
 #EXTINF:-1 tvg-id="australianopenqualifyingday3" tvg-name="Tennis | Australian Open | Qualifying | Day 3 (23:00)" tvg-logo="https://english-battle.com/images/page/x_white.png" group-title="Eventi Live DLHD",Tennis | Australian Open | Qualifying | Day 3 (23:00)
@@ -623,13 +612,7 @@ https://daddyhd.com/watch.php?id=576
 #EXTINF:-1 tvg-id="londonmastersjohnhigginsvsbarryhawkins" tvg-name="Snooker | London Masters : John Higgins vs Barry Hawkins (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/John Higgins_vs_Barry Hawkins.png" group-title="Eventi Live DLHD",Snooker | London Masters : John Higgins vs Barry Hawkins (19:00)
 https://daddyhd.com/watch.php?id=878
 
-#EXTINF:-1 tvg-id="flachauwomensslalomworldcuprun1" tvg-name="Alpine Ski | Flachau | Women's Slalom World Cup | Run 1 (16:30)" tvg-logo="https://www.ferienwohnungen-ellmer.at/wp-content/uploads/quadratmeter-icon.png" group-title="Eventi Live DLHD",Alpine Ski | Flachau | Women's Slalom World Cup | Run 1 (16:30)
-https://daddyhd.com/watch.php?id=878
-
 #EXTINF:-1 tvg-id="flachauwomensslalomworldcuprun2" tvg-name="Alpine Ski | Flachau | Women's Slalom World Cup | Run 2 (19:30)" tvg-logo="https://www.ferienwohnungen-ellmer.at/wp-content/uploads/quadratmeter-icon.png" group-title="Eventi Live DLHD",Alpine Ski | Flachau | Women's Slalom World Cup | Run 2 (19:30)
-https://daddyhd.com/watch.php?id=879
-
-#EXTINF:-1 tvg-id="badgasteinparallelslalomworldcupday1" tvg-name="Winter Sports | Bad Gastein | Parallel Slalom World Cup | Day 1 (17:30)" tvg-logo="https://westudio.berlin/wp-content/uploads/2023/06/240317_Sketch_5.png" group-title="Eventi Live DLHD",Winter Sports | Bad Gastein | Parallel Slalom World Cup | Day 1 (17:30)
 https://daddyhd.com/watch.php?id=879
 
 
