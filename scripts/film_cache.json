@@ -146405,5 +146405,210 @@
       36
     ],
     "cached_at": "2026-01-12T06:28:26.664425"
+  },
+  "58714": {
+    "id": 58714,
+    "title": "Due partite",
+    "release_date": "2009-03-06",
+    "vote_average": 7.214,
+    "poster_path": "/egYT29RiP72xlmLD0FKWiuAdVDD.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-01-13T06:25:44.675970"
+  },
+  "35156": {
+    "id": 35156,
+    "title": "The End of the Line",
+    "release_date": "2009-06-12",
+    "vote_average": 6.4,
+    "poster_path": "/imvOyBsl62zgIeSLyNpev4ab1So.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-01-13T06:25:44.689331"
+  },
+  "800741": {
+    "id": 800741,
+    "title": "La donna per me",
+    "release_date": "2022-04-04",
+    "vote_average": 6.3,
+    "poster_path": "/rK7N0tLvsVK2RUpytz172MxSfHj.jpg",
+    "genre_ids": [
+      35,
+      10749,
+      14
+    ],
+    "cached_at": "2026-01-13T06:25:44.743025"
+  },
+  "1611487": {
+    "id": 1611487,
+    "title": "Kill Tony: Once Upon a Time in Texas",
+    "release_date": "2026-01-12",
+    "vote_average": 9.0,
+    "poster_path": "/kepiMVDrjSvNM9afWewWxlWXXK6.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-01-13T06:25:44.749047"
+  },
+  "9953": {
+    "id": 9953,
+    "title": "Una canzone per Bobby Long",
+    "release_date": "2004-09-02",
+    "vote_average": 6.767,
+    "poster_path": "/olG81bREK1w2xkccyEKcIey0sty.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-01-13T06:25:44.789231"
+  },
+  "286873": {
+    "id": 286873,
+    "title": "I vichinghi",
+    "release_date": "2014-10-23",
+    "vote_average": 5.452,
+    "poster_path": "/jOxuGHsg8ennOVqwtT8qLVjnLbD.jpg",
+    "genre_ids": [
+      12,
+      28,
+      18
+    ],
+    "cached_at": "2026-01-13T06:25:44.829072"
+  },
+  "11162": {
+    "id": 11162,
+    "title": "Il mercante di Venezia",
+    "release_date": "2004-12-03",
+    "vote_average": 6.771,
+    "poster_path": "/wVvCJ16zFm5NgFaqiLXwePffvaK.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-01-13T06:25:44.834966"
+  },
+  "512968": {
+    "id": 512968,
+    "title": "Tu mi nascondi qualcosa",
+    "release_date": "2018-04-25",
+    "vote_average": 5.429,
+    "poster_path": "/m7rx6YxAmU7gPUVmxMGX7rN1wUu.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-01-13T06:25:44.862044"
+  },
+  "11354": {
+    "id": 11354,
+    "title": "Litigi d'amore",
+    "release_date": "2005-03-11",
+    "vote_average": 6.271,
+    "poster_path": "/yS8SntYsliFvn61B2plAKEmen3U.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-01-13T06:25:44.887115"
+  },
+  "18316": {
+    "id": 18316,
+    "title": "Black Dog",
+    "release_date": "1998-05-01",
+    "vote_average": 6.4,
+    "poster_path": "/2b88U14ZUSGxMti0qIzfthkb0nI.jpg",
+    "genre_ids": [
+      28
+    ],
+    "cached_at": "2026-01-13T06:25:44.894963"
+  },
+  "334074": {
+    "id": 334074,
+    "title": "Survivor",
+    "release_date": "2015-05-21",
+    "vote_average": 5.679,
+    "poster_path": "/8EUVyhzJQHAOoFsXv2jgTSzI9yn.jpg",
+    "genre_ids": [
+      28,
+      80,
+      9648,
+      53
+    ],
+    "cached_at": "2026-01-13T06:25:44.933798"
+  },
+  "101173": {
+    "id": 101173,
+    "title": "Coriolanus",
+    "release_date": "2011-02-14",
+    "vote_average": 5.9,
+    "poster_path": "/1koAVzv61j0VEazuEaFDDk23yTn.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "cached_at": "2026-01-13T06:25:44.957214"
+  },
+  "37865": {
+    "id": 37865,
+    "title": "Sepolto vivo",
+    "release_date": "1990-05-09",
+    "vote_average": 6.6,
+    "poster_path": "/fUCs0WcaJT7xes7oo4V8bKSqOL3.jpg",
+    "genre_ids": [
+      53,
+      80,
+      27,
+      10770
+    ],
+    "cached_at": "2026-01-13T06:25:44.963264"
+  },
+  "13249": {
+    "id": 13249,
+    "title": "Caccia spietata",
+    "release_date": "2007-01-26",
+    "vote_average": 6.414,
+    "poster_path": "/qsfAPiya24SL6fvkHY2n9Kj3cVY.jpg",
+    "genre_ids": [
+      37,
+      28,
+      18
+    ],
+    "cached_at": "2026-01-13T06:25:45.034926"
+  },
+  "25749": {
+    "id": 25749,
+    "title": "Grano rosso sangue III: Urban Harvest",
+    "release_date": "1995-09-12",
+    "vote_average": 4.723,
+    "poster_path": "/4IxST9i4hqbX9o0hDip8iUDaJbi.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2026-01-13T06:25:45.087668"
+  },
+  "539926": {
+    "id": 539926,
+    "title": "Ricchi di fantasia",
+    "release_date": "2018-09-27",
+    "vote_average": 5.6,
+    "poster_path": "/dWmBU9b7CZGiZLOZqG2tf8aTYE5.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-01-13T06:25:45.179743"
+  },
+  "8293": {
+    "id": 8293,
+    "title": "Casa Howard",
+    "release_date": "1992-03-13",
+    "vote_average": 7.0,
+    "poster_path": "/quDggjzw4jNIHpAVN30jufPiw1w.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-01-13T06:25:45.251618"
   }
 }
