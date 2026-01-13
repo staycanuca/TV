@@ -612,6 +612,42 @@ https://vavoo.to/vavoo-iptv/play/2989824407cb0184041b08
 
 # MEDIASET
 
+#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
+https://example.com.m3u8
+
+#EXTINF:-1 tvg-id="germanybundesligastuttgartvseintrachtfrankfurt" tvg-name="All Soccer Events | Germany - Bundesliga : Stuttgart vs Eintracht Frankfurt (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Stuttgart_vs_Eintracht Frankfurt.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - Bundesliga : Stuttgart vs Eintracht Frankfurt (17:30)
+https://daddyhd.com/watch.php?id=870
+
+#EXTINF:-1 tvg-id="germanybundesligaborussiadortmundvswerderbremen" tvg-name="All Soccer Events | Germany - Bundesliga : Borussia Dortmund vs Werder Bremen (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Borussia Dortmund_vs_Werder Bremen.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - Bundesliga : Borussia Dortmund vs Werder Bremen (19:30)
+https://daddyhd.com/watch.php?id=460
+
+#EXTINF:-1 tvg-id="germanybundesligaborussiadortmundvswerderbremen" tvg-name="All Soccer Events | Germany - Bundesliga : Borussia Dortmund vs Werder Bremen (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Borussia Dortmund_vs_Werder Bremen.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - Bundesliga : Borussia Dortmund vs Werder Bremen (19:30)
+https://daddyhd.com/watch.php?id=870
+
+#EXTINF:-1 tvg-id="italycoppaitaliaromavstorino" tvg-name="All Soccer Events | Italy - Coppa Italia : Roma vs Torino (20:00)" tvg-logo="https://torino.wordcamp.org/2023/files/2022/12/WCTRN_color_palette.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Coppa Italia : Roma vs Torino (20:00)
+https://daddyhd.com/watch.php?id=854
+
+#EXTINF:-1 tvg-id="australianopenqualifyingday3" tvg-name="Tennis | Australian Open | Qualifying | Day 3 (23:00)" tvg-logo="https://english-battle.com/images/page/x_white.png" group-title="Eventi Live DLHD",Tennis | Australian Open | Qualifying | Day 3 (23:00)
+https://daddyhd.com/watch.php?id=576
+
+#EXTINF:-1 tvg-id="londonmasterskyrenwilsonvssijiahui" tvg-name="Snooker | London Masters : Kyren Wilson vs Si Jiahui (13:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Kyren Wilson_vs_Si Jiahui.png" group-title="Eventi Live DLHD",Snooker | London Masters : Kyren Wilson vs Si Jiahui (13:00)
+https://daddyhd.com/watch.php?id=878
+
+#EXTINF:-1 tvg-id="londonmastersjohnhigginsvsbarryhawkins" tvg-name="Snooker | London Masters : John Higgins vs Barry Hawkins (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/John Higgins_vs_Barry Hawkins.png" group-title="Eventi Live DLHD",Snooker | London Masters : John Higgins vs Barry Hawkins (19:00)
+https://daddyhd.com/watch.php?id=878
+
+#EXTINF:-1 tvg-id="flachauwomensslalomworldcuprun1" tvg-name="Alpine Ski | Flachau | Women's Slalom World Cup | Run 1 (16:30)" tvg-logo="https://www.ferienwohnungen-ellmer.at/wp-content/uploads/quadratmeter-icon.png" group-title="Eventi Live DLHD",Alpine Ski | Flachau | Women's Slalom World Cup | Run 1 (16:30)
+https://daddyhd.com/watch.php?id=878
+
+#EXTINF:-1 tvg-id="flachauwomensslalomworldcuprun2" tvg-name="Alpine Ski | Flachau | Women's Slalom World Cup | Run 2 (19:30)" tvg-logo="https://www.ferienwohnungen-ellmer.at/wp-content/uploads/quadratmeter-icon.png" group-title="Eventi Live DLHD",Alpine Ski | Flachau | Women's Slalom World Cup | Run 2 (19:30)
+https://daddyhd.com/watch.php?id=879
+
+#EXTINF:-1 tvg-id="championsleaguewomenfenerbahcewvsnovaraw" tvg-name="Volleyball | Champions League Women : Fenerbahce W vs Novara W (16:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Fenerbahce W_vs_Novara W.png" group-title="Eventi Live DLHD",Volleyball | Champions League Women : Fenerbahce W vs Novara W (16:00)
+https://daddyhd.com/watch.php?id=462
+
+#EXTINF:-1 tvg-id="badgasteinparallelslalomworldcupday1" tvg-name="Winter Sports | Bad Gastein | Parallel Slalom World Cup | Day 1 (17:30)" tvg-logo="https://westudio.berlin/wp-content/uploads/2023/06/240317_Sketch_5.png" group-title="Eventi Live DLHD",Winter Sports | Bad Gastein | Parallel Slalom World Cup | Day 1 (17:30)
+https://daddyhd.com/watch.php?id=879
+
 
 #EXTINF:-1 group-title="Eventi Live SPORTSONLINE",Juventus x Udinese 21:00
 https://sportzonline.top/channels/hd/hd7.php
