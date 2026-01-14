@@ -2,18 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italycoppaitaliaseriecternanavspotenzacalcio" tvg-name="All Soccer Events | Italy - Coppa Italia Serie C : Ternana vs Potenza Calcio (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ternana_vs_Potenza Calcio.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Coppa Italia Serie C : Ternana vs Potenza Calcio (17:00)
-https://daddyhd.com/watch.php?id=3
-
-#EXTINF:-1 tvg-id="italycoppaitaliaseriecternanavspotenzacalcio" tvg-name="All Soccer Events | Italy - Coppa Italia Serie C : Ternana vs Potenza Calcio (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ternana_vs_Potenza Calcio.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Coppa Italia Serie C : Ternana vs Potenza Calcio (17:00)
-https://daddyhd.com/watch.php?id=461
-
-#EXTINF:-1 tvg-id="italyserieanapolivsparma" tvg-name="All Soccer Events | Italy - Serie A : Napoli vs Parma (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Napoli_vs_Parma.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Napoli vs Parma (17:30)
-https://daddyhd.com/watch.php?id=877
-
-#EXTINF:-1 tvg-id="germanybundesligawolfsburgvsstpauli" tvg-name="All Soccer Events | Germany - Bundesliga : Wolfsburg vs St. Pauli (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Wolfsburg_vs_St. Pauli.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - Bundesliga : Wolfsburg vs St. Pauli (17:30)
-https://daddyhd.com/watch.php?id=870
-
 #EXTINF:-1 tvg-id="germanybundesligakölnvsbayernmünchen" tvg-name="All Soccer Events | Germany - Bundesliga : Köln vs Bayern München (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Köln_vs_Bayern München.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - Bundesliga : Köln vs Bayern München (19:30)
 https://daddyhd.com/watch.php?id=460
 
@@ -28,9 +16,6 @@ https://daddyhd.com/watch.php?id=576
 
 #EXTINF:-1 tvg-id="londonmastersneilrobertsonvsronnieosullivan" tvg-name="Snooker | London Masters : Neil Robertson vs Ronnie O'Sullivan (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Neil Robertson_vs_Ronnie O'Sullivan.png" group-title="Eventi Live DLHD",Snooker | London Masters : Neil Robertson vs Ronnie O'Sullivan (19:00)
 https://daddyhd.com/watch.php?id=878
-
-#EXTINF:-1 tvg-id="figureskatingeuropeanchampionshipsshortprogramofsoloists" tvg-name="Ice Skating | Figure Skating: European Championships - short program of soloists (17:00)" tvg-logo="https://www.usfigureskating.org/sites/default/files/styles/person_image_large/public/media-library/USFig-V-box.png?itok=4IGGx5AI" group-title="Eventi Live DLHD",Ice Skating | Figure Skating: European Championships - short program of soloists (17:00)
-https://daddyhd.com/watch.php?id=879
 
 #EXTINF:-1 tvg-id="seriea1modenavstrentino" tvg-name="Volleyball | Serie A1 : Modena vs Trentino (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Modena_vs_Trentino.png" group-title="Eventi Live DLHD",Volleyball | Serie A1 : Modena vs Trentino (19:30)
 https://daddyhd.com/watch.php?id=882
