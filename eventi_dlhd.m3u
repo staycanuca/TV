@@ -2,12 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyserieaveronavsbologna" tvg-name="Soccer | Italy - Serie A : Verona vs Bologna (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Verona_vs_Bologna.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Verona vs Bologna (17:30)
-https://daddyhd.com/watch.php?id=877
-
-#EXTINF:-1 tvg-id="italyserieaveronavsbologna" tvg-name="Soccer | Italy - Serie A : Verona vs Bologna (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Verona_vs_Bologna.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Verona vs Bologna (17:30)
-https://daddyhd.com/watch.php?id=870
-
 #EXTINF:-1 tvg-id="bundesligaaugsburgvsunionberlin" tvg-name="Soccer | Bundesliga : Augsburg vs Union Berlin (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Augsburg_vs_Union Berlin.png" group-title="Eventi Live DLHD",Soccer | Bundesliga : Augsburg vs Union Berlin (19:30)
 https://daddyhd.com/watch.php?id=870
 
