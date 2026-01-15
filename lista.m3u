@@ -77,6 +77,8 @@ https://vavoo.to/vavoo-iptv/play/196833914960066715a573
 https://daddyhd.com/watch.php?id=877
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",DAZN (MATCH TIME)
 https://vavoo.to/vavoo-iptv/play/2303792166c73d1b7a1439
+#EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV
+https://vavoo.to/vavoo-iptv/play/3802167244650eb7a51319
 #EXTINF:-1 tvg-id="discovery.channel.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari",DISCOVERY CHANNEL
 https://vavoo.to/vavoo-iptv/play/355484191439d5194fc358
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini",DISCOVERY K2
@@ -137,6 +139,8 @@ https://vavoo.to/vavoo-iptv/play/2116902817eb437d88bab6
 https://vavoo.to/vavoo-iptv/play/130018905764f20a1f9289
 #EXTINF:-1 tvg-id="hgtv.it" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS" group-title="Altro",HGTV
 https://vavoo.to/vavoo-iptv/play/42489970292d2930202d0e
+#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
+https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.gruppoicaro.it/wp-content/uploads/2020/05/icarotv.png" group-title="Altro",ICARO TV
 https://vavoo.to/vavoo-iptv/play/2392139008947764078821
 #EXTINF:-1 tvg-id="iris.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS
@@ -271,6 +275,8 @@ https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
 # NEWS
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN FAMILY
 https://vavoo.to/vavoo-iptv/play/3902650955a82543dc27a4
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/RDS-Logo.png/260px-RDS-Logo.png" group-title="Musica",RDS SOCIAL
+https://vavoo.to/vavoo-iptv/play/4031388312f5ebcfc7dc6d
 #EXTINF:-1 tvg-id="rdssocialtv.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/RDS-Logo.png/260px-RDS-Logo.png" group-title="Musica",RDS SOCIAL TV
 https://vavoo.to/vavoo-iptv/play/36560804080912cdf76cbf
 #EXTINF:-1 tvg-id="real.time.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Altro",REAL TIME
@@ -585,6 +591,48 @@ https://vavoo.to/vavoo-iptv/play/2989824407cb0184041b08
 https://vavoo.to/vavoo-iptv/play/28498110272b8770fe20cb
 
 # MEDIASET
+
+#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
+https://example.com.m3u8
+
+#EXTINF:-1 tvg-id="italyserieaveronavsbologna" tvg-name="Soccer | Italy - Serie A : Verona vs Bologna (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Verona_vs_Bologna.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Verona vs Bologna (17:30)
+https://daddyhd.com/watch.php?id=877
+
+#EXTINF:-1 tvg-id="italyserieaveronavsbologna" tvg-name="Soccer | Italy - Serie A : Verona vs Bologna (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Verona_vs_Bologna.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Verona vs Bologna (17:30)
+https://daddyhd.com/watch.php?id=870
+
+#EXTINF:-1 tvg-id="bundesligaaugsburgvsunionberlin" tvg-name="Soccer | Bundesliga : Augsburg vs Union Berlin (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Augsburg_vs_Union Berlin.png" group-title="Eventi Live DLHD",Soccer | Bundesliga : Augsburg vs Union Berlin (19:30)
+https://daddyhd.com/watch.php?id=870
+
+#EXTINF:-1 tvg-id="italyserieacomovsmilan" tvg-name="Soccer | Italy - Serie A : Como vs Milan (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Como_vs_Milan.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Como vs Milan (19:45)
+https://daddyhd.com/watch.php?id=877
+
+#EXTINF:-1 tvg-id="wta500adelaidewta250hobart" tvg-name="Tennis | WTA 500 Adelaide / WTA 250 Hobart (06:30)" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/wta-logo.png" group-title="Eventi Live DLHD",Tennis | WTA 500 Adelaide / WTA 250 Hobart (06:30)
+https://daddyhd.com/watch.php?id=576
+
+#EXTINF:-1 tvg-id="londonmastersquarterfinalafternoonsession" tvg-name="Snooker | London Masters | Quarter-Final | Afternoon Session (13:00)" tvg-logo="https://www.worldteamscrabble.com/wtsc.png" group-title="Eventi Live DLHD",Snooker | London Masters | Quarter-Final | Afternoon Session (13:00)
+https://daddyhd.com/watch.php?id=878
+
+#EXTINF:-1 tvg-id="londonmastersquarterfinaleveningsession" tvg-name="Snooker | London Masters | Quarter-Final | Evening Session (19:00)" tvg-logo="https://www.worldteamscrabble.com/wtsc.png" group-title="Eventi Live DLHD",Snooker | London Masters | Quarter-Final | Evening Session (19:00)
+https://daddyhd.com/watch.php?id=878
+
+#EXTINF:-1 tvg-id="ruhpoldingmensrelayworldcup" tvg-name="Biathlon | Ruhpolding | Men's Relay World Cup (13:15)" tvg-logo="https://assets.website-files.com/5b46eb3876d89c1dc05d5cc8/5fc114bbb30cf953127b00af_Bachmann_tiny.png" group-title="Eventi Live DLHD",Biathlon | Ruhpolding | Men's Relay World Cup (13:15)
+https://daddyhd.com/watch.php?id=879
+
+#EXTINF:-1 tvg-id="europeanchampionshipmenshortprogramsheffield" tvg-name="Ice Skating | European Championship | Men | Short Program Sheffield (13:15)" tvg-logo="https://assets.unileversolutions.com/v1/795685.png" group-title="Eventi Live DLHD",Ice Skating | European Championship | Men | Short Program Sheffield (13:15)
+https://daddyhd.com/watch.php?id=879
+
+#EXTINF:-1 tvg-id="europeanchampionshipswomenshortprogramsheffield" tvg-name="Ice Skating | European Championships | Women | Short Program Sheffield (14:45)" tvg-logo="https://amillionwomen.org/wp-content/uploads/logo-1.png" group-title="Eventi Live DLHD",Ice Skating | European Championships | Women | Short Program Sheffield (14:45)
+https://daddyhd.com/watch.php?id=879
+
+#EXTINF:-1 tvg-id="europeanchampionshipsmixedpairsfreeprogramsheffield" tvg-name="Ice Skating | European Championships | Mixed Pairs | Free Program Sheffield (18:55)" tvg-logo="https://bowlseurope.com/wp-content/uploads/European-Championships-2024-Logo-300-Png-1.png" group-title="Eventi Live DLHD",Ice Skating | European Championships | Mixed Pairs | Free Program Sheffield (18:55)
+https://daddyhd.com/watch.php?id=879
+
+#EXTINF:-1 tvg-id="europeanwaterpolochampionshipsromaniavsitaly" tvg-name="Water polo | European Water Polo Championships : Romania vs Italy (14:15)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Romania_vs_Italy.png" group-title="Eventi Live DLHD",Water polo | European Water Polo Championships : Romania vs Italy (14:15)
+https://daddyhd.com/watch.php?id=882
+
+#EXTINF:-1 tvg-id="worldcupcourchevelsprintrace" tvg-name="Winter Sports | World Cup Courchevel | Sprint Race (12:00)" tvg-logo="https://static.sky.it/images/skysport/it/motori/formula-1/piloti/max-verstappen.png.transform/original/1761314400000/img.jpg" group-title="Eventi Live DLHD",Winter Sports | World Cup Courchevel | Sprint Race (12:00)
+https://daddyhd.com/watch.php?id=879
 
 
 #EXTINF:-1 group-title="Eventi Live SPORTSONLINE",Juventus x Udinese 21:00
