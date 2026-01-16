@@ -61705,5 +61705,180 @@
       99
     ],
     "cached_at": "2026-01-12T06:28:32.981884"
+  },
+  "280948": {
+    "id": 280948,
+    "name": "Irrequietudine primaverile",
+    "original_name": "스프링 피버",
+    "first_air_date": "2026-01-05",
+    "vote_average": 6.8,
+    "poster_path": "/jTJgfbSQ4UczxMOgscHPsoVuL5X.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-01-16T06:25:58.222693"
+  },
+  "75367": {
+    "id": 75367,
+    "name": "Il principe Ivandoe",
+    "original_name": "The Heroic Quest of the Valiant Prince Ivandoe",
+    "first_air_date": "2022-12-05",
+    "vote_average": 7.3,
+    "poster_path": "/zOhdHLaTpRWI4RCFaX52P3IueIK.jpg",
+    "genre_ids": [
+      10759,
+      16,
+      10762,
+      35
+    ],
+    "cached_at": "2026-01-16T06:25:58.298582"
+  },
+  "63401": {
+    "id": 63401,
+    "name": "We Bare Bears - Siamo solo orsi",
+    "original_name": "We Bare Bears",
+    "first_air_date": "2015-08-24",
+    "vote_average": 7.723,
+    "poster_path": "/qWm9rX66jK8ouGUQzWzcu3p14pP.jpg",
+    "genre_ids": [
+      10751,
+      35,
+      16,
+      10762
+    ],
+    "cached_at": "2026-01-16T06:25:58.324804"
+  },
+  "113566": {
+    "id": 113566,
+    "name": "DMZ",
+    "original_name": "DMZ",
+    "first_air_date": "2022-03-17",
+    "vote_average": 5.8,
+    "poster_path": "/wnug9DhsenurS5dWCypjZSRFnH6.jpg",
+    "genre_ids": [
+      18,
+      10765
+    ],
+    "cached_at": "2026-01-16T06:25:58.351275"
+  },
+  "79061": {
+    "id": 79061,
+    "name": "Craig",
+    "original_name": "Craig of the Creek",
+    "first_air_date": "2018-03-30",
+    "vote_average": 8.1,
+    "poster_path": "/u4LaONJSBi0khRe2L8nqBk81dlc.jpg",
+    "genre_ids": [
+      16,
+      10759,
+      35,
+      10762
+    ],
+    "cached_at": "2026-01-16T06:25:58.367226"
+  },
+  "223530": {
+    "id": 223530,
+    "name": "Star Trek: Starfleet Academy",
+    "original_name": "Star Trek: Starfleet Academy",
+    "first_air_date": "2026-01-15",
+    "vote_average": 5.25,
+    "poster_path": "/m4JnADIJkF5ck6jq7GUEcPBKxd0.jpg",
+    "genre_ids": [
+      10765,
+      10759
+    ],
+    "cached_at": "2026-01-16T06:25:58.380336"
+  },
+  "250505": {
+    "id": 250505,
+    "name": "I sette quadranti di Agatha Christie",
+    "original_name": "Agatha Christie's Seven Dials",
+    "first_air_date": "2026-01-15",
+    "vote_average": 7.333,
+    "poster_path": "/3uRQi9HDEAGSadoKee1UHoFCaU9.jpg",
+    "genre_ids": [
+      18,
+      9648
+    ],
+    "cached_at": "2026-01-16T06:25:58.416616"
+  },
+  "157194": {
+    "id": 157194,
+    "name": "Dal Polo Sud al Polo Nord con Will Smith",
+    "original_name": "Pole to Pole with Will Smith",
+    "first_air_date": "2026-01-13",
+    "vote_average": 0.0,
+    "poster_path": "/74zSvHdqFoCfQdXc8ZFqhkrbrPj.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-01-16T06:25:58.449664"
+  },
+  "310045": {
+    "id": 310045,
+    "name": "Amare e perdere",
+    "original_name": "Ayrılık da Sevdaya Dahil",
+    "first_air_date": "2026-01-15",
+    "vote_average": 5.0,
+    "poster_path": "/kAe2Fbkmse2j8ocaWNt3mH6ZsyQ.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-01-16T06:25:58.489598"
+  },
+  "310759": {
+    "id": 310759,
+    "name": "La Preside",
+    "original_name": "La Preside",
+    "first_air_date": "2026-01-12",
+    "vote_average": 4.0,
+    "poster_path": "/6IPH7WaQjMnwZBL9g4IwvOBjdD1.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-01-16T06:25:58.526250"
+  },
+  "50035": {
+    "id": 50035,
+    "name": "Clarence",
+    "original_name": "Clarence",
+    "first_air_date": "2014-04-14",
+    "vote_average": 8.0,
+    "poster_path": "/rUWNAR3FlJDFRabvCBDNA3ryZJw.jpg",
+    "genre_ids": [
+      16,
+      35
+    ],
+    "cached_at": "2026-01-16T06:25:58.557779"
+  },
+  "219543": {
+    "id": 219543,
+    "name": "Creature Commandos",
+    "original_name": "Creature Commandos",
+    "first_air_date": "2024-12-05",
+    "vote_average": 7.766,
+    "poster_path": "/bB3G6Ug1jfsOUptb0RJsqrgMVta.jpg",
+    "genre_ids": [
+      16,
+      10765,
+      10759
+    ],
+    "cached_at": "2026-01-16T06:25:58.583700"
+  },
+  "47035": {
+    "id": 47035,
+    "name": "Uncle Grandpa",
+    "original_name": "Uncle Grandpa",
+    "first_air_date": "2013-09-02",
+    "vote_average": 4.572,
+    "poster_path": "/zLVOgigPMsd2hkwmcY5AqNhqgcn.jpg",
+    "genre_ids": [
+      35,
+      16,
+      10765,
+      10751
+    ],
+    "cached_at": "2026-01-16T06:25:58.665872"
   }
 }

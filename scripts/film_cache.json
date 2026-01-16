@@ -146610,5 +146610,319 @@
       10749
     ],
     "cached_at": "2026-01-13T06:25:45.251618"
+  },
+  "11684": {
+    "id": 11684,
+    "title": "Il vizietto II",
+    "release_date": "1980-12-10",
+    "vote_average": 6.0,
+    "poster_path": "/IVSeRLBc6evYFEvBKD3Dd8i7NC.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-01-16T06:25:51.844578"
+  },
+  "548226": {
+    "id": 548226,
+    "title": "Nessuno come noi",
+    "release_date": "2018-10-18",
+    "vote_average": 5.9,
+    "poster_path": "/lBC1EjLRMRSQz0s0GyjkQPMCE7p.jpg",
+    "genre_ids": [
+      10749
+    ],
+    "cached_at": "2026-01-16T06:25:51.943723"
+  },
+  "13250": {
+    "id": 13250,
+    "title": "Shattered - Gioco mortale",
+    "release_date": "2007-07-27",
+    "vote_average": 6.408,
+    "poster_path": "/eqKY56quflsHtGlXOERRuoI9OpI.jpg",
+    "genre_ids": [
+      80,
+      18,
+      53
+    ],
+    "cached_at": "2026-01-16T06:25:51.950467"
+  },
+  "7500": {
+    "id": 7500,
+    "title": "Sonatine",
+    "release_date": "1993-09-10",
+    "vote_average": 7.5,
+    "poster_path": "/wDB0KGTt67Jrp14M95jqOh0E5Y3.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "cached_at": "2026-01-16T06:25:52.006732"
+  },
+  "975056": {
+    "id": 975056,
+    "title": "Francesca Cabrini",
+    "release_date": "2024-03-07",
+    "vote_average": 7.846,
+    "poster_path": "/rBiHiN8W4BqMFrDozemzkof7GmF.jpg",
+    "genre_ids": [
+      36,
+      18
+    ],
+    "cached_at": "2026-01-16T06:25:52.008203"
+  },
+  "78159": {
+    "id": 78159,
+    "title": "Matrimonio con vizietto - Il vizietto III",
+    "release_date": "1985-11-20",
+    "vote_average": 5.1,
+    "poster_path": "/qA7RcoWbHWklHKZ6p7wb0WjKuFJ.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-01-16T06:25:52.012556"
+  },
+  "1422096": {
+    "id": 1422096,
+    "title": "Good Boy",
+    "release_date": "2025-10-01",
+    "vote_average": 6.729,
+    "poster_path": "/pvMHRi09ur2L1drXh2dXFtuMFgl.jpg",
+    "genre_ids": [
+      27
+    ],
+    "cached_at": "2026-01-16T06:25:52.072221"
+  },
+  "29426": {
+    "id": 29426,
+    "title": "Survival of the Dead - L'isola dei sopravvissuti",
+    "release_date": "2010-05-06",
+    "vote_average": 4.876,
+    "poster_path": "/6KyqmWPbIkvOHy5dlGRdny28qHk.jpg",
+    "genre_ids": [
+      27,
+      35,
+      18,
+      53
+    ],
+    "cached_at": "2026-01-16T06:25:52.078404"
+  },
+  "945937": {
+    "id": 945937,
+    "title": "Fast Charlie",
+    "release_date": "2023-12-08",
+    "vote_average": 6.2,
+    "poster_path": "/3y72ffwYRUPOj4yOQbiTaN897Tm.jpg",
+    "genre_ids": [
+      28,
+      80,
+      18
+    ],
+    "cached_at": "2026-01-16T06:25:52.143470"
+  },
+  "22527": {
+    "id": 22527,
+    "title": "Il ladro",
+    "release_date": "1956-12-22",
+    "vote_average": 7.1,
+    "poster_path": "/ub15e7r8Vie0ft87bKcAENyI2Fb.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "cached_at": "2026-01-16T06:25:52.146322"
+  },
+  "9101": {
+    "id": 9101,
+    "title": "Giù le mani dal mio periscopio",
+    "release_date": "1996-03-01",
+    "vote_average": 6.382,
+    "poster_path": "/n6PaiMm0lxHFcV7WeumK7CKeT7V.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-01-16T06:25:52.149010"
+  },
+  "28176": {
+    "id": 28176,
+    "title": "Tucker: un uomo e il suo sogno",
+    "release_date": "1988-08-12",
+    "vote_average": 6.7,
+    "poster_path": "/uHaZRnCI1pzESOIJYI7HGGVzNLW.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-01-16T06:25:52.217419"
+  },
+  "928833": {
+    "id": 928833,
+    "title": "Craig: Il Film",
+    "release_date": "2023-12-11",
+    "vote_average": 7.8,
+    "poster_path": "/9CCNNJyhOxGdSoFuBjWHA1c4HPT.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      10770,
+      12,
+      35,
+      14
+    ],
+    "cached_at": "2026-01-16T06:25:52.219600"
+  },
+  "304357": {
+    "id": 304357,
+    "title": "Woman in Gold",
+    "release_date": "2015-03-20",
+    "vote_average": 7.3,
+    "poster_path": "/s8vbuUaeXSReZGHJg7s1wdSXvql.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-01-16T06:25:52.284871"
+  },
+  "1610413": {
+    "id": 1610413,
+    "title": "Un'ultima avventura: Stranger Things 5: dietro le quinte",
+    "release_date": "2026-01-11",
+    "vote_average": 7.688,
+    "poster_path": "/aZhrAx5CevLfjXcGIG3wBXxDiAL.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-01-16T06:25:52.357312"
+  },
+  "62024": {
+    "id": 62024,
+    "title": "L'amore ritrovato",
+    "release_date": "2004-09-17",
+    "vote_average": 5.4,
+    "poster_path": "/5UJOKOAJoGMJMTvEIrBwuQQAayT.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-01-16T06:25:52.362369"
+  },
+  "19137": {
+    "id": 19137,
+    "title": "Caccia alla volpe",
+    "release_date": "1966-09-08",
+    "vote_average": 6.0,
+    "poster_path": "/vW9TyXLRUaH93HXqmASm1IfaSer.jpg",
+    "genre_ids": [
+      80,
+      35
+    ],
+    "cached_at": "2026-01-16T06:25:52.428547"
+  },
+  "4484": {
+    "id": 4484,
+    "title": "Il vizietto",
+    "release_date": "1978-10-20",
+    "vote_average": 6.8,
+    "poster_path": "/2zIk2qajP33r5OZI6jsWF5qs6zU.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-01-16T06:25:52.432991"
+  },
+  "44741": {
+    "id": 44741,
+    "title": "Malizia",
+    "release_date": "1973-03-29",
+    "vote_average": 7.273,
+    "poster_path": "/6tqmwsDBpm4LS0HzZGFlWQYcqhp.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-01-16T06:25:52.434107"
+  },
+  "60203": {
+    "id": 60203,
+    "title": "Il pesce innamorato",
+    "release_date": "1999-12-17",
+    "vote_average": 5.697,
+    "poster_path": "/xJcdQeK3TjDStQ4M8BO2pULA7KN.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-01-16T06:25:52.505960"
+  },
+  "223": {
+    "id": 223,
+    "title": "Rebecca - La prima moglie",
+    "release_date": "1940-03-23",
+    "vote_average": 7.894,
+    "poster_path": "/vhHf26Q9rNCB2O0HygVRS6TKug.jpg",
+    "genre_ids": [
+      9648,
+      10749,
+      53
+    ],
+    "cached_at": "2026-01-16T06:25:52.572079"
+  },
+  "677638": {
+    "id": 677638,
+    "title": "Siamo solo orsi - Il film",
+    "release_date": "2020-06-30",
+    "vote_average": 7.837,
+    "poster_path": "/6zsr0BKqLV2c1ueukhh91ABZx2g.jpg",
+    "genre_ids": [
+      16,
+      12,
+      10751,
+      35,
+      10770
+    ],
+    "cached_at": "2026-01-16T06:25:52.576002"
+  },
+  "33997": {
+    "id": 33997,
+    "title": "Fiore del deserto",
+    "release_date": "2009-09-24",
+    "vote_average": 7.58,
+    "poster_path": "/bsqFxLpXh3Sfz7WuZT2iRi9ap9Q.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-01-16T06:25:52.649562"
+  },
+  "52212": {
+    "id": 52212,
+    "title": "Miranda",
+    "release_date": "1985-10-15",
+    "vote_average": 5.1,
+    "poster_path": "/iaN8NhkU0qBhcT18KFlUa33Gsz9.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-01-16T06:25:52.720407"
+  },
+  "1250096": {
+    "id": 1250096,
+    "title": "Food for Profit",
+    "release_date": "2024-02-26",
+    "vote_average": 7.88,
+    "poster_path": "/46ezC4wp3QPSL7zVzPpUWWWt2GF.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-01-16T06:25:52.791198"
+  },
+  "4886": {
+    "id": 4886,
+    "title": "Dieci piccoli indiani",
+    "release_date": "1945-10-31",
+    "vote_average": 7.029,
+    "poster_path": "/A5ttkhJF6XyylDOFYcICyVwabKY.jpg",
+    "genre_ids": [
+      80,
+      18,
+      9648
+    ],
+    "cached_at": "2026-01-16T06:25:52.874990"
   }
 }
