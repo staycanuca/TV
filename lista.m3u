@@ -3,6 +3,8 @@
 https://vavoo.to/vavoo-iptv/play/160013981909ce6c338fef
 #EXTINF:-1 tvg-id="20mediasethd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Mediaset",20 MEDIASET (D)
 https://daddyhd.com/watch.php?id=857
+#EXTINF:-1 tvg-id="27.twentyseven.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/260px-Twentyseven_logo.svg.png" group-title="Mediaset",27 TWENTYSEVEN
+https://vavoo.to/vavoo-iptv/play/6087746837741766a74b3
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",8SKY CINEMA SUSPENSE (D)
 https://daddyhd.com/watch.php?id=868
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSdt3E_MmezXRKr7QOUEr0leEcErbaNGqbog&s" group-title="Altro",ALTO ADIGE TV
@@ -133,8 +135,6 @@ https://vavoo.to/vavoo-iptv/play/217968682876c9a8051121
 https://vavoo.to/vavoo-iptv/play/40604994550f228d5b9b59
 #EXTINF:-1 tvg-id="" tvg-logo="https://ennapress.it/wp-content/uploads/2020/10/globus.png" group-title="Altro",GLOBUS TELEVISION
 https://vavoo.to/vavoo-iptv/play/2116902817eb437d88bab6
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",GRANDE FRATELLO
-https://vavoo.to/vavoo-iptv/play/130018905764f20a1f9289
 #EXTINF:-1 tvg-id="hgtv.it" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS" group-title="Altro",HGTV
 https://vavoo.to/vavoo-iptv/play/42489970292d2930202d0e
 #EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
@@ -458,7 +458,7 @@ https://vavoo.to/vavoo-iptv/play/2061826034c5ac3b5d7306
 #EXTINF:-1 tvg-id="super!.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/1024px-Super%21_logo_2021.svg.png" group-title="Bambini",SUPER!
 https://vavoo.to/vavoo-iptv/play/2900362153b8a056cb86c0
 
-# MEDIASET
+# FILM - SERIE TV
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_ebhZMV4eYibx6UpVDOt1KOlmhOPYBh0gKw&s" group-title="Altro",SUPERSIX LOMBARDIA
 https://vavoo.to/vavoo-iptv/play/8491244640295fc9ea282
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.abruzzi.tv/logo-abruzzi.png" group-title="Altro",TELE ABRUZZO
@@ -540,7 +540,7 @@ https://vavoo.to/vavoo-iptv/play/3413557893b1ed86e5018c
 #EXTINF:-1 tvg-id="top.crime.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/top-crime-it.png" group-title="Mediaset",TOP CRIME
 https://vavoo.to/vavoo-iptv/play/3420407456fb80f4ceda0b
 
-# FILM - SERIE TV
+# DOCUMENTARI
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.trentinotv.it/images/resource/logo-trentino.png" group-title="Altro",TRENTINO TV (1)
 https://vavoo.to/vavoo-iptv/play/2764553737f817b6d4f583
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.trentinotv.it/images/resource/logo-trentino.png" group-title="Altro",TRENTINO TV (2)
@@ -586,7 +586,7 @@ https://vavoo.to/vavoo-iptv/play/2989824407cb0184041b08
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",YU-GI-OH! ITALY
 https://vavoo.to/vavoo-iptv/play/28498110272b8770fe20cb
 
-# DOCUMENTARI
+# MEDIASET
 
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
@@ -678,9 +678,6 @@ https://daddyhd.com/watch.php?id=878
 #EXTINF:-1 tvg-id="2026johnstonespaintmastersalexandrapalacelondon" tvg-name="Snooker | 2026 Johnstones Paint Masters - Alexandra Palace, London (19:00)" tvg-logo="https://assets.stickpng.com/thumbs/66bf1972a23895510f5042d2.png" group-title="Eventi Live DLHD",Snooker | 2026 Johnstones Paint Masters - Alexandra Palace, London (19:00)
 https://daddyhd.com/watch.php?id=878
 
-#EXTINF:-1 tvg-id="worldcupcompetitioninwengenmensdownhill" tvg-name="Alpine Ski | World Cup Competition in Wengen men's downhill (11:30)" tvg-logo="https://static.flashscore.com/res/image/data/0CDXKYld-8OTMMlaF.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup Competition in Wengen men's downhill (11:30)
-https://daddyhd.com/watch.php?id=878
-
 #EXTINF:-1 tvg-id="ibuworldcupruhpoldingmenssprint" tvg-name="Biathlon | IBU World Cup Ruhpolding | Men's Sprint (13:20)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Biathlon | IBU World Cup Ruhpolding | Men's Sprint (13:20)
 https://daddyhd.com/watch.php?id=879
 
@@ -695,9 +692,6 @@ https://daddyhd.com/watch.php?id=879
 
 #EXTINF:-1 tvg-id="seriea1veronavscuneovolley" tvg-name="Volleyball | Serie A1 : Verona vs Cuneo Volley (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Verona_vs_Cuneo Volley.png" group-title="Eventi Live DLHD",Volleyball | Serie A1 : Verona vs Cuneo Volley (17:00)
 https://daddyhd.com/watch.php?id=882
-
-#EXTINF:-1 tvg-id="oberhofmens10kmgundersenworldcupday1" tvg-name="Winter Sports | Oberhof | Men's 10km Gundersen World Cup | Day 1 (11:15)" tvg-logo="https://www.teroseppala.com/uploads/1/4/4/5/144568347/roeckl_orig.png" group-title="Eventi Live DLHD",Winter Sports | Oberhof | Men's 10km Gundersen World Cup | Day 1 (11:15)
-https://daddyhd.com/watch.php?id=879
 
 
 #EXTINF:-1 group-title="Eventi Live SPORTSONLINE",Juventus x Udinese 21:00
