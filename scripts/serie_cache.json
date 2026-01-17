@@ -61880,5 +61880,32 @@
       10751
     ],
     "cached_at": "2026-01-16T06:25:58.665872"
+  },
+  "271267": {
+    "id": 271267,
+    "name": "The Chair Company",
+    "original_name": "The Chair Company",
+    "first_air_date": "2025-10-12",
+    "vote_average": 7.215,
+    "poster_path": "/xZgftEXZXTM47k2rZlXo8kr8HZF.jpg",
+    "genre_ids": [
+      35,
+      18,
+      9648
+    ],
+    "cached_at": "2026-01-17T06:22:56.839243"
+  },
+  "270420": {
+    "id": 270420,
+    "name": "오늘부터 인간입니다만",
+    "original_name": "오늘부터 인간입니다만",
+    "first_air_date": "2026-01-16",
+    "vote_average": 10.0,
+    "poster_path": "/wPqwfPOfJOMLFR1ZF2HL6mcpVas.jpg",
+    "genre_ids": [
+      10765,
+      35
+    ],
+    "cached_at": "2026-01-17T06:22:56.930016"
   }
 }

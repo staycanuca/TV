@@ -146924,5 +146924,104 @@
       9648
     ],
     "cached_at": "2026-01-16T06:25:52.874990"
+  },
+  "1306368": {
+    "id": 1306368,
+    "title": "The Rip - Soldi sporchi",
+    "release_date": "2026-01-13",
+    "vote_average": 7.167,
+    "poster_path": "/2KFcXaBoLbFTLj7gUXHM0sRb5pP.jpg",
+    "genre_ids": [
+      28,
+      53,
+      80
+    ],
+    "cached_at": "2026-01-17T06:22:51.335626"
+  },
+  "9534": {
+    "id": 9534,
+    "title": "Crimen perfecto - Finché morte non li separi",
+    "release_date": "2004-09-10",
+    "vote_average": 6.686,
+    "poster_path": "/npo6bo4pKJuSW0LSapMzT28TEu4.jpg",
+    "genre_ids": [
+      35,
+      53
+    ],
+    "cached_at": "2026-01-17T06:22:51.338625"
+  },
+  "11448": {
+    "id": 11448,
+    "title": "La dea dell'amore",
+    "release_date": "1995-09-13",
+    "vote_average": 6.712,
+    "poster_path": "/bi0067shmsWSDbRPSl2ABI2zzPE.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-01-17T06:22:51.372871"
+  },
+  "957119": {
+    "id": 957119,
+    "title": "The bad boy and me",
+    "release_date": "2025-02-06",
+    "vote_average": 6.274,
+    "poster_path": "/mSL6truNrWP1Bn9ng1rN0SkMI4f.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-01-17T06:22:51.401357"
+  },
+  "1088": {
+    "id": 1088,
+    "title": "La ragazza delle balene",
+    "release_date": "2003-01-30",
+    "vote_average": 7.061,
+    "poster_path": "/pODoMIMBIUIkEcv7sjHUCGQWDRv.jpg",
+    "genre_ids": [
+      18,
+      10751
+    ],
+    "cached_at": "2026-01-17T06:22:51.442181"
+  },
+  "9623": {
+    "id": 9623,
+    "title": "Il giurato",
+    "release_date": "1996-02-02",
+    "vote_average": 5.668,
+    "poster_path": "/zdCXzqokueNITw4npVbAw9oQgvv.jpg",
+    "genre_ids": [
+      53,
+      80,
+      18
+    ],
+    "cached_at": "2026-01-17T06:22:51.474103"
+  },
+  "991": {
+    "id": 991,
+    "title": "L'uomo che cadde sulla Terra",
+    "release_date": "1976-03-18",
+    "vote_average": 6.443,
+    "poster_path": "/pU6F72s9XCX9ugrZbUG3K0V6rU2.jpg",
+    "genre_ids": [
+      878,
+      18
+    ],
+    "cached_at": "2026-01-17T06:22:51.547464"
+  },
+  "14239": {
+    "id": 14239,
+    "title": "Fuga dal mondo dei sogni",
+    "release_date": "1992-07-10",
+    "vote_average": 5.631,
+    "poster_path": "/rBY2iFTWK1Pw4OAsCKqjXlwIc0e.jpg",
+    "genre_ids": [
+      16,
+      35,
+      14
+    ],
+    "cached_at": "2026-01-17T06:22:51.830785"
   }
 }
