@@ -151,6 +151,8 @@ https://daddyhd.com/watch.php?id=854
 # ALTRO
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3
 https://vavoo.to/vavoo-iptv/play/1200985239ceccd12c8a54
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.upmagazinearezzo.it/atladv/wp-content/uploads/2017/07/atlantide-adv-logo-italian-fishing-tv.jpg" group-title="Altro",ITALIAN FISHING TV
+https://vavoo.to/vavoo-iptv/play/477083716dc642d622f68
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Iunior_tv.png" group-title="Altro",IUNIOR TV
 https://vavoo.to/vavoo-iptv/play/803540254d5a6317673b3
 #EXTINF:-1 tvg-id="k2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini",K2
@@ -225,8 +227,6 @@ https://vavoo.to/vavoo-iptv/play/2952884641015b63f29238
 https://vavoo.to/vavoo-iptv/play/233974719353ecd6eb8de1
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/Radio_Capital_-_Logo_2019.svg.png/revision/latest?cb=20190815181629" group-title="Musica",RADIO CAPITAL
 https://vavoo.to/vavoo-iptv/play/4214417458dc0729ae47d
-#EXTINF:-1 tvg-id="radiofreccia.hd.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/radio-freccia-it.png?raw=true" group-title="Musica",RADIO FRECCIA
-https://vavoo.to/vavoo-iptv/play/1711134994a4ab3e165de3
 #EXTINF:-1 tvg-id="rai1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai",RAI 1
 https://vavoo.to/vavoo-iptv/play/122565375973a967da4f03
 #EXTINF:-1 tvg-id="rai1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai",RAI 1 (D)
@@ -275,8 +275,6 @@ https://vavoo.to/vavoo-iptv/play/3902650955a82543dc27a4
 https://vavoo.to/vavoo-iptv/play/4031388312f5ebcfc7dc6d
 #EXTINF:-1 tvg-id="rdssocialtv.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/RDS-Logo.png/260px-RDS-Logo.png" group-title="Musica",RDS SOCIAL TV
 https://vavoo.to/vavoo-iptv/play/36560804080912cdf76cbf
-#EXTINF:-1 tvg-id="real.time.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Altro",REAL TIME
-https://vavoo.to/vavoo-iptv/play/2251241999722578d55332
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Reggio_TV_logo.png/640px-Reggio_TV_logo.png" group-title="Altro",REGGIO TV
 https://vavoo.to/vavoo-iptv/play/216554978929adb39fe170
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/rei-tv-it.png?raw=true" group-title="Altro",REI TV
@@ -405,8 +403,6 @@ https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 https://daddyhd.com/watch.php?id=462
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",SKY SPORT BASKET (D)
 https://daddyhd.com/watch.php?id=875
-#EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
-https://vavoo.to/vavoo-iptv/play/449990998077a7691828f
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (D)
 https://daddyhd.com/watch.php?id=870
 #EXTINF:-1 tvg-id="sky.sport.f1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1 (D)
@@ -615,7 +611,7 @@ https://daddyhd.com/watch.php?id=28
 #EXTINF:-1 tvg-id="italyseriecjuventusiivsascoli" tvg-name="All Soccer Events | Italy - Serie C : Juventus II vs Ascoli (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Juventus II_vs_Ascoli.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Juventus II vs Ascoli (13:30)
 https://daddyhd.com/watch.php?id=870
 
-#EXTINF:-1 tvg-id="italyseriecbeneventovsvirtuscasarano" tvg-name="All Soccer Events | Italy - Serie C : Benevento vs Virtus Casarano (13:30)" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/08/benevento-calcio-logo.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Benevento vs Virtus Casarano (13:30)
+#EXTINF:-1 tvg-id="italyseriecbeneventovsvirtuscasarano" tvg-name="All Soccer Events | Italy - Serie C : Benevento vs Virtus Casarano (13:30)" tvg-logo="https://www.opibn.it/web/wp-content/uploads/2018/08/cropped-opi-logo-quadrato.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Benevento vs Virtus Casarano (13:30)
 https://daddyhd.com/watch.php?id=189
 
 #EXTINF:-1 tvg-id="italyserieaudinesevsinternazionale" tvg-name="All Soccer Events | Italy - Serie A : Udinese vs Internazionale (14:00)" tvg-logo="https://logos-download.com/wp-content/uploads/2016/05/F_-Inter_logo_new.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Udinese vs Internazionale (14:00)
@@ -630,10 +626,10 @@ https://daddyhd.com/watch.php?id=461
 #EXTINF:-1 tvg-id="englandpremierleagueliverpoolvsburnley" tvg-name="All Soccer Events | England - Premier League : Liverpool vs Burnley (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Liverpool_vs_Burnley.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Liverpool vs Burnley (15:00)
 https://daddyhd.com/watch.php?id=462
 
-#EXTINF:-1 tvg-id="italyseriecospitalettovstriestina" tvg-name="All Soccer Events | Italy - Serie C : Ospitaletto vs Triestina (16:30)" tvg-logo="https://png.pngtree.com/png-clipart/20221023/original/pngtree-icc-men-t20-world-cup-logo-2022-png-image_8715560.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Ospitaletto vs Triestina (16:30)
+#EXTINF:-1 tvg-id="italyseriecospitalettovstriestina" tvg-name="All Soccer Events | Italy - Serie C : Ospitaletto vs Triestina (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ospitaletto_vs_Triestina.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Ospitaletto vs Triestina (16:30)
 https://daddyhd.com/watch.php?id=189
 
-#EXTINF:-1 tvg-id="italyseriecospitalettovstriestina" tvg-name="All Soccer Events | Italy - Serie C : Ospitaletto vs Triestina (16:30)" tvg-logo="https://png.pngtree.com/png-clipart/20221023/original/pngtree-icc-men-t20-world-cup-logo-2022-png-image_8715560.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Ospitaletto vs Triestina (16:30)
+#EXTINF:-1 tvg-id="italyseriecospitalettovstriestina" tvg-name="All Soccer Events | Italy - Serie C : Ospitaletto vs Triestina (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ospitaletto_vs_Triestina.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Ospitaletto vs Triestina (16:30)
 https://daddyhd.com/watch.php?id=460
 
 #EXTINF:-1 tvg-id="italyserieclumezzanevsalcione" tvg-name="All Soccer Events | Italy - Serie C : Lumezzane vs Alcione (16:30)" tvg-logo="https://www.uasl-lumezzane.it/wp-content/uploads/2016/04/logo_lumezzane.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Lumezzane vs Alcione (16:30)
@@ -678,10 +674,10 @@ https://daddyhd.com/watch.php?id=878
 #EXTINF:-1 tvg-id="2026johnstonespaintmastersalexandrapalacelondon" tvg-name="Snooker | 2026 Johnstones Paint Masters - Alexandra Palace, London (19:00)" tvg-logo="https://assets.stickpng.com/thumbs/66bf1972a23895510f5042d2.png" group-title="Eventi Live DLHD",Snooker | 2026 Johnstones Paint Masters - Alexandra Palace, London (19:00)
 https://daddyhd.com/watch.php?id=878
 
-#EXTINF:-1 tvg-id="worldcupcompetitionintarvisiowomensmeeting" tvg-name="Alpine Ski | World Cup Competition in Tarvisio women's meeting (09:30)" tvg-logo="https://experiences.rugbyworldcup.com/wp-content/uploads/5a594e40cee63c622f47d7e8622ed55c.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup Competition in Tarvisio women's meeting (09:30)
+#EXTINF:-1 tvg-id="worldcupcompetitionintarvisiowomensmeeting" tvg-name="Alpine Ski | World Cup Competition in Tarvisio women's meeting (09:30)" tvg-logo="https://crystalpng.com/wp-content/uploads/2023/10/cricket-worlcup-logo-india-2023.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup Competition in Tarvisio women's meeting (09:30)
 https://daddyhd.com/watch.php?id=878
 
-#EXTINF:-1 tvg-id="worldcupcompetitioninwengenmensdownhill" tvg-name="Alpine Ski | World Cup Competition in Wengen men's downhill (11:30)" tvg-logo="https://static.flashscore.com/res/image/data/0CDXKYld-8OTMMlaF.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup Competition in Wengen men's downhill (11:30)
+#EXTINF:-1 tvg-id="worldcupcompetitioninwengenmensdownhill" tvg-name="Alpine Ski | World Cup Competition in Wengen men's downhill (11:30)" tvg-logo="https://getbezel.mo.cloudinary.net/production/52ae2939-0f7a-4347-87f7-b4edb226f025.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup Competition in Wengen men's downhill (11:30)
 https://daddyhd.com/watch.php?id=878
 
 #EXTINF:-1 tvg-id="ibuworldcupruhpoldingmenssprint" tvg-name="Biathlon | IBU World Cup Ruhpolding | Men's Sprint (13:20)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Biathlon | IBU World Cup Ruhpolding | Men's Sprint (13:20)
@@ -696,19 +692,13 @@ https://daddyhd.com/watch.php?id=878
 #EXTINF:-1 tvg-id="figureskatingeuropeanchampionshipssheffield2026freedance" tvg-name="Ice Skating | Figure Skating: European Championships - Sheffield 2026 free dance (18:30)" tvg-logo="https://www.usfigureskating.org/sites/default/files/styles/person_image_large/public/media-library/USFig-V-box.png?itok=4IGGx5AI" group-title="Eventi Live DLHD",Ice Skating | Figure Skating: European Championships - Sheffield 2026 free dance (18:30)
 https://daddyhd.com/watch.php?id=879
 
-#EXTINF:-1 tvg-id="individualcompetitionzhangjiakouladies" tvg-name="Ski Jumping | Individual competition | Zhangjiakou Ladies (08:00)" tvg-logo="https://cdn2.iconfinder.com/data/icons/sport-competition-linear-outline/4000/21-08-26-Paralympic-games-editable-stroke-31-512.png" group-title="Eventi Live DLHD",Ski Jumping | Individual competition | Zhangjiakou Ladies (08:00)
-https://daddyhd.com/watch.php?id=878
-
 #EXTINF:-1 tvg-id="seriea1veronavscuneovolley" tvg-name="Volleyball | Serie A1 : Verona vs Cuneo Volley (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Verona_vs_Cuneo Volley.png" group-title="Eventi Live DLHD",Volleyball | Serie A1 : Verona vs Cuneo Volley (17:00)
 https://daddyhd.com/watch.php?id=882
 
-#EXTINF:-1 tvg-id="oberhofwomenshs100worldcupday1" tvg-name="Winter Sports | Oberhof | Women's HS 100 World Cup | Day 1 (07:50)" tvg-logo="https://www.teroseppala.com/uploads/1/4/4/5/144568347/roeckl_orig.png" group-title="Eventi Live DLHD",Winter Sports | Oberhof | Women's HS 100 World Cup | Day 1 (07:50)
+#EXTINF:-1 tvg-id="oberhofmenshs100worldcupday1" tvg-name="Winter Sports | Oberhof | Men's HS 100 World Cup | Day 1 (08:35)" tvg-logo="https://www.oberhof.de/_Resources/Persistent/9fdfa58883ef825b887248f638a020f136a1bba9/Oberhof_Guetesiegel-eisblau-640x653.png" group-title="Eventi Live DLHD",Winter Sports | Oberhof | Men's HS 100 World Cup | Day 1 (08:35)
 https://daddyhd.com/watch.php?id=879
 
-#EXTINF:-1 tvg-id="oberhofmenshs100worldcupday1" tvg-name="Winter Sports | Oberhof | Men's HS 100 World Cup | Day 1 (08:35)" tvg-logo="https://www.teroseppala.com/uploads/1/4/4/5/144568347/roeckl_orig.png" group-title="Eventi Live DLHD",Winter Sports | Oberhof | Men's HS 100 World Cup | Day 1 (08:35)
-https://daddyhd.com/watch.php?id=879
-
-#EXTINF:-1 tvg-id="oberhofmens10kmgundersenworldcupday1" tvg-name="Winter Sports | Oberhof | Men's 10km Gundersen World Cup | Day 1 (11:15)" tvg-logo="https://www.teroseppala.com/uploads/1/4/4/5/144568347/roeckl_orig.png" group-title="Eventi Live DLHD",Winter Sports | Oberhof | Men's 10km Gundersen World Cup | Day 1 (11:15)
+#EXTINF:-1 tvg-id="oberhofmens10kmgundersenworldcupday1" tvg-name="Winter Sports | Oberhof | Men's 10km Gundersen World Cup | Day 1 (11:15)" tvg-logo="https://www.oberhof.de/_Resources/Persistent/9fdfa58883ef825b887248f638a020f136a1bba9/Oberhof_Guetesiegel-eisblau-640x653.png" group-title="Eventi Live DLHD",Winter Sports | Oberhof | Men's 10km Gundersen World Cup | Day 1 (11:15)
 https://daddyhd.com/watch.php?id=879
 
 
