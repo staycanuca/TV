@@ -351,6 +351,8 @@ https://daddyhd.com/watch.php?id=866
 https://vavoo.to/vavoo-iptv/play/32165161175e13c1d3f56a
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY (D)
 https://daddyhd.com/watch.php?id=865
+#EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film - Serie TV",SKY CINEMA ROMANCE
+https://vavoo.to/vavoo-iptv/play/128126488561be9a87267f
 #EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film - Serie TV",SKY CINEMA ROMANCE (D)
 https://daddyhd.com/watch.php?id=864
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film - Serie TV",SKY CINEMA SUSPENSE
@@ -387,8 +389,6 @@ https://vavoo.to/vavoo-iptv/play/17532606771304e2497369
 # SPORT
 #EXTINF:-1 tvg-id="sky.serie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Film - Serie TV",SKY SERIE (D)
 https://daddyhd.com/watch.php?id=880
-#EXTINF:-1 tvg-id="skysport.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-it.png" group-title="Sport",SKY SPORT
-https://vavoo.to/vavoo-iptv/play/92466165981ba6f81de20
 #EXTINF:-1 tvg-id="sky.sport.24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 (D)
 https://daddyhd.com/watch.php?id=869
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY]
@@ -437,6 +437,8 @@ https://vavoo.to/vavoo-iptv/play/22890389722acc4573933d
 https://daddyhd.com/watch.php?id=574
 
 # MEDIASET
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SUPER TENNIS
+https://vavoo.to/vavoo-iptv/play/55828211836e421b20575
 #EXTINF:-1 tvg-id="sky.tg24.it" tvg-logo="https://play-lh.googleusercontent.com/0RJjBW8_r64dWLAbG7kUVrkESbBr9Ukx30pDI83e5_o1obv2MTC7KSpBAIhhXvJAkXE" group-title="News",SKY TG 24
 https://vavoo.to/vavoo-iptv/play/3180571288b987548e3fe
 #EXTINF:-1 tvg-id="sky.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Altro",SKY UNO
@@ -612,7 +614,7 @@ https://daddyhd.com/watch.php?id=10
 #EXTINF:-1 tvg-id="italyseriecunionarzignanochiampovsvicenza" tvg-name="Soccer | Italy - Serie C : Union ArzignanoChiampo vs Vicenza (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Union ArzignanoChiampo_vs_Vicenza.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Union ArzignanoChiampo vs Vicenza (13:30)
 https://daddyhd.com/watch.php?id=461
 
-#EXTINF:-1 tvg-id="italyseriecperugiavsgubbio" tvg-name="Soccer | Italy - Serie C : Perugia vs Gubbio (13:30)" tvg-logo="https://vivoumbria.b-cdn.net/wp-content/uploads/2023/04/tracce-darte-gubbio-Logo-nero-TAG-2023.2-2048x1998.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Perugia vs Gubbio (13:30)
+#EXTINF:-1 tvg-id="italyseriecperugiavsgubbio" tvg-name="Soccer | Italy - Serie C : Perugia vs Gubbio (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Perugia_vs_Gubbio.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Perugia vs Gubbio (13:30)
 https://daddyhd.com/watch.php?id=11
 
 #EXTINF:-1 tvg-id="italyseriecsiracusavsaudacecerignola" tvg-name="Soccer | Italy - Serie C : Siracusa vs Audace Cerignola (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Siracusa_vs_Audace Cerignola.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Siracusa vs Audace Cerignola (13:30)
@@ -696,9 +698,6 @@ https://daddyhd.com/watch.php?id=878
 #EXTINF:-1 tvg-id="mastersfinaleveningsession" tvg-name="Snooker | Masters | Final | Evening Session (19:00)" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/klmasters-profile_image-95e5f036905848bb-300x300.png" group-title="Eventi Live DLHD",Snooker | Masters | Final | Evening Session (19:00)
 https://daddyhd.com/watch.php?id=878
 
-#EXTINF:-1 tvg-id="wengenmensslalomworldcuprun1" tvg-name="Alpine Ski | Wengen | Men's Slalom World Cup | Run 1 (08:45)" tvg-logo="https://ande.it/wp-content/uploads/2025/11/M24007-0912_clipped_rev_1-1200x1200.png" group-title="Eventi Live DLHD",Alpine Ski | Wengen | Men's Slalom World Cup | Run 1 (08:45)
-https://daddyhd.com/watch.php?id=879
-
 #EXTINF:-1 tvg-id="wengenmensslalomworldcuprun2" tvg-name="Alpine Ski | Wengen | Men's Slalom World Cup | Run 2 (11:45)" tvg-logo="https://ande.it/wp-content/uploads/2025/11/M24007-0912_clipped_rev_1-1200x1200.png" group-title="Eventi Live DLHD",Alpine Ski | Wengen | Men's Slalom World Cup | Run 2 (11:45)
 https://daddyhd.com/watch.php?id=879
 
@@ -714,7 +713,7 @@ https://daddyhd.com/watch.php?id=462
 #EXTINF:-1 tvg-id="seriea1trentinovsmilano" tvg-name="Volleyball | Serie A1 : Trentino vs Milano (16:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Trentino_vs_Milano.png" group-title="Eventi Live DLHD",Volleyball | Serie A1 : Trentino vs Milano (16:00)
 https://daddyhd.com/watch.php?id=877
 
-#EXTINF:-1 tvg-id="seriea1lubecivitanovavsperugia" tvg-name="Volleyball | Serie A1 : Lube Civitanova vs Perugia (17:00)" tvg-logo="https://prismatarantovolley.it/wp-content/uploads/2021/09/logo-lube-civitanova.png" group-title="Eventi Live DLHD",Volleyball | Serie A1 : Lube Civitanova vs Perugia (17:00)
+#EXTINF:-1 tvg-id="seriea1lubecivitanovavsperugia" tvg-name="Volleyball | Serie A1 : Lube Civitanova vs Perugia (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lube Civitanova_vs_Perugia.png" group-title="Eventi Live DLHD",Volleyball | Serie A1 : Lube Civitanova vs Perugia (17:00)
 https://daddyhd.com/watch.php?id=882
 
 #EXTINF:-1 tvg-id="oberhofwomensdoublesworldcuprun1" tvg-name="Winter Sports | Oberhof | Women's Doubles World Cup | Run 1 (12:00)" tvg-logo="https://www.teroseppala.com/uploads/1/4/4/5/144568347/roeckl_orig.png" group-title="Eventi Live DLHD",Winter Sports | Oberhof | Women's Doubles World Cup | Run 1 (12:00)
