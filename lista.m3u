@@ -93,8 +93,6 @@ https://vavoo.to/vavoo-iptv/play/3803638765756268d23edc
 https://vavoo.to/vavoo-iptv/play/1521821490a62d4e3205da
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/81omr2rZ8+L.png" group-title="Altro",ENTELLA TV
 https://vavoo.to/vavoo-iptv/play/1371658771f5d431bd1ae6
-#EXTINF:-1 tvg-id="equtv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/equ-tv-it.png?raw=true" group-title="Altro",EQU TV
-https://vavoo.to/vavoo-iptv/play/28185866687e407e1edc60
 #EXTINF:-1 tvg-id="" tvg-logo="https://massimoemanuelli.com/wp-content/uploads/2017/10/etv-logo-attuale.png?w=640" group-title="Altro",ESPANSIONE TV
 https://vavoo.to/vavoo-iptv/play/53948441989c19aba3352
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_ESPERIAtv.png" group-title="Altro",ESPERIA TV
@@ -139,8 +137,6 @@ https://vavoo.to/vavoo-iptv/play/2116902817eb437d88bab6
 https://vavoo.to/vavoo-iptv/play/130018905764f20a1f9289
 #EXTINF:-1 tvg-id="hgtv.it" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS" group-title="Altro",HGTV
 https://vavoo.to/vavoo-iptv/play/42489970292d2930202d0e
-#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
-https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.gruppoicaro.it/wp-content/uploads/2020/05/icarotv.png" group-title="Altro",ICARO TV
 https://vavoo.to/vavoo-iptv/play/2392139008947764078821
 #EXTINF:-1 tvg-id="iris.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS
@@ -167,8 +163,6 @@ https://vavoo.to/vavoo-iptv/play/13708692992eeb9b07f00d
 https://vavoo.to/vavoo-iptv/play/30279032788f9f7870557e
 #EXTINF:-1 tvg-id="la.5.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la5-it.png" group-title="Mediaset",LA 5
 https://vavoo.to/vavoo-iptv/play/14256673753de6371f2c50
-#EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7
-https://vavoo.to/vavoo-iptv/play/7755300630832713e7adb
 #EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="" group-title="Altro",LA7 (D)
 https://daddyhd.com/watch.php?id=855
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",LA7D HD+ (D)
@@ -273,8 +267,6 @@ https://vavoo.to/vavoo-iptv/play/57338653b83f61385a9f
 https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
 
 # NEWS
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN FAMILY
-https://vavoo.to/vavoo-iptv/play/3902650955a82543dc27a4
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/RDS-Logo.png/260px-RDS-Logo.png" group-title="Musica",RDS SOCIAL
 https://vavoo.to/vavoo-iptv/play/4031388312f5ebcfc7dc6d
 #EXTINF:-1 tvg-id="rdssocialtv.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/RDS-Logo.png/260px-RDS-Logo.png" group-title="Musica",RDS SOCIAL TV
@@ -595,36 +587,6 @@ https://vavoo.to/vavoo-iptv/play/28498110272b8770fe20cb
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyseriecunionarzignanochiampovsvicenza" tvg-name="Soccer | Italy - Serie C : Union ArzignanoChiampo vs Vicenza (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Union ArzignanoChiampo_vs_Vicenza.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Union ArzignanoChiampo vs Vicenza (13:30)
-https://daddyhd.com/watch.php?id=10
-
-#EXTINF:-1 tvg-id="italyseriecunionarzignanochiampovsvicenza" tvg-name="Soccer | Italy - Serie C : Union ArzignanoChiampo vs Vicenza (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Union ArzignanoChiampo_vs_Vicenza.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Union ArzignanoChiampo vs Vicenza (13:30)
-https://daddyhd.com/watch.php?id=461
-
-#EXTINF:-1 tvg-id="italyseriecperugiavsgubbio" tvg-name="Soccer | Italy - Serie C : Perugia vs Gubbio (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Perugia_vs_Gubbio.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Perugia vs Gubbio (13:30)
-https://daddyhd.com/watch.php?id=11
-
-#EXTINF:-1 tvg-id="italyseriecsiracusavsaudacecerignola" tvg-name="Soccer | Italy - Serie C : Siracusa vs Audace Cerignola (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Siracusa_vs_Audace Cerignola.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Siracusa vs Audace Cerignola (13:30)
-https://daddyhd.com/watch.php?id=12
-
-#EXTINF:-1 tvg-id="italyseriectrapani1905vssorrento" tvg-name="Soccer | Italy - Serie C : Trapani 1905 vs Sorrento (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Trapani 1905_vs_Sorrento.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Trapani 1905 vs Sorrento (13:30)
-https://daddyhd.com/watch.php?id=13
-
-#EXTINF:-1 tvg-id="italyseriecpotenzacalciovscasertana" tvg-name="Soccer | Italy - Serie C : Potenza Calcio vs Casertana (13:30)" tvg-logo="https://www.potenzacalcio.net/wp-content/uploads/2021/11/cropped-pic.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Potenza Calcio vs Casertana (13:30)
-https://daddyhd.com/watch.php?id=14
-
-#EXTINF:-1 tvg-id="italyseriecprovercellivsunionbrescia" tvg-name="Soccer | Italy - Serie C : Pro Vercelli vs Union Brescia (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pro Vercelli_vs_Union Brescia.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Pro Vercelli vs Union Brescia (13:30)
-https://daddyhd.com/watch.php?id=15
-
-#EXTINF:-1 tvg-id="italyseriecprovercellivsunionbrescia" tvg-name="Soccer | Italy - Serie C : Pro Vercelli vs Union Brescia (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pro Vercelli_vs_Union Brescia.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Pro Vercelli vs Union Brescia (13:30)
-https://daddyhd.com/watch.php?id=462
-
-#EXTINF:-1 tvg-id="englandpremierleaguewolverhamptonwanderersvsnewcastleunited" tvg-name="Soccer | England - Premier League : Wolverhampton Wanderers vs Newcastle United (14:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Wolverhampton Wanderers_vs_Newcastle United.png" group-title="Eventi Live DLHD",Soccer | England - Premier League : Wolverhampton Wanderers vs Newcastle United (14:00)
-https://daddyhd.com/watch.php?id=870
-
-#EXTINF:-1 tvg-id="italyserieabolognavsfiorentina" tvg-name="Soccer | Italy - Serie A : Bologna vs Fiorentina (14:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bologna_vs_Fiorentina.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Bologna vs Fiorentina (14:00)
-https://daddyhd.com/watch.php?id=877
-
 #EXTINF:-1 tvg-id="germanybundesligastuttgartvsunionberlin" tvg-name="Soccer | Germany - Bundesliga : Stuttgart vs Union Berlin (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Stuttgart_vs_Union Berlin.png" group-title="Eventi Live DLHD",Soccer | Germany - Bundesliga : Stuttgart vs Union Berlin (14:30)
 https://daddyhd.com/watch.php?id=460
 
@@ -679,14 +641,8 @@ https://daddyhd.com/watch.php?id=870
 #EXTINF:-1 tvg-id="italyserieamilanvslecce" tvg-name="Soccer | Italy - Serie A : Milan vs Lecce (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Milan_vs_Lecce.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Milan vs Lecce (19:45)
 https://daddyhd.com/watch.php?id=877
 
-#EXTINF:-1 tvg-id="mastersfinalafternoonsession" tvg-name="Snooker | Masters | Final | Afternoon Session (12:45)" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/klmasters-profile_image-95e5f036905848bb-300x300.png" group-title="Eventi Live DLHD",Snooker | Masters | Final | Afternoon Session (12:45)
-https://daddyhd.com/watch.php?id=878
-
 #EXTINF:-1 tvg-id="mastersfinaleveningsession" tvg-name="Snooker | Masters | Final | Evening Session (19:00)" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/klmasters-profile_image-95e5f036905848bb-300x300.png" group-title="Eventi Live DLHD",Snooker | Masters | Final | Evening Session (19:00)
 https://daddyhd.com/watch.php?id=878
-
-#EXTINF:-1 tvg-id="ibuworldcupruhpoldingmen125kmpursuitcompetition" tvg-name="Biathlon | IBU World Cup Ruhpolding Men 12.5 km Pursuit Competition (13:50)" tvg-logo="https://scope.ibu.at/IBUofficiallogo.svg.png" group-title="Eventi Live DLHD",Biathlon | IBU World Cup Ruhpolding Men 12.5 km Pursuit Competition (13:50)
-https://daddyhd.com/watch.php?id=879
 
 #EXTINF:-1 tvg-id="europeanchampionshipitalyvshungary" tvg-name="Handball | European Championship : Italy vs Hungary (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Italy_vs_Hungary.png" group-title="Eventi Live DLHD",Handball | European Championship : Italy vs Hungary (19:30)
 https://daddyhd.com/watch.php?id=462
@@ -696,9 +652,6 @@ https://daddyhd.com/watch.php?id=877
 
 #EXTINF:-1 tvg-id="seriea1lubecivitanovavsperugia" tvg-name="Volleyball | Serie A1 : Lube Civitanova vs Perugia (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lube Civitanova_vs_Perugia.png" group-title="Eventi Live DLHD",Volleyball | Serie A1 : Lube Civitanova vs Perugia (17:00)
 https://daddyhd.com/watch.php?id=882
-
-#EXTINF:-1 tvg-id="oberhofwomensdoublesworldcuprun2" tvg-name="Winter Sports | Oberhof | Women's Doubles World Cup | Run 2 (13:05)" tvg-logo="https://www.teroseppala.com/uploads/1/4/4/5/144568347/roeckl_orig.png" group-title="Eventi Live DLHD",Winter Sports | Oberhof | Women's Doubles World Cup | Run 2 (13:05)
-https://daddyhd.com/watch.php?id=879
 
 #EXTINF:-1 tvg-id="nordiccombinedworldcupcompetitioninoberhof10kmrun" tvg-name="Winter Sports | Nordic Combined: World Cup Competition in Oberhof 10 km run (14:45)" tvg-logo="https://www.nordiccombinedusa.org/images/logo_circle.png" group-title="Eventi Live DLHD",Winter Sports | Nordic Combined: World Cup Competition in Oberhof 10 km run (14:45)
 https://daddyhd.com/watch.php?id=879
