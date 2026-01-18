@@ -147023,5 +147023,119 @@
       14
     ],
     "cached_at": "2026-01-17T06:22:51.830785"
+  },
+  "1078822": {
+    "id": 1078822,
+    "title": "Testa o croce?",
+    "release_date": "2025-10-02",
+    "vote_average": 6.375,
+    "poster_path": "/wdkN3OGE6QeoF1FGFhOQMILm4AG.jpg",
+    "genre_ids": [
+      37,
+      35
+    ],
+    "cached_at": "2026-01-18T06:23:22.195643"
+  },
+  "145": {
+    "id": 145,
+    "title": "Le onde del destino",
+    "release_date": "1996-07-05",
+    "vote_average": 7.496,
+    "poster_path": "/pLUKFi2CeDdqUhQqpTduds6Cao9.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-01-18T06:23:22.198438"
+  },
+  "1103789": {
+    "id": 1103789,
+    "title": "Hardcore Never Dies",
+    "release_date": "2023-11-09",
+    "vote_average": 6.512,
+    "poster_path": "/x9HEU7YZCwd1X65j5bto20niVT0.jpg",
+    "genre_ids": [
+      80,
+      10402,
+      18,
+      53
+    ],
+    "cached_at": "2026-01-18T06:23:22.331231"
+  },
+  "12572": {
+    "id": 12572,
+    "title": "New York, I Love You",
+    "release_date": "2008-09-06",
+    "vote_average": 5.9,
+    "poster_path": "/nnuoA0R0kUCu88xZGiv2mK02Hoz.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "cached_at": "2026-01-18T06:23:22.424742"
+  },
+  "912480": {
+    "id": 912480,
+    "title": "Red Rooms",
+    "release_date": "2023-08-11",
+    "vote_average": 7.0,
+    "poster_path": "/4bZRVKK1krmpAYYpd6v1R6P9WRP.jpg",
+    "genre_ids": [
+      53,
+      80
+    ],
+    "cached_at": "2026-01-18T06:23:22.492398"
+  },
+  "1693": {
+    "id": 1693,
+    "title": "Monster Man",
+    "release_date": "2003-07-30",
+    "vote_average": 5.935,
+    "poster_path": "/iFCta7mFC7aVTPMA3opH8Vq62Pn.jpg",
+    "genre_ids": [
+      27,
+      35
+    ],
+    "cached_at": "2026-01-18T06:23:22.555583"
+  },
+  "9079": {
+    "id": 9079,
+    "title": "Scelta d'amore - La storia di Hilary e Victor",
+    "release_date": "1991-06-20",
+    "vote_average": 6.693,
+    "poster_path": "/qwVVfgzEH8ScBEmXgSpgLa68WDu.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-01-18T06:23:22.576255"
+  },
+  "1210732": {
+    "id": 1210732,
+    "title": "Un crimine imperfetto",
+    "release_date": "2025-01-01",
+    "vote_average": 6.441,
+    "poster_path": "/ggzcuZ3H1F2SMweo9frHyko7La2.jpg",
+    "genre_ids": [
+      35,
+      53,
+      80
+    ],
+    "cached_at": "2026-01-18T06:23:22.625611"
+  },
+  "51209": {
+    "id": 51209,
+    "title": "Bulletproof Man",
+    "release_date": "2011-03-10",
+    "vote_average": 6.775,
+    "poster_path": "/fjbxY2qGv4wy0UFYRv3qe2Zr8jz.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53,
+      18
+    ],
+    "cached_at": "2026-01-18T06:23:22.704563"
   }
 }

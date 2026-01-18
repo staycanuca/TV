@@ -61907,5 +61907,31 @@
       35
     ],
     "cached_at": "2026-01-17T06:22:56.930016"
+  },
+  "229891": {
+    "id": 229891,
+    "name": "Come si dice \"amore\"?",
+    "original_name": "이 사랑 통역 되나요?",
+    "first_air_date": "2026-01-16",
+    "vote_average": 9.0,
+    "poster_path": "/137LutbAUIPPE1WJXMDB1UzZYIr.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "cached_at": "2026-01-18T06:23:28.251869"
+  },
+  "280880": {
+    "id": 280880,
+    "name": "Furia",
+    "original_name": "Furia",
+    "first_air_date": "2025-07-11",
+    "vote_average": 6.609,
+    "poster_path": "/VMh3XiJPqCVa7Pa9UpDIxfXVkl.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "cached_at": "2026-01-18T06:23:28.314814"
   }
 }
