@@ -2,36 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyseriecrenatevsalbinoleffe" tvg-name="Soccer | Italy - Serie C : Renate vs AlbinoLeffe (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Renate_vs_AlbinoLeffe.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Renate vs AlbinoLeffe (16:30)
-https://daddyhd.com/watch.php?id=12
-
-#EXTINF:-1 tvg-id="italyseriecpontederavspineto" tvg-name="Soccer | Italy - Serie C : Pontedera vs Pineto (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pontedera_vs_Pineto.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Pontedera vs Pineto (16:30)
-https://daddyhd.com/watch.php?id=11
-
-#EXTINF:-1 tvg-id="italyseriecbravsravenna" tvg-name="Soccer | Italy - Serie C : Bra vs Ravenna (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bra_vs_Ravenna.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Bra vs Ravenna (16:30)
-https://daddyhd.com/watch.php?id=14
-
-#EXTINF:-1 tvg-id="italyseriecbravsravenna" tvg-name="Soccer | Italy - Serie C : Bra vs Ravenna (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bra_vs_Ravenna.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Bra vs Ravenna (16:30)
-https://daddyhd.com/watch.php?id=460
-
-#EXTINF:-1 tvg-id="italyseriecpicernovslatina" tvg-name="Soccer | Italy - Serie C : Picerno vs Latina (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Picerno_vs_Latina.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Picerno vs Latina (16:30)
-https://daddyhd.com/watch.php?id=13
-
-#EXTINF:-1 tvg-id="italyseriecinteriivsvirtusverona" tvg-name="Soccer | Italy - Serie C : Inter II vs Virtus Verona (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Inter II_vs_Virtus Verona.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Inter II vs Virtus Verona (16:30)
-https://daddyhd.com/watch.php?id=15
-
-#EXTINF:-1 tvg-id="italyseriecinteriivsvirtusverona" tvg-name="Soccer | Italy - Serie C : Inter II vs Virtus Verona (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Inter II_vs_Virtus Verona.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Inter II vs Virtus Verona (16:30)
-https://daddyhd.com/watch.php?id=461
-
-#EXTINF:-1 tvg-id="englandpremierleagueastonvillavseverton" tvg-name="Soccer | England - Premier League : Aston Villa vs Everton (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Aston Villa_vs_Everton.png" group-title="Eventi Live DLHD",Soccer | England - Premier League : Aston Villa vs Everton (16:30)
-https://daddyhd.com/watch.php?id=462
-
-#EXTINF:-1 tvg-id="italyserieatorinovsroma" tvg-name="Soccer | Italy - Serie A : Torino vs Roma (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Torino_vs_Roma.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Torino vs Roma (17:00)
-https://daddyhd.com/watch.php?id=10
-
-#EXTINF:-1 tvg-id="italyserieatorinovsroma" tvg-name="Soccer | Italy - Serie A : Torino vs Roma (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Torino_vs_Roma.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Torino vs Roma (17:00)
-https://daddyhd.com/watch.php?id=870
-
 #EXTINF:-1 tvg-id="italyseriecmonopolivscatania" tvg-name="Soccer | Italy - Serie C : Monopoli vs Catania (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Monopoli_vs_Catania.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Monopoli vs Catania (19:30)
 https://daddyhd.com/watch.php?id=15
 
@@ -55,7 +25,4 @@ https://daddyhd.com/watch.php?id=878
 
 #EXTINF:-1 tvg-id="europeanchampionshipitalyvshungary" tvg-name="Handball | European Championship : Italy vs Hungary (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Italy_vs_Hungary.png" group-title="Eventi Live DLHD",Handball | European Championship : Italy vs Hungary (19:30)
 https://daddyhd.com/watch.php?id=462
-
-#EXTINF:-1 tvg-id="seriea1lubecivitanovavsperugia" tvg-name="Volleyball | Serie A1 : Lube Civitanova vs Perugia (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lube Civitanova_vs_Perugia.png" group-title="Eventi Live DLHD",Volleyball | Serie A1 : Lube Civitanova vs Perugia (17:00)
-https://daddyhd.com/watch.php?id=882
 
