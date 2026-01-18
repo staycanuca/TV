@@ -2,12 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="germanybundesligastuttgartvsunionberlin" tvg-name="Soccer | Germany - Bundesliga : Stuttgart vs Union Berlin (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Stuttgart_vs_Union Berlin.png" group-title="Eventi Live DLHD",Soccer | Germany - Bundesliga : Stuttgart vs Union Berlin (14:30)
-https://daddyhd.com/watch.php?id=460
-
-#EXTINF:-1 tvg-id="italyserieawomenintermilanovsjuventus" tvg-name="Soccer | Italy - Serie A (women) : Inter Milano vs Juventus (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Inter Milano_vs_Juventus.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A (women) : Inter Milano vs Juventus (14:30)
-https://daddyhd.com/watch.php?id=882
-
 #EXTINF:-1 tvg-id="italyseriecrenatevsalbinoleffe" tvg-name="Soccer | Italy - Serie C : Renate vs AlbinoLeffe (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Renate_vs_AlbinoLeffe.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Renate vs AlbinoLeffe (16:30)
 https://daddyhd.com/watch.php?id=12
 
@@ -62,12 +56,6 @@ https://daddyhd.com/watch.php?id=878
 #EXTINF:-1 tvg-id="europeanchampionshipitalyvshungary" tvg-name="Handball | European Championship : Italy vs Hungary (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Italy_vs_Hungary.png" group-title="Eventi Live DLHD",Handball | European Championship : Italy vs Hungary (19:30)
 https://daddyhd.com/watch.php?id=462
 
-#EXTINF:-1 tvg-id="seriea1trentinovsmilano" tvg-name="Volleyball | Serie A1 : Trentino vs Milano (16:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Trentino_vs_Milano.png" group-title="Eventi Live DLHD",Volleyball | Serie A1 : Trentino vs Milano (16:00)
-https://daddyhd.com/watch.php?id=877
-
 #EXTINF:-1 tvg-id="seriea1lubecivitanovavsperugia" tvg-name="Volleyball | Serie A1 : Lube Civitanova vs Perugia (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lube Civitanova_vs_Perugia.png" group-title="Eventi Live DLHD",Volleyball | Serie A1 : Lube Civitanova vs Perugia (17:00)
 https://daddyhd.com/watch.php?id=882
-
-#EXTINF:-1 tvg-id="nordiccombinedworldcupcompetitioninoberhof10kmrun" tvg-name="Winter Sports | Nordic Combined: World Cup Competition in Oberhof 10 km run (14:45)" tvg-logo="https://www.nordiccombinedusa.org/images/logo_circle.png" group-title="Eventi Live DLHD",Winter Sports | Nordic Combined: World Cup Competition in Oberhof 10 km run (14:45)
-https://daddyhd.com/watch.php?id=879
 
