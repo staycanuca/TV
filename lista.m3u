@@ -47,8 +47,10 @@ https://daddyhd.com/watch.php?id=853
 https://vavoo.to/vavoo-iptv/play/565256431b8fb5052f1a2
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Canale_7.png" group-title="Altro",CANALE 7 (2)
 https://vavoo.to/vavoo-iptv/play/996680722dbf763c9bb56
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6d/TV8_Logo_2016.svg/1200px-TV8_Logo_2016.svg.png" group-title="Altro",CANALE 8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6d/TV8_Logo_2016.svg/1200px-TV8_Logo_2016.svg.png" group-title="Altro",CANALE 8 (1)
 https://vavoo.to/vavoo-iptv/play/2749478718a361866152ca
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6d/TV8_Logo_2016.svg/1200px-TV8_Logo_2016.svg.png" group-title="Altro",CANALE 8 (2)
+https://vavoo.to/vavoo-iptv/play/31075009959a8de9232b11
 #EXTINF:-1 tvg-id="" tvg-logo="https://radiocarina.it/wp-content/uploads/2024/01/RadioCarina-Vers.2.png" group-title="Altro",CARINA TV
 https://vavoo.to/vavoo-iptv/play/1527236924d8d52d57c2e3
 #EXTINF:-1 tvg-id="cartoon.network.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK
@@ -349,8 +351,6 @@ https://daddyhd.com/watch.php?id=866
 https://vavoo.to/vavoo-iptv/play/32165161175e13c1d3f56a
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY (D)
 https://daddyhd.com/watch.php?id=865
-#EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film - Serie TV",SKY CINEMA ROMANCE
-https://vavoo.to/vavoo-iptv/play/128126488561be9a87267f
 #EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film - Serie TV",SKY CINEMA ROMANCE (D)
 https://daddyhd.com/watch.php?id=864
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film - Serie TV",SKY CINEMA SUSPENSE
@@ -437,8 +437,6 @@ https://vavoo.to/vavoo-iptv/play/22890389722acc4573933d
 https://daddyhd.com/watch.php?id=574
 
 # MEDIASET
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SUPER TENNIS
-https://vavoo.to/vavoo-iptv/play/55828211836e421b20575
 #EXTINF:-1 tvg-id="sky.tg24.it" tvg-logo="https://play-lh.googleusercontent.com/0RJjBW8_r64dWLAbG7kUVrkESbBr9Ukx30pDI83e5_o1obv2MTC7KSpBAIhhXvJAkXE" group-title="News",SKY TG 24
 https://vavoo.to/vavoo-iptv/play/3180571288b987548e3fe
 #EXTINF:-1 tvg-id="sky.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Altro",SKY UNO
@@ -602,7 +600,7 @@ https://daddyhd.com/watch.php?id=3
 #EXTINF:-1 tvg-id="italyseriecatalantaiivssalernitana" tvg-name="Soccer | Italy - Serie C : Atalanta II vs Salernitana (11:30)" tvg-logo="https://salernitana.b-cdn.net/wp-content/uploads/2023/06/cropped-logo-salernitana-300x300.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Atalanta II vs Salernitana (11:30)
 https://daddyhd.com/watch.php?id=461
 
-#EXTINF:-1 tvg-id="italyseriecforlìvssambenedettese" tvg-name="Soccer | Italy - Serie C : Forlì vs Sambenedettese (11:30)" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/101/041/original/hp-logo-transparent-free-png.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Forlì vs Sambenedettese (11:30)
+#EXTINF:-1 tvg-id="italyseriecforlìvssambenedettese" tvg-name="Soccer | Italy - Serie C : Forlì vs Sambenedettese (11:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Forlì_vs_Sambenedettese.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Forlì vs Sambenedettese (11:30)
 https://daddyhd.com/watch.php?id=4
 
 #EXTINF:-1 tvg-id="italyseriecforlìvssambenedettese" tvg-name="Soccer | Italy - Serie C : Forlì vs Sambenedettese (11:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Forlì_vs_Sambenedettese.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Forlì vs Sambenedettese (11:30)
@@ -686,7 +684,7 @@ https://daddyhd.com/watch.php?id=14
 #EXTINF:-1 tvg-id="italyseriecfoggiavsgiugliano" tvg-name="Soccer | Italy - Serie C : Foggia vs Giugliano (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Foggia_vs_Giugliano.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Foggia vs Giugliano (19:30)
 https://daddyhd.com/watch.php?id=460
 
-#EXTINF:-1 tvg-id="franceligue1olympiquelyonnaisvsbrest" tvg-name="Soccer | France - Ligue 1 : Olympique Lyonnais vs Brest (19:45)" tvg-logo="https://companieslogo.com/img/orig/OLG.PA-21c14179.png?t=1665997969" group-title="Eventi Live DLHD",Soccer | France - Ligue 1 : Olympique Lyonnais vs Brest (19:45)
+#EXTINF:-1 tvg-id="franceligue1olympiquelyonnaisvsbrest" tvg-name="Soccer | France - Ligue 1 : Olympique Lyonnais vs Brest (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Olympique Lyonnais_vs_Brest.png" group-title="Eventi Live DLHD",Soccer | France - Ligue 1 : Olympique Lyonnais vs Brest (19:45)
 https://daddyhd.com/watch.php?id=870
 
 #EXTINF:-1 tvg-id="italyserieamilanvslecce" tvg-name="Soccer | Italy - Serie A : Milan vs Lecce (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Milan_vs_Lecce.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Milan vs Lecce (19:45)
