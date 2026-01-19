@@ -167,6 +167,8 @@ https://vavoo.to/vavoo-iptv/play/13708692992eeb9b07f00d
 https://vavoo.to/vavoo-iptv/play/30279032788f9f7870557e
 #EXTINF:-1 tvg-id="la.5.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la5-it.png" group-title="Mediaset",LA 5
 https://vavoo.to/vavoo-iptv/play/14256673753de6371f2c50
+#EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7
+https://vavoo.to/vavoo-iptv/play/7755300630832713e7adb
 #EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="" group-title="Altro",LA7 (D)
 https://daddyhd.com/watch.php?id=855
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",LA7D HD+ (D)
@@ -175,8 +177,6 @@ https://daddyhd.com/watch.php?id=856
 https://vavoo.to/vavoo-iptv/play/2774026655397d6ec52fe5
 #EXTINF:-1 tvg-id="" tvg-logo="https://liratv.es/wp-content/uploads/2021/07/LIRA-TV-1.png" group-title="Altro",LIRA TV
 https://vavoo.to/vavoo-iptv/play/2835333400f831a30ce568
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Mediaset",MEDIASET 20
-https://vavoo.to/vavoo-iptv/play/313448120145a6443975e1
 #EXTINF:-1 tvg-id="mediasetitalia2hd.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/c5/Logo_Italia2.svg/520px-Logo_Italia2.svg.png" group-title="Mediaset",MEDIASET ITALIA 2
 https://vavoo.to/vavoo-iptv/play/3538009430947511be2991
 #EXTINF:-1 tvg-id="motor.trend.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro",MOTORTREND (1)
@@ -315,6 +315,8 @@ https://vavoo.to/vavoo-iptv/play/3799362189218b541a9c76
 https://vavoo.to/vavoo-iptv/play/179187969291f776663d1e
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rtv-san-marino-it.png" group-title="Altro",RTV SAN MARINO
 https://vavoo.to/vavoo-iptv/play/2343767125eb4977361e91
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/internationaltelevision/images/7/79/San_Marino_RTV_Sport_-_logo.png/revision/latest?cb=20221207153729" group-title="Sport",RTV SAN MARINO SPORT
+https://vavoo.to/vavoo-iptv/play/11138532639c972f8c712f
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/senato-tv-it.png?raw=true" group-title="Altro",SENATO TV (1)
 https://vavoo.to/vavoo-iptv/play/2002360508ebbced695f3c
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/senato-tv-it.png?raw=true" group-title="Altro",SENATO TV (2)
@@ -353,6 +355,8 @@ https://vavoo.to/vavoo-iptv/play/128126488561be9a87267f
 https://daddyhd.com/watch.php?id=864
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film - Serie TV",SKY CINEMA SUSPENSE
 https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06
+#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO
+https://vavoo.to/vavoo-iptv/play/17596257388e83c18bb676
 #EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO (D)
 https://daddyhd.com/watch.php?id=860
 #EXTINF:-1 tvg-id="sky.cinema.uno.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA UNO +24
@@ -471,6 +475,8 @@ https://vavoo.to/vavoo-iptv/play/35518823447060ba68f520
 https://vavoo.to/vavoo-iptv/play/87479718111853618b3cd
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.milanopavia.tv/wp-content/uploads/2020/01/logoMilanoPaviaTV.png" group-title="Altro",TELE PAVIA
 https://vavoo.to/vavoo-iptv/play/6164833177424547eff1f
+#EXTINF:-1 tvg-id="" tvg-logo="https://teleromagna.it/images/teleromagna-logo.png" group-title="Altro",TELE ROMAGNA
+https://vavoo.to/vavoo-iptv/play/1294463772435c5239e44
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.telesirio.it/images/logo.png" group-title="Altro",TELE SIRIO
 https://vavoo.to/vavoo-iptv/play/21884692197ee0a9ba39f6
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.teletricolore.it/wp-content/uploads/2018/02/logo.png" group-title="Altro",TELE TRICOLORE
@@ -583,6 +589,24 @@ https://vavoo.to/vavoo-iptv/play/2989824407cb0184041b08
 https://vavoo.to/vavoo-iptv/play/28498110272b8770fe20cb
 
 # MEDIASET
+
+#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
+https://example.com.m3u8
+
+#EXTINF:-1 tvg-id="italyserieacremonesevsverona" tvg-name="Soccer | Italy - Serie A : Cremonese vs Verona (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Cremonese_vs_Verona.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Cremonese vs Verona (17:30)
+https://daddyhd.com/watch.php?id=877
+
+#EXTINF:-1 tvg-id="italyserieccosenzavscrotone" tvg-name="Soccer | Italy - Serie C : Cosenza vs Crotone (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Cosenza_vs_Crotone.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Cosenza vs Crotone (19:30)
+https://daddyhd.com/watch.php?id=12
+
+#EXTINF:-1 tvg-id="italyserieccosenzavscrotone" tvg-name="Soccer | Italy - Serie C : Cosenza vs Crotone (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Cosenza_vs_Crotone.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Cosenza vs Crotone (19:30)
+https://daddyhd.com/watch.php?id=882
+
+#EXTINF:-1 tvg-id="italyserieccosenzavscrotone" tvg-name="Soccer | Italy - Serie C : Cosenza vs Crotone (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Cosenza_vs_Crotone.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Cosenza vs Crotone (19:30)
+https://daddyhd.com/watch.php?id=870
+
+#EXTINF:-1 tvg-id="italyseriealaziovscomo" tvg-name="Soccer | Italy - Serie A : Lazio vs Como (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lazio_vs_Como.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Lazio vs Como (19:45)
+https://daddyhd.com/watch.php?id=877
 
 
 #EXTINF:-1 group-title="Eventi Live SPORTSONLINE",Juventus x Udinese 21:00
