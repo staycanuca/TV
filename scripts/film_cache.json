@@ -147137,5 +147137,118 @@
       18
     ],
     "cached_at": "2026-01-18T06:23:22.704563"
+  },
+  "93": {
+    "id": 93,
+    "title": "Anatomia di un omicidio",
+    "release_date": "1959-07-01",
+    "vote_average": 7.849,
+    "poster_path": "/xzId9e3OS91KxDXy2yNvzthSIVB.jpg",
+    "genre_ids": [
+      80,
+      18,
+      9648
+    ],
+    "cached_at": "2026-01-19T06:30:21.740239"
+  },
+  "10208": {
+    "id": 10208,
+    "title": "I Muppets venuti dallo spazio",
+    "release_date": "1999-07-14",
+    "vote_average": 6.1,
+    "poster_path": "/fpxJe2i5caP9pWoJSkWXDeEft6C.jpg",
+    "genre_ids": [
+      10751,
+      35,
+      878,
+      12
+    ],
+    "cached_at": "2026-01-19T06:30:21.749387"
+  },
+  "17589": {
+    "id": 17589,
+    "title": "La mia regina",
+    "release_date": "1997-07-18",
+    "vote_average": 6.7,
+    "poster_path": "/bk0sDEnbeVbpZtz77gRbRqM4YQ.jpg",
+    "genre_ids": [
+      18,
+      36,
+      10749
+    ],
+    "cached_at": "2026-01-19T06:30:21.780142"
+  },
+  "23530": {
+    "id": 23530,
+    "title": "絕命派對",
+    "release_date": "2009-04-17",
+    "vote_average": 6.1,
+    "poster_path": "/l9juKwzIgwRVTAZ7yg0JHpLJwsQ.jpg",
+    "genre_ids": [
+      27
+    ],
+    "cached_at": "2026-01-19T06:30:21.812914"
+  },
+  "56153": {
+    "id": 56153,
+    "title": "Mimì metallurgico ferito nell'onore",
+    "release_date": "1972-02-19",
+    "vote_average": 7.093,
+    "poster_path": "/AaJteGPVfoMYwzHouZn0RrBBq2s.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-01-19T06:30:21.852343"
+  },
+  "1902": {
+    "id": 1902,
+    "title": "Apri gli occhi",
+    "release_date": "1997-12-19",
+    "vote_average": 7.442,
+    "poster_path": "/iB4KqYc9392mrp2xrPIaCQk4Hnj.jpg",
+    "genre_ids": [
+      18,
+      53,
+      878
+    ],
+    "cached_at": "2026-01-19T06:30:21.882906"
+  },
+  "9360": {
+    "id": 9360,
+    "title": "Anaconda",
+    "release_date": "1997-04-11",
+    "vote_average": 5.256,
+    "poster_path": "/ay5RxhJGyxYrEo2oKOPwqNjcAi6.jpg",
+    "genre_ids": [
+      12,
+      27,
+      53
+    ],
+    "cached_at": "2026-01-19T06:30:21.924710"
+  },
+  "31473": {
+    "id": 31473,
+    "title": "Fievel - Il tesoro dell'isola di Manhattan",
+    "release_date": "1998-02-15",
+    "vote_average": 6.283,
+    "poster_path": "/fYPCY6QeTO93hKdA204qqjhFlWO.jpg",
+    "genre_ids": [
+      10751,
+      16,
+      12
+    ],
+    "cached_at": "2026-01-19T06:30:21.961766"
+  },
+  "1391": {
+    "id": 1391,
+    "title": "Y tu mamá también - Anche tua madre",
+    "release_date": "2001-06-08",
+    "vote_average": 7.419,
+    "poster_path": "/8MBu6LXCdkE5KHhfweqQ1DVSTFB.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-01-19T06:30:22.210814"
   }
 }

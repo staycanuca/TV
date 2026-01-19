@@ -61933,5 +61933,56 @@
       35
     ],
     "cached_at": "2026-01-18T06:23:28.314814"
+  },
+  "293608": {
+    "id": 293608,
+    "name": "언더커버 미쓰홍",
+    "original_name": "언더커버 미쓰홍",
+    "first_air_date": "2026-01-17",
+    "vote_average": 7.3,
+    "poster_path": "/nJ0gSaXfoiPFngy1ulCCuxsKt0q.jpg",
+    "genre_ids": [
+      80,
+      35
+    ],
+    "cached_at": "2026-01-19T06:30:27.721153"
+  },
+  "104572": {
+    "id": 104572,
+    "name": "Alessandro Borghese - 4 Ristoranti Estate",
+    "original_name": "Alessandro Borghese - 4 Ristoranti Estate",
+    "first_air_date": "2017-06-01",
+    "vote_average": 7.4,
+    "poster_path": "/24Lbhq8b6OAG0bnNNzjju4vFPL1.jpg",
+    "genre_ids": [
+      10764
+    ],
+    "cached_at": "2026-01-19T06:30:27.735873"
+  },
+  "296009": {
+    "id": 296009,
+    "name": "아기가 생겼어요",
+    "original_name": "아기가 생겼어요",
+    "first_air_date": "2026-01-17",
+    "vote_average": 8.5,
+    "poster_path": "/17fFC7njMKPOTjztarKt0X09eN3.jpg",
+    "genre_ids": [
+      35,
+      10751
+    ],
+    "cached_at": "2026-01-19T06:30:27.743392"
+  },
+  "224372": {
+    "id": 224372,
+    "name": "A Knight of the Seven Kingdoms",
+    "original_name": "A Knight of the Seven Kingdoms",
+    "first_air_date": "2026-01-18",
+    "vote_average": 7.8,
+    "poster_path": "/6igvNs5VJB4ryBLgjjXksDVs0Fm.jpg",
+    "genre_ids": [
+      18,
+      10765
+    ],
+    "cached_at": "2026-01-19T06:30:27.789013"
   }
 }
