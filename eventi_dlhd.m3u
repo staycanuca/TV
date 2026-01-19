@@ -1,16 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
-https://example.com.m3u8
-
-#EXTINF:-1 tvg-id="italyserieccosenzavscrotone" tvg-name="Soccer | Italy - Serie C : Cosenza vs Crotone (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Cosenza_vs_Crotone.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Cosenza vs Crotone (19:30)
-https://daddyhd.com/watch.php?id=12
-
-#EXTINF:-1 tvg-id="italyserieccosenzavscrotone" tvg-name="Soccer | Italy - Serie C : Cosenza vs Crotone (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Cosenza_vs_Crotone.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Cosenza vs Crotone (19:30)
-https://daddyhd.com/watch.php?id=882
-
-#EXTINF:-1 tvg-id="italyserieccosenzavscrotone" tvg-name="Soccer | Italy - Serie C : Cosenza vs Crotone (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Cosenza_vs_Crotone.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Cosenza vs Crotone (19:30)
-https://daddyhd.com/watch.php?id=870
-
-#EXTINF:-1 tvg-id="italyseriealaziovscomo" tvg-name="Soccer | Italy - Serie A : Lazio vs Como (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lazio_vs_Como.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Lazio vs Como (19:45)
-https://daddyhd.com/watch.php?id=877
-
