@@ -2,9 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyserieacremonesevsverona" tvg-name="Soccer | Italy - Serie A : Cremonese vs Verona (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Cremonese_vs_Verona.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Cremonese vs Verona (17:30)
-https://daddyhd.com/watch.php?id=877
-
 #EXTINF:-1 tvg-id="italyserieccosenzavscrotone" tvg-name="Soccer | Italy - Serie C : Cosenza vs Crotone (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Cosenza_vs_Crotone.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Cosenza vs Crotone (19:30)
 https://daddyhd.com/watch.php?id=12
 
