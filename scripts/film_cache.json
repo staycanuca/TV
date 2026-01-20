@@ -147250,5 +147250,216 @@
       10749
     ],
     "cached_at": "2026-01-19T06:30:22.210814"
+  },
+  "467541": {
+    "id": 467541,
+    "title": "La clinica dell'amore",
+    "release_date": "1976-01-01",
+    "vote_average": 2.0,
+    "poster_path": "/uYcHHAT33KCGVcRc7z8aEsg1Bo5.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-01-20T06:27:58.349870"
+  },
+  "378569": {
+    "id": 378569,
+    "title": "Se mi lasci non vale",
+    "release_date": "2016-01-21",
+    "vote_average": 5.763,
+    "poster_path": "/wklFM45fPjKV2iXdVQT1T35oila.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-01-20T06:27:58.379341"
+  },
+  "9299": {
+    "id": 9299,
+    "title": "Tesis",
+    "release_date": "1996-04-11",
+    "vote_average": 7.471,
+    "poster_path": "/zaaTJQYrkuzxFFqwoTRlrQVaLdg.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2026-01-20T06:27:58.436849"
+  },
+  "5910": {
+    "id": 5910,
+    "title": "Hana-Bi - Fiori di fuoco",
+    "release_date": "1997-10-30",
+    "vote_average": 7.689,
+    "poster_path": "/2c3At9Y4XiciSWhptwSLIrjyW5T.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "cached_at": "2026-01-20T06:27:58.447121"
+  },
+  "151027": {
+    "id": 151027,
+    "title": "La professoressa di scienze naturali",
+    "release_date": "1976-08-10",
+    "vote_average": 4.65,
+    "poster_path": "/sDCaUm6IpeNLYzXY2pztKbSKyZX.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-01-20T06:27:58.503103"
+  },
+  "127745": {
+    "id": 127745,
+    "title": "La Compagna di Banco",
+    "release_date": "1977-08-12",
+    "vote_average": 5.069,
+    "poster_path": "/mgZKesPoWYSovyoIGMZS2C2zcut.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-01-20T06:27:58.505427"
+  },
+  "318728": {
+    "id": 318728,
+    "title": "栄光への５０００キロ",
+    "release_date": "1969-07-19",
+    "vote_average": 7.3,
+    "poster_path": "/7djsJloZqTY3VloYN0ACH7NuDFp.jpg",
+    "genre_ids": [
+      28,
+      12
+    ],
+    "cached_at": "2026-01-20T06:27:58.519417"
+  },
+  "1421309": {
+    "id": 1421309,
+    "title": "La vita da grandi",
+    "release_date": "2025-04-03",
+    "vote_average": 7.2,
+    "poster_path": "/ttQBhfScEkM94KbQq1bEpGuuWk9.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-01-20T06:27:58.589970"
+  },
+  "9910": {
+    "id": 9910,
+    "title": "Rischio a due",
+    "release_date": "2005-10-07",
+    "vote_average": 6.047,
+    "poster_path": "/zE9YqNbQGJajXYUKpaBopGNVBNH.jpg",
+    "genre_ids": [
+      35,
+      80,
+      18,
+      53
+    ],
+    "cached_at": "2026-01-20T06:27:58.614121"
+  },
+  "107008": {
+    "id": 107008,
+    "title": "L'insegnante viene a casa",
+    "release_date": "1978-11-28",
+    "vote_average": 5.7,
+    "poster_path": "/8lu4fcuolvlNdq6RmJgoD7AgKM8.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-01-20T06:27:58.719606"
+  },
+  "17908": {
+    "id": 17908,
+    "title": "Il mio cane Skip",
+    "release_date": "2000-01-12",
+    "vote_average": 6.706,
+    "poster_path": "/bzlOmq5d2bu6saO6l5hrAFIvxyI.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10751
+    ],
+    "cached_at": "2026-01-20T06:27:58.734824"
+  },
+  "125572": {
+    "id": 125572,
+    "title": "La professoressa di lingue",
+    "release_date": "1976-02-28",
+    "vote_average": 5.0,
+    "poster_path": "/vxljVwl8ILQGXsfcDSNfK67biPN.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-01-20T06:27:58.789415"
+  },
+  "106992": {
+    "id": 106992,
+    "title": "L'insegnante va in collegio",
+    "release_date": "1978-03-01",
+    "vote_average": 4.5,
+    "poster_path": "/td71Nz455PJL0GFSEq3vRNgJ5HA.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-01-20T06:27:58.805999"
+  },
+  "1276271": {
+    "id": 1276271,
+    "title": "Un film fatto per Bene",
+    "release_date": "2025-09-05",
+    "vote_average": 7.577,
+    "poster_path": "/3xKygU0ce9Sd0q7zo6Cg7PPbAgL.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-01-20T06:27:58.876056"
+  },
+  "13094": {
+    "id": 13094,
+    "title": "Dance of the Dead",
+    "release_date": "2008-10-14",
+    "vote_average": 5.769,
+    "poster_path": "/bQuGNO5TwgGHENhVLahKcofkZe1.jpg",
+    "genre_ids": [
+      35,
+      27
+    ],
+    "cached_at": "2026-01-20T06:27:58.932597"
+  },
+  "11661": {
+    "id": 11661,
+    "title": "Joyeux Noël: una verità dimenticata dalla storia",
+    "release_date": "2005-11-09",
+    "vote_average": 7.372,
+    "poster_path": "/9PumcrCLyw3kgiZUaRXV2L1Oedt.jpg",
+    "genre_ids": [
+      18,
+      10752,
+      10749,
+      36
+    ],
+    "cached_at": "2026-01-20T06:27:59.005747"
+  },
+  "127744": {
+    "id": 127744,
+    "title": "L'Insegnante Balla… Con Tutta La Classe",
+    "release_date": "1979-03-16",
+    "vote_average": 5.0,
+    "poster_path": "/osDhCAZC1yGy6imfQBRuM9uWOSX.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-01-20T06:27:59.090508"
+  },
+  "106924": {
+    "id": 106924,
+    "title": "L'insegnante al mare con tutta la classe",
+    "release_date": "1980-02-07",
+    "vote_average": 5.292,
+    "poster_path": "/fhO7fuPCqJqthgaBFU7qYYYlIkf.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-01-20T06:27:59.311520"
   }
 }
