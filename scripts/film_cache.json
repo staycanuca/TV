@@ -147461,5 +147461,284 @@
       35
     ],
     "cached_at": "2026-01-20T06:27:59.311520"
+  },
+  "14248": {
+    "id": 14248,
+    "title": "Igor",
+    "release_date": "2008-09-19",
+    "vote_average": 5.951,
+    "poster_path": "/mI4SPs0bZQm7bGVZKToC8KUsTd.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10751,
+      14,
+      27
+    ],
+    "cached_at": "2026-01-21T06:27:58.483469"
+  },
+  "1567411": {
+    "id": 1567411,
+    "title": "Pretty Miss Lolly",
+    "release_date": "2025-09-25",
+    "vote_average": 1.0,
+    "poster_path": "/b95mW6OcukXn6EfcckR7heZvnu8.jpg",
+    "genre_ids": [],
+    "cached_at": "2026-01-21T06:27:58.515368"
+  },
+  "8905": {
+    "id": 8905,
+    "title": "Le tre scimmie",
+    "release_date": "2008-05-16",
+    "vote_average": 6.795,
+    "poster_path": "/raaJK3gyjGUx3zK2INUyZFwOch4.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "cached_at": "2026-01-21T06:27:58.538802"
+  },
+  "13851": {
+    "id": 13851,
+    "title": "Batman - Il cavaliere di Gotham",
+    "release_date": "2008-07-08",
+    "vote_average": 6.717,
+    "poster_path": "/geIde2fHcKmD5gwsZRBZAvpqKhT.jpg",
+    "genre_ids": [
+      878,
+      28,
+      80,
+      16,
+      18
+    ],
+    "cached_at": "2026-01-21T06:27:58.583746"
+  },
+  "1262": {
+    "id": 1262,
+    "title": "Vero come la finzione",
+    "release_date": "2006-09-09",
+    "vote_average": 7.3,
+    "poster_path": "/ip9KCqwzTJy9QYcc2poVle9GsJC.jpg",
+    "genre_ids": [
+      18,
+      35,
+      10749,
+      14
+    ],
+    "cached_at": "2026-01-21T06:27:58.610739"
+  },
+  "17622": {
+    "id": 17622,
+    "title": "Fifty Dead Men Walking",
+    "release_date": "2008-09-10",
+    "vote_average": 6.319,
+    "poster_path": "/ahHguslRzE5Qgx8KTJvlDeSEJE2.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "cached_at": "2026-01-21T06:27:58.663664"
+  },
+  "10503": {
+    "id": 10503,
+    "title": "La felicità porta fortuna - Happy Go Lucky",
+    "release_date": "2008-04-18",
+    "vote_average": 6.592,
+    "poster_path": "/mLcQOlynZke7YRipxmmBZZuHltx.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-01-21T06:27:58.681762"
+  },
+  "9053": {
+    "id": 9053,
+    "title": "DOA - Dead or Alive",
+    "release_date": "2006-09-07",
+    "vote_average": 5.2,
+    "poster_path": "/gtlai95IERRDgRhPCK0WEuwCRP0.jpg",
+    "genre_ids": [
+      12,
+      28,
+      53
+    ],
+    "cached_at": "2026-01-21T06:27:58.689277"
+  },
+  "12890": {
+    "id": 12890,
+    "title": "Smart People",
+    "release_date": "2008-04-11",
+    "vote_average": 5.824,
+    "poster_path": "/igIl4RKxOEYvhQGKCvM6vCRMiVm.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "cached_at": "2026-01-21T06:27:58.723373"
+  },
+  "1451402": {
+    "id": 1451402,
+    "title": "Esprimi un desiderio",
+    "release_date": "2025-09-25",
+    "vote_average": 7.667,
+    "poster_path": "/3JuOjgN9bTTRAC8jMQQUO6fMzGA.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-01-21T06:27:58.759477"
+  },
+  "1266": {
+    "id": 1266,
+    "title": "La notte non aspetta",
+    "release_date": "2008-04-10",
+    "vote_average": 6.6,
+    "poster_path": "/ocuCZEQnsdDDtAdTAoXQQDAydXN.jpg",
+    "genre_ids": [
+      28,
+      80,
+      18,
+      53
+    ],
+    "cached_at": "2026-01-21T06:27:58.795994"
+  },
+  "12493": {
+    "id": 12493,
+    "title": "Anatomia di un rapimento",
+    "release_date": "1963-03-01",
+    "vote_average": 8.343,
+    "poster_path": "/jHZtd9bNoMNojJXq2wQnvkmC47o.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "cached_at": "2026-01-21T06:27:58.832270"
+  },
+  "11969": {
+    "id": 11969,
+    "title": "Tombstone",
+    "release_date": "1993-12-25",
+    "vote_average": 7.574,
+    "poster_path": "/nQj1HXyObIMpyFql11KtwOKgxxP.jpg",
+    "genre_ids": [
+      37,
+      28
+    ],
+    "cached_at": "2026-01-21T06:27:58.863634"
+  },
+  "13676": {
+    "id": 13676,
+    "title": "La sirenetta - Quando tutto ebbe inizio",
+    "release_date": "2008-08-25",
+    "vote_average": 6.681,
+    "poster_path": "/mnmyGVKMCLU8DcdGOdUhAShqWzq.jpg",
+    "genre_ids": [
+      10751,
+      16
+    ],
+    "cached_at": "2026-01-21T06:27:58.894129"
+  },
+  "12689": {
+    "id": 12689,
+    "title": "La mia vita è un disastro",
+    "release_date": "2008-07-25",
+    "vote_average": 6.481,
+    "poster_path": "/em1ef70eKSCWokbSfbTpI6euYdc.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10751,
+      10749
+    ],
+    "cached_at": "2026-01-21T06:27:58.944714"
+  },
+  "10567": {
+    "id": 10567,
+    "title": "Dinosauri",
+    "release_date": "2000-05-19",
+    "vote_average": 6.549,
+    "poster_path": "/siBSIs7xMvU2KdAqsfrlyNxLAUq.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      12,
+      18
+    ],
+    "cached_at": "2026-01-21T06:27:58.969157"
+  },
+  "1575588": {
+    "id": 1575588,
+    "title": "Misfits",
+    "release_date": "2025-12-15",
+    "vote_average": 0.0,
+    "poster_path": "/gV3tP0M2hR3gOfmaGsJydGzw29t.jpg",
+    "genre_ids": [
+      18,
+      35,
+      28,
+      10749
+    ],
+    "cached_at": "2026-01-21T06:27:59.039436"
+  },
+  "15741": {
+    "id": 15741,
+    "title": "Dorothy",
+    "release_date": "2008-08-06",
+    "vote_average": 6.031,
+    "poster_path": "/qBY3W5fupe0IYd8G3YorMh1G2FX.jpg",
+    "genre_ids": [
+      18,
+      53,
+      9648,
+      27
+    ],
+    "cached_at": "2026-01-21T06:27:59.110758"
+  },
+  "1306400": {
+    "id": 1306400,
+    "title": "Merrily We Roll Along",
+    "release_date": "2025-12-04",
+    "vote_average": 8.0,
+    "poster_path": "/8h3uNPMdQKr7ffwAjU0aURFqIK.jpg",
+    "genre_ids": [
+      35,
+      10402
+    ],
+    "cached_at": "2026-01-21T06:27:59.181705"
+  },
+  "13805": {
+    "id": 13805,
+    "title": "Disaster Movie",
+    "release_date": "2008-08-29",
+    "vote_average": 3.201,
+    "poster_path": "/3J8XKUfhJiNzwobUZVtizXYPe8b.jpg",
+    "genre_ids": [
+      35,
+      878
+    ],
+    "cached_at": "2026-01-21T06:27:59.222848"
+  },
+  "62029": {
+    "id": 62029,
+    "title": "Bingo Bongo",
+    "release_date": "1982-12-23",
+    "vote_average": 5.702,
+    "poster_path": "/cqiWWn2tnQwJHFmAMaLR2JdRbzC.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-01-21T06:27:59.292854"
+  },
+  "25988": {
+    "id": 25988,
+    "title": "Piccolo dizionario amoroso",
+    "release_date": "2003-01-31",
+    "vote_average": 6.4,
+    "poster_path": "/bszp3HdnaBE6ptfio37vB3JckuL.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-01-21T06:27:59.376382"
   }
 }
