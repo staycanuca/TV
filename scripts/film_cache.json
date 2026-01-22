@@ -147740,5 +147740,255 @@
       10749
     ],
     "cached_at": "2026-01-21T06:27:59.376382"
+  },
+  "3602": {
+    "id": 3602,
+    "title": "Leggenda mortale",
+    "release_date": "2006-06-24",
+    "vote_average": 4.212,
+    "poster_path": "/3drWs2GNVenb68wq1BEMsc9UmNR.jpg",
+    "genre_ids": [
+      27
+    ],
+    "cached_at": "2026-01-22T06:26:34.108806"
+  },
+  "284689": {
+    "id": 284689,
+    "title": "Generazione perduta",
+    "release_date": "2015-01-16",
+    "vote_average": 7.263,
+    "poster_path": "/9Qa3PYwiJybq0XI3Y1o8ORZnzbM.jpg",
+    "genre_ids": [
+      36,
+      18,
+      10752
+    ],
+    "cached_at": "2026-01-22T06:26:34.137685"
+  },
+  "12435": {
+    "id": 12435,
+    "title": "Il diario di una tata",
+    "release_date": "2007-08-24",
+    "vote_average": 6.384,
+    "poster_path": "/ptKPC3Mqun6Km7DErilyXsFphBP.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "cached_at": "2026-01-22T06:26:34.173295"
+  },
+  "14550": {
+    "id": 14550,
+    "title": "4 pazzi in libertà",
+    "release_date": "1989-04-07",
+    "vote_average": 6.16,
+    "poster_path": "/6xSyq25lqhFkKbDWSXNPqqu2KpZ.jpg",
+    "genre_ids": [
+      35,
+      80,
+      53
+    ],
+    "cached_at": "2026-01-22T06:26:34.182897"
+  },
+  "11307": {
+    "id": 11307,
+    "title": "Il mondo secondo Garp",
+    "release_date": "1982-07-23",
+    "vote_average": 6.7,
+    "poster_path": "/k2SmfKJfs9EL0sZvxcSSM7jyoqi.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "cached_at": "2026-01-22T06:26:34.206864"
+  },
+  "7249": {
+    "id": 7249,
+    "title": "Futurama - Il colpo grosso di Bender",
+    "release_date": "2007-11-27",
+    "vote_average": 7.364,
+    "poster_path": "/vS5WRXQt28uFQD68X4JHXwKJ7ZN.jpg",
+    "genre_ids": [
+      16,
+      35,
+      878
+    ],
+    "cached_at": "2026-01-22T06:26:34.257642"
+  },
+  "1595481": {
+    "id": 1595481,
+    "title": "Kidnapped: Elizabeth Smart",
+    "release_date": "2026-01-21",
+    "vote_average": 7.2,
+    "poster_path": "/hMVhZxgbFLXZcDUIZ10NGb6s8w4.jpg",
+    "genre_ids": [
+      99,
+      80
+    ],
+    "cached_at": "2026-01-22T06:26:34.274962"
+  },
+  "94509": {
+    "id": 94509,
+    "title": "Die Stille vor Bach",
+    "release_date": "2007-12-21",
+    "vote_average": 7.0,
+    "poster_path": "/nv6tOTiYaRy8VEqkhr0kP14BvOD.jpg",
+    "genre_ids": [
+      10402
+    ],
+    "cached_at": "2026-01-22T06:26:34.346330"
+  },
+  "29657": {
+    "id": 29657,
+    "title": "Nana",
+    "release_date": "2005-09-03",
+    "vote_average": 6.7,
+    "poster_path": "/xlZYf2B224k5JxSD2MHy7jIJKmA.jpg",
+    "genre_ids": [
+      10749,
+      18,
+      10402
+    ],
+    "cached_at": "2026-01-22T06:26:34.396562"
+  },
+  "216156": {
+    "id": 216156,
+    "title": "Still Life",
+    "release_date": "2013-11-28",
+    "vote_average": 7.481,
+    "poster_path": "/rToKDKBiSjF2MtChmg0djeuT5Es.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-01-22T06:26:34.419793"
+  },
+  "13968": {
+    "id": 13968,
+    "title": "Jump In!",
+    "release_date": "2007-01-12",
+    "vote_average": 6.381,
+    "poster_path": "/bC15nPOGIOXohhqzC2GTg0DlqIy.jpg",
+    "genre_ids": [
+      18,
+      35,
+      10749
+    ],
+    "cached_at": "2026-01-22T06:26:34.420978"
+  },
+  "11659": {
+    "id": 11659,
+    "title": "La meglio gioventù",
+    "release_date": "2003-06-22",
+    "vote_average": 8.1,
+    "poster_path": "/46sjl8XTSEwiiIjUrFmmqz9JlId.jpg",
+    "genre_ids": [
+      18,
+      36,
+      10749
+    ],
+    "cached_at": "2026-01-22T06:26:34.490904"
+  },
+  "20329": {
+    "id": 20329,
+    "title": "Death Note - L Change the WorLd",
+    "release_date": "2008-02-07",
+    "vote_average": 6.012,
+    "poster_path": "/4sjUxEYApIBx565BawngREE0PoI.jpg",
+    "genre_ids": [
+      14,
+      28,
+      53,
+      878,
+      9648
+    ],
+    "cached_at": "2026-01-22T06:26:34.492235"
+  },
+  "40342": {
+    "id": 40342,
+    "title": "Dèmoni 2… L’incubo ritorna",
+    "release_date": "1986-10-09",
+    "vote_average": 6.1,
+    "poster_path": "/pg2bgsTUGhRCkHlisnBquMFlLZU.jpg",
+    "genre_ids": [
+      27
+    ],
+    "cached_at": "2026-01-22T06:26:34.540541"
+  },
+  "46169": {
+    "id": 46169,
+    "title": "Twitches - Gemelle streghelle 2",
+    "release_date": "2007-10-12",
+    "vote_average": 6.672,
+    "poster_path": "/jemQVoX2q1XCSb7MVl4Wa04lI3g.jpg",
+    "genre_ids": [
+      18,
+      10751,
+      14,
+      10770
+    ],
+    "cached_at": "2026-01-22T06:26:34.564727"
+  },
+  "40181": {
+    "id": 40181,
+    "title": "Sa Majesté Minor",
+    "release_date": "2007-10-10",
+    "vote_average": 3.4,
+    "poster_path": "/cWmWTYkMCt7BSSOmgPUTt3HfScS.jpg",
+    "genre_ids": [
+      14
+    ],
+    "cached_at": "2026-01-22T06:26:34.611375"
+  },
+  "35752": {
+    "id": 35752,
+    "title": "Nana 2",
+    "release_date": "2006-12-09",
+    "vote_average": 6.4,
+    "poster_path": "/4gaIiQftsXxqaT8rL0SJevM2rj.jpg",
+    "genre_ids": [
+      18,
+      10402,
+      10749
+    ],
+    "cached_at": "2026-01-22T06:26:34.633218"
+  },
+  "4517": {
+    "id": 4517,
+    "title": "Elizabeth: The Golden Age",
+    "release_date": "2007-09-09",
+    "vote_average": 6.713,
+    "poster_path": "/lBE6osHNvQyyX3oldUAkyXtFBpA.jpg",
+    "genre_ids": [
+      18,
+      36,
+      10749
+    ],
+    "cached_at": "2026-01-22T06:26:34.695273"
+  },
+  "2321": {
+    "id": 2321,
+    "title": "Una vedova allegra... ma non troppo",
+    "release_date": "1988-08-19",
+    "vote_average": 5.9,
+    "poster_path": "/rBOz56AcFMni5CPDjNpX6lpxt1m.jpg",
+    "genre_ids": [
+      35,
+      80,
+      10749
+    ],
+    "cached_at": "2026-01-22T06:26:34.703321"
+  },
+  "23202": {
+    "id": 23202,
+    "title": "La vendetta di Halloween",
+    "release_date": "2007-12-09",
+    "vote_average": 7.0,
+    "poster_path": "/bXHLurRFTaUTQHouDsFOTGWkiN8.jpg",
+    "genre_ids": [
+      27,
+      35
+    ],
+    "cached_at": "2026-01-22T06:26:34.847293"
   }
 }
