@@ -62095,5 +62095,68 @@
       35
     ],
     "cached_at": "2026-01-22T06:26:41.253129"
+  },
+  "1940": {
+    "id": 1940,
+    "name": "Entourage",
+    "original_name": "Entourage",
+    "first_air_date": "2004-07-18",
+    "vote_average": 7.4,
+    "poster_path": "/kLKP8zrArBtBboGz3qJOuMGC7rL.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-01-23T06:26:19.571459"
+  },
+  "254994": {
+    "id": 254994,
+    "name": "Naked attraction Spagna",
+    "original_name": "Naked Attraction España",
+    "first_air_date": "2024-05-21",
+    "vote_average": 5.25,
+    "poster_path": "/lH0k2YacVqSlcplVEKntxlhoo7h.jpg",
+    "genre_ids": [
+      10764
+    ],
+    "cached_at": "2026-01-23T06:26:19.641820"
+  },
+  "109939": {
+    "id": 109939,
+    "name": "Our Flag Means Death",
+    "original_name": "Our Flag Means Death",
+    "first_air_date": "2022-03-03",
+    "vote_average": 7.616,
+    "poster_path": "/k6CAdKXyR9RMWXZrWAETlSk7b7v.jpg",
+    "genre_ids": [
+      35,
+      10759,
+      18
+    ],
+    "cached_at": "2026-01-23T06:26:19.713335"
+  },
+  "307534": {
+    "id": 307534,
+    "name": "Free Bert",
+    "original_name": "Free Bert",
+    "first_air_date": "2026-01-22",
+    "vote_average": 8.0,
+    "poster_path": "/18jsL1sUIDL3ice67KoNkq22K6m.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-01-23T06:26:19.749549"
+  },
+  "281401": {
+    "id": 281401,
+    "name": "Finding Her Edge - Passione sul ghiaccio",
+    "original_name": "Finding Her Edge",
+    "first_air_date": "2026-01-22",
+    "vote_average": 7.417,
+    "poster_path": "/rundKWddXHke82ee8Sv9KJmuGhn.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-01-23T06:26:19.785218"
   }
 }
