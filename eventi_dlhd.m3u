@@ -1,1 +1,37 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
+https://example.com.m3u8
+
+#EXTINF:-1 tvg-id="franceligue1auxerrevspsg" tvg-name="Soccer | France - Ligue 1 : Auxerre vs PSG (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Auxerre_vs_PSG.png" group-title="Eventi Live DLHD",Soccer | France - Ligue 1 : Auxerre vs PSG (19:00)
+https://daddyhd.com/watch.php?id=870
+
+#EXTINF:-1 tvg-id="germanybundesligastpaulivshamburgersv" tvg-name="Soccer | Germany - Bundesliga : St. Pauli vs Hamburger SV (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/St. Pauli_vs_Hamburger SV.png" group-title="Eventi Live DLHD",Soccer | Germany - Bundesliga : St. Pauli vs Hamburger SV (19:30)
+https://daddyhd.com/watch.php?id=460
+
+#EXTINF:-1 tvg-id="italyseriectriestinavslumezzane" tvg-name="Soccer | Italy - Serie C : Triestina vs Lumezzane (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Triestina_vs_Lumezzane.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Triestina vs Lumezzane (19:30)
+https://daddyhd.com/watch.php?id=9
+
+#EXTINF:-1 tvg-id="italyseriectriestinavslumezzane" tvg-name="Soccer | Italy - Serie C : Triestina vs Lumezzane (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Triestina_vs_Lumezzane.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Triestina vs Lumezzane (19:30)
+https://daddyhd.com/watch.php?id=462
+
+#EXTINF:-1 tvg-id="italyseriecgiuglianovscavese" tvg-name="Soccer | Italy - Serie C : Giugliano vs Cavese (19:30)" tvg-logo="https://www.giugliano1928.it/wp-content/uploads/2022/09/crotone-768x768.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Giugliano vs Cavese (19:30)
+https://daddyhd.com/watch.php?id=10
+
+#EXTINF:-1 tvg-id="italyserieainternazionalevspisa" tvg-name="Soccer | Italy - Serie A : Internazionale vs Pisa (19:45)" tvg-logo="https://logos-download.com/wp-content/uploads/2016/05/F_-Inter_logo_new.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Internazionale vs Pisa (19:45)
+https://daddyhd.com/watch.php?id=877
+
+#EXTINF:-1 tvg-id="worldcupkitzbuhelmenssuperg" tvg-name="Alpine Ski | World Cup Kitzbuhel | Men's Super-G (10:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup Kitzbuhel | Men's Super-G (10:30)
+https://daddyhd.com/watch.php?id=879
+
+#EXTINF:-1 tvg-id="women125kmindividualcompetitionnovemesto" tvg-name="Biathlon | Women 12.5 km Individual Competition | Nove Mesto (16:15)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Biathlon | Women 12.5 km Individual Competition | Nove Mesto (16:15)
+https://daddyhd.com/watch.php?id=878
+
+#EXTINF:-1 tvg-id="worldcupgomsmixedteamsprintfreestyle" tvg-name="Cross Country | World Cup Goms | Mixed Team Sprint Freestyle (13:20)" tvg-logo="https://spinthewheel.app/assets/images/preview/fifa-world-cup-1962.png" group-title="Eventi Live DLHD",Cross Country | World Cup Goms | Mixed Team Sprint Freestyle (13:20)
+https://daddyhd.com/watch.php?id=879
+
+#EXTINF:-1 tvg-id="oberstdorfmenshs235skiflyingworldchampionshipsday1" tvg-name="Ski Jumping | Oberstdorf | Men's HS235 Ski Flying World Championships | Day 1 (14:45)" tvg-logo="https://cdn.strauss.com/global/assets/ats/images/ArticleTileV3/product/16.Release.1300370/S3_Safety_boots_Oberstdorf-119600-1-638223466029489341.png" group-title="Eventi Live DLHD",Ski Jumping | Oberstdorf | Men's HS235 Ski Flying World Championships | Day 1 (14:45)
+https://daddyhd.com/watch.php?id=878
+
+#EXTINF:-1 tvg-id="veysonnazskicrossworldcupwomenmen" tvg-name="Winter Sports | Veysonnaz | Ski cross World Cup | Women Men (11:50)" tvg-logo="https://d36vnx92dgl2c5.cloudfront.net/prod/Elone/2842/media/7947144885f2be4874698943e1916c74.png" group-title="Eventi Live DLHD",Winter Sports | Veysonnaz | Ski cross World Cup | Women Men (11:50)
+https://daddyhd.com/watch.php?id=879
+
