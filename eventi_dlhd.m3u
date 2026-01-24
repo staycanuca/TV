@@ -2,33 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyseriecvirtusveronavsprovercelli" tvg-name="Soccer | Italy - Serie C : Virtus Verona vs Pro Vercelli (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Virtus Verona_vs_Pro Vercelli.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Virtus Verona vs Pro Vercelli (16:30)
-https://daddyhd.com/watch.php?id=185
-
-#EXTINF:-1 tvg-id="italyseriecravennavsnuovamonterosi" tvg-name="Soccer | Italy - Serie C : Ravenna vs Nuova Monterosi (16:30)" tvg-logo="https://www.ravennafc.it/wp-content/uploads/2024/08/logo-web-sammaurese.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Ravenna vs Nuova Monterosi (16:30)
-https://daddyhd.com/watch.php?id=28
-
-#EXTINF:-1 tvg-id="italyseriecravennavsnuovamonterosi" tvg-name="Soccer | Italy - Serie C : Ravenna vs Nuova Monterosi (16:30)" tvg-logo="https://www.ravennafc.it/wp-content/uploads/2024/08/logo-web-sammaurese.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Ravenna vs Nuova Monterosi (16:30)
-https://daddyhd.com/watch.php?id=870
-
-#EXTINF:-1 tvg-id="italyseriecsambenedettesevspianese" tvg-name="Soccer | Italy - Serie C : Sambenedettese vs Pianese (16:30)" tvg-logo="http://www.ilcosenza.it/wp-content/uploads/2018/05/Sambenedettese_Calcio_Since_2013-1024x1024.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Sambenedettese vs Pianese (16:30)
-https://daddyhd.com/watch.php?id=183
-
-#EXTINF:-1 tvg-id="italyserieccrotonevspotenzacalcio" tvg-name="Soccer | Italy - Serie C : Crotone vs Potenza Calcio (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Crotone_vs_Potenza Calcio.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Crotone vs Potenza Calcio (16:30)
-https://daddyhd.com/watch.php?id=186
-
-#EXTINF:-1 tvg-id="italyseriecvirtuscasaranovspicerno" tvg-name="Soccer | Italy - Serie C : Virtus Casarano vs Picerno (16:30)" tvg-logo="https://www.fcsorrento.com/wp-content/uploads/2023/08/Logo-Picerno.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Virtus Casarano vs Picerno (16:30)
-https://daddyhd.com/watch.php?id=184
-
-#EXTINF:-1 tvg-id="italyserieafiorentinavscagliari" tvg-name="Soccer | Italy - Serie A : Fiorentina vs Cagliari (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Fiorentina_vs_Cagliari.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Fiorentina vs Cagliari (17:00)
-https://daddyhd.com/watch.php?id=877
-
-#EXTINF:-1 tvg-id="englandpremierleagueafcbournemouthvsliverpool" tvg-name="Soccer | England - Premier League : AFC Bournemouth vs Liverpool (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/AFC Bournemouth_vs_Liverpool.png" group-title="Eventi Live DLHD",Soccer | England - Premier League : AFC Bournemouth vs Liverpool (17:30)
-https://daddyhd.com/watch.php?id=461
-
-#EXTINF:-1 tvg-id="germanybundesligaunionberlinvsborussiadortmund" tvg-name="Soccer | Germany - Bundesliga : Union Berlin vs Borussia Dortmund (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Union Berlin_vs_Borussia Dortmund.png" group-title="Eventi Live DLHD",Soccer | Germany - Bundesliga : Union Berlin vs Borussia Dortmund (17:30)
-https://daddyhd.com/watch.php?id=462
-
 #EXTINF:-1 tvg-id="italyseriealeccevslazio" tvg-name="Soccer | Italy - Serie A : Lecce vs Lazio (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lecce_vs_Lazio.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Lecce vs Lazio (19:45)
 https://daddyhd.com/watch.php?id=28
 
