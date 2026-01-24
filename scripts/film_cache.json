@@ -148154,5 +148154,289 @@
       10770
     ],
     "cached_at": "2026-01-23T06:26:13.445152"
+  },
+  "407806": {
+    "id": 407806,
+    "title": "XIII emendamento",
+    "release_date": "2016-10-07",
+    "vote_average": 7.9,
+    "poster_path": "/lwCe48Sl5D4d8s4SfavFSLgUqJ5.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-01-24T06:23:38.624246"
+  },
+  "36670": {
+    "id": 36670,
+    "title": "Mai dire mai",
+    "release_date": "1983-10-07",
+    "vote_average": 6.053,
+    "poster_path": "/lyPIv08a0VPrJxpGu5pvyUE0bB3.jpg",
+    "genre_ids": [
+      12,
+      28,
+      53
+    ],
+    "cached_at": "2026-01-24T06:23:38.647134"
+  },
+  "698": {
+    "id": 698,
+    "title": "Moonraker - Operazione spazio",
+    "release_date": "1979-06-26",
+    "vote_average": 6.178,
+    "poster_path": "/tWx7g8ENuCzNPUhRrfYqFh3T1MB.jpg",
+    "genre_ids": [
+      28,
+      12,
+      53,
+      878
+    ],
+    "cached_at": "2026-01-24T06:23:38.669986"
+  },
+  "14709": {
+    "id": 14709,
+    "title": "Varsity Blues",
+    "release_date": "1999-01-15",
+    "vote_average": 6.131,
+    "poster_path": "/rNuqC6VOqIXwLYh2PtJzE59Z89E.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "cached_at": "2026-01-24T06:23:38.708120"
+  },
+  "4587": {
+    "id": 4587,
+    "title": "Sirene",
+    "release_date": "1990-12-14",
+    "vote_average": 6.731,
+    "poster_path": "/3Vt9MCCbhVMnXw6JUryaIXQDqW3.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "cached_at": "2026-01-24T06:23:38.716107"
+  },
+  "16553": {
+    "id": 16553,
+    "title": "Innamorarsi a Manhattan",
+    "release_date": "2005-09-26",
+    "vote_average": 7.198,
+    "poster_path": "/cXrUblOX2L06HJ1LWUesWobog9c.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-01-24T06:23:38.778513"
+  },
+  "1076366": {
+    "id": 1076366,
+    "title": "Willow: Oltre la magia",
+    "release_date": "2023-01-25",
+    "vote_average": 4.1,
+    "poster_path": "/5O4l7uYW4jalfx6uULB9yj8TVzi.jpg",
+    "genre_ids": [
+      99,
+      35
+    ],
+    "cached_at": "2026-01-24T06:23:38.785874"
+  },
+  "11219": {
+    "id": 11219,
+    "title": "La congiura degli innocenti",
+    "release_date": "1955-09-30",
+    "vote_average": 6.989,
+    "poster_path": "/acB1kHN6iv8hJ3lzGCzUh5TOVU7.jpg",
+    "genre_ids": [
+      35,
+      9648
+    ],
+    "cached_at": "2026-01-24T06:23:38.792563"
+  },
+  "1086260": {
+    "id": 1086260,
+    "title": "The Astronaut",
+    "release_date": "2025-09-26",
+    "vote_average": 5.683,
+    "poster_path": "/lP0SVWzHx6hto4aQcY2V7c5E6lD.jpg",
+    "genre_ids": [
+      878,
+      27,
+      53
+    ],
+    "cached_at": "2026-01-24T06:23:38.845535"
+  },
+  "161594": {
+    "id": 161594,
+    "title": "Buffalo Dreams",
+    "release_date": "2005-09-12",
+    "vote_average": 5.5,
+    "poster_path": "/qN0TXN19X1W824gI56aKvwrWM0j.jpg",
+    "genre_ids": [
+      10770,
+      10751,
+      18
+    ],
+    "cached_at": "2026-01-24T06:23:38.855982"
+  },
+  "1443762": {
+    "id": 1443762,
+    "title": "Il Falsario",
+    "release_date": "2026-01-22",
+    "vote_average": 5.9,
+    "poster_path": "/bGLgIRasU93kIZbmOClkBA51E5T.jpg",
+    "genre_ids": [
+      53,
+      80,
+      18
+    ],
+    "cached_at": "2026-01-24T06:23:38.862994"
+  },
+  "1382024": {
+    "id": 1382024,
+    "title": "Amata",
+    "release_date": "2025-10-16",
+    "vote_average": 5.167,
+    "poster_path": "/tP036DZlwH3wt2pQW9yvBFUYDXF.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-01-24T06:23:38.927395"
+  },
+  "699": {
+    "id": 699,
+    "title": "Solo per i tuoi occhi",
+    "release_date": "1981-06-24",
+    "vote_average": 6.542,
+    "poster_path": "/A5CmyGrc3xlGx7Ap10GuZT4Ciyl.jpg",
+    "genre_ids": [
+      12,
+      28,
+      53
+    ],
+    "cached_at": "2026-01-24T06:23:38.932289"
+  },
+  "9662": {
+    "id": 9662,
+    "title": "Appuntamento a Belleville",
+    "release_date": "2003-06-11",
+    "vote_average": 7.395,
+    "poster_path": "/q6W4Eud1LS6f80brRNmyVeMkkpK.jpg",
+    "genre_ids": [
+      16,
+      35,
+      18,
+      10751
+    ],
+    "cached_at": "2026-01-24T06:23:38.998399"
+  },
+  "329540": {
+    "id": 329540,
+    "title": "Presa mortale 4: Moving Target",
+    "release_date": "2015-04-10",
+    "vote_average": 6.4,
+    "poster_path": "/yR4R4SP6nLwwJ30DZOCVXefqPhi.jpg",
+    "genre_ids": [
+      28
+    ],
+    "cached_at": "2026-01-24T06:23:39.004982"
+  },
+  "6641": {
+    "id": 6641,
+    "title": "Amore e altri disastri",
+    "release_date": "2006-09-09",
+    "vote_average": 5.732,
+    "poster_path": "/2ZFeKPnVyWIGJOqu7iE8306WdQp.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-01-24T06:23:39.060807"
+  },
+  "381": {
+    "id": 381,
+    "title": "Caccia al ladro",
+    "release_date": "1955-08-03",
+    "vote_average": 7.271,
+    "poster_path": "/bHwjdyv2HHUIz8UEolclGmpM1Z5.jpg",
+    "genre_ids": [
+      9648,
+      10749,
+      53
+    ],
+    "cached_at": "2026-01-24T06:23:39.133347"
+  },
+  "49714": {
+    "id": 49714,
+    "title": "Le buttane",
+    "release_date": "1994-08-01",
+    "vote_average": 5.393,
+    "poster_path": "/5D22PB1qSxwctFnNDi5qU5lEtFK.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-01-24T06:23:39.142451"
+  },
+  "32579": {
+    "id": 32579,
+    "title": "La stessa luna",
+    "release_date": "2007-07-27",
+    "vote_average": 7.708,
+    "poster_path": "/ogIobMbmXuL7k3qnba76hUms8lQ.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-01-24T06:23:39.151669"
+  },
+  "708": {
+    "id": 708,
+    "title": "007 - Zona pericolo",
+    "release_date": "1987-06-29",
+    "vote_average": 6.541,
+    "poster_path": "/xClcFxjz4dRYqDo6Lm3CCTLdO5n.jpg",
+    "genre_ids": [
+      28,
+      12,
+      53
+    ],
+    "cached_at": "2026-01-24T06:23:39.203946"
+  },
+  "1621283": {
+    "id": 1621283,
+    "title": "She Who Flies",
+    "release_date": "2025-11-17",
+    "vote_average": 0.0,
+    "poster_path": "/6mQbL2mHbyCunooTUjNY6S76HXF.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-01-24T06:23:39.213321"
+  },
+  "199411": {
+    "id": 199411,
+    "title": "El Doctor",
+    "release_date": "2006-05-10",
+    "vote_average": 6.0,
+    "poster_path": "/ovPJ1ghTJG07GcYVOw4mLXSSEt8.jpg",
+    "genre_ids": [
+      16,
+      35,
+      14
+    ],
+    "cached_at": "2026-01-24T06:23:39.287736"
+  },
+  "42130": {
+    "id": 42130,
+    "title": "La notte di San Lorenzo",
+    "release_date": "1982-09-16",
+    "vote_average": 7.088,
+    "poster_path": "/1Y7QbJVL6vEHm32BGDoAZvXwq0P.jpg",
+    "genre_ids": [
+      10752,
+      18
+    ],
+    "cached_at": "2026-01-24T06:23:39.358070"
   }
 }
