@@ -1,13 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
-https://example.com.m3u8
-
-#EXTINF:-1 tvg-id="italyseriealeccevslazio" tvg-name="Soccer | Italy - Serie A : Lecce vs Lazio (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lecce_vs_Lazio.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Lecce vs Lazio (19:45)
-https://daddyhd.com/watch.php?id=28
-
-#EXTINF:-1 tvg-id="italyseriealeccevslazio" tvg-name="Soccer | Italy - Serie A : Lecce vs Lazio (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lecce_vs_Lazio.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Lecce vs Lazio (19:45)
-https://daddyhd.com/watch.php?id=461
-
-#EXTINF:-1 tvg-id="italyseriealeccevslazio" tvg-name="Soccer | Italy - Serie A : Lecce vs Lazio (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lecce_vs_Lazio.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Lecce vs Lazio (19:45)
-https://daddyhd.com/watch.php?id=870
-
