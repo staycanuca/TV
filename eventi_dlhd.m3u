@@ -2,16 +2,7 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="germanybundesligabayernmünchenvsaugsburg" tvg-name="Soccer | Germany - Bundesliga : Bayern München vs Augsburg (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bayern München_vs_Augsburg.png" group-title="Eventi Live DLHD",Soccer | Germany - Bundesliga : Bayern München vs Augsburg (14:30)
-https://daddyhd.com/watch.php?id=462
-
-#EXTINF:-1 tvg-id="englandpremierleagueburnleyvstottenhamhotspur" tvg-name="Soccer | England - Premier League : Burnley vs Tottenham Hotspur (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Burnley_vs_Tottenham Hotspur.png" group-title="Eventi Live DLHD",Soccer | England - Premier League : Burnley vs Tottenham Hotspur (15:00)
-https://daddyhd.com/watch.php?id=460
-
-#EXTINF:-1 tvg-id="englandpremierleaguemanchestercityvswolverhamptonwanderers" tvg-name="Soccer | England - Premier League : Manchester City vs Wolverhampton Wanderers (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Manchester City_vs_Wolverhampton Wanderers.png" group-title="Eventi Live DLHD",Soccer | England - Premier League : Manchester City vs Wolverhampton Wanderers (15:00)
-https://daddyhd.com/watch.php?id=461
-
-#EXTINF:-1 tvg-id="italyseriecvirtusveronavsprovercelli" tvg-name="Soccer | Italy - Serie C : Virtus Verona vs Pro Vercelli (16:30)" tvg-logo="https://www.lega-pro.com/wp-content/uploads/2024/07/x-com.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Virtus Verona vs Pro Vercelli (16:30)
+#EXTINF:-1 tvg-id="italyseriecvirtusveronavsprovercelli" tvg-name="Soccer | Italy - Serie C : Virtus Verona vs Pro Vercelli (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Virtus Verona_vs_Pro Vercelli.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Virtus Verona vs Pro Vercelli (16:30)
 https://daddyhd.com/watch.php?id=185
 
 #EXTINF:-1 tvg-id="italyseriecravennavsnuovamonterosi" tvg-name="Soccer | Italy - Serie C : Ravenna vs Nuova Monterosi (16:30)" tvg-logo="https://www.ravennafc.it/wp-content/uploads/2024/08/logo-web-sammaurese.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Ravenna vs Nuova Monterosi (16:30)
@@ -46,7 +37,4 @@ https://daddyhd.com/watch.php?id=461
 
 #EXTINF:-1 tvg-id="italyseriealeccevslazio" tvg-name="Soccer | Italy - Serie A : Lecce vs Lazio (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lecce_vs_Lazio.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Lecce vs Lazio (19:45)
 https://daddyhd.com/watch.php?id=870
-
-#EXTINF:-1 tvg-id="oberstdorfmenshs235skiflyingworldchampionshipsday2" tvg-name="Ski Jumping | Oberstdorf | Men's HS 235 Ski Flying World Championships | Day 2 (15:15)" tvg-logo="https://cdn.strauss.com/global/assets/ats/images/ArticleTileV3/product/16.Release.1300370/S3_Safety_boots_Oberstdorf-119600-1-638223466029489341.png" group-title="Eventi Live DLHD",Ski Jumping | Oberstdorf | Men's HS 235 Ski Flying World Championships | Day 2 (15:15)
-https://daddyhd.com/watch.php?id=878
 
