@@ -75,8 +75,6 @@ https://vavoo.to/vavoo-iptv/play/4137427510ef362e6435fc
 https://vavoo.to/vavoo-iptv/play/196833914960066715a573
 #EXTINF:-1 tvg-id="dazn.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN (D)
 https://daddyhd.com/watch.php?id=877
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",DAZN (MATCH TIME)
-https://vavoo.to/vavoo-iptv/play/2303792166c73d1b7a1439
 #EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV
 https://vavoo.to/vavoo-iptv/play/3802167244650eb7a51319
 #EXTINF:-1 tvg-id="discovery.channel.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari",DISCOVERY CHANNEL
@@ -167,6 +165,8 @@ https://vavoo.to/vavoo-iptv/play/13708692992eeb9b07f00d
 https://vavoo.to/vavoo-iptv/play/30279032788f9f7870557e
 #EXTINF:-1 tvg-id="la.5.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la5-it.png" group-title="Mediaset",LA 5
 https://vavoo.to/vavoo-iptv/play/14256673753de6371f2c50
+#EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7
+https://vavoo.to/vavoo-iptv/play/7755300630832713e7adb
 #EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="" group-title="Altro",LA7 (D)
 https://daddyhd.com/watch.php?id=855
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",LA7D HD+ (D)
@@ -304,7 +304,7 @@ https://vavoo.to/vavoo-iptv/play/639406775e0288e6772cc
 #EXTINF:-1 tvg-id="rtl.102.5.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rtl-1025-it.png" group-title="Musica",RTL 102.5
 https://vavoo.to/vavoo-iptv/play/1729811452a70dafd8f6ba
 
-# RAI
+# SPORT
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",RTP (RETE TELEVISIVA)
 https://vavoo.to/vavoo-iptv/play/4136045815a19e851236a3
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tvdream.net/img/rtr99-cover.jpg" group-title="Altro",RTR 99 TV
@@ -382,7 +382,7 @@ https://vavoo.to/vavoo-iptv/play/14407790614bc8041c450d
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 9
 https://vavoo.to/vavoo-iptv/play/17532606771304e2497369
 
-# SPORT
+# MUSICA
 #EXTINF:-1 tvg-id="sky.serie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Film - Serie TV",SKY SERIE (D)
 https://daddyhd.com/watch.php?id=880
 #EXTINF:-1 tvg-id="skysport.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-it.png" group-title="Sport",SKY SPORT
@@ -548,7 +548,7 @@ https://vavoo.to/vavoo-iptv/play/27978570454e40f7218cf4
 #EXTINF:-1 tvg-id="" tvg-logo="https://teleromagna.it/Images/logo-tr-sport.jpg" group-title="Sport",TRSPORT
 https://vavoo.to/vavoo-iptv/play/3613140620a139097e4b5
 
-# MUSICA
+# RAI
 #EXTINF:-1 tvg-id="tv8.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/tv8-it.png" group-title="Altro",TV 8
 https://vavoo.to/vavoo-iptv/play/2706291008928411daf9bb
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",TV QUI (MODENA)
@@ -590,21 +590,6 @@ https://vavoo.to/vavoo-iptv/play/28498110272b8770fe20cb
 
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
-
-#EXTINF:-1 tvg-id="italyserieasassuolovscremonese" tvg-name="Soccer | Italy - Serie A : Sassuolo vs Cremonese (11:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sassuolo_vs_Cremonese.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Sassuolo vs Cremonese (11:30)
-https://daddyhd.com/watch.php?id=877
-
-#EXTINF:-1 tvg-id="italyseriecarezzovsjuventusii" tvg-name="Soccer | Italy - Serie C : Arezzo vs Juventus II (11:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Arezzo_vs_Juventus II.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Arezzo vs Juventus II (11:30)
-https://daddyhd.com/watch.php?id=5
-
-#EXTINF:-1 tvg-id="italyseriecarezzovsjuventusii" tvg-name="Soccer | Italy - Serie C : Arezzo vs Juventus II (11:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Arezzo_vs_Juventus II.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Arezzo vs Juventus II (11:30)
-https://daddyhd.com/watch.php?id=461
-
-#EXTINF:-1 tvg-id="italyseriecteamaltamuravsatalantaii" tvg-name="Soccer | Italy - Serie C : Team Altamura vs Atalanta II (11:30)" tvg-logo="https://cmsv2-assets.apptegy.net/uploads/20929/logo/23743/Bayside_High_logo.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Team Altamura vs Atalanta II (11:30)
-https://daddyhd.com/watch.php?id=6
-
-#EXTINF:-1 tvg-id="italyseriecteamaltamuravsatalantaii" tvg-name="Soccer | Italy - Serie C : Team Altamura vs Atalanta II (11:30)" tvg-logo="https://cmsv2-assets.apptegy.net/uploads/20929/logo/23743/Bayside_High_logo.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Team Altamura vs Atalanta II (11:30)
-https://daddyhd.com/watch.php?id=870
 
 #EXTINF:-1 tvg-id="italyseriecgianaerminiovsunionarzignanochiampo" tvg-name="Soccer | Italy - Serie C : Giana Erminio vs Union ArzignanoChiampo (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Giana Erminio_vs_Union ArzignanoChiampo.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Giana Erminio vs Union ArzignanoChiampo (13:30)
 https://daddyhd.com/watch.php?id=15
@@ -690,9 +675,6 @@ https://daddyhd.com/watch.php?id=870
 #EXTINF:-1 tvg-id="italyseriearomavsmilan" tvg-name="Soccer | Italy - Serie A : Roma vs Milan (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Roma_vs_Milan.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Roma vs Milan (19:45)
 https://daddyhd.com/watch.php?id=877
 
-#EXTINF:-1 tvg-id="slalomkitzbuehel" tvg-name="Alpine Ski | Slalom | Kitzbuehel (12:15)" tvg-logo="https://images.seeklogo.com/logo-png/12/2/slalom-logo-png_seeklogo-127846.png" group-title="Eventi Live DLHD",Alpine Ski | Slalom | Kitzbuehel (12:15)
-https://daddyhd.com/watch.php?id=879
-
 #EXTINF:-1 tvg-id="women125kmmassstartcompetitionnovemesto" tvg-name="Biathlon | Women 12.5 km Mass Start Competition | Nove Mesto (16:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Biathlon | Women 12.5 km Mass Start Competition | Nove Mesto (16:30)
 https://daddyhd.com/watch.php?id=878
 
@@ -701,9 +683,6 @@ https://daddyhd.com/watch.php?id=879
 
 #EXTINF:-1 tvg-id="teamcompetitionskiflyingworldchampionships" tvg-name="Ski Jumping | Team competition | Ski-Flying World Championships (15:00)" tvg-logo="https://clipart-library.com/images/8cAjzonca.png" group-title="Eventi Live DLHD",Ski Jumping | Team competition | Ski-Flying World Championships (15:00)
 https://daddyhd.com/watch.php?id=878
-
-#EXTINF:-1 tvg-id="worldcupcompetitioninpindlervmln2ndrunofwomensslalom" tvg-name="Winter Sports | World Cup Competition in ?pindler?v Ml?n 2nd run of women's slalom (11:00)" tvg-logo="https://static.wixstatic.com/media/ad3aa5_cb17e61b728b45cc928b3249edd1f6b4~mv2.png/v1/crop/x_18,y_0,w_977,h_1000/fill/w_957,h_980,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/ad3aa5_cb17e61b728b45cc928b3249edd1f6b4~mv2.png" group-title="Eventi Live DLHD",Winter Sports | World Cup Competition in ?pindler?v Ml?n 2nd run of women's slalom (11:00)
-https://daddyhd.com/watch.php?id=879
 
 #EXTINF:-1 tvg-id="fisworldcupgomsmassstart20kmclassicmen" tvg-name="Winter Sports | FIS World Cup Goms | Mass Start – 20km Classic (Men) (13:30)" tvg-logo="https://spinthewheel.app/assets/images/preview/fifa-world-cup-1962.png" group-title="Eventi Live DLHD",Winter Sports | FIS World Cup Goms | Mass Start – 20km Classic (Men) (13:30)
 https://daddyhd.com/watch.php?id=879

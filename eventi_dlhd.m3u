@@ -2,21 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyserieasassuolovscremonese" tvg-name="Soccer | Italy - Serie A : Sassuolo vs Cremonese (11:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sassuolo_vs_Cremonese.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Sassuolo vs Cremonese (11:30)
-https://daddyhd.com/watch.php?id=877
-
-#EXTINF:-1 tvg-id="italyseriecarezzovsjuventusii" tvg-name="Soccer | Italy - Serie C : Arezzo vs Juventus II (11:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Arezzo_vs_Juventus II.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Arezzo vs Juventus II (11:30)
-https://daddyhd.com/watch.php?id=5
-
-#EXTINF:-1 tvg-id="italyseriecarezzovsjuventusii" tvg-name="Soccer | Italy - Serie C : Arezzo vs Juventus II (11:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Arezzo_vs_Juventus II.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Arezzo vs Juventus II (11:30)
-https://daddyhd.com/watch.php?id=461
-
-#EXTINF:-1 tvg-id="italyseriecteamaltamuravsatalantaii" tvg-name="Soccer | Italy - Serie C : Team Altamura vs Atalanta II (11:30)" tvg-logo="https://cmsv2-assets.apptegy.net/uploads/20929/logo/23743/Bayside_High_logo.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Team Altamura vs Atalanta II (11:30)
-https://daddyhd.com/watch.php?id=6
-
-#EXTINF:-1 tvg-id="italyseriecteamaltamuravsatalantaii" tvg-name="Soccer | Italy - Serie C : Team Altamura vs Atalanta II (11:30)" tvg-logo="https://cmsv2-assets.apptegy.net/uploads/20929/logo/23743/Bayside_High_logo.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Team Altamura vs Atalanta II (11:30)
-https://daddyhd.com/watch.php?id=870
-
 #EXTINF:-1 tvg-id="italyseriecgianaerminiovsunionarzignanochiampo" tvg-name="Soccer | Italy - Serie C : Giana Erminio vs Union ArzignanoChiampo (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Giana Erminio_vs_Union ArzignanoChiampo.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Giana Erminio vs Union ArzignanoChiampo (13:30)
 https://daddyhd.com/watch.php?id=15
 
@@ -101,9 +86,6 @@ https://daddyhd.com/watch.php?id=870
 #EXTINF:-1 tvg-id="italyseriearomavsmilan" tvg-name="Soccer | Italy - Serie A : Roma vs Milan (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Roma_vs_Milan.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Roma vs Milan (19:45)
 https://daddyhd.com/watch.php?id=877
 
-#EXTINF:-1 tvg-id="slalomkitzbuehel" tvg-name="Alpine Ski | Slalom | Kitzbuehel (12:15)" tvg-logo="https://images.seeklogo.com/logo-png/12/2/slalom-logo-png_seeklogo-127846.png" group-title="Eventi Live DLHD",Alpine Ski | Slalom | Kitzbuehel (12:15)
-https://daddyhd.com/watch.php?id=879
-
 #EXTINF:-1 tvg-id="women125kmmassstartcompetitionnovemesto" tvg-name="Biathlon | Women 12.5 km Mass Start Competition | Nove Mesto (16:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Biathlon | Women 12.5 km Mass Start Competition | Nove Mesto (16:30)
 https://daddyhd.com/watch.php?id=878
 
@@ -112,9 +94,6 @@ https://daddyhd.com/watch.php?id=879
 
 #EXTINF:-1 tvg-id="teamcompetitionskiflyingworldchampionships" tvg-name="Ski Jumping | Team competition | Ski-Flying World Championships (15:00)" tvg-logo="https://clipart-library.com/images/8cAjzonca.png" group-title="Eventi Live DLHD",Ski Jumping | Team competition | Ski-Flying World Championships (15:00)
 https://daddyhd.com/watch.php?id=878
-
-#EXTINF:-1 tvg-id="worldcupcompetitioninpindlervmln2ndrunofwomensslalom" tvg-name="Winter Sports | World Cup Competition in ?pindler?v Ml?n 2nd run of women's slalom (11:00)" tvg-logo="https://static.wixstatic.com/media/ad3aa5_cb17e61b728b45cc928b3249edd1f6b4~mv2.png/v1/crop/x_18,y_0,w_977,h_1000/fill/w_957,h_980,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/ad3aa5_cb17e61b728b45cc928b3249edd1f6b4~mv2.png" group-title="Eventi Live DLHD",Winter Sports | World Cup Competition in ?pindler?v Ml?n 2nd run of women's slalom (11:00)
-https://daddyhd.com/watch.php?id=879
 
 #EXTINF:-1 tvg-id="fisworldcupgomsmassstart20kmclassicmen" tvg-name="Winter Sports | FIS World Cup Goms | Mass Start – 20km Classic (Men) (13:30)" tvg-logo="https://spinthewheel.app/assets/images/preview/fifa-world-cup-1962.png" group-title="Eventi Live DLHD",Winter Sports | FIS World Cup Goms | Mass Start – 20km Classic (Men) (13:30)
 https://daddyhd.com/watch.php?id=879
