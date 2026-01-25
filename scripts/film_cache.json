@@ -148438,5 +148438,83 @@
       18
     ],
     "cached_at": "2026-01-24T06:23:39.358070"
+  },
+  "1608982": {
+    "id": 1608982,
+    "title": "Dalle ceneri 2: La voragine",
+    "release_date": "2026-01-21",
+    "vote_average": 3.8,
+    "poster_path": "/cUi789bFhCCAvUP0SQJfhJ4wbF3.jpg",
+    "genre_ids": [
+      53,
+      18
+    ],
+    "cached_at": "2026-01-25T06:23:49.304311"
+  },
+  "1088096": {
+    "id": 1088096,
+    "title": "Il padre dell'anno",
+    "release_date": "2024-10-17",
+    "vote_average": 6.439,
+    "poster_path": "/rvDoF582TtS1zXMvZ5lF4GlzBRc.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-01-25T06:23:49.371665"
+  },
+  "26267": {
+    "id": 26267,
+    "title": "A me gli occhi...",
+    "release_date": "2005-01-14",
+    "vote_average": 5.731,
+    "poster_path": "/pegrxHBfb4bV7pNaXYSCqIDii7p.jpg",
+    "genre_ids": [
+      10770,
+      35,
+      9648
+    ],
+    "cached_at": "2026-01-25T06:23:49.404881"
+  },
+  "124117": {
+    "id": 124117,
+    "title": "Pixel Perfect - Star ad alta definizione",
+    "release_date": "2004-11-13",
+    "vote_average": 5.209,
+    "poster_path": "/iECydPkTMsXrUosHZ7jwGVQ5X1H.jpg",
+    "genre_ids": [
+      10751,
+      10770,
+      878,
+      35
+    ],
+    "cached_at": "2026-01-25T06:23:49.467880"
+  },
+  "51909": {
+    "id": 51909,
+    "title": "Tiger Cruise - Missione crociera",
+    "release_date": "2004-08-06",
+    "vote_average": 5.9,
+    "poster_path": "/fC1Id7XyM490l5rc20IEBK3iVMq.jpg",
+    "genre_ids": [
+      10770,
+      10751,
+      18
+    ],
+    "cached_at": "2026-01-25T06:23:49.585758"
+  },
+  "55504": {
+    "id": 55504,
+    "title": "Go Figure - Grinta sui pattini",
+    "release_date": "2005-06-10",
+    "vote_average": 6.014,
+    "poster_path": "/9VyiIriEQzfpIZgH7gXPiNk1ktF.jpg",
+    "genre_ids": [
+      10770,
+      35,
+      18,
+      10751
+    ],
+    "cached_at": "2026-01-25T06:23:49.610466"
   }
 }

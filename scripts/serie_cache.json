@@ -62234,5 +62234,71 @@
       18
     ],
     "cached_at": "2026-01-24T06:23:43.046929"
+  },
+  "96213": {
+    "id": 96213,
+    "name": "McMillion$",
+    "original_name": "McMillion$",
+    "first_air_date": "2020-02-03",
+    "vote_average": 6.95,
+    "poster_path": "/xyUciqZC5hGYJqefmbGbTy5fxYh.jpg",
+    "genre_ids": [
+      99,
+      80,
+      18
+    ],
+    "cached_at": "2026-01-25T06:23:55.106101"
+  },
+  "226403": {
+    "id": 226403,
+    "name": "How to Create a Sex Scandal",
+    "original_name": "How to Create a Sex Scandal",
+    "first_air_date": "2023-05-23",
+    "vote_average": 6.5,
+    "poster_path": "/ocT6vwIwFrj3C8wFLtT0hRL58pS.jpg",
+    "genre_ids": [
+      99,
+      80
+    ],
+    "cached_at": "2026-01-25T06:23:55.126857"
+  },
+  "72581": {
+    "id": 72581,
+    "name": "Room 104",
+    "original_name": "Room 104",
+    "first_air_date": "2017-07-28",
+    "vote_average": 5.693,
+    "poster_path": "/wOyn9r9VC2pJhXasUKxlpEmCAGV.jpg",
+    "genre_ids": [
+      9648,
+      18,
+      35
+    ],
+    "cached_at": "2026-01-25T06:23:55.165887"
+  },
+  "14069": {
+    "id": 14069,
+    "name": "In Treatment",
+    "original_name": "In Treatment",
+    "first_air_date": "2008-01-28",
+    "vote_average": 7.6,
+    "poster_path": "/gytzjthKWMji7olvAnBGohbGmWS.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-01-25T06:23:55.238651"
+  },
+  "2899": {
+    "id": 2899,
+    "name": "Long Way Round",
+    "original_name": "Long Way Round",
+    "first_air_date": "2004-10-18",
+    "vote_average": 8.273,
+    "poster_path": "/uoAYNsbmjQXk0vs72R6ITZzYaYx.jpg",
+    "genre_ids": [
+      99,
+      10764
+    ],
+    "cached_at": "2026-01-25T06:23:55.409206"
   }
 }
