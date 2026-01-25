@@ -2,9 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="germanybundesligaborussiamgladbachvsstuttgart" tvg-name="Soccer | Germany - Bundesliga : Borussia M'gladbach vs Stuttgart (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Borussia M'gladbach_vs_Stuttgart.png" group-title="Eventi Live DLHD",Soccer | Germany - Bundesliga : Borussia M'gladbach vs Stuttgart (14:30)
-https://daddyhd.com/watch.php?id=6
-
 #EXTINF:-1 tvg-id="englandpremierleaguearsenalvsmanchesterunited" tvg-name="Soccer | England - Premier League : Arsenal vs Manchester United (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Arsenal_vs_Manchester United.png" group-title="Eventi Live DLHD",Soccer | England - Premier League : Arsenal vs Manchester United (16:30)
 https://daddyhd.com/watch.php?id=462
 
@@ -48,8 +45,5 @@ https://daddyhd.com/watch.php?id=870
 https://daddyhd.com/watch.php?id=877
 
 #EXTINF:-1 tvg-id="women125kmmassstartcompetitionnovemesto" tvg-name="Biathlon | Women 12.5 km Mass Start Competition | Nove Mesto (16:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Biathlon | Women 12.5 km Mass Start Competition | Nove Mesto (16:30)
-https://daddyhd.com/watch.php?id=878
-
-#EXTINF:-1 tvg-id="teamcompetitionskiflyingworldchampionships" tvg-name="Ski Jumping | Team competition | Ski-Flying World Championships (15:00)" tvg-logo="https://clipart-library.com/images/8cAjzonca.png" group-title="Eventi Live DLHD",Ski Jumping | Team competition | Ski-Flying World Championships (15:00)
 https://daddyhd.com/watch.php?id=878
 
