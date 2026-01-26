@@ -62444,5 +62444,91 @@
       10751
     ],
     "cached_at": "2026-01-26T06:29:12.418492"
+  },
+  "233600": {
+    "id": 233600,
+    "name": "Savior Complex",
+    "original_name": "Savior Complex",
+    "first_air_date": "2023-09-26",
+    "vote_average": 6.462,
+    "poster_path": "/u7C3X0K0f7xj6XrvPeeK4lc8KHm.jpg",
+    "genre_ids": [
+      99,
+      80
+    ],
+    "cached_at": "2026-01-26T16:32:59.003986"
+  },
+  "68178": {
+    "id": 68178,
+    "name": "Tutankhamon",
+    "original_name": "Tutankhamun",
+    "first_air_date": "2016-10-16",
+    "vote_average": 6.4,
+    "poster_path": "/m2LyymMB8Pf6migjFgPd4aR5b4f.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-01-26T16:32:59.007870"
+  },
+  "14180": {
+    "id": 14180,
+    "name": "The Passion",
+    "original_name": "The Passion",
+    "first_air_date": "2008-03-16",
+    "vote_average": 5.3,
+    "poster_path": "/A8W2bFdSJLeZWAFNHz37m8mFTJd.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-01-26T16:32:59.074337"
+  },
+  "4170": {
+    "id": 4170,
+    "name": "Five Days",
+    "original_name": "Five Days",
+    "first_air_date": "2007-01-23",
+    "vote_average": 5.833,
+    "poster_path": "/mnRh1Jcn6KAhgVyfVPDLJwgaOSu.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "cached_at": "2026-01-26T16:32:59.076643"
+  },
+  "204718": {
+    "id": 204718,
+    "name": "Irina Rimes: Pe drumul meu",
+    "original_name": "Irina Rimes: Pe drumul meu",
+    "first_air_date": "2022-06-03",
+    "vote_average": 5.25,
+    "poster_path": "/7ILox0X0p6z9XbOFzhuMQbl0UlG.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-01-26T16:32:59.147002"
+  },
+  "204899": {
+    "id": 204899,
+    "name": "The Anarchists",
+    "original_name": "The Anarchists",
+    "first_air_date": "2022-07-10",
+    "vote_average": 6.6,
+    "poster_path": "/1KK0u33xUQ0Z87lMoRD11NomFja.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-01-26T16:32:59.151701"
+  },
+  "32727": {
+    "id": 32727,
+    "name": "Luck",
+    "original_name": "Luck",
+    "first_air_date": "2012-01-29",
+    "vote_average": 6.681,
+    "poster_path": "/ngiaLLLpGeRjww6ZagjZrg9elcg.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-01-26T16:32:59.350405"
   }
 }
