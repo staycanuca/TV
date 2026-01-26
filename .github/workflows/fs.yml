@@ -4,8 +4,8 @@ on:
   push:
     branches: [ main, master ]
     paths:
-      - 'scripts/film.py'
-      - 'scripts/serie.py'
+      - 'scripts/filmro.py'
+      - 'scripts/seriero.py'
   schedule:
     - cron: '0 6 * * *'
   workflow_dispatch:
@@ -39,18 +39,18 @@ jobs:
       env:
         TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
       run: |
-        echo "🎬 Running scripts/film.py..."
-        python scripts/film.py
+        echo "🎬 Running scripts/filmro.py..."
+        python scripts/filmro.py
 
     - name: Generate series playlist
       env:
         TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
       run: |
-        echo "📺 Running scripts/serie.py..."
-        python scripts/serie.py
+        echo "📺 Running scripts/seriero.py..."
+        python scripts/seriero.py
 
     - name: Commit and push changes
-      uses: stefanzweifel/git-auto-commit-action@v5
+      uses: staycanuca/git-auto-commit-action@v5
       with:
         commit_message: "🎬 Update playlists - ${{ github.run_number }}"
         file_pattern: "film.m3u serie.m3u scripts/film_cache.json scripts/serie_cache.json"
