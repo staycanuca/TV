@@ -13,6 +13,7 @@ import time
 import json
 import hashlib
 from collections import defaultdict
+from pathlib import Path
 
 # Load environment variables
 load_dotenv()
@@ -190,8 +191,6 @@ class TVM3UGenerator:
         
         return series_episodes
     
-    from pathlib import Path
-
     def create_complete_tv_playlist(self):
         """Create one or more complete M3U files with all TV series and episodes"""
         print("Creating complete TV M3U playlist from vixsrc.to episodes...")
