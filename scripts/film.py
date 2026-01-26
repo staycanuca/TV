@@ -21,7 +21,7 @@ class TMDBM3UGenerator:
         self.api_key = os.getenv('TMDB_API_KEY')
         self.base_url = "https://api.themoviedb.org/3"
         self.vixsrc_base = "https://vixsrc.to/movie"
-        self.vixsrc_api = "https://vixsrc.to/api/list/movie/?lang=it"
+        self.vixsrc_api = "https://vixsrc.to/api/list/movie/?lang=ro"
 
         # Definisce il percorso di base per i file di output (la cartella genitore dello script)
         script_dir = os.path.dirname(os.path.abspath(__file__))
@@ -101,7 +101,7 @@ class TMDBM3UGenerator:
             'cached_at': datetime.now().isoformat()
         }
     
-    def get_popular_movies(self, page=1, language='it-IT'):
+    def get_popular_movies(self, page=1, language='ro-RO'):
         """Fetch popular movies from TMDB"""
         url = f"{self.base_url}/movie/popular"
         params = {
@@ -114,7 +114,7 @@ class TMDBM3UGenerator:
         response.raise_for_status()
         return response.json()
     
-    def get_top_rated_movies(self, page=1, language='it-IT'):
+    def get_top_rated_movies(self, page=1, language='ro-RO'):
         """Fetch top rated movies from TMDB"""
         url = f"{self.base_url}/movie/top_rated"
         params = {
@@ -148,7 +148,7 @@ class TMDBM3UGenerator:
         url = f"{self.base_url}/genre/movie/list"
         params = {
             'api_key': self.api_key,
-            'language': 'it-IT'
+            'language': 'ro-RO'
         }
         
         response = requests.get(url, params=params)
@@ -204,7 +204,7 @@ class TMDBM3UGenerator:
                 tvg_logo = f"https://image.tmdb.org/t/p/w500{poster_path}" if poster_path else ""
                 
                 # Create vixsrc.to link
-                movie_url = f"{self.vixsrc_base}/{tmdb_id}/?lang=it"
+                movie_url = f"{self.vixsrc_base}/{tmdb_id}/?lang=ro"
                 
                 # Create title with stars and genres
                 display_title = f"{title} ({year})"
@@ -314,7 +314,7 @@ class TMDBM3UGenerator:
         url = f"{self.base_url}/movie/{tmdb_id}"
         params = {
             'api_key': self.api_key,
-            'language': 'it-IT'
+            'language': 'ro-RO'
         }
         
         try:
@@ -396,7 +396,7 @@ class TMDBM3UGenerator:
         
         # Write sections
         # 1. Film Al Cinema (limit 50)
-        print("\n1. Adding 'Film Al Cinema' section...")
+        print("\n1. Adding 'Film La Cinema' section...")
         file.write("# Al Cinema\n")
         added_count = 0
         for movie in cinema_movies[:50]:
@@ -405,8 +405,8 @@ class TMDBM3UGenerator:
         print(f"   Added {added_count} movies to Al Cinema")
         
         # 2. Popolari (limit 50)
-        print("\n2. Adding 'Popolari' section...")
-        file.write("\n# Popolari\n")
+        print("\n2. Adding 'Populare' section...")
+        file.write("\n# Populare\n")
         added_count = 0
         for movie in popular_movies[:50]:
             if self._write_movie_entry(file, movie, genres, "Popolari"):
@@ -414,8 +414,8 @@ class TMDBM3UGenerator:
         print(f"   Added {added_count} movies to Popolari")
         
         # 3. Più Votati (limit 50)
-        print("\n3. Adding 'Più Votati' section...")
-        file.write("\n# Più Votati\n")
+        print("\n3. Adding 'Cele mai votate' section...")
+        file.write("\n# Cele mai votate\n")
         added_count = 0
         for movie in latest_movies[:50]:
             if self._write_movie_entry(file, movie, genres, "Più Votati"):
@@ -478,7 +478,7 @@ class TMDBM3UGenerator:
         # Write sections
         # 1. Film Al Cinema (limit 50)
         print("\n1. Adding 'Film Al Cinema' section...")
-        file.write("# Al Cinema\n")
+        file.write("# La Cinema\n")
         added_count = 0
         for movie in cinema_movies[:50]:
             if self._write_movie_entry(file, movie, genres, "Al Cinema"):
@@ -486,8 +486,8 @@ class TMDBM3UGenerator:
         print(f"   Added {added_count} movies to Al Cinema")
         
         # 2. Popolari (limit 50)
-        print("\n2. Adding 'Popolari' section...")
-        file.write("\n# Popolari\n")
+        print("\n2. Adding 'Populare' section...")
+        file.write("\n# Populare\n")
         added_count = 0
         for movie in popular_movies[:50]:
             if self._write_movie_entry(file, movie, genres, "Popolari"):
@@ -495,8 +495,8 @@ class TMDBM3UGenerator:
         print(f"   Added {added_count} movies to Popolari")
         
         # 3. Più Votati (limit 50)
-        print("\n3. Adding 'Più Votati' section...")
-        file.write("\n# Più Votati\n")
+        print("\n3. Adding 'Cele mai votate' section...")
+        file.write("\n# Cele mai votate\n")
         added_count = 0
         for movie in latest_movies[:50]:
             if self._write_movie_entry(file, movie, genres, "Più Votati"):
@@ -529,7 +529,7 @@ class TMDBM3UGenerator:
         first_response = requests.get(f"{self.base_url}/movie/{endpoint}", params={
             'api_key': self.api_key,
             'page': 1,
-            'language': 'it-IT'
+            'language': 'ro-RO'
         })
         first_response.raise_for_status()
         first_data = first_response.json()
@@ -585,7 +585,7 @@ class TMDBM3UGenerator:
         params = {
             'api_key': self.api_key,
             'page': page,
-            'language': 'it-IT'
+            'language': 'ro-RO'
         }
         
         # Optimized request settings
@@ -607,7 +607,7 @@ class TMDBM3UGenerator:
         first_response = requests.get(f"{self.base_url}/discover/movie", params={
             'api_key': self.api_key,
             'page': 1,
-            'language': 'it-IT',
+            'language': 'ro-RO',
             'sort_by': 'popularity.desc',
             'include_adult': False,
             'include_video': False,
@@ -660,7 +660,7 @@ class TMDBM3UGenerator:
         params = {
             'api_key': self.api_key,
             'page': page,
-            'language': 'it-IT',
+            'language': 'ro-RO',
             'sort_by': 'popularity.desc',
             'include_adult': False,
             'include_video': False,
