@@ -148516,5 +148516,116 @@
       10751
     ],
     "cached_at": "2026-01-25T06:23:49.610466"
+  },
+  "8833": {
+    "id": 8833,
+    "title": "Non c'è due senza quattro",
+    "release_date": "1984-10-19",
+    "vote_average": 7.03,
+    "poster_path": "/bWuGtuxUrdEECYk1jG3G2Kmzxqo.jpg",
+    "genre_ids": [
+      28,
+      35
+    ],
+    "cached_at": "2026-01-26T06:29:06.027941"
+  },
+  "25518": {
+    "id": 25518,
+    "title": "Il pianeta verde",
+    "release_date": "1996-09-18",
+    "vote_average": 7.154,
+    "poster_path": "/pkawLWuYjYAI9WwG2yOxQo15EpV.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-01-26T06:29:06.128066"
+  },
+  "1317288": {
+    "id": 1317288,
+    "title": "Marty Supreme",
+    "release_date": "2025-12-19",
+    "vote_average": 7.977,
+    "poster_path": "/zrqTV3MMaIsx9dbplMwKUHxObmP.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-01-26T06:29:06.161373"
+  },
+  "42418": {
+    "id": 42418,
+    "title": "Young Black Stallion",
+    "release_date": "2003-12-25",
+    "vote_average": 6.6,
+    "poster_path": "/emHK0UPlznLOkeu1Ml4ctoEQGp7.jpg",
+    "genre_ids": [
+      12,
+      18,
+      10751
+    ],
+    "cached_at": "2026-01-26T06:29:06.230811"
+  },
+  "12542": {
+    "id": 12542,
+    "title": "Belly of the Beast - Ultima missione",
+    "release_date": "2003-12-30",
+    "vote_average": 5.436,
+    "poster_path": "/6lXVU7OZG0QaSk5rHla48czXyuU.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "cached_at": "2026-01-26T06:29:06.266754"
+  },
+  "2098": {
+    "id": 2098,
+    "title": "Viva Las Vegas",
+    "release_date": "1964-02-08",
+    "vote_average": 6.197,
+    "poster_path": "/pOLDNPcstMxOxGolcalfEB8jI7V.jpg",
+    "genre_ids": [
+      10402,
+      10749,
+      35
+    ],
+    "cached_at": "2026-01-26T06:29:06.268456"
+  },
+  "34765": {
+    "id": 34765,
+    "title": "Zenon: Z3",
+    "release_date": "2004-06-11",
+    "vote_average": 5.355,
+    "poster_path": "/mnX94DJ9GVXEOmbdN97Yh5hGifT.jpg",
+    "genre_ids": [
+      10751,
+      10770,
+      35,
+      12,
+      878
+    ],
+    "cached_at": "2026-01-26T06:29:06.341312"
+  },
+  "27324": {
+    "id": 27324,
+    "title": "Pulse",
+    "release_date": "2001-02-03",
+    "vote_average": 6.663,
+    "poster_path": "/8RtK3jNhREKYlN3LqdkJFQlqUlP.jpg",
+    "genre_ids": [
+      27,
+      53,
+      9648
+    ],
+    "cached_at": "2026-01-26T06:29:06.342177"
+  },
+  "120082": {
+    "id": 120082,
+    "title": "Ti stimo fratello",
+    "release_date": "2012-01-18",
+    "vote_average": 4.671,
+    "poster_path": "/6Nzdk6i4r7sR74W8nBvuNt2TCAQ.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-01-26T06:29:06.414146"
   }
 }

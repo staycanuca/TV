@@ -62300,5 +62300,149 @@
       10764
     ],
     "cached_at": "2026-01-25T06:23:55.409206"
+  },
+  "3122": {
+    "id": 3122,
+    "name": "Star Wars: Clone Wars",
+    "original_name": "Star Wars: Clone Wars",
+    "first_air_date": "2003-11-07",
+    "vote_average": 7.79,
+    "poster_path": "/jKfAVTGkf9qpGPZ4E1pNKdW6vra.jpg",
+    "genre_ids": [
+      10759,
+      16,
+      10765
+    ],
+    "cached_at": "2026-01-26T06:29:12.054621"
+  },
+  "4344": {
+    "id": 4344,
+    "name": "Rescue Me - Salvami",
+    "original_name": "Rescue Me",
+    "first_air_date": "2004-07-21",
+    "vote_average": 7.624,
+    "poster_path": "/gnOwOb82chSJkQEZ9pd6jf2ZrEX.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-01-26T06:29:12.061304"
+  },
+  "228853": {
+    "id": 228853,
+    "name": "Prens",
+    "original_name": "Prens",
+    "first_air_date": "2023-06-16",
+    "vote_average": 8.327,
+    "poster_path": "/oDtYdl5i8rRLmB9xAU6VOwHKjMQ.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-01-26T06:29:12.087882"
+  },
+  "66911": {
+    "id": 66911,
+    "name": "Quarry - Pagato per uccidere",
+    "original_name": "Quarry",
+    "first_air_date": "2016-09-09",
+    "vote_average": 7.3,
+    "poster_path": "/iRv9QhsnNVwMKJ7Xqmmh4PXWSej.jpg",
+    "genre_ids": [
+      10759,
+      80,
+      18
+    ],
+    "cached_at": "2026-01-26T06:29:12.126569"
+  },
+  "74440": {
+    "id": 74440,
+    "name": "Harley Quinn",
+    "original_name": "Harley Quinn",
+    "first_air_date": "2019-11-29",
+    "vote_average": 8.304,
+    "poster_path": "/9Dm1SEh8Wxt8LNNg02exHQ595zg.jpg",
+    "genre_ids": [
+      10759,
+      16,
+      35,
+      10765
+    ],
+    "cached_at": "2026-01-26T06:29:12.130311"
+  },
+  "222322": {
+    "id": 222322,
+    "name": "Pollos sin cabeza",
+    "original_name": "Pollos sin cabeza",
+    "first_air_date": "2023-04-28",
+    "vote_average": 6.6,
+    "poster_path": "/29dCt1GEFwJn2LX5St7QgvzrAFF.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-01-26T06:29:12.167573"
+  },
+  "105532": {
+    "id": 105532,
+    "name": "The Girls on the Bus",
+    "original_name": "The Girls on the Bus",
+    "first_air_date": "2024-03-14",
+    "vote_average": 6.0,
+    "poster_path": "/w2ZqWIqf0hbxshHoRY9bJtXAY67.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-01-26T06:29:12.197469"
+  },
+  "301588": {
+    "id": 301588,
+    "name": "Silenzio in classe",
+    "original_name": "Tyst i klassen",
+    "first_air_date": "2025-09-29",
+    "vote_average": 7.5,
+    "poster_path": "/yIVCqI12sgKIxeu6tRL054FVqts.jpg",
+    "genre_ids": [
+      99,
+      80
+    ],
+    "cached_at": "2026-01-26T06:29:12.268409"
+  },
+  "277831": {
+    "id": 277831,
+    "name": "The Yogurt Shop Murders",
+    "original_name": "The Yogurt Shop Murders",
+    "first_air_date": "2025-08-03",
+    "vote_average": 7.0,
+    "poster_path": "/r25wcu2RZcWzq6GtR8MPD7i25OS.jpg",
+    "genre_ids": [
+      99,
+      80
+    ],
+    "cached_at": "2026-01-26T06:29:12.273060"
+  },
+  "40293": {
+    "id": 40293,
+    "name": "Da Vinci's Demons",
+    "original_name": "Da Vinci's Demons",
+    "first_air_date": "2013-04-12",
+    "vote_average": 7.523,
+    "poster_path": "/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-01-26T06:29:12.338359"
+  },
+  "285603": {
+    "id": 285603,
+    "name": "I classici Peanuts",
+    "original_name": "The Peanuts Classics",
+    "first_air_date": "1966-06-08",
+    "vote_average": 10.0,
+    "poster_path": "/mSNSAV5dEsv9YqxVlBf6KYqcME.jpg",
+    "genre_ids": [
+      16,
+      10762,
+      10751
+    ],
+    "cached_at": "2026-01-26T06:29:12.418492"
   }
 }
