@@ -190,59 +190,88 @@ class TVM3UGenerator:
         
         return series_episodes
     
-    def create_complete_tv_playlist(self):
-        """Create one complete M3U file with all TV series and episodes"""
-        print("Creating complete TV M3U playlist from vixsrc.to episodes...")
-        
-        # Get genres mapping
-        genres = self.get_tv_genres()
-        
-        # Organize episodes by series
-        series_episodes = self._organize_episodes_by_series()
-        
-        if not series_episodes:
-            print("No episodes found from vixsrc.to. Nothing to process.")
-            self._save_cache() # Save cache even if no episodes are found
-            return
+from pathlib import Path
 
-        # Get unique series IDs
-        series_ids = list(series_episodes.keys())
-        print(f"Found {len(series_ids)} unique TV series with episodes")
-        
-        # Fetch series details from TMDB
-        print(f"\nFetching series details for {len(series_ids)} series...")
-        series_data = self._get_series_from_vixsrc_list(series_ids)
+def create_complete_tv_playlist(self):
+    """Create one or more complete M3U files with all TV series and episodes"""
+    print("Creating complete TV M3U playlist from vixsrc.to episodes...")
+    
+    # Get genres mapping
+    genres = self.get_tv_genres()
+    
+    # Organize episodes by series
+    series_episodes = self._organize_episodes_by_series()
+    
+    if not series_episodes:
+        print("No episodes found from vixsrc.to. Nothing to process.")
+        self._save_cache() # Save cache even if no episodes are found
+        return
 
-        # Sort series by first_air_date (newest first), handling missing/invalid dates
-        def parse_year(s):
-            date = s.get('first_air_date', '')
-            try:
-                return int(date[:4]) if date and date[:4].isdigit() else 0
-            except Exception:
-                return 0
-        series_data = sorted(
-            series_data,
-            key=parse_year,
-            reverse=True
-        )
-        
-        # Count total episodes
-        total_episodes = sum(len(episodes) for series in series_episodes.values() 
-                           for episodes in series.values())
-        
-        output_path = os.path.join(self.output_dir, "serie.m3u")
-        with open(output_path, 'w', encoding='utf-8') as f:
-            # Write M3U header with episode count
+    # Get unique series IDs
+    series_ids = list(series_episodes.keys())
+    print(f"Found {len(series_ids)} unique TV series with episodes")
+    
+    # Fetch series details from TMDB
+    print(f"\nFetching series details for {len(series_ids)} series...")
+    series_data = self._get_series_from_vixsrc_list(series_ids)
+
+    # Sort series by first_air_date (newest first), handling missing/invalid dates
+    def parse_year(s):
+        date = s.get('first_air_date', '')
+        try:
+            return int(date[:4]) if date and date[:4].isdigit() else 0
+        except Exception:
+            return 0
+    series_data = sorted(
+        series_data,
+        key=parse_year,
+        reverse=True
+    )
+    
+    # Count total episodes
+    total_episodes = sum(len(episodes) for series in series_episodes.values() 
+                        for episodes in series.values())
+    
+    # Define the initial file and write the playlists
+    file_index = 0
+    output_path = Path(self.output_dir) / f"serie{file_index}.m3u"
+
+    # Define the maximum file size (in bytes) 99 MB = 99 * 1024 * 1024
+    max_file_size = 99 * 1024 * 1024
+    
+    # Open first file
+    f = output_path.open('w', encoding='utf-8')
+    
+    # Write M3U header with episode count
+    f.write("#EXTM3U\n")
+    f.write(f"#PLAYLIST:Serie TV VixSrc ({total_episodes} Episodii)\n\n")
+    
+    current_file_size = f.tell()
+
+    # Organize and write series
+    for series in series_data:
+        if current_file_size >= max_file_size:
+            # Close the current file and create a new one
+            f.close()
+            file_index += 1
+            output_path = Path(self.output_dir) / f"serie{file_index}.m3u"
+            f = output_path.open('w', encoding='utf-8')
             f.write("#EXTM3U\n")
-            f.write(f"#PLAYLIST:Serie TV VixSrc ({total_episodes} Episodi)\n\n")
-            
-            # Organize and write series
-            self._organize_and_write_series(f, series_data, series_episodes, genres)
+            f.write(f"#PLAYLIST:Serie TV VixSrc (continut suplimentar)\n\n")
+            current_file_size = f.tell()
+        
+        # Write episodes of the current series
+        if self._write_series_episodes(f, series, series_episodes, genres, group_title="Various"):
+            current_file_size = f.tell()  # Update the file size after writing each series
+    
+    # Close the last file
+    f.close()
 
-        # Save cache after completion
-        self._save_cache()
-        print(f"\nComplete TV playlist generated successfully: {output_path}")
-        print(f"Cache updated with {len(self.cache)} total series")
+    # Save cache after completion
+    self._save_cache()
+    print(f"\nComplete TV playlist(s) generated successfully! Files are located in: {self.output_dir}")
+    print(f"Generated files: {file_index + 1}")
+    print(f"Cache updated with {len(self.cache)} total series")
     
     def _get_series_from_vixsrc_list(self, series_ids):
         """Fetch series details for all series available on vixsrc.to, using cache when possible"""
