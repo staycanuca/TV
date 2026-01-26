@@ -357,8 +357,6 @@ https://vavoo.to/vavoo-iptv/play/128126488561be9a87267f
 https://daddyhd.com/watch.php?id=864
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film - Serie TV",SKY CINEMA SUSPENSE
 https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06
-#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO
-https://vavoo.to/vavoo-iptv/play/17596257388e83c18bb676
 #EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO (D)
 https://daddyhd.com/watch.php?id=860
 #EXTINF:-1 tvg-id="sky.cinema.uno.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA UNO +24
@@ -403,6 +401,8 @@ https://daddyhd.com/watch.php?id=872
 https://daddyhd.com/watch.php?id=873
 #EXTINF:-1 tvg-id="sky.sport..254.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/2560px-Sky_Sport_-_Logo_2020.svg.png" group-title="Sport",SKY SPORT 254 (D)
 https://daddyhd.com/watch.php?id=874
+#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
+https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (D)
 https://daddyhd.com/watch.php?id=462
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",SKY SPORT BASKET (D)
@@ -622,9 +622,6 @@ https://daddyhd.com/watch.php?id=878
 
 #EXTINF:-1 tvg-id="snookergermanmastersround1session2" tvg-name="Snooker | Snooker: German Masters Round 1, Session 2 (19:00)" tvg-logo="https://static.wixstatic.com/media/f2d1ec_86878bb98f94492da5466100849efc84~mv2.png/v1/fit/w_2500,h_1330,al_c/f2d1ec_86878bb98f94492da5466100849efc84~mv2.png" group-title="Eventi Live DLHD",Snooker | Snooker: German Masters Round 1, Session 2 (19:00)
 https://daddyhd.com/watch.php?id=878
-
-#EXTINF:-1 tvg-id="worldcuppalarinsalsprintraces" tvg-name="Cycling | World Cup Pal Arinsal | Sprint Races (12:00)" tvg-logo="https://offbeatraces.com/wp-content/uploads/2023/09/Off-Beat-Races-Logo-1.png" group-title="Eventi Live DLHD",Cycling | World Cup Pal Arinsal | Sprint Races (12:00)
-https://daddyhd.com/watch.php?id=879
 
 #EXTINF:-1 tvg-id="womenscyclingchallengemallorca" tvg-name="Cycling | Women's Cycling: Challenge Mallorca (14:00)" tvg-logo="https://bootflare.com/wp-content/uploads/2025/09/EUROPEAN-CYCLING-Logo.png" group-title="Eventi Live DLHD",Cycling | Women's Cycling: Challenge Mallorca (14:00)
 https://daddyhd.com/watch.php?id=879
