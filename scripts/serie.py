@@ -360,22 +360,22 @@ class TVM3UGenerator:
         # print(f"   Added {added_count} series to Serie in Onda")
         
         # 2. Popolari (limit 30)
-        print("\n2. Adding 'Popolari' section...")
-        file.write("\n# Popolari\n")
+        print("\n2. Adding 'Populare' section...")
+        file.write("\n# Populare\n")
         added_count = 0
         for series in popular_series[:30]:
-            if self._write_series_episodes(file, series, series_episodes, genres, "Popolari"):
+            if self._write_series_episodes(file, series, series_episodes, genres, "Populare"):
                 added_count += 1
-        print(f"   Added {added_count} series to Popolari")
+        print(f"   Added {added_count} series to Populare")
         
         # 3. Più Votate (limit 30)
-        print("\n3. Adding 'Più Votate' section...")
-        file.write("\n# Più Votate\n")
+        print("\n3. Adding 'Cele mai votate' section...")
+        file.write("\n# Cele mai votate\n")
         added_count = 0
         for series in top_rated_series[:30]:
-            if self._write_series_episodes(file, series, series_episodes, genres, "Più Votate"):
+            if self._write_series_episodes(file, series, series_episodes, genres, "Cele mai votate"):
                 added_count += 1
-        print(f"   Added {added_count} series to Più Votate")
+        print(f"   Added {added_count} series to Cele mai votate")
         
         # 4. Genres
         print("\n4. Adding genre-specific sections...")
