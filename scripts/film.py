@@ -127,7 +127,7 @@ class TMDBM3UGenerator:
         response.raise_for_status()
         return response.json()
     
-    def get_all_movies(self, page=1, language='it-IT'):
+    def get_all_movies(self, page=1, language='ro-RO'):
         """Fetch all movies from TMDB (discover endpoint)"""
         url = f"{self.base_url}/discover/movie"
         params = {
@@ -155,7 +155,7 @@ class TMDBM3UGenerator:
         response.raise_for_status()
         return {genre['id']: genre['name'] for genre in response.json()['genres']}
     
-    def get_latest_movies(self, page=1, language='it-IT'):
+    def get_latest_movies(self, page=1, language='ro-RO'):
         """Fetch latest movies from TMDB"""
         url = f"{self.base_url}/movie/now_playing"
         params = {
@@ -395,12 +395,12 @@ class TMDBM3UGenerator:
                     genre_movies[genre_name].append(movie)
         
         # Write sections
-        # 1. Film Al Cinema (limit 50)
+        # 1. Film La Cinema (limit 50)
         print("\n1. Adding 'Film La Cinema' section...")
-        file.write("# Al Cinema\n")
+        file.write("# La Cinema\n")
         added_count = 0
         for movie in cinema_movies[:50]:
-            if self._write_movie_entry(file, movie, genres, "Al Cinema"):
+            if self._write_movie_entry(file, movie, genres, "La Cinema"):
                 added_count += 1
         print(f"   Added {added_count} movies to Al Cinema")
         
@@ -409,7 +409,7 @@ class TMDBM3UGenerator:
         file.write("\n# Populare\n")
         added_count = 0
         for movie in popular_movies[:50]:
-            if self._write_movie_entry(file, movie, genres, "Popolari"):
+            if self._write_movie_entry(file, movie, genres, "Populare"):
                 added_count += 1
         print(f"   Added {added_count} movies to Popolari")
         
@@ -418,9 +418,9 @@ class TMDBM3UGenerator:
         file.write("\n# Cele mai votate\n")
         added_count = 0
         for movie in latest_movies[:50]:
-            if self._write_movie_entry(file, movie, genres, "Più Votati"):
+            if self._write_movie_entry(file, movie, genres, "Cele mai votate"):
                 added_count += 1
-        print(f"   Added {added_count} movies to Più Votati")
+        print(f"   Added {added_count} movies to Cele mai votate")
         
         # 4. Genres
         print("\n4. Adding genre-specific sections...")
@@ -477,31 +477,31 @@ class TMDBM3UGenerator:
         
         # Write sections
         # 1. Film Al Cinema (limit 50)
-        print("\n1. Adding 'Film Al Cinema' section...")
+        print("\n1. Adding 'Film La Cinema' section...")
         file.write("# La Cinema\n")
         added_count = 0
         for movie in cinema_movies[:50]:
-            if self._write_movie_entry(file, movie, genres, "Al Cinema"):
+            if self._write_movie_entry(file, movie, genres, "La Cinema"):
                 added_count += 1
-        print(f"   Added {added_count} movies to Al Cinema")
+        print(f"   Added {added_count} movies to La Cinema")
         
         # 2. Popolari (limit 50)
         print("\n2. Adding 'Populare' section...")
         file.write("\n# Populare\n")
         added_count = 0
         for movie in popular_movies[:50]:
-            if self._write_movie_entry(file, movie, genres, "Popolari"):
+            if self._write_movie_entry(file, movie, genres, "Populare"):
                 added_count += 1
-        print(f"   Added {added_count} movies to Popolari")
+        print(f"   Added {added_count} movies to Populare")
         
         # 3. Più Votati (limit 50)
         print("\n3. Adding 'Cele mai votate' section...")
         file.write("\n# Cele mai votate\n")
         added_count = 0
         for movie in latest_movies[:50]:
-            if self._write_movie_entry(file, movie, genres, "Più Votati"):
+            if self._write_movie_entry(file, movie, genres, "Cele mai votate"):
                 added_count += 1
-        print(f"   Added {added_count} movies to Più Votati")
+        print(f"   Added {added_count} movies to Cele mai votate")
         
         # 4. Genres
         print("\n4. Adding genre-specific sections...")
