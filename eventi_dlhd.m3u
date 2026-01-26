@@ -1,1 +1,40 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
+https://example.com.m3u8
+
+#EXTINF:-1 tvg-id="italyseriecvicenzavscittadella" tvg-name="Soccer | Italy - Serie C : Vicenza vs Cittadella (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Vicenza_vs_Cittadella.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Vicenza vs Cittadella (19:30)
+https://daddyhd.com/watch.php?id=4
+
+#EXTINF:-1 tvg-id="italyseriecvicenzavscittadella" tvg-name="Soccer | Italy - Serie C : Vicenza vs Cittadella (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Vicenza_vs_Cittadella.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Vicenza vs Cittadella (19:30)
+https://daddyhd.com/watch.php?id=460
+
+#EXTINF:-1 tvg-id="italyseriecvicenzavscittadella" tvg-name="Soccer | Italy - Serie C : Vicenza vs Cittadella (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Vicenza_vs_Cittadella.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Vicenza vs Cittadella (19:30)
+https://daddyhd.com/watch.php?id=882
+
+#EXTINF:-1 tvg-id="italyseriecleccovsinterii" tvg-name="Soccer | Italy - Serie C : Lecco vs Inter II (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lecco_vs_Inter II.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Lecco vs Inter II (19:30)
+https://daddyhd.com/watch.php?id=5
+
+#EXTINF:-1 tvg-id="italyseriecleccovsinterii" tvg-name="Soccer | Italy - Serie C : Lecco vs Inter II (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lecco_vs_Inter II.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Lecco vs Inter II (19:30)
+https://daddyhd.com/watch.php?id=461
+
+#EXTINF:-1 tvg-id="italyserieaveronavsudinese" tvg-name="Soccer | Italy - Serie A : Verona vs Udinese (19:45)" tvg-logo="https://cmsv2-assets.apptegy.net/uploads/28717/logo/31530/Verona_Logo.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Verona vs Udinese (19:45)
+https://daddyhd.com/watch.php?id=6
+
+#EXTINF:-1 tvg-id="italyserieaveronavsudinese" tvg-name="Soccer | Italy - Serie A : Verona vs Udinese (19:45)" tvg-logo="https://cmsv2-assets.apptegy.net/uploads/28717/logo/31530/Verona_Logo.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Verona vs Udinese (19:45)
+https://daddyhd.com/watch.php?id=870
+
+#EXTINF:-1 tvg-id="englandpremierleagueevertonvsleedsunited" tvg-name="Soccer | England - Premier League : Everton vs Leeds United (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Everton_vs_Leeds United.png" group-title="Eventi Live DLHD",Soccer | England - Premier League : Everton vs Leeds United (20:00)
+https://daddyhd.com/watch.php?id=462
+
+#EXTINF:-1 tvg-id="snookergermanmastersround1session1" tvg-name="Snooker | Snooker: German Masters Round 1, Session 1 (14:00)" tvg-logo="https://static.wixstatic.com/media/f2d1ec_86878bb98f94492da5466100849efc84~mv2.png/v1/fit/w_2500,h_1330,al_c/f2d1ec_86878bb98f94492da5466100849efc84~mv2.png" group-title="Eventi Live DLHD",Snooker | Snooker: German Masters Round 1, Session 1 (14:00)
+https://daddyhd.com/watch.php?id=878
+
+#EXTINF:-1 tvg-id="snookergermanmastersround1session2" tvg-name="Snooker | Snooker: German Masters Round 1, Session 2 (19:00)" tvg-logo="https://static.wixstatic.com/media/f2d1ec_86878bb98f94492da5466100849efc84~mv2.png/v1/fit/w_2500,h_1330,al_c/f2d1ec_86878bb98f94492da5466100849efc84~mv2.png" group-title="Eventi Live DLHD",Snooker | Snooker: German Masters Round 1, Session 2 (19:00)
+https://daddyhd.com/watch.php?id=878
+
+#EXTINF:-1 tvg-id="worldcuppalarinsalsprintraces" tvg-name="Cycling | World Cup Pal Arinsal | Sprint Races (12:00)" tvg-logo="https://offbeatraces.com/wp-content/uploads/2023/09/Off-Beat-Races-Logo-1.png" group-title="Eventi Live DLHD",Cycling | World Cup Pal Arinsal | Sprint Races (12:00)
+https://daddyhd.com/watch.php?id=879
+
+#EXTINF:-1 tvg-id="womenscyclingchallengemallorca" tvg-name="Cycling | Women's Cycling: Challenge Mallorca (14:00)" tvg-logo="https://bootflare.com/wp-content/uploads/2025/09/EUROPEAN-CYCLING-Logo.png" group-title="Eventi Live DLHD",Cycling | Women's Cycling: Challenge Mallorca (14:00)
+https://daddyhd.com/watch.php?id=879
+
