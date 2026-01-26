@@ -22,7 +22,7 @@ class TVM3UGenerator:
         self.api_key = os.getenv('TMDB_API_KEY')
         self.base_url = "https://api.themoviedb.org/3"
         self.vixsrc_base = "https://vixsrc.to/tv"
-        self.vixsrc_api = "https://vixsrc.to/api/list/episode/?lang=it"
+        self.vixsrc_api = "https://vixsrc.to/api/list/episode/?lang=ro"
 
         # Definisce il percorso di base per i file di output
         script_dir = os.path.dirname(os.path.abspath(__file__))
@@ -94,7 +94,7 @@ class TVM3UGenerator:
             'cached_at': datetime.now().isoformat()
         }
     
-    def get_popular_tv(self, page=1, language='it-IT'):
+    def get_popular_tv(self, page=1, language='ro-RO'):
         """Fetch popular TV series from TMDB"""
         url = f"{self.base_url}/tv/popular"
         params = {
@@ -107,7 +107,7 @@ class TVM3UGenerator:
         response.raise_for_status()
         return response.json()
     
-    def get_top_rated_tv(self, page=1, language='it-IT'):
+    def get_top_rated_tv(self, page=1, language='ro-RO'):
         """Fetch top rated TV series from TMDB"""
         url = f"{self.base_url}/tv/top_rated"
         params = {
@@ -120,7 +120,7 @@ class TVM3UGenerator:
         response.raise_for_status()
         return response.json()
     
-    def get_on_air_tv(self, page=1, language='it-IT'):
+    def get_on_air_tv(self, page=1, language='ro-RO'):
         """Fetch currently on air TV series from TMDB"""
         url = f"{self.base_url}/tv/on_the_air"
         params = {
@@ -138,7 +138,7 @@ class TVM3UGenerator:
         url = f"{self.base_url}/genre/tv/list"
         params = {
             'api_key': self.api_key,
-            'language': 'it-IT'
+            'language': 'ro-RO'
         }
         
         response = requests.get(url, params=params)
@@ -150,7 +150,7 @@ class TVM3UGenerator:
         url = f"{self.base_url}/tv/{tmdb_id}"
         params = {
             'api_key': self.api_key,
-            'language': 'it-IT'
+            'language': 'ro-RO'
         }
         
         try:
@@ -429,7 +429,7 @@ class TVM3UGenerator:
         for season_num in sorted(episodes.keys()):
             for episode_num in episodes[season_num]:
                 # Create vixsrc.to link for episode
-                episode_url = f"{self.vixsrc_base}/{tmdb_id}/{season_num}/{episode_num}?lang=it/series/"
+                episode_url = f"{self.vixsrc_base}/{tmdb_id}/{season_num}/{episode_num}?lang=ro/series/"
                 
                 # Create title with series info, season, episode, and stars
                 display_title = f"{series_name} S{season_num:02d} E{episode_num:02d}"
