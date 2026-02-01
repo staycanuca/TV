@@ -462314,5 +462314,2381 @@
       53
     ],
     "cached_at": "2026-01-31T06:38:45.130759"
+  },
+  "50699": {
+    "id": 50699,
+    "title": "Trancers 6: Life After Deth",
+    "release_date": "2002-07-23",
+    "vote_average": 3.629,
+    "poster_path": "/arpgihe24QgB7Co5qa6sG6BZt6m.jpg",
+    "genre_ids": [
+      878,
+      28,
+      27
+    ],
+    "cached_at": "2026-02-01T06:48:53.399068"
+  },
+  "1600513": {
+    "id": 1600513,
+    "title": "Terri Joe: Missionary in Miami",
+    "release_date": "2026-01-30",
+    "vote_average": 0.0,
+    "poster_path": "/zLBz0HPcial4opOnThYmfW6piOu.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-02-01T06:48:53.461505"
+  },
+  "118885": {
+    "id": 118885,
+    "title": "Scent of Danger",
+    "release_date": "2002-10-20",
+    "vote_average": 3.857,
+    "poster_path": "/qQR4xu2kldQPB9fAUA3f0LgSEsR.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      53,
+      10770
+    ],
+    "cached_at": "2026-02-01T06:48:53.485118"
+  },
+  "18808": {
+    "id": 18808,
+    "title": "Autostradă",
+    "release_date": "2002-03-26",
+    "vote_average": 5.5,
+    "poster_path": "/jttL1E4eCQn7tHBbYlUkMz865Q4.jpg",
+    "genre_ids": [
+      28,
+      12,
+      18
+    ],
+    "cached_at": "2026-02-01T06:48:53.504578"
+  },
+  "13768": {
+    "id": 13768,
+    "title": "Bărbatul în costum galben",
+    "release_date": "2002-10-11",
+    "vote_average": 6.672,
+    "poster_path": "/A47YM8gAb8YqGxpek2aYmhWaXEY.jpg",
+    "genre_ids": [
+      18,
+      10751,
+      14,
+      10749
+    ],
+    "cached_at": "2026-02-01T06:48:53.528735"
+  },
+  "2017": {
+    "id": 2017,
+    "title": "Nicio faptă bună",
+    "release_date": "2002-06-28",
+    "vote_average": 5.368,
+    "poster_path": "/lrQU72BcSfzJx71X1ko2K4LTtlE.jpg",
+    "genre_ids": [
+      28,
+      80,
+      18,
+      9648,
+      53
+    ],
+    "cached_at": "2026-02-01T06:48:53.532936"
+  },
+  "13706": {
+    "id": 13706,
+    "title": "Winnie de Plus: Un an nou fericit",
+    "release_date": "2002-11-12",
+    "vote_average": 6.8,
+    "poster_path": "/1Xfh2PPZsjEwFyLqp6bisrbdxZs.jpg",
+    "genre_ids": [
+      16,
+      10751
+    ],
+    "cached_at": "2026-02-01T06:48:53.566489"
+  },
+  "6440": {
+    "id": 6440,
+    "title": "Știri de acasă",
+    "release_date": "2001-12-18",
+    "vote_average": 6.385,
+    "poster_path": "/dwx1ncz1yYZAtCOA8T1SuTviYS7.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-02-01T06:48:53.600763"
+  },
+  "16174": {
+    "id": 16174,
+    "title": "Snow Queen",
+    "release_date": "2002-12-07",
+    "vote_average": 6.0,
+    "poster_path": "/qufo7G0OTQs1hMtO7B5axnCdm4E.jpg",
+    "genre_ids": [
+      12,
+      10751,
+      14,
+      878,
+      10770
+    ],
+    "cached_at": "2026-02-01T06:48:53.605039"
+  },
+  "21448": {
+    "id": 21448,
+    "title": "Mickey's Magical Christmas: Snowed in at the House of Mouse",
+    "release_date": "2001-11-06",
+    "vote_average": 6.928,
+    "poster_path": "/9T9KGsdnzIzPDFF0gvdGTtp8Mvw.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      35
+    ],
+    "cached_at": "2026-02-01T06:48:53.645910"
+  },
+  "20616": {
+    "id": 20616,
+    "title": "Swimfan",
+    "release_date": "2002-09-06",
+    "vote_average": 5.2,
+    "poster_path": "/sHSRRxzBeUtxMosSqpCcBiGnPYI.jpg",
+    "genre_ids": [
+      53,
+      9648,
+      10749,
+      18
+    ],
+    "cached_at": "2026-02-01T06:48:53.677362"
+  },
+  "97206": {
+    "id": 97206,
+    "title": "Taboo",
+    "release_date": "2002-01-14",
+    "vote_average": 4.0,
+    "poster_path": "/2eNwSS38g40j1JDoe6cCu2eoG1n.jpg",
+    "genre_ids": [
+      18,
+      27,
+      53,
+      9648
+    ],
+    "cached_at": "2026-02-01T06:48:53.684378"
+  },
+  "30768": {
+    "id": 30768,
+    "title": "Pantofii de Crăciun",
+    "release_date": "2002-12-01",
+    "vote_average": 6.9,
+    "poster_path": "/uDuFMPcx64Tbd46CvPLjsxWoJrw.jpg",
+    "genre_ids": [
+      18,
+      10770
+    ],
+    "cached_at": "2026-02-01T06:48:53.742362"
+  },
+  "20689": {
+    "id": 20689,
+    "title": "The Dancer Upstairs",
+    "release_date": "2002-09-20",
+    "vote_average": 6.078,
+    "poster_path": "/jG662jKzEf63fhcbbN3WiLlz5MX.jpg",
+    "genre_ids": [
+      80,
+      18,
+      10749,
+      53
+    ],
+    "cached_at": "2026-02-01T06:48:53.744853"
+  },
+  "13830": {
+    "id": 13830,
+    "title": "Shottas",
+    "release_date": "2002-02-27",
+    "vote_average": 7.631,
+    "poster_path": "/yeWE7ohAQwG31ZEHndbErkb0USH.jpg",
+    "genre_ids": [
+      28,
+      12,
+      80,
+      18
+    ],
+    "cached_at": "2026-02-01T06:48:53.747282"
+  },
+  "3132": {
+    "id": 3132,
+    "title": "Compania rea",
+    "release_date": "2002-06-07",
+    "vote_average": 5.51,
+    "poster_path": "/uHgFhKiv485fljZxyQziJwmkdDO.jpg",
+    "genre_ids": [
+      28,
+      12,
+      35,
+      53
+    ],
+    "cached_at": "2026-02-01T06:48:53.781379"
+  },
+  "9962": {
+    "id": 9962,
+    "title": "Fata bună",
+    "release_date": "2002-08-07",
+    "vote_average": 6.221,
+    "poster_path": "/jpRumFobwgPzxj5YH33Wswnxdam.jpg",
+    "genre_ids": [
+      18,
+      35,
+      10749
+    ],
+    "cached_at": "2026-02-01T06:48:53.820373"
+  },
+  "11022": {
+    "id": 11022,
+    "title": "Narc",
+    "release_date": "2002-01-14",
+    "vote_average": 6.768,
+    "poster_path": "/uGHFyVdMQKvIXlsLAoXa5nOUGF.jpg",
+    "genre_ids": [
+      80,
+      18,
+      9648,
+      53
+    ],
+    "cached_at": "2026-02-01T06:48:53.825883"
+  },
+  "18357": {
+    "id": 18357,
+    "title": "The Country Bears",
+    "release_date": "2002-07-26",
+    "vote_average": 4.742,
+    "poster_path": "/h6mm3z7Wf4y1rJGHxqjVTTHl217.jpg",
+    "genre_ids": [
+      12,
+      35,
+      10751
+    ],
+    "cached_at": "2026-02-01T06:48:53.853702"
+  },
+  "2899": {
+    "id": 2899,
+    "title": "Asterix și Obelix - Misiune: Cleopatra",
+    "release_date": "2002-01-30",
+    "vote_average": 7.373,
+    "poster_path": "/eBPaDAdVBMBp6ZaotSvyF1B5ipK.jpg",
+    "genre_ids": [
+      10751,
+      14,
+      35,
+      12
+    ],
+    "cached_at": "2026-02-01T06:48:53.895595"
+  },
+  "19085": {
+    "id": 19085,
+    "title": "Vulgar",
+    "release_date": "2002-04-26",
+    "vote_average": 5.3,
+    "poster_path": "/aLdezroGbHDP0w0jOLwxXjgrgma.jpg",
+    "genre_ids": [
+      18,
+      27,
+      53,
+      80
+    ],
+    "cached_at": "2026-02-01T06:48:53.931647"
+  },
+  "10575": {
+    "id": 10575,
+    "title": "Paradis",
+    "release_date": "2002-02-06",
+    "vote_average": 6.442,
+    "poster_path": "/wpyJ1E4xLwnUy1XcM7poWc8GpiW.jpg",
+    "genre_ids": [
+      18,
+      53,
+      10749,
+      80
+    ],
+    "cached_at": "2026-02-01T06:48:53.970769"
+  },
+  "10994": {
+    "id": 10994,
+    "title": "Dragoste otrăvitoare",
+    "release_date": "2002-10-11",
+    "vote_average": 7.063,
+    "poster_path": "/pOdmhUaqvg4twAHqrhL5Onjgalb.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-02-01T06:48:53.994832"
+  },
+  "979": {
+    "id": 979,
+    "title": "Nereversibil",
+    "release_date": "2002-05-22",
+    "vote_average": 7.181,
+    "poster_path": "/AdrItykbv1evqcbIPrItVWnkaKj.jpg",
+    "genre_ids": [
+      18,
+      53,
+      80
+    ],
+    "cached_at": "2026-02-01T06:48:54.041060"
+  },
+  "26014": {
+    "id": 26014,
+    "title": "Sfat bun",
+    "release_date": "2001-11-15",
+    "vote_average": 5.795,
+    "poster_path": "/1uUYExFdpg3zASJ5EtJXN81G4Io.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-02-01T06:48:54.052131"
+  },
+  "2750": {
+    "id": 2750,
+    "title": "24 Hour Party People",
+    "release_date": "2002-02-13",
+    "vote_average": 6.96,
+    "poster_path": "/8f50NQ1wz6hdxfCISCPV8XQ6DII.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10402
+    ],
+    "cached_at": "2026-02-01T06:48:54.066630"
+  },
+  "31005": {
+    "id": 31005,
+    "title": "Moonlight Mile",
+    "release_date": "2002-09-09",
+    "vote_average": 6.285,
+    "poster_path": "/jKDnCPUkL4QsgeqKCtyNMPL2XUU.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "cached_at": "2026-02-01T06:48:54.106374"
+  },
+  "37748": {
+    "id": 37748,
+    "title": "800 balas",
+    "release_date": "2002-10-18",
+    "vote_average": 5.874,
+    "poster_path": "/yGMw9hg7amje8N2eoFKjJWu9FnB.jpg",
+    "genre_ids": [
+      35,
+      28,
+      37
+    ],
+    "cached_at": "2026-02-01T06:48:54.108925"
+  },
+  "103014": {
+    "id": 103014,
+    "title": "'Twas the Night",
+    "release_date": "2001-12-07",
+    "vote_average": 5.5,
+    "poster_path": "/uVVmBXXaMM6SMvzhp3n4Wlej2CY.jpg",
+    "genre_ids": [
+      10770,
+      10751,
+      35
+    ],
+    "cached_at": "2026-02-01T06:48:54.146362"
+  },
+  "36685": {
+    "id": 36685,
+    "title": "The Rocky Horror Picture Show",
+    "release_date": "1975-08-14",
+    "vote_average": 7.445,
+    "poster_path": "/3pyE6ZqDbuJi7zrNzzQzcKTWdmN.jpg",
+    "genre_ids": [
+      35,
+      878,
+      14,
+      27
+    ],
+    "cached_at": "2026-02-01T06:48:54.182215"
+  },
+  "126934": {
+    "id": 126934,
+    "title": "A Ring of Endless Light",
+    "release_date": "2002-07-04",
+    "vote_average": 6.5,
+    "poster_path": "/w7gK8wahIPtg2MAtc28FCKjrt2m.jpg",
+    "genre_ids": [
+      10770,
+      10749,
+      18,
+      10751
+    ],
+    "cached_at": "2026-02-01T06:48:54.186095"
+  },
+  "1591": {
+    "id": 1591,
+    "title": "Nirgendwo in Afrika",
+    "release_date": "2001-12-11",
+    "vote_average": 7.06,
+    "poster_path": "/u1QEXLC57OhD5dIP8Wyh6zf1P2S.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-02-01T06:48:54.208914"
+  },
+  "10550": {
+    "id": 10550,
+    "title": "Ballistic: Ecks vs. Sever",
+    "release_date": "2002-09-20",
+    "vote_average": 4.319,
+    "poster_path": "/7Jcb486hN7hQRZTsb0RybFGeDOQ.jpg",
+    "genre_ids": [
+      28,
+      12,
+      53
+    ],
+    "cached_at": "2026-02-01T06:48:54.247369"
+  },
+  "9555": {
+    "id": 9555,
+    "title": "Rabbit-Proof Fence",
+    "release_date": "2002-02-04",
+    "vote_average": 6.976,
+    "poster_path": "/vs8ATIRGEEYpcByrNtJ1WyI3LeD.jpg",
+    "genre_ids": [
+      12,
+      18,
+      36
+    ],
+    "cached_at": "2026-02-01T06:48:54.279677"
+  },
+  "13536": {
+    "id": 13536,
+    "title": "City by the Sea",
+    "release_date": "2002-09-06",
+    "vote_average": 5.776,
+    "poster_path": "/vpjKtnE5SGTfmdw4YtJsnrfFJs0.jpg",
+    "genre_ids": [
+      80,
+      18,
+      9648
+    ],
+    "cached_at": "2026-02-01T06:48:54.322718"
+  },
+  "1958": {
+    "id": 1958,
+    "title": "8 femei",
+    "release_date": "2002-02-06",
+    "vote_average": 6.903,
+    "poster_path": "/Asxm9fqKIHcScU0UhSvsovPzpeF.jpg",
+    "genre_ids": [
+      35,
+      53,
+      9648
+    ],
+    "cached_at": "2026-02-01T06:48:54.327604"
+  },
+  "49872": {
+    "id": 49872,
+    "title": "Hansel & Gretel",
+    "release_date": "2002-10-16",
+    "vote_average": 5.4,
+    "poster_path": "/eNY4aIyVuYnQWu1dGWds0nGeCBO.jpg",
+    "genre_ids": [
+      35,
+      10751,
+      14
+    ],
+    "cached_at": "2026-02-01T06:48:54.359501"
+  },
+  "10712": {
+    "id": 10712,
+    "title": "Departe de Rai",
+    "release_date": "2002-11-08",
+    "vote_average": 7.05,
+    "poster_path": "/9gQuvFDRPLx39smUvyafm36tp0d.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-02-01T06:48:54.394780"
+  },
+  "109164": {
+    "id": 109164,
+    "title": "The Scream Team",
+    "release_date": "2002-10-11",
+    "vote_average": 6.25,
+    "poster_path": "/7yNkp4WVF2gRS5jw0YXU4NWagXM.jpg",
+    "genre_ids": [
+      14,
+      10770,
+      35
+    ],
+    "cached_at": "2026-02-01T06:48:54.420364"
+  },
+  "3472": {
+    "id": 3472,
+    "title": "Viața la Londra",
+    "release_date": "2002-09-05",
+    "vote_average": 6.88,
+    "poster_path": "/nWpXOqB1STDq8ji3rQawcg1fGS9.jpg",
+    "genre_ids": [
+      80,
+      18,
+      53
+    ],
+    "cached_at": "2026-02-01T06:48:54.431336"
+  },
+  "13819": {
+    "id": 13819,
+    "title": "Laurel Canyon",
+    "release_date": "2003-03-07",
+    "vote_average": 5.972,
+    "poster_path": "/z7knajZv3nxqN0o2Jq8kIOkpgu6.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-02-01T06:48:54.483649"
+  },
+  "14787": {
+    "id": 14787,
+    "title": "Tom & Jerry: Inelul Fermecat",
+    "release_date": "2002-03-12",
+    "vote_average": 6.388,
+    "poster_path": "/fF6I48WGKktHfGYYSVKPTVildWE.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10751,
+      14
+    ],
+    "cached_at": "2026-02-01T06:48:54.503211"
+  },
+  "124581": {
+    "id": 124581,
+    "title": "Outside the Law",
+    "release_date": "2002-06-25",
+    "vote_average": 4.1,
+    "poster_path": "/w9UkU0KQedyyTqUZUFmwOcsBlrI.jpg",
+    "genre_ids": [
+      28,
+      53,
+      18
+    ],
+    "cached_at": "2026-02-01T06:48:54.533977"
+  },
+  "11535": {
+    "id": 11535,
+    "title": "Bătălia pe role",
+    "release_date": "2002-02-08",
+    "vote_average": 3.904,
+    "poster_path": "/5Wquo3EjfDpK7S1BHcybuC3TZDO.jpg",
+    "genre_ids": [
+      28,
+      878,
+      53
+    ],
+    "cached_at": "2026-02-01T06:48:54.566804"
+  },
+  "1287782": {
+    "id": 1287782,
+    "title": "好孩子",
+    "release_date": "2025-10-09",
+    "vote_average": 10.0,
+    "poster_path": "/jAFXdnsWQ4Pgfn4c935mFdn3u6R.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-02-01T06:48:54.568989"
+  },
+  "20337": {
+    "id": 20337,
+    "title": "Martin Lawrence Live: Runteldat",
+    "release_date": "2002-08-02",
+    "vote_average": 5.225,
+    "poster_path": "/fRpS1sr1GFPgQobsXoNm5lxatcy.jpg",
+    "genre_ids": [
+      35,
+      99
+    ],
+    "cached_at": "2026-02-01T06:48:54.606846"
+  },
+  "16077": {
+    "id": 16077,
+    "title": "My Little Eye",
+    "release_date": "2002-10-04",
+    "vote_average": 5.3,
+    "poster_path": "/wHEq0C5o0FTOOW5jmeCJtLhaj3G.jpg",
+    "genre_ids": [
+      27
+    ],
+    "cached_at": "2026-02-01T06:48:54.637791"
+  },
+  "12093": {
+    "id": 12093,
+    "title": "Lilja 4-ever",
+    "release_date": "2002-08-23",
+    "vote_average": 7.615,
+    "poster_path": "/iARzbzHuOrWxMNfZnWFCr95B4UQ.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "cached_at": "2026-02-01T06:48:54.644972"
+  },
+  "59387": {
+    "id": 59387,
+    "title": "The Powerpuff Girls Movie",
+    "release_date": "2002-07-03",
+    "vote_average": 6.791,
+    "poster_path": "/yAFalW8UtdJg1z1gPjXx8C1sXZq.jpg",
+    "genre_ids": [
+      16,
+      28,
+      10751
+    ],
+    "cached_at": "2026-02-01T06:48:54.670973"
+  },
+  "31018": {
+    "id": 31018,
+    "title": "Cale către război",
+    "release_date": "2003-10-28",
+    "vote_average": 6.7,
+    "poster_path": "/rcz5c4JeyExYVpdoNmEpViPcbug.jpg",
+    "genre_ids": [
+      18,
+      36,
+      10770,
+      10752
+    ],
+    "cached_at": "2026-02-01T06:48:54.700646"
+  },
+  "11088": {
+    "id": 11088,
+    "title": "Heist",
+    "release_date": "2001-11-09",
+    "vote_average": 6.32,
+    "poster_path": "/lbcYRSSRtEDUHJZnUpV5xn53NHr.jpg",
+    "genre_ids": [
+      28,
+      80,
+      18,
+      53
+    ],
+    "cached_at": "2026-02-01T06:48:54.743560"
+  },
+  "9045": {
+    "id": 9045,
+    "title": "Amin.",
+    "release_date": "2002-02-27",
+    "vote_average": 6.957,
+    "poster_path": "/3mtN5NibaTPfYT8nJwTS0vlbSXS.jpg",
+    "genre_ids": [
+      18,
+      36
+    ],
+    "cached_at": "2026-02-01T06:48:54.778411"
+  },
+  "25587": {
+    "id": 25587,
+    "title": "The Land Before Time VIII: The Big Freeze",
+    "release_date": "2001-12-04",
+    "vote_average": 6.083,
+    "poster_path": "/ztofs0LZY9Q6Ni3HEwibdZoewpd.jpg",
+    "genre_ids": [
+      16,
+      12,
+      10751
+    ],
+    "cached_at": "2026-02-01T06:48:54.788994"
+  },
+  "1376": {
+    "id": 1376,
+    "title": "Sweet Sixteen",
+    "release_date": "2002-09-07",
+    "vote_average": 7.0,
+    "poster_path": "/p5h50WEZQ4pRFffnSULqL4cEuLp.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "cached_at": "2026-02-01T06:48:54.813821"
+  },
+  "2594": {
+    "id": 2594,
+    "title": "Monsieur Batignole",
+    "release_date": "2002-03-06",
+    "vote_average": 7.0,
+    "poster_path": "/8K9x7kTqJigbb2Zw5wFaehkyuY0.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-02-01T06:48:54.860616"
+  },
+  "33346": {
+    "id": 33346,
+    "title": "冷静と情熱のあいだ",
+    "release_date": "2001-11-10",
+    "vote_average": 6.4,
+    "poster_path": "/2wqMewF6aSeqtLfdXgaSbPQ0cXn.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "cached_at": "2026-02-01T06:48:54.897111"
+  },
+  "11468": {
+    "id": 11468,
+    "title": "The Salton Sea",
+    "release_date": "2002-02-12",
+    "vote_average": 6.563,
+    "poster_path": "/i3InMSlLUNBEdQTKazMdyVP1ryX.jpg",
+    "genre_ids": [
+      80,
+      18,
+      9648,
+      53
+    ],
+    "cached_at": "2026-02-01T06:48:54.924529"
+  },
+  "6020": {
+    "id": 6020,
+    "title": "Sorority Boys",
+    "release_date": "2002-03-22",
+    "vote_average": 5.664,
+    "poster_path": "/6nEcq3ARZgSAeBvJVyrCerH0umF.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-02-01T06:48:54.934122"
+  },
+  "71886": {
+    "id": 71886,
+    "title": "Tru Confessions",
+    "release_date": "2002-04-05",
+    "vote_average": 6.764,
+    "poster_path": "/2VHgWZG8LNpe9ZoKwdbJSA8vtec.jpg",
+    "genre_ids": [
+      10770,
+      10751,
+      18
+    ],
+    "cached_at": "2026-02-01T06:48:54.965921"
+  },
+  "13908": {
+    "id": 13908,
+    "title": "The Master of Disguise",
+    "release_date": "2002-08-02",
+    "vote_average": 3.949,
+    "poster_path": "/JFKuKJeHHFFVb0ubpkPIXmkIOg.jpg",
+    "genre_ids": [
+      35,
+      10751,
+      14,
+      12
+    ],
+    "cached_at": "2026-02-01T06:48:54.996176"
+  },
+  "12660": {
+    "id": 12660,
+    "title": "Charlotte Gray",
+    "release_date": "2001-12-28",
+    "vote_average": 6.143,
+    "poster_path": "/6RnRclsipl3cZKnDfsu0MrqWCwI.jpg",
+    "genre_ids": [
+      18,
+      36,
+      10749,
+      10752
+    ],
+    "cached_at": "2026-02-01T06:48:55.037239"
+  },
+  "11979": {
+    "id": 11979,
+    "title": "Regina blestemaților",
+    "release_date": "2002-02-10",
+    "vote_average": 6.083,
+    "poster_path": "/4MMpvQYgOz8K6lzlIVMXWjLzUPC.jpg",
+    "genre_ids": [
+      14,
+      27,
+      10749
+    ],
+    "cached_at": "2026-02-01T06:48:55.066000"
+  },
+  "54332": {
+    "id": 54332,
+    "title": "연애소설",
+    "release_date": "2002-09-13",
+    "vote_average": 7.0,
+    "poster_path": "/baM6rymsy0q2g0XDtjc51wSdbwx.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-02-01T06:48:55.106290"
+  },
+  "2185": {
+    "id": 2185,
+    "title": "Belele mari",
+    "release_date": "2002-04-05",
+    "vote_average": 6.12,
+    "poster_path": "/cUS5LJ3O3wUNCZ6LsJ6vfsKaBxM.jpg",
+    "genre_ids": [
+      28,
+      35,
+      53,
+      9648,
+      80
+    ],
+    "cached_at": "2026-02-01T06:48:55.129540"
+  },
+  "9689": {
+    "id": 9689,
+    "title": "Hollywood Ending",
+    "release_date": "2002-05-03",
+    "vote_average": 6.489,
+    "poster_path": "/aDRbdtNoTRoYnIpH3g1icGeHGBh.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-02-01T06:48:55.137240"
+  },
+  "18323": {
+    "id": 18323,
+    "title": "Joshua",
+    "release_date": "2002-04-19",
+    "vote_average": 6.4,
+    "poster_path": "/7Y46xqBRwXSq25Hk5zlHvyz0TZi.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-02-01T06:48:55.170659"
+  },
+  "56378": {
+    "id": 56378,
+    "title": "My Name Is Tanino",
+    "release_date": "2003-05-30",
+    "vote_average": 6.27,
+    "poster_path": "/1HTc3XhsW5SPoQExwiGf3vYbBUz.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-02-01T06:48:55.191750"
+  },
+  "21518": {
+    "id": 21518,
+    "title": "Air Bud: Seventh Inning Fetch",
+    "release_date": "2002-06-18",
+    "vote_average": 5.546,
+    "poster_path": "/zLsy4zylPWwcwEn0WPqBzNIJ1jj.jpg",
+    "genre_ids": [
+      35,
+      10751
+    ],
+    "cached_at": "2026-02-01T06:48:55.217671"
+  },
+  "54005": {
+    "id": 54005,
+    "title": "Getting There",
+    "release_date": "2002-06-11",
+    "vote_average": 5.716,
+    "poster_path": "/2OAJU8pVky1T4fq41DfXZr7kWcG.jpg",
+    "genre_ids": [
+      10751,
+      35,
+      12
+    ],
+    "cached_at": "2026-02-01T06:48:55.252311"
+  },
+  "15186": {
+    "id": 15186,
+    "title": "Full Frontal",
+    "release_date": "2002-08-02",
+    "vote_average": 4.59,
+    "poster_path": "/7FeoefSYELryi04Kz74xYTayPZk.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-02-01T06:48:55.263698"
+  },
+  "12312": {
+    "id": 12312,
+    "title": "Joe Somebody",
+    "release_date": "2001-12-21",
+    "vote_average": 5.7,
+    "poster_path": "/1grt2RukUaOVHbjfDKioGeRZnWp.jpg",
+    "genre_ids": [
+      35,
+      10749,
+      10751,
+      18
+    ],
+    "cached_at": "2026-02-01T06:48:55.280657"
+  },
+  "5493": {
+    "id": 5493,
+    "title": "リターナー",
+    "release_date": "2002-08-31",
+    "vote_average": 6.516,
+    "poster_path": "/1jsZWzOvONfEW2wZSdLUhb28Gvz.jpg",
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "cached_at": "2026-02-01T06:48:55.324653"
+  },
+  "17774": {
+    "id": 17774,
+    "title": "Derailed",
+    "release_date": "2002-05-19",
+    "vote_average": 5.141,
+    "poster_path": "/ot5eFU2sWOEG9IbWydNpwggBiIg.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "cached_at": "2026-02-01T06:48:55.346132"
+  },
+  "8460": {
+    "id": 8460,
+    "title": "The Skulls II",
+    "release_date": "2002-04-09",
+    "vote_average": 4.706,
+    "poster_path": "/h6atL0SP5qg6TXOXy9DklZgObn2.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "cached_at": "2026-02-01T06:48:55.352015"
+  },
+  "14365": {
+    "id": 14365,
+    "title": "Ucide-mă cu tandrețe",
+    "release_date": "2002-05-10",
+    "vote_average": 5.584,
+    "poster_path": "/pgfFJw7mqAmJdZizrJ6oOK0ejOZ.jpg",
+    "genre_ids": [
+      53,
+      80
+    ],
+    "cached_at": "2026-02-01T06:48:55.393381"
+  },
+  "13441": {
+    "id": 13441,
+    "title": "Roger Dodger",
+    "release_date": "2002-05-09",
+    "vote_average": 6.115,
+    "poster_path": "/koAdQdL3LUtho4nd1DWSubE7dU6.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-02-01T06:48:55.414723"
+  },
+  "27259": {
+    "id": 27259,
+    "title": "Long Time Dead",
+    "release_date": "2002-01-18",
+    "vote_average": 5.202,
+    "poster_path": "/d2t90uhX9AYzAMX7Xzo2x7Tefpx.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2026-02-01T06:48:55.467405"
+  },
+  "47354": {
+    "id": 47354,
+    "title": "K-9: P.I.",
+    "release_date": "2002-07-30",
+    "vote_average": 5.916,
+    "poster_path": "/2RdyzWbN3zTF1559GRnLbamy3V4.jpg",
+    "genre_ids": [
+      28,
+      35,
+      80
+    ],
+    "cached_at": "2026-02-01T06:48:55.487408"
+  },
+  "108019": {
+    "id": 108019,
+    "title": "Dancing at the Harvest Moon",
+    "release_date": "2002-10-20",
+    "vote_average": 6.4,
+    "poster_path": "/fmsjRmp6HfXsL1ih3XXH9Te2Lbk.jpg",
+    "genre_ids": [
+      18,
+      10749,
+      10770
+    ],
+    "cached_at": "2026-02-01T06:48:55.516406"
+  },
+  "47959": {
+    "id": 47959,
+    "title": "Callas Forever",
+    "release_date": "2002-09-18",
+    "vote_average": 6.3,
+    "poster_path": "/yQZma693MdgyMAyV49c1MQUWRcO.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "cached_at": "2026-02-01T06:48:55.550124"
+  },
+  "20646": {
+    "id": 20646,
+    "title": "新・仁義の墓場",
+    "release_date": "2002-06-22",
+    "vote_average": 6.2,
+    "poster_path": "/bKR6LLPzm0GxvSKwjE4MRdidiFC.jpg",
+    "genre_ids": [
+      80,
+      18,
+      53
+    ],
+    "cached_at": "2026-02-01T06:48:55.555728"
+  },
+  "44708": {
+    "id": 44708,
+    "title": "藍色大門",
+    "release_date": "2002-09-27",
+    "vote_average": 7.1,
+    "poster_path": "/j84JLvK1cAWroRFMePUBLLGuaH3.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-02-01T06:48:55.608489"
+  },
+  "1269024": {
+    "id": 1269024,
+    "title": "A Game in the Woods",
+    "release_date": "2024-04-20",
+    "vote_average": 7.0,
+    "poster_path": "/5sZ9mhdnjHsCGMRXwveCogGbabE.jpg",
+    "genre_ids": [
+      27
+    ],
+    "cached_at": "2026-02-01T06:48:55.630354"
+  },
+  "13503": {
+    "id": 13503,
+    "title": "Texas Rangers",
+    "release_date": "2001-11-30",
+    "vote_average": 5.983,
+    "poster_path": "/69tMHlxiCYlYKGZm1aPH1u7hY88.jpg",
+    "genre_ids": [
+      37,
+      28,
+      12,
+      18,
+      53
+    ],
+    "cached_at": "2026-02-01T06:48:55.643506"
+  },
+  "35583": {
+    "id": 35583,
+    "title": "The Lost Battalion",
+    "release_date": "2001-12-02",
+    "vote_average": 6.788,
+    "poster_path": "/kNnozLnF3YivsGGyGEgUiKaO4pT.jpg",
+    "genre_ids": [
+      36,
+      18,
+      10752,
+      10770
+    ],
+    "cached_at": "2026-02-01T06:48:55.679574"
+  },
+  "11086": {
+    "id": 11086,
+    "title": "Maiestuosul",
+    "release_date": "2001-12-21",
+    "vote_average": 6.7,
+    "poster_path": "/m9WrB91B8ghxIZhyFugkoSleBE7.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-02-01T06:48:55.692169"
+  },
+  "1537": {
+    "id": 1537,
+    "title": "Schimbarea benzilor",
+    "release_date": "2002-04-07",
+    "vote_average": 6.276,
+    "poster_path": "/8wh9WzTKo5pJw3EgHYWA60W7Kbl.jpg",
+    "genre_ids": [
+      53,
+      18
+    ],
+    "cached_at": "2026-02-01T06:48:55.708202"
+  },
+  "26955": {
+    "id": 26955,
+    "title": "Oasis",
+    "release_date": "2002-08-09",
+    "vote_average": 7.7,
+    "poster_path": "/pWKdRKC0QGieK5d3ju8tiQYwpKS.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-02-01T06:48:55.743879"
+  },
+  "1430": {
+    "id": 1430,
+    "title": "Cantec pentru un masacru",
+    "release_date": "2002-10-09",
+    "vote_average": 7.515,
+    "poster_path": "/5AlgeysilsfLdEwlTlYO7fqgsLn.jpg",
+    "genre_ids": [
+      99,
+      18
+    ],
+    "cached_at": "2026-02-01T06:48:55.772365"
+  },
+  "12576": {
+    "id": 12576,
+    "title": "Deathwatch",
+    "release_date": "2002-10-06",
+    "vote_average": 5.75,
+    "poster_path": "/R8qod2CvMi5iH2gfr043dMSM1y.jpg",
+    "genre_ids": [
+      18,
+      27,
+      53,
+      10752
+    ],
+    "cached_at": "2026-02-01T06:48:55.785418"
+  },
+  "13950": {
+    "id": 13950,
+    "title": "All About the Benjamins",
+    "release_date": "2002-03-08",
+    "vote_average": 5.9,
+    "poster_path": "/sO7IpJHjZBGLevi8Ozj9EsAUw5h.jpg",
+    "genre_ids": [
+      28,
+      12,
+      35,
+      80,
+      53
+    ],
+    "cached_at": "2026-02-01T06:48:55.813228"
+  },
+  "33868": {
+    "id": 33868,
+    "title": "Inspector Gadget's Last Case",
+    "release_date": "2002-10-13",
+    "vote_average": 6.5,
+    "poster_path": "/1CjxS5LC0UohvZ45hWaEdy8tX8M.jpg",
+    "genre_ids": [
+      16,
+      35,
+      80,
+      10751,
+      14
+    ],
+    "cached_at": "2026-02-01T06:48:55.844720"
+  },
+  "12770": {
+    "id": 12770,
+    "title": "Furând la Harvard",
+    "release_date": "2002-09-13",
+    "vote_average": 4.8,
+    "poster_path": "/iCHAn0eVAXwybuzoQO598aKMVJD.jpg",
+    "genre_ids": [
+      80,
+      35,
+      18
+    ],
+    "cached_at": "2026-02-01T06:48:55.861024"
+  },
+  "42426": {
+    "id": 42426,
+    "title": "A spasso nel tempo - L'avventura continua",
+    "release_date": "1997-12-11",
+    "vote_average": 5.067,
+    "poster_path": "/loCIihzw1sucGqzqPbUAHQdd9Xm.jpg",
+    "genre_ids": [
+      35,
+      14
+    ],
+    "cached_at": "2026-02-01T06:48:55.885124"
+  },
+  "22016": {
+    "id": 22016,
+    "title": "L'Homme du train",
+    "release_date": "2002-10-02",
+    "vote_average": 6.7,
+    "poster_path": "/RVPULCXUjssqgu8hWTf9liKhVW.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "cached_at": "2026-02-01T06:48:55.909308"
+  },
+  "5851": {
+    "id": 5851,
+    "title": "Showtime",
+    "release_date": "2002-03-14",
+    "vote_average": 5.542,
+    "poster_path": "/8sIooUxXZo2blCVuAYbL2wkdUfD.jpg",
+    "genre_ids": [
+      28,
+      35
+    ],
+    "cached_at": "2026-02-01T06:48:55.923933"
+  },
+  "30072": {
+    "id": 30072,
+    "title": "Possession",
+    "release_date": "2002-08-16",
+    "vote_average": 6.0,
+    "poster_path": "/12z5oCy4s3GBOUrNCWvcKYBK4eI.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      10749
+    ],
+    "cached_at": "2026-02-01T06:48:55.965856"
+  },
+  "294959": {
+    "id": 294959,
+    "title": "Valley Uprising",
+    "release_date": "2014-09-01",
+    "vote_average": 7.7,
+    "poster_path": "/9wjZdG4K1zkKmlh5DS2xxiEEVPK.jpg",
+    "genre_ids": [
+      12,
+      99,
+      36
+    ],
+    "cached_at": "2026-02-01T06:48:55.980210"
+  },
+  "16646": {
+    "id": 16646,
+    "title": "Русский ковчег",
+    "release_date": "2002-05-22",
+    "vote_average": 7.232,
+    "poster_path": "/73gApdbNUP24wHUiXwcKgRMxbRL.jpg",
+    "genre_ids": [
+      18,
+      14,
+      36
+    ],
+    "cached_at": "2026-02-01T06:48:55.994447"
+  },
+  "870": {
+    "id": 870,
+    "title": "ドールズ",
+    "release_date": "2002-10-12",
+    "vote_average": 7.6,
+    "poster_path": "/gEI8JJPayOrdfy0AjdWQ92A90cc.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-02-01T06:48:56.048470"
+  },
+  "139516": {
+    "id": 139516,
+    "title": "Last Call",
+    "release_date": "2002-05-25",
+    "vote_average": 5.889,
+    "poster_path": "/5A2DtCQg5ALGnI7rQlpIYqmIH0B.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-02-01T06:48:56.071881"
+  },
+  "14672": {
+    "id": 14672,
+    "title": "Crackerjack",
+    "release_date": "2002-07-11",
+    "vote_average": 7.1,
+    "poster_path": "/bSmzRS7R4HRw9EAGPydFuZJl3jw.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-02-01T06:48:56.098239"
+  },
+  "17906": {
+    "id": 17906,
+    "title": "Dummy",
+    "release_date": "2002-09-12",
+    "vote_average": 5.9,
+    "poster_path": "/ii8h0p26vhp4G6x5Hw86ka3ys45.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "cached_at": "2026-02-01T06:48:56.131630"
+  },
+  "16550": {
+    "id": 16550,
+    "title": "Storytelling",
+    "release_date": "2001-11-08",
+    "vote_average": 6.5,
+    "poster_path": "/5hSpaT8x0LQy7G5TXb6vGWQrRSU.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-02-01T06:48:56.145139"
+  },
+  "229202": {
+    "id": 229202,
+    "title": "Snowbound",
+    "release_date": "2001-12-10",
+    "vote_average": 4.433,
+    "poster_path": "/mIlMAIZn5pPhFwux4WN3Hn5wLQH.jpg",
+    "genre_ids": [
+      53
+    ],
+    "cached_at": "2026-02-01T06:48:56.183165"
+  },
+  "21925": {
+    "id": 21925,
+    "title": "Naqoyqatsi",
+    "release_date": "2002-09-02",
+    "vote_average": 6.132,
+    "poster_path": "/buDo6FcSlOVEQJomKB0IviNV0Do.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-02-01T06:48:56.200921"
+  },
+  "10955": {
+    "id": 10955,
+    "title": "Ripley's Game",
+    "release_date": "2002-09-02",
+    "vote_average": 6.398,
+    "poster_path": "/eVhycD9GBWPwnttygKYDi9hllAy.jpg",
+    "genre_ids": [
+      80,
+      53
+    ],
+    "cached_at": "2026-02-01T06:48:56.208069"
+  },
+  "9266": {
+    "id": 9266,
+    "title": "Blue Crush",
+    "release_date": "2002-08-16",
+    "vote_average": 5.985,
+    "poster_path": "/iZSw0JVG0cIFuZoTHuQU3nmGT4k.jpg",
+    "genre_ids": [
+      12,
+      10749,
+      18
+    ],
+    "cached_at": "2026-02-01T06:48:56.242784"
+  },
+  "23967": {
+    "id": 23967,
+    "title": "Slap Her... She's French",
+    "release_date": "2002-02-07",
+    "vote_average": 4.6,
+    "poster_path": "/5We0C9RVyPxbUxBF4FFdPGlS1fu.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-02-01T06:48:56.270060"
+  },
+  "11692": {
+    "id": 11692,
+    "title": "The Adventures of Pluto Nash",
+    "release_date": "2002-08-16",
+    "vote_average": 4.389,
+    "poster_path": "/96vvhLWWDosS1zRrfQ6XEGAzByL.jpg",
+    "genre_ids": [
+      28,
+      35,
+      878
+    ],
+    "cached_at": "2026-02-01T06:48:56.320369"
+  },
+  "11889": {
+    "id": 11889,
+    "title": "Iris",
+    "release_date": "2001-12-14",
+    "vote_average": 6.408,
+    "poster_path": "/pqtVPrv3xPLTUayC0bPruRjYWDF.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-02-01T06:48:56.345986"
+  },
+  "19448": {
+    "id": 19448,
+    "title": "Proiectul \"Laramie\"",
+    "release_date": "2002-01-10",
+    "vote_average": 6.2,
+    "poster_path": "/9Aj4DdvSZp7XRpIVbBXN3EccDwX.jpg",
+    "genre_ids": [
+      80,
+      18,
+      10770
+    ],
+    "cached_at": "2026-02-01T06:48:56.351893"
+  },
+  "15917": {
+    "id": 15917,
+    "title": "देवदास",
+    "release_date": "2002-07-11",
+    "vote_average": 7.501,
+    "poster_path": "/dUBFi7bnLRfm4WaTh4ZoF2tbBJj.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-02-01T06:48:56.384992"
+  },
+  "23964": {
+    "id": 23964,
+    "title": "Slap Shot 2: Breaking the Ice",
+    "release_date": "2002-03-26",
+    "vote_average": 4.1,
+    "poster_path": "/p1wGdwkpGyF4UOusKRwnHpFHTrm.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-02-01T06:48:56.413697"
+  },
+  "1642": {
+    "id": 1642,
+    "title": "Rețeaua",
+    "release_date": "1995-07-28",
+    "vote_average": 6.03,
+    "poster_path": "/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+    "genre_ids": [
+      80,
+      18,
+      9648,
+      53,
+      28
+    ],
+    "cached_at": "2026-02-01T06:48:56.434467"
+  },
+  "9260": {
+    "id": 9260,
+    "title": "Welcome to Collinwood",
+    "release_date": "2002-10-04",
+    "vote_average": 6.109,
+    "poster_path": "/7XyvoOopwWwDCWOcItOQiAwm30b.jpg",
+    "genre_ids": [
+      35,
+      80
+    ],
+    "cached_at": "2026-02-01T06:48:56.467105"
+  },
+  "109349": {
+    "id": 109349,
+    "title": "Little John",
+    "release_date": "2002-05-05",
+    "vote_average": 6.2,
+    "poster_path": "/4INCIRHVAb83NIJRMbyFjrvC28l.jpg",
+    "genre_ids": [
+      18,
+      10770
+    ],
+    "cached_at": "2026-02-01T06:48:56.477952"
+  },
+  "24978": {
+    "id": 24978,
+    "title": "Soldați de hârtie",
+    "release_date": "2002-06-01",
+    "vote_average": 5.52,
+    "poster_path": "/z2rHu9VeJTj5IuJkUdu7WmvPx3T.jpg",
+    "genre_ids": [
+      28,
+      35
+    ],
+    "cached_at": "2026-02-01T06:48:56.502785"
+  },
+  "11838": {
+    "id": 11838,
+    "title": "呪怨",
+    "release_date": "2002-10-18",
+    "vote_average": 6.755,
+    "poster_path": "/iChWOvvj0fB5PwTDBGupPvweuFK.jpg",
+    "genre_ids": [
+      27
+    ],
+    "cached_at": "2026-02-01T06:48:56.526741"
+  },
+  "60825": {
+    "id": 60825,
+    "title": "Mr. St. Nick",
+    "release_date": "2002-10-17",
+    "vote_average": 5.688,
+    "poster_path": "/dbIQrA0sAcALBspm0CUNovOEV8.jpg",
+    "genre_ids": [
+      10770,
+      35,
+      14
+    ],
+    "cached_at": "2026-02-01T06:48:56.556219"
+  },
+  "1554565": {
+    "id": 1554565,
+    "title": "Evil Nun",
+    "release_date": "2025-09-30",
+    "vote_average": 4.333,
+    "poster_path": "/fLJQgDd9qXZiCEYM9XQqtg1raAC.jpg",
+    "genre_ids": [
+      27
+    ],
+    "cached_at": "2026-02-01T06:48:56.565969"
+  },
+  "31016": {
+    "id": 31016,
+    "title": "Sidewalks of New York",
+    "release_date": "2001-11-23",
+    "vote_average": 5.993,
+    "poster_path": "/oJuZGjMUKsYJXSkLXdOZ9CePJhg.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "cached_at": "2026-02-01T06:48:56.643842"
+  },
+  "36211": {
+    "id": 36211,
+    "title": "Japón",
+    "release_date": "2003-01-15",
+    "vote_average": 6.6,
+    "poster_path": "/kEJjArmGMzyMbmQ5jkTEzYFsXEH.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-02-01T06:48:56.646267"
+  },
+  "17710": {
+    "id": 17710,
+    "title": "Hey Arnold! Filmul",
+    "release_date": "2002-06-28",
+    "vote_average": 6.484,
+    "poster_path": "/etxcq4qiFNi5p0q71APw8MNzPPT.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10751,
+      12,
+      18,
+      53
+    ],
+    "cached_at": "2026-02-01T06:48:56.679896"
+  },
+  "1999": {
+    "id": 1999,
+    "title": "În dormitor",
+    "release_date": "2001-11-23",
+    "vote_average": 6.927,
+    "poster_path": "/IQj11YbraLDyPYaz79jtDoAscc.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "cached_at": "2026-02-01T06:48:56.693269"
+  },
+  "5279": {
+    "id": 5279,
+    "title": "Gosford Park",
+    "release_date": "2001-12-26",
+    "vote_average": 6.814,
+    "poster_path": "/7r8DeZuaaHCiOEbkqZC6MFmwJ69.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      53
+    ],
+    "cached_at": "2026-02-01T06:48:56.709943"
+  },
+  "12771": {
+    "id": 12771,
+    "title": "Servicii complete pentru Sara",
+    "release_date": "2002-08-23",
+    "vote_average": 5.364,
+    "poster_path": "/zi8uGxsyhxo0Uzg09ImxLzBDSK3.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-02-01T06:48:56.741920"
+  },
+  "19588": {
+    "id": 19588,
+    "title": "두사부일체",
+    "release_date": "2001-12-14",
+    "vote_average": 6.038,
+    "poster_path": "/eKg1t2dkiO5cWv251sIytgEKLj0.jpg",
+    "genre_ids": [
+      28,
+      35,
+      80
+    ],
+    "cached_at": "2026-02-01T06:48:56.773411"
+  },
+  "57100": {
+    "id": 57100,
+    "title": "雙瞳",
+    "release_date": "2002-10-17",
+    "vote_average": 6.653,
+    "poster_path": "/zFL1LvqtSiNj9FNdmNtKZ3Ea7wh.jpg",
+    "genre_ids": [
+      9648,
+      27
+    ],
+    "cached_at": "2026-02-01T06:48:56.788319"
+  },
+  "11056": {
+    "id": 11056,
+    "title": "Întunericul",
+    "release_date": "2002-10-11",
+    "vote_average": 5.6,
+    "poster_path": "/exr5xYRHbj200Y3SxMDGfcT6zla.jpg",
+    "genre_ids": [
+      27
+    ],
+    "cached_at": "2026-02-01T06:48:56.821754"
+  },
+  "14809": {
+    "id": 14809,
+    "title": "Stark Raving Mad",
+    "release_date": "2002-05-23",
+    "vote_average": 6.061,
+    "poster_path": "/1MtKcti03XF7btAjr9wcTLrLZ4e.jpg",
+    "genre_ids": [
+      35,
+      80,
+      28
+    ],
+    "cached_at": "2026-02-01T06:48:56.842282"
+  },
+  "11891": {
+    "id": 11891,
+    "title": "Kung Pow: Enter the Fist",
+    "release_date": "2002-01-25",
+    "vote_average": 6.386,
+    "poster_path": "/uwQtvJ23bH0giRdY59pgyfPIuKf.jpg",
+    "genre_ids": [
+      35,
+      28
+    ],
+    "cached_at": "2026-02-01T06:48:56.907109"
+  },
+  "12590": {
+    "id": 12590,
+    "title": "Fantomele adâncurilor",
+    "release_date": "2002-08-11",
+    "vote_average": 6.031,
+    "poster_path": "/4tsaLD98DcXh4ltOn9wEWhsUkSc.jpg",
+    "genre_ids": [
+      53,
+      27,
+      9648
+    ],
+    "cached_at": "2026-02-01T06:48:56.908952"
+  },
+  "190977": {
+    "id": 190977,
+    "title": "Scared Silent",
+    "release_date": "2002-05-20",
+    "vote_average": 5.5,
+    "poster_path": "/veiwf6g37cGmXgS1rBitaSAfZAy.jpg",
+    "genre_ids": [
+      80,
+      18,
+      10770
+    ],
+    "cached_at": "2026-02-01T06:48:56.938047"
+  },
+  "26189": {
+    "id": 26189,
+    "title": "Get a Clue",
+    "release_date": "2002-06-28",
+    "vote_average": 5.282,
+    "poster_path": "/9NhdXavPBUPYkdBwCaatOIGwGjp.jpg",
+    "genre_ids": [
+      10751,
+      35,
+      9648,
+      10770
+    ],
+    "cached_at": "2026-02-01T06:48:56.964845"
+  },
+  "31932": {
+    "id": 31932,
+    "title": "Orașul fantomelor",
+    "release_date": "2002-09-10",
+    "vote_average": 5.8,
+    "poster_path": "/1nZbFdgEjJELfbZeXWLjXx5evHa.jpg",
+    "genre_ids": [
+      53,
+      80
+    ],
+    "cached_at": "2026-02-01T06:48:56.990052"
+  },
+  "71099": {
+    "id": 71099,
+    "title": "Charms for the Easy Life",
+    "release_date": "2002-08-18",
+    "vote_average": 7.0,
+    "poster_path": "/dyYbfstSMSUR38vqtKginDr5ziS.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-02-01T06:48:57.000788"
+  },
+  "35265": {
+    "id": 35265,
+    "title": "L'imbalsamatore",
+    "release_date": "2002-09-06",
+    "vote_average": 7.2,
+    "poster_path": "/uVVkOSySrki8IinQVmeGHs4AJhB.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2026-02-01T06:48:57.029356"
+  },
+  "25649": {
+    "id": 25649,
+    "title": "나쁜 남자",
+    "release_date": "2002-01-11",
+    "vote_average": 6.548,
+    "poster_path": "/oXEv0XxiHfTb3clAb57Q90z25Rh.jpg",
+    "genre_ids": [
+      18,
+      53,
+      10749
+    ],
+    "cached_at": "2026-02-01T06:48:57.073469"
+  },
+  "14923": {
+    "id": 14923,
+    "title": "Run Ronnie Run",
+    "release_date": "2002-01-20",
+    "vote_average": 5.864,
+    "poster_path": "/3AYJFRGu3rEGfFurxlc53RWiSWQ.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-02-01T06:48:57.108795"
+  },
+  "14293": {
+    "id": 14293,
+    "title": "Poolhall Junkies",
+    "release_date": "2002-06-30",
+    "vote_average": 6.331,
+    "poster_path": "/3MAGLk0AtuPi24PBwy3o4ILO0CV.jpg",
+    "genre_ids": [
+      35,
+      18,
+      53
+    ],
+    "cached_at": "2026-02-01T06:48:57.131532"
+  },
+  "9573": {
+    "id": 9573,
+    "title": "Blood Work",
+    "release_date": "2002-08-09",
+    "vote_average": 6.211,
+    "poster_path": "/A6wWJkIREagRWFNu3YotID3n9aW.jpg",
+    "genre_ids": [
+      53,
+      80,
+      28,
+      9648
+    ],
+    "cached_at": "2026-02-01T06:48:57.137923"
+  },
+  "1809": {
+    "id": 1809,
+    "title": "Regulile atracției",
+    "release_date": "2002-10-11",
+    "vote_average": 6.163,
+    "poster_path": "/6OybelUmwUkDm7fbX1BI7OhpYeQ.jpg",
+    "genre_ids": [
+      18,
+      10749,
+      35
+    ],
+    "cached_at": "2026-02-01T06:48:57.179819"
+  },
+  "20648": {
+    "id": 20648,
+    "title": "100 de femei",
+    "release_date": "2002-10-18",
+    "vote_average": 4.398,
+    "poster_path": "/8ssSg7Bm05i4QRIQWdkGKLpALQx.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-02-01T06:48:57.192699"
+  },
+  "10757": {
+    "id": 10757,
+    "title": "Fericire și tristețe",
+    "release_date": "2001-12-14",
+    "vote_average": 7.684,
+    "poster_path": "/12BvYKueY0eruZuTYIextEZaCC.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-02-01T06:48:57.220726"
+  },
+  "4965": {
+    "id": 4965,
+    "title": "Impostor",
+    "release_date": "2001-12-03",
+    "vote_average": 6.12,
+    "poster_path": "/7Uy4JbalP0mEyKnFW2IorQDmbBa.jpg",
+    "genre_ids": [
+      28,
+      878,
+      53
+    ],
+    "cached_at": "2026-02-01T06:48:57.242941"
+  },
+  "16311": {
+    "id": 16311,
+    "title": "The Hard Word",
+    "release_date": "2002-05-30",
+    "vote_average": 5.4,
+    "poster_path": "/8VBfmU9y6rX2CdZzPHmZeOmXiLm.jpg",
+    "genre_ids": [
+      28,
+      35,
+      80
+    ],
+    "cached_at": "2026-02-01T06:48:57.263609"
+  },
+  "65684": {
+    "id": 65684,
+    "title": "The Guys",
+    "release_date": "2002-09-11",
+    "vote_average": 5.55,
+    "poster_path": "/hqfMkCb2EuwkZSbM6pJ1szAizye.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-02-01T06:48:57.292016"
+  },
+  "1590097": {
+    "id": 1590097,
+    "title": "Afterlight",
+    "release_date": "2025-11-27",
+    "vote_average": 4.0,
+    "poster_path": "/7bzMCW1E1sOWEbjVuQ8iRGrdpcw.jpg",
+    "genre_ids": [
+      878
+    ],
+    "cached_at": "2026-02-01T06:48:57.314148"
+  },
+  "20009": {
+    "id": 20009,
+    "title": "Slackers",
+    "release_date": "2002-02-01",
+    "vote_average": 5.162,
+    "poster_path": "/g3xn7tRnGxVwwKc2tge7nPssywQ.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-02-01T06:48:57.345337"
+  },
+  "20794": {
+    "id": 20794,
+    "title": "Novocaine",
+    "release_date": "2001-11-23",
+    "vote_average": 5.965,
+    "poster_path": "/6ZVFepWKzYho4DLhyFVuRk7klZ1.jpg",
+    "genre_ids": [
+      35,
+      80,
+      53
+    ],
+    "cached_at": "2026-02-01T06:48:57.363363"
+  },
+  "54580": {
+    "id": 54580,
+    "title": "Los lunes al sol",
+    "release_date": "2002-09-27",
+    "vote_average": 7.228,
+    "poster_path": "/zQ5i3LDn25k2HhLOm3fjaXcjkux.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "cached_at": "2026-02-01T06:48:57.394599"
+  },
+  "14008": {
+    "id": 14008,
+    "title": "Cadeta Kelly",
+    "release_date": "2002-03-07",
+    "vote_average": 6.208,
+    "poster_path": "/eKtznndgJoVG9S9UENc7kHqmhgM.jpg",
+    "genre_ids": [
+      10751,
+      35,
+      18
+    ],
+    "cached_at": "2026-02-01T06:48:57.409686"
+  },
+  "12277": {
+    "id": 12277,
+    "title": "Fratele sub acoperire",
+    "release_date": "2002-05-31",
+    "vote_average": 5.878,
+    "poster_path": "/vkPm29sqtEjoekOhXbqxTcgpJ4y.jpg",
+    "genre_ids": [
+      28,
+      35
+    ],
+    "cached_at": "2026-02-01T06:48:57.433686"
+  },
+  "15909": {
+    "id": 15909,
+    "title": "Kermit's Swamp Years",
+    "release_date": "2002-09-03",
+    "vote_average": 5.9,
+    "poster_path": "/1KCgtq413cBz1qgMT0gkPX67xzZ.jpg",
+    "genre_ids": [
+      14,
+      10751,
+      35
+    ],
+    "cached_at": "2026-02-01T06:48:57.472182"
+  },
+  "21106": {
+    "id": 21106,
+    "title": "Hard Cash",
+    "release_date": "2002-02-15",
+    "vote_average": 4.5,
+    "poster_path": "/4bRMUS1zhvN1EJcjc1PrVWsauvy.jpg",
+    "genre_ids": [
+      80,
+      12,
+      28,
+      53
+    ],
+    "cached_at": "2026-02-01T06:48:57.502460"
+  },
+  "13984": {
+    "id": 13984,
+    "title": "Fubar",
+    "release_date": "2002-05-24",
+    "vote_average": 6.104,
+    "poster_path": "/ceBaeBIQIXJ1ge51H3cuifOrmlS.jpg",
+    "genre_ids": [
+      35,
+      10402
+    ],
+    "cached_at": "2026-02-01T06:48:57.576509"
+  },
+  "16857": {
+    "id": 16857,
+    "title": "The Dangerous Lives of Altar Boys",
+    "release_date": "2002-06-14",
+    "vote_average": 6.604,
+    "poster_path": "/4uTWXZ2Rvizl3ycMHtODfRjks4W.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-02-01T06:48:57.583613"
+  },
+  "38157": {
+    "id": 38157,
+    "title": "Wishmaster 4: The Prophecy Fulfilled",
+    "release_date": "2002-06-10",
+    "vote_average": 4.5,
+    "poster_path": "/am5GYs2Zd4AE8faxTGkdSBvdgbG.jpg",
+    "genre_ids": [
+      27,
+      14
+    ],
+    "cached_at": "2026-02-01T06:48:57.610661"
+  },
+  "16876": {
+    "id": 16876,
+    "title": "Bang Bang You're Dead",
+    "release_date": "2003-06-11",
+    "vote_average": 7.089,
+    "poster_path": "/647kfvUPkDBXtIHQEhInJR2LUyX.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "cached_at": "2026-02-01T06:48:57.645869"
+  },
+  "67685": {
+    "id": 67685,
+    "title": "Bending All the Rules",
+    "release_date": "2002-09-27",
+    "vote_average": 4.186,
+    "poster_path": "/whP9L70ILJMOrlUOq7uMLW1hJF0.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-02-01T06:48:57.661620"
+  },
+  "14290": {
+    "id": 14290,
+    "title": "Better Luck Tomorrow",
+    "release_date": "2002-01-12",
+    "vote_average": 6.3,
+    "poster_path": "/alJULQQnuiYXjgVmj2EYgwXOcIn.jpg",
+    "genre_ids": [
+      80,
+      18,
+      10749
+    ],
+    "cached_at": "2026-02-01T06:48:57.680531"
+  },
+  "24478": {
+    "id": 24478,
+    "title": "Beethoven 4",
+    "release_date": "2001-12-04",
+    "vote_average": 5.274,
+    "poster_path": "/dvw8mJlEjxvBggoiAbiPkXfvbFO.jpg",
+    "genre_ids": [
+      10751,
+      35
+    ],
+    "cached_at": "2026-02-01T06:48:57.719327"
+  },
+  "10375": {
+    "id": 10375,
+    "title": "Clinica",
+    "release_date": "2002-01-04",
+    "vote_average": 5.586,
+    "poster_path": "/AdLg3zOxCcyWQYKSK86q20dibq.jpg",
+    "genre_ids": [
+      53,
+      80,
+      27
+    ],
+    "cached_at": "2026-02-01T06:48:57.732182"
+  },
+  "1613": {
+    "id": 1613,
+    "title": "The 51st State",
+    "release_date": "2001-12-07",
+    "vote_average": 6.081,
+    "poster_path": "/aYlrGirWrRCTU1PF6Svghn1EMAc.jpg",
+    "genre_ids": [
+      53,
+      28,
+      35,
+      80
+    ],
+    "cached_at": "2026-02-01T06:48:57.752819"
+  },
+  "9583": {
+    "id": 9583,
+    "title": "Divine Secrets of the Ya-Ya Sisterhood",
+    "release_date": "2002-06-07",
+    "vote_average": 6.103,
+    "poster_path": "/hI05FJ8wgPROHQgLtfJ4ZuH3l4b.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-02-01T06:48:57.780580"
+  },
+  "9544": {
+    "id": 9544,
+    "title": "FricaPunctCom",
+    "release_date": "2002-08-09",
+    "vote_average": 3.794,
+    "poster_path": "/phcd5AJvA1S45JMKYoNLhTzFwsE.jpg",
+    "genre_ids": [
+      27,
+      53,
+      80
+    ],
+    "cached_at": "2026-02-01T06:48:57.802701"
+  },
+  "47237": {
+    "id": 47237,
+    "title": "Intimate Affairs",
+    "release_date": "2002-04-18",
+    "vote_average": 4.6,
+    "poster_path": "/mfIVhldZHW7xkXR6rnTaFJkiV3l.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "cached_at": "2026-02-01T06:48:57.814151"
+  },
+  "10894": {
+    "id": 10894,
+    "title": "May",
+    "release_date": "2003-04-11",
+    "vote_average": 6.58,
+    "poster_path": "/oFXhJYTax1cnNtgvLdKlXuYiWPV.jpg",
+    "genre_ids": [
+      18,
+      27,
+      35
+    ],
+    "cached_at": "2026-02-01T06:48:57.852698"
+  },
+  "14369": {
+    "id": 14369,
+    "title": "Out Cold",
+    "release_date": "2001-11-21",
+    "vote_average": 5.861,
+    "poster_path": "/2aBepBnMXRs3hmde9Je3rn5bseJ.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-02-01T06:48:57.869163"
+  },
+  "14112": {
+    "id": 14112,
+    "title": "Focalizare automată",
+    "release_date": "2002-10-18",
+    "vote_average": 6.371,
+    "poster_path": "/rgXN6YTZ0qvgVyZhojEtUwJDH0B.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "cached_at": "2026-02-01T06:48:57.885195"
+  },
+  "9685": {
+    "id": 9685,
+    "title": "Igby Goes Down",
+    "release_date": "2002-09-13",
+    "vote_average": 6.57,
+    "poster_path": "/f53JBgzYESamcYT3LkUeeoSXPgi.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-02-01T06:48:57.932146"
+  },
+  "1956": {
+    "id": 1956,
+    "title": "Gerry",
+    "release_date": "2002-09-20",
+    "vote_average": 6.074,
+    "poster_path": "/jzuPVECdfWuHoBIqQEFajbSwwpa.jpg",
+    "genre_ids": [
+      18,
+      12,
+      9648
+    ],
+    "cached_at": "2026-02-01T06:48:57.943793"
+  },
+  "11857": {
+    "id": 11857,
+    "title": "Județul portocalelor",
+    "release_date": "2002-01-11",
+    "vote_average": 5.989,
+    "poster_path": "/lmLcncTWV78v91tKBmI5ytjKvOc.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-02-01T06:48:57.955597"
+  },
+  "86792": {
+    "id": 86792,
+    "title": "Dead Awake",
+    "release_date": "2001-11-06",
+    "vote_average": 4.026,
+    "poster_path": "/3Io1e5woE6NWXstob0BADAcygSx.jpg",
+    "genre_ids": [
+      53,
+      10749
+    ],
+    "cached_at": "2026-02-01T06:48:58.075427"
+  },
+  "30301": {
+    "id": 30301,
+    "title": "Senso '45",
+    "release_date": "2002-04-12",
+    "vote_average": 5.284,
+    "poster_path": "/nIarbeqivH4XK9oNBZ1h81Hx3RA.jpg",
+    "genre_ids": [
+      18,
+      10749,
+      53
+    ],
+    "cached_at": "2026-02-01T06:48:58.106872"
+  },
+  "12079": {
+    "id": 12079,
+    "title": "Spun",
+    "release_date": "2003-02-07",
+    "vote_average": 6.576,
+    "poster_path": "/jiwNobUsd29ooowQyTeh0cvPBFL.jpg",
+    "genre_ids": [
+      80,
+      18,
+      35
+    ],
+    "cached_at": "2026-02-01T06:48:58.144223"
+  },
+  "9034": {
+    "id": 9034,
+    "title": "The Banger Sisters",
+    "release_date": "2002-09-20",
+    "vote_average": 5.614,
+    "poster_path": "/bfXXqz4yvsHnQwwOSa23ASUaGXA.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-02-01T06:48:58.178566"
+  },
+  "14635": {
+    "id": 14635,
+    "title": "Debutantul",
+    "release_date": "2002-03-25",
+    "vote_average": 6.814,
+    "poster_path": "/zHcnXlJJlS90jajXyg0MWOQpKhx.jpg",
+    "genre_ids": [
+      18,
+      10751
+    ],
+    "cached_at": "2026-02-01T06:48:58.243573"
+  },
+  "45303": {
+    "id": 45303,
+    "title": "暗戰 2",
+    "release_date": "2001-12-27",
+    "vote_average": 6.0,
+    "poster_path": "/66IpIhBg87z8bzNyxOWKHplbNCg.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "cached_at": "2026-02-01T06:48:58.394962"
+  },
+  "36222": {
+    "id": 36222,
+    "title": "DEAD OR ALIVE FINAL",
+    "release_date": "2002-01-12",
+    "vote_average": 5.6,
+    "poster_path": "/pKQYwkJweRdFRMAso5AgTA3iZxE.jpg",
+    "genre_ids": [
+      28,
+      35,
+      878,
+      80
+    ],
+    "cached_at": "2026-02-01T06:48:58.454447"
+  },
+  "1448170": {
+    "id": 1448170,
+    "title": "ఛాంపియన్",
+    "release_date": "2025-12-25",
+    "vote_average": 6.0,
+    "poster_path": "/mC8s4ZUt1bTAL3OAlZGSSEs3Ieo.jpg",
+    "genre_ids": [
+      36,
+      18
+    ],
+    "cached_at": "2026-02-01T06:48:58.529311"
+  },
+  "10133": {
+    "id": 10133,
+    "title": "Cifru",
+    "release_date": "2002-10-01",
+    "vote_average": 6.627,
+    "poster_path": "/7wYwmDuCbdKF7sAcLj7eqrNaiam.jpg",
+    "genre_ids": [
+      53,
+      878
+    ],
+    "cached_at": "2026-02-01T06:48:58.598176"
+  },
+  "37270": {
+    "id": 37270,
+    "title": "A treia roată",
+    "release_date": "2002-05-31",
+    "vote_average": 5.224,
+    "poster_path": "/tP2wOztb1FW3JlyHMDzlyeZRjBS.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2026-02-01T06:48:58.677829"
+  },
+  "9275": {
+    "id": 9275,
+    "title": "Death to Smoochy",
+    "release_date": "2002-03-29",
+    "vote_average": 5.904,
+    "poster_path": "/wrwwuNLITsA5N5cVnA3ftvHFqHj.jpg",
+    "genre_ids": [
+      35,
+      80,
+      18,
+      53
+    ],
+    "cached_at": "2026-02-01T06:48:58.741455"
+  },
+  "56087": {
+    "id": 56087,
+    "title": "Văcar sus",
+    "release_date": "2002-09-03",
+    "vote_average": 5.929,
+    "poster_path": "/aw2yvnfqwTumWzvFO78hWUhDcwE.jpg",
+    "genre_ids": [
+      28,
+      18,
+      10749,
+      37
+    ],
+    "cached_at": "2026-02-01T06:48:58.819634"
+  },
+  "8665": {
+    "id": 8665,
+    "title": "K-19: Submarinul ucigaş",
+    "release_date": "2002-07-19",
+    "vote_average": 6.539,
+    "poster_path": "/6wRZnmbaD1v6SPemjuI6jzrPLZl.jpg",
+    "genre_ids": [
+      18,
+      36,
+      53,
+      9648,
+      10752
+    ],
+    "cached_at": "2026-02-01T06:48:58.893970"
+  },
+  "2095": {
+    "id": 2095,
+    "title": "Desert Saints",
+    "release_date": "2002-03-10",
+    "vote_average": 5.664,
+    "poster_path": "/2as5ytuOjrT01xr4wmqJBhfUNlV.jpg",
+    "genre_ids": [
+      28,
+      10749,
+      53
+    ],
+    "cached_at": "2026-02-01T06:48:58.955954"
   }
 }

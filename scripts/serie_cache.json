@@ -168769,5 +168769,567 @@
       18
     ],
     "cached_at": "2026-01-31T06:38:54.085300"
+  },
+  "15706": {
+    "id": 15706,
+    "name": "Weirdsister College",
+    "original_name": "Weirdsister College",
+    "first_air_date": "2001-11-05",
+    "vote_average": 7.0,
+    "poster_path": "/6ng9zqqP8xWvXVoVL9LKJ9BJV0z.jpg",
+    "genre_ids": [
+      18,
+      10759,
+      10765
+    ],
+    "cached_at": "2026-02-01T06:49:07.870021"
+  },
+  "16880": {
+    "id": 16880,
+    "name": "Mark Twain",
+    "original_name": "Mark Twain",
+    "first_air_date": "2002-01-14",
+    "vote_average": 0.0,
+    "poster_path": "/4MVX7xbulAot48VDv53HRJpnAvS.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-02-01T06:49:07.870038"
+  },
+  "184": {
+    "id": 184,
+    "name": "Jeremiah",
+    "original_name": "Jeremiah",
+    "first_air_date": "2002-03-03",
+    "vote_average": 7.0,
+    "poster_path": "/yBaq79cbv8Lmhaa7ej3z6GOp9zK.jpg",
+    "genre_ids": [
+      18,
+      10759,
+      10765
+    ],
+    "cached_at": "2026-02-01T06:49:07.881337"
+  },
+  "40891": {
+    "id": 40891,
+    "name": "Um Himmels Willen",
+    "original_name": "Um Himmels Willen",
+    "first_air_date": "2002-01-08",
+    "vote_average": 6.5,
+    "poster_path": null,
+    "genre_ids": [
+      35,
+      10751,
+      18,
+      80,
+      99
+    ],
+    "cached_at": "2026-02-01T06:49:07.911647"
+  },
+  "12539": {
+    "id": 12539,
+    "name": "Winter Sonata",
+    "original_name": "겨울연가",
+    "first_air_date": "2002-01-14",
+    "vote_average": 8.315,
+    "poster_path": "/azS7WUisS4Ay4cPqF8rlJiIo0Sx.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-02-01T06:49:07.929842"
+  },
+  "120559": {
+    "id": 120559,
+    "name": "Flatland",
+    "original_name": "Flatland",
+    "first_air_date": "2002-04-01",
+    "vote_average": 0.0,
+    "poster_path": "/4V112eJCMXF69RxQXh4nLvzuJCp.jpg",
+    "genre_ids": [
+      10765,
+      10759
+    ],
+    "cached_at": "2026-02-01T06:49:07.956575"
+  },
+  "6353": {
+    "id": 6353,
+    "name": "The Story of Tracy Beaker",
+    "original_name": "The Story of Tracy Beaker",
+    "first_air_date": "2002-01-08",
+    "vote_average": 6.5,
+    "poster_path": "/iggQkR7r6hfbaJwheZQIixHx9dK.jpg",
+    "genre_ids": [
+      10762,
+      10751,
+      16
+    ],
+    "cached_at": "2026-02-01T06:49:07.980139"
+  },
+  "499": {
+    "id": 499,
+    "name": "The Osbournes",
+    "original_name": "The Osbournes",
+    "first_air_date": "2002-03-05",
+    "vote_average": 5.9,
+    "poster_path": "/kTqCW7e2YtK8DrSHb9FkYDuuhY9.jpg",
+    "genre_ids": [
+      10764,
+      35
+    ],
+    "cached_at": "2026-02-01T06:49:07.994465"
+  },
+  "41327": {
+    "id": 41327,
+    "name": "Firestarter: Rekindled",
+    "original_name": "Firestarter: Rekindled",
+    "first_air_date": "2002-03-10",
+    "vote_average": 5.1,
+    "poster_path": "/xUXpdGgUhQhDR6vzbhnBOJVpFk1.jpg",
+    "genre_ids": [
+      10765,
+      10759
+    ],
+    "cached_at": "2026-02-01T06:49:08.029858"
+  },
+  "14651": {
+    "id": 14651,
+    "name": "The Tick",
+    "original_name": "The Tick",
+    "first_air_date": "2001-11-08",
+    "vote_average": 7.23,
+    "poster_path": "/oy2Wr3XtH0UybnnQPjJUjU5Jsyf.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-02-01T06:49:08.050212"
+  },
+  "13735": {
+    "id": 13735,
+    "name": "Rescue Me",
+    "original_name": "Rescue Me",
+    "first_air_date": "2002-03-03",
+    "vote_average": 0.0,
+    "poster_path": "/g4vGoIvX26nKtyU32SY9tyZP74v.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2026-02-01T06:49:08.079557"
+  },
+  "846": {
+    "id": 846,
+    "name": "Greg the Bunny",
+    "original_name": "Greg the Bunny",
+    "first_air_date": "2002-03-27",
+    "vote_average": 6.0,
+    "poster_path": "/okpBzQwxgN8MezZXYlyMIt4M9WD.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-02-01T06:49:08.102384"
+  },
+  "355": {
+    "id": 355,
+    "name": "The Bachelor",
+    "original_name": "The Bachelor",
+    "first_air_date": "2002-03-25",
+    "vote_average": 5.1,
+    "poster_path": "/6JQpAiVuQYgDoB9Ce3qoO3hMtFF.jpg",
+    "genre_ids": [
+      10764
+    ],
+    "cached_at": "2026-02-01T06:49:08.120424"
+  },
+  "28624": {
+    "id": 28624,
+    "name": "Angelina Ballerina",
+    "original_name": "Angelina Ballerina",
+    "first_air_date": "2001-05-04",
+    "vote_average": 7.25,
+    "poster_path": "/n2kJrN9ZEHjZom2SKqPVL1uL2Pc.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      10762,
+      10759
+    ],
+    "cached_at": "2026-02-01T06:49:08.138245"
+  },
+  "436": {
+    "id": 436,
+    "name": "Still Game",
+    "original_name": "Still Game",
+    "first_air_date": "2002-09-06",
+    "vote_average": 8.3,
+    "poster_path": "/b5O5zTFlaiwXb8FrqqTA0sihJPO.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-02-01T06:49:08.173515"
+  },
+  "1460": {
+    "id": 1460,
+    "name": "Andy Richter Controls the Universe",
+    "original_name": "Andy Richter Controls the Universe",
+    "first_air_date": "2002-03-19",
+    "vote_average": 7.167,
+    "poster_path": "/8z1dMYyN40EKemSxxXfVWhZAy1b.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-02-01T06:49:08.194908"
+  },
+  "4241": {
+    "id": 4241,
+    "name": "8 reguli simple",
+    "original_name": "8 Simple Rules",
+    "first_air_date": "2002-09-17",
+    "vote_average": 6.8,
+    "poster_path": "/81bJijYZedZ4TSm34rYmW9gEDvN.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2026-02-01T06:49:08.220308"
+  },
+  "347": {
+    "id": 347,
+    "name": "Ultimate Force",
+    "original_name": "Ultimate Force",
+    "first_air_date": "2002-09-16",
+    "vote_average": 6.6,
+    "poster_path": "/616qGkxSeZBAX5t1fIO7h6WY2Ec.jpg",
+    "genre_ids": [
+      10759,
+      18,
+      10768
+    ],
+    "cached_at": "2026-02-01T06:49:08.234282"
+  },
+  "299201": {
+    "id": 299201,
+    "name": "Australian Survivor",
+    "original_name": "Australian Survivor",
+    "first_air_date": "2002-02-13",
+    "vote_average": 0.0,
+    "poster_path": "/9V6Q26bLVqWuQ5v0OVNmIn6itSX.jpg",
+    "genre_ids": [
+      10764
+    ],
+    "cached_at": "2026-02-01T06:49:08.264149"
+  },
+  "2097": {
+    "id": 2097,
+    "name": "Crank Yankers",
+    "original_name": "Crank Yankers",
+    "first_air_date": "2002-06-02",
+    "vote_average": 6.3,
+    "poster_path": "/tkYBiyme6bbQdx3rGaIhrfOXn8c.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-02-01T06:49:08.290430"
+  },
+  "16399": {
+    "id": 16399,
+    "name": "Zona crepusculară",
+    "original_name": "The Twilight Zone",
+    "first_air_date": "2002-09-18",
+    "vote_average": 7.181,
+    "poster_path": "/sS1ykUhvyurff4CohExIh8qYO99.jpg",
+    "genre_ids": [
+      10765,
+      9648,
+      18
+    ],
+    "cached_at": "2026-02-01T06:49:08.303369"
+  },
+  "3308": {
+    "id": 3308,
+    "name": "George Lopez",
+    "original_name": "George Lopez",
+    "first_air_date": "2002-03-27",
+    "vote_average": 7.6,
+    "poster_path": "/jV28WAGIqAKf4uoRK4IqJz4KMY0.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-02-01T06:49:08.335606"
+  },
+  "3626": {
+    "id": 3626,
+    "name": "Idol american",
+    "original_name": "American Idol",
+    "first_air_date": "2002-06-11",
+    "vote_average": 5.1,
+    "poster_path": "/xmZexciNAuKYxZcwM0VVqigOIPs.jpg",
+    "genre_ids": [
+      10764
+    ],
+    "cached_at": "2026-02-01T06:49:08.351093"
+  },
+  "33": {
+    "id": 33,
+    "name": "Ce îmi place la tine",
+    "original_name": "What I Like About You",
+    "first_air_date": "2002-09-20",
+    "vote_average": 6.4,
+    "poster_path": "/zSBXCHUwMR3uCCeheTCeb6lzpEI.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-02-01T06:49:08.376084"
+  },
+  "1167": {
+    "id": 1167,
+    "name": "The Inspector Lynley Mysteries",
+    "original_name": "The Inspector Lynley Mysteries",
+    "first_air_date": "2002-04-08",
+    "vote_average": 7.225,
+    "poster_path": "/d68bISjO6e6cOtgeygJO471FUIh.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "cached_at": "2026-02-01T06:49:08.417677"
+  },
+  "12502": {
+    "id": 12502,
+    "name": "Oobi",
+    "original_name": "Oobi",
+    "first_air_date": "2000-07-24",
+    "vote_average": 6.8,
+    "poster_path": "/4oxnunT1lv62abqsbwOihK3Afv7.jpg",
+    "genre_ids": [
+      10751,
+      10762
+    ],
+    "cached_at": "2026-02-01T06:49:08.421641"
+  },
+  "2593": {
+    "id": 2593,
+    "name": "Dispăruți fără urmă",
+    "original_name": "Without a Trace",
+    "first_air_date": "2002-09-26",
+    "vote_average": 7.236,
+    "poster_path": "/dcqALJIjKeBhtSOcQqqQM7ZhRFu.jpg",
+    "genre_ids": [
+      80,
+      9648,
+      10759,
+      18
+    ],
+    "cached_at": "2026-02-01T06:49:08.446336"
+  },
+  "1592": {
+    "id": 1592,
+    "name": "Viteza a cincea",
+    "original_name": "Fifth Gear",
+    "first_air_date": "2002-04-08",
+    "vote_average": 5.45,
+    "poster_path": "/yAxMzWGCuQI1adyPOGNefZHLOIy.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-02-01T06:49:08.487973"
+  },
+  "2129": {
+    "id": 2129,
+    "name": "Aventurile lui Jimmy Neutron: Băiețelul geniu",
+    "original_name": "The Adventures of Jimmy Neutron: Boy Genius",
+    "first_air_date": "2002-07-20",
+    "vote_average": 7.418,
+    "poster_path": "/cwmZY5PCWawjE2QZPdBaPBSnoqO.jpg",
+    "genre_ids": [
+      16,
+      10759,
+      35,
+      10765,
+      10762
+    ],
+    "cached_at": "2026-02-01T06:49:08.492981"
+  },
+  "707": {
+    "id": 707,
+    "name": "Boomtown",
+    "original_name": "Boomtown",
+    "first_air_date": "2002-09-29",
+    "vote_average": 6.167,
+    "poster_path": "/dUrryaypDvHSUYRElzFqMKVl4qT.jpg",
+    "genre_ids": [
+      9648,
+      18,
+      10759
+    ],
+    "cached_at": "2026-02-01T06:49:08.527067"
+  },
+  "11982": {
+    "id": 11982,
+    "name": "Max and Ruby",
+    "original_name": "Max and Ruby",
+    "first_air_date": "2002-05-03",
+    "vote_average": 6.524,
+    "poster_path": "/bIiWnjewlhINR1bv1sRfBiIEn9a.jpg",
+    "genre_ids": [
+      10762,
+      16,
+      35
+    ],
+    "cached_at": "2026-02-01T06:49:08.551386"
+  },
+  "670": {
+    "id": 670,
+    "name": "Baby Looney Tunes",
+    "original_name": "Baby Looney Tunes",
+    "first_air_date": "2002-09-07",
+    "vote_average": 7.1,
+    "poster_path": "/l7SLxIuRdyrpIVWSEDBdtxCOSCI.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10762
+    ],
+    "cached_at": "2026-02-01T06:49:08.565645"
+  },
+  "2701": {
+    "id": 2701,
+    "name": "Napoléon",
+    "original_name": "Napoléon",
+    "first_air_date": "2002-10-07",
+    "vote_average": 6.804,
+    "poster_path": "/wLgl5Q85MJ75sau35OCK4QVomR7.jpg",
+    "genre_ids": [
+      18,
+      10768,
+      10759
+    ],
+    "cached_at": "2026-02-01T06:49:08.590464"
+  },
+  "1475": {
+    "id": 1475,
+    "name": "Zona moartă",
+    "original_name": "The Dead Zone",
+    "first_air_date": "2002-06-16",
+    "vote_average": 7.3,
+    "poster_path": "/j9l4svOscUWoVqGoATtGEDfTms.jpg",
+    "genre_ids": [
+      18,
+      10765
+    ],
+    "cached_at": "2026-02-01T06:49:08.632105"
+  },
+  "26075": {
+    "id": 26075,
+    "name": "White Teeth",
+    "original_name": "White Teeth",
+    "first_air_date": "2002-09-17",
+    "vote_average": 7.0,
+    "poster_path": "/7tjtSzZBjvFsskgmT9fppPVUv3J.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "cached_at": "2026-02-01T06:49:08.650031"
+  },
+  "1469": {
+    "id": 1469,
+    "name": "Păsări de pradă",
+    "original_name": "Birds of Prey",
+    "first_air_date": "2002-10-09",
+    "vote_average": 6.136,
+    "poster_path": "/gXeFSST0xqy5XNgrbuEaa5BxvDM.jpg",
+    "genre_ids": [
+      18,
+      10759,
+      10765
+    ],
+    "cached_at": "2026-02-01T06:49:08.674669"
+  },
+  "174": {
+    "id": 174,
+    "name": "Monster Garage",
+    "original_name": "Monster Garage",
+    "first_air_date": "2002-06-23",
+    "vote_average": 5.9,
+    "poster_path": "/jiVq7N0khQdCZdnp9AjcPwxCKkb.jpg",
+    "genre_ids": [
+      10764
+    ],
+    "cached_at": "2026-02-01T06:49:08.692404"
+  },
+  "689": {
+    "id": 689,
+    "name": "Misteriosul John Doe",
+    "original_name": "John Doe",
+    "first_air_date": "2002-09-20",
+    "vote_average": 7.242,
+    "poster_path": "/ngMl9h0wJ1mEgBSOhJuZo46KBZm.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      10765
+    ],
+    "cached_at": "2026-02-01T06:49:08.717038"
+  },
+  "3400": {
+    "id": 3400,
+    "name": "Vise americane",
+    "original_name": "American Dreams",
+    "first_air_date": "2002-09-29",
+    "vote_average": 5.1,
+    "poster_path": "/pr3WcVn1i7mKwae84MCOW0vpLYc.jpg",
+    "genre_ids": [
+      18,
+      10751
+    ],
+    "cached_at": "2026-02-01T06:49:08.765655"
+  },
+  "619": {
+    "id": 619,
+    "name": "Half & Half",
+    "original_name": "Half & Half",
+    "first_air_date": "2002-09-23",
+    "vote_average": 8.217,
+    "poster_path": "/8TVku3ieyStr4mJihUZal2gay9I.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-02-01T06:49:08.780188"
+  },
+  "23545": {
+    "id": 23545,
+    "name": "Ask This Old House",
+    "original_name": "Ask This Old House",
+    "first_air_date": "2002-10-10",
+    "vote_average": 4.737,
+    "poster_path": "/1mHmTrdqGlFsvFultYrxvAIwl5z.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2026-02-01T06:49:08.841012"
+  },
+  "14287": {
+    "id": 14287,
+    "name": "Rose and Maloney",
+    "original_name": "Rose and Maloney",
+    "first_air_date": "2002-09-29",
+    "vote_average": 6.2,
+    "poster_path": "/ft95XsOwz8ksmNLTzcGowG6jFMP.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "cached_at": "2026-02-01T06:49:08.868900"
+  },
+  "402": {
+    "id": 402,
+    "name": "Still Standing",
+    "original_name": "Still Standing",
+    "first_air_date": "2002-09-30",
+    "vote_average": 6.762,
+    "poster_path": "/iMZNlCtkdJx9q0Z04thVwSQ6Y9t.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2026-02-01T06:49:08.921731"
   }
 }
